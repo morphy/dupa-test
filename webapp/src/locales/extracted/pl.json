@@ -1,0 +1,3605 @@
+{
+  "#let's talk": {
+    "defaultMessage": "#porozmawiajmy"
+  },
+  "1 session": {
+    "defaultMessage": "1 Spotkanie"
+  },
+  "1000 more": {
+    "defaultMessage": "1000 i więcej"
+  },
+  "4 sessions": {
+    "defaultMessage": "4 Spotkania"
+  },
+  "8 sessions": {
+    "defaultMessage": "8 Spotkań"
+  },
+  "Admin panel title": {
+    "defaultMessage": "Panel Administracyjny wellbee"
+  },
+  "Admins": {
+    "defaultMessage": "Administratorzy"
+  },
+  "All spots booked offline": {
+    "defaultMessage": "Wszystkie terminy w gabinecie zarezerwowane"
+  },
+  "All spots booked online": {
+    "defaultMessage": "Wszystkie terminy zarezerwowane"
+  },
+  "Available hours": {
+    "defaultMessage": "Dostępne godziny"
+  },
+  "B2B all stats": {
+    "defaultMessage": "B2B wszystko"
+  },
+  "B2B balance stats": {
+    "defaultMessage": "B2B rozliczenia"
+  },
+  "B2B clients list": {
+    "defaultMessage": "Lista klientów B2B"
+  },
+  "Back": {
+    "defaultMessage": "Wstecz"
+  },
+  "Back to therapist list": {
+    "defaultMessage": "Wróć do listy terapeutów"
+  },
+  "Book visit": {
+    "defaultMessage": "Dalej"
+  },
+  "Certificates": {
+    "defaultMessage": "Certyfikaty"
+  },
+  "Choose another day": {
+    "defaultMessage": "Wybierz inny dzień"
+  },
+  "Come back": {
+    "defaultMessage": "Wróć"
+  },
+  "Connect with calendar": {
+    "defaultMessage": "Połącz z kalendarzem"
+  },
+  "Connected with calendar": {
+    "defaultMessage": "Kalendarz podłączony"
+  },
+  "Dashboard": {
+    "defaultMessage": "Dashboard"
+  },
+  "Events": {
+    "defaultMessage": "Spotkania"
+  },
+  "Friday": {
+    "defaultMessage": "Piątek"
+  },
+  "Fridays": {
+    "defaultMessage": "Piątki"
+  },
+  "Hi!": {
+    "defaultMessage": "Cześć!"
+  },
+  "I'm": {
+    "defaultMessage": "Jestem"
+  },
+  "Log out": {
+    "defaultMessage": "Wyloguj się"
+  },
+  "Mandatory": {
+    "defaultMessage": "Obowiązkowe"
+  },
+  "Monday": {
+    "defaultMessage": "Poniedziałek"
+  },
+  "Mondays": {
+    "defaultMessage": "Poniedziałki"
+  },
+  "More availability": {
+    "defaultMessage": "więcej terminów"
+  },
+  "Next available spot": {
+    "defaultMessage": "najbliższy termin:"
+  },
+  "PVH2we": {
+    "defaultMessage": "DOŁĄCZ DO NAS",
+    "description": "jestem_terapeuta join us"
+  },
+  "Patient Doubled": {
+    "defaultMessage": "Duble pacjenta"
+  },
+  "Patients": {
+    "defaultMessage": "Pacjenci"
+  },
+  "Payout": {
+    "defaultMessage": "Wypłać"
+  },
+  "Profil": {
+    "defaultMessage": "Profil"
+  },
+  "Sandra Pasek quote": {
+    "defaultMessage": "W oparciu o badania naukowe mogę powiedzieć, że bez zdrowia psychicznego nie ma zdrowia fizycznego. Zdrowie psychiczne jest niezbędne, aby człowiek mógł dobrze funkcjonować w obszarze zawodowym i prywatnym. Kiedy firmy inwestują w zdrowie psychiczne pracowników otrzymują zwrot z tej inwestycji, ponieważ dobrostan psychiczny sprzyja kreatywności, elastyczności, zaangażowaniu, pozytywnemu nastawieniu do pracy."
+  },
+  "Saturday": {
+    "defaultMessage": "Sobota"
+  },
+  "Saturdays": {
+    "defaultMessage": "Soboty"
+  },
+  "Save": {
+    "defaultMessage": "Zapisz"
+  },
+  "Schedule": {
+    "defaultMessage": "Harmonogram"
+  },
+  "Select a date": {
+    "defaultMessage": "Wybierz datę"
+  },
+  "Sessions": {
+    "defaultMessage": "Sesje"
+  },
+  "Settings": {
+    "defaultMessage": "Ustawienia"
+  },
+  "Sex": {
+    "defaultMessage": "Płeć"
+  },
+  "Specialties": {
+    "defaultMessage": "Specjalizacje"
+  },
+  "Step": {
+    "defaultMessage": "krok"
+  },
+  "Submit": {
+    "defaultMessage": "Wyślij"
+  },
+  "Sunday": {
+    "defaultMessage": "Niedziela"
+  },
+  "Sundays": {
+    "defaultMessage": "Niedziele"
+  },
+  "Therapist stats": {
+    "defaultMessage": "Utylizacja"
+  },
+  "Therapists": {
+    "defaultMessage": "Terapeuci"
+  },
+  "Therapists Wallets": {
+    "defaultMessage": "Portfele Terapeutów"
+  },
+  "TherapyGuides": {
+    "defaultMessage": "Opiekunowie"
+  },
+  "Thursday": {
+    "defaultMessage": "Czwartek"
+  },
+  "Thursdays": {
+    "defaultMessage": "Czwartki"
+  },
+  "Time Doubled Events": {
+    "defaultMessage": "Duble godziny"
+  },
+  "Today": {
+    "defaultMessage": "Dziś"
+  },
+  "Transactions": {
+    "defaultMessage": "Transakcje"
+  },
+  "Tuesday": {
+    "defaultMessage": "Wtorek"
+  },
+  "Tuesdays": {
+    "defaultMessage": "Wtorki"
+  },
+  "Wallet": {
+    "defaultMessage": "Portfel"
+  },
+  "Wednesday": {
+    "defaultMessage": "Środa"
+  },
+  "Wednesdays": {
+    "defaultMessage": "Srody"
+  },
+  "Yieldbird psychological help": {
+    "defaultMessage": "<span>Wsparcie</span> psychologiczne dla pracowników Yieldbird"
+  },
+  "YqV7hx": {
+    "defaultMessage": "ZALOGUJ SIĘ",
+    "description": "jestem_terapeuta login"
+  },
+  "Z9EKCT": {
+    "defaultMessage": "Zapraszamy do współpracy ambitnych psychoterapeutów. Skontaktuj się z nami i poznaj szczegóły.",
+    "description": "jestem_terapeuta first text"
+  },
+  "about me": {
+    "defaultMessage": "O mnie"
+  },
+  "account email": {
+    "defaultMessage": "E-mail konta"
+  },
+  "account password": {
+    "defaultMessage": "Hasło konta"
+  },
+  "acquaintance": {
+    "defaultMessage": "Znajomy"
+  },
+  "active filters": {
+    "defaultMessage": "Aktywne filtry"
+  },
+  "add": {
+    "defaultMessage": "Dodaj"
+  },
+  "add certificate": {
+    "defaultMessage": "Dodaj Certyfikat"
+  },
+  "add range": {
+    "defaultMessage": "Dodaj przedział"
+  },
+  "add session": {
+    "defaultMessage": "Dodaj Sesje"
+  },
+  "add variant": {
+    "defaultMessage": "Dodaj wariant"
+  },
+  "additional patient data": {
+    "defaultMessage": "Dodatkowe dane Pacjenta"
+  },
+  "additional patient data below": {
+    "defaultMessage": "Poniżej znajdują się dodatkowe informacje dotyczące pacjenta."
+  },
+  "additional sorting points": {
+    "defaultMessage": "Dodatkowe punkty sortowania"
+  },
+  "adjusted to needs": {
+    "defaultMessage": "Dopasowanie do potrzeb"
+  },
+  "adjusted to needs info": {
+    "defaultMessage": "Pracownicy często mówią, że zapewnienie usług wsparcia psychicznego było jednym z lepszych pomysłów wdrożonych przez ich firmę"
+  },
+  "admin panel description": {
+    "defaultMessage": "Panel admina serwisu Wellbee"
+  },
+  "admin panel title": {
+    "defaultMessage": "Panel admina - Wellbee"
+  },
+  "admin panel welcome": {
+    "defaultMessage": "Witamy w panelu administracyjnym wellbee."
+  },
+  "admin-panel-cancel-event-no-refund-voucher-are-you-sure": {
+    "defaultMessage": "Czy na pewno anulować sesję bez tworzenia vouchera na kwotę wizyty?"
+  },
+  "admin-panel-cancel-session-no-refund-voucher": {
+    "defaultMessage": "Anuluj bez tworzenia vouchera"
+  },
+  "admin-panel-hide-solved-older-than-3-days": {
+    "defaultMessage": "Ukryj rozwiązane starsze niż 3 dni"
+  },
+  "admin-panel-show-test-hidden": {
+    "defaultMessage": "Pokaż testowych/ukrytych"
+  },
+  "admin-panel.link-and-delete": {
+    "defaultMessage": "Powiąż z innym pacjentem i usuń"
+  },
+  "admin-panel.patient-create": {
+    "defaultMessage": "Tworzenie Pacjenta"
+  },
+  "admin-panel.patient-deleted": {
+    "defaultMessage": "Usunięto pacjenta"
+  },
+  "admin-panel.patient-edit": {
+    "defaultMessage": "Edycja Pacjenta"
+  },
+  "aggree with therms": {
+    "defaultMessage": "Zgadzam się z regulaminem Wellbee.pl"
+  },
+  "aggrement to health data processing": {
+    "defaultMessage": "Zgadzam się na przetwarzanie danych wrażliwych (m.in. zdrowia) w celu usprawnienia procesu bezpłatnej konsultacji, dobrania terapeuty, a także realizacji umowy zgodnie z <a>regulaminem</a>."
+  },
+  "agreement to contact data processing 1": {
+    "defaultMessage": "Wysyłając prośbę o kontakt, zgadzam się na przetwarzanie danych osobowych przez Wellbee zgodnie z <a>regulaminem</a>, w celu analizy zgłoszenia oraz zaprezentowania oferty Wellbee."
+  },
+  "all": {
+    "defaultMessage": "Wszystkie"
+  },
+  "all years": {
+    "defaultMessage": "Wszystkie lata"
+  },
+  "already paid for": {
+    "defaultMessage": "Wypłacono"
+  },
+  "anonimity": {
+    "defaultMessage": "Bezpiecznie i anonimowo"
+  },
+  "anonimity info": {
+    "defaultMessage": "Dajesz swoim pracownikom przestrzeń, w której otrzymają wsparcie - bezpiecznie i bez wiedzy pracodawcy"
+  },
+  "any therapy guide": {
+    "defaultMessage": "Dowolny opiekun"
+  },
+  "appoint event with therapist": {
+    "defaultMessage": "Umów spotkanie z Terapeutą"
+  },
+  "appoint event with therapist explanation": {
+    "defaultMessage": "Po umówieniu spotkania z Terapeutą, pacjent dostanie maila z linkiem do płatności, po wykonaniu której dostanie kolejnego maila zapraszającego go do spotkania."
+  },
+  "appointment title": {
+    "defaultMessage": "Sesja psychoterapii z: {therapistName} {therapistSurname}"
+  },
+  "appointment.back-to-calendar": {
+    "defaultMessage": "Wróć do kalendarza"
+  },
+  "appointment.we-have-a-problem": {
+    "defaultMessage": "Mamy problem"
+  },
+  "are you sure you want to delete?": {
+    "defaultMessage": "Czy na pewno chcesz usunąć ten plik?"
+  },
+  "available slots soon": {
+    "defaultMessage": "Available slots soon"
+  },
+  "available slots soon score": {
+    "defaultMessage": "Available slots soon score"
+  },
+  "available slots week": {
+    "defaultMessage": "Available slots week"
+  },
+  "available slots week score": {
+    "defaultMessage": "Available slots week score"
+  },
+  "b2b care": {
+    "defaultMessage": "Dbając o swoich pracowników - dbasz o firmę"
+  },
+  "b2b discount options 10%": {
+    "defaultMessage": "<h2>Afterwards 10% discount on every session</h2> If you use up the first 3 visits and you would like to continue the treatment, we are happy to offer you a 10% discount for every further visit. If the discount wasn’t applied automatically use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+  },
+  "b2b free visits": {
+    "defaultMessage": "<h2>2 bezpłatne wizyty w kwartale</h2>W ramach wideokonsultacji online zapewnionych przez Yieldbird, możesz odbyć 2 bezpłatne konsultacje/wizyty w czasie jednego kwartału, wykorzystując do tego kod firmowy. Jeśli w czasie jednego kwartału nie wykorzystasz wizyt, mogą one być wykorzystane w kolejnym kwartale, wszystkie skumulowane wizyty muszą być wykorzystanie w ciągu 1 roku."
+  },
+  "b2b free visits techland": {
+    "defaultMessage": "<h2>4 bezpłatne wizyty</h2>W ramach konsultacji zapewnionych przez Techland, możesz odbyć 4 bezpłatne konsultacje/wizyty, wykorzystując do tego kod firmowy - <strong>@TECHLAND1!</strong><div>Do wykorzystania do 03.03.2023</div>"
+  },
+  "b2b how it works 1 aviva": {
+    "defaultMessage": "<h3> Anonimowo i bezpiecznie </h3> proces umawiania wizyt odbywa się poprzez platformę Wellbee, a same wizyty odbywają się w sposób w pełni anonimowy. Wszystkie Twoje konsultacje ze specjalistą są w pełni poufne."
+  },
+  "b2b mirumee": {
+    "defaultMessage": "<h2>4 bezpłatne wizyty w miesiącu</h2>W ramach konsultacji online zapewnionych przez Mirumee, możesz odbyć bezpłatne wizyty cztery razy w miesiącu wykorzystując do tego kod firmowy."
+  },
+  "b2b options customfirsttext solwit": {
+    "defaultMessage": "<h2>3 bezpłatne wizyty w roku</h2>Twój pracodawca dysponuje pulą bezpłatnych konsultacji (stacjonarne/online) z kodem: @SOLWIT1! Na start są to 3 darmowe spotkania w ciągu roku na pracownika."
+  },
+  "b2b options customsecondtext solwit": {
+    "defaultMessage": "<h2>40 zł zniżki na kolejne</h2>Po ich wykorzystaniu kod nalicza zniżkę -40 zł na pozostałe spotkania. Korzystanie jest w pełni anonimowe."
+  },
+  "b2b page description": {
+    "defaultMessage": "Psychoterapia online dla firm. Zadbaj o zdrowie psychiczne pracowników. Skorzystaj z oferty abonamentowej B2B #mentalhealth w Wellbee."
+  },
+  "b2b page title": {
+    "defaultMessage": "Psychoterapia online dla firm. Dbaj o zdrowie psychiczne pracowników."
+  },
+  "b2b saleor": {
+    "defaultMessage": "<h2>4 bezpłatne wizyty w miesiącu</h2>W ramach konsultacji online zapewnionych przez Saleor, możesz odbyć bezpłatne wizyty cztery razy w miesiącu wykorzystując do tego kod firmowy."
+  },
+  "b2b why invest": {
+    "defaultMessage": "Dlaczego warto inwestować w zdrowie psychiczne pracowników"
+  },
+  "b2b why invest source": {
+    "defaultMessage": "Źródła: Oracle Mental Health Report; Absencja chorobowa w 2018 roku, ZUS, 2019;"
+  },
+  "b2b why invest stats 1": {
+    "defaultMessage": "pracowników twierdzi, że pandemia negatywnie wpływa na ich zdrowie psychiczne"
+  },
+  "b2b why invest stats 1.5": {
+    "defaultMessage": "pracowników deklaruje pogorszenie jakości życia"
+  },
+  "b2b why invest stats 2": {
+    "defaultMessage": "pracowników oczekuje od swojej firmy wsparcia w zakresie zdrowia psychicznego"
+  },
+  "b2b why invest stats 3": {
+    "defaultMessage": "co roku polskie firmy mogłyby oszczędzić, gdyby zapewniały wsparcie psychiczne swoim pracownikom"
+  },
+  "b2b why invest stats 3 title": {
+    "defaultMessage": "6 mld zł"
+  },
+  "b2b-landings.book-visit": {
+    "defaultMessage": "Umów wizytę"
+  },
+  "b2b-landings.book-visit-wherever": {
+    "defaultMessage": "Umów się na konsultację ze specjalistami Wellbee, wtedy kiedy tego potrzebujesz i gdziekolwiek jesteś - bezpiecznie i wygodnie."
+  },
+  "b2b-landings.consultation-amount-1": {
+    "defaultMessage": "bezpłatna wizyta"
+  },
+  "b2b-landings.consultation-amount-2-4": {
+    "defaultMessage": "bezpłatne wizyty"
+  },
+  "b2b-landings.consultation-amount-5-21": {
+    "defaultMessage": "bezpłatnych wizyt"
+  },
+  "b2b-landings.first-text-custom-ey": {
+    "defaultMessage": "<h2>Pięć zniżek -200 zł w roku</h2> W ramach wideokonsultacji online zapewnionych przez EY, możesz otrzymać 5 zniżek -200 zł w ciągu roku, wykorzystując do tego kod firmowy."
+  },
+  "b2b-landings.first-text-custom-keywordsstudios": {
+    "defaultMessage": "<h2>Trzy zniżki -200 zł w roku</h2> W ramach wideokonsultacji online zapewnionych przez Keywords Studios, możesz otrzymać 3 zniżki -200 zł w ciągu roku, wykorzystując do tego kod firmowy."
+  },
+  "b2b-landings.first-text-custom-sente": {
+    "defaultMessage": "<h2>Jedna zniżka -50% w roku</h2> W ramach wideokonsultacji online zapewnionych przez Sente, możesz otrzymać jednorazową zniżkę -50% w ciągu roku, wykorzystując do tego kod firmowy."
+  },
+  "b2b-landings.first-text-custom-stx": {
+    "defaultMessage": "<h2>16x -50% w roku</h2> W ramach wideokonsultacji online zapewnionych przez STX, możesz otrzymać 16 zniżek -50% w ciągu roku, wykorzystując do tego kod firmowy."
+  },
+  "b2b-landings.how-it-works": {
+    "defaultMessage": "Jak to działa?"
+  },
+  "b2b-landings.how-it-works-1": {
+    "defaultMessage": "<h3>Anonimowo i bezpiecznie</h3>proces umawiania wizyt, a także same wizyty odbywają się poprzez platformę Wellbee i są w pełni anonimowe. Twój pracodawca nie otrzymuje informacji, kto i kiedy korzysta z usług. Wszystkie konsultacje odbywające się między Tobą a danym specjalistą są całkowicie poufne."
+  },
+  "b2b-landings.how-it-works-2": {
+    "defaultMessage": "<h3>Szybko i wygodnie</h3>konsultację możesz odbyć na dowolnym urządzeniu, kiedykolwiek Ci pasuje i gdziekolwiek jesteś. Znajdź przestrzeń, w której czujesz się komfortowo - ważne jest jedynie, abyś miał dobry dostęp do Internetu."
+  },
+  "b2b-landings.how-it-works-3": {
+    "defaultMessage": "<h3>Personalizacja</h3>będziesz mógł sam wybrać sobie specjalistę lub skorzystać z bezpłatnej usługi naszego zespołu Opiekunów, który pomoże dopasować specjalistę do Twoich potrzeb."
+  },
+  "b2b-landings.limited-options-discount": {
+    "defaultMessage": "<h2>{discount} zł zniżki na kolejne</h2> Jeśli wykorzystasz przysługujące Ci bezpłatne wizyty, a chcesz umówić kolejne wizyty (aby np. kontynuować sesje z wybranym specjalistą), otrzymasz od Wellbee zniżkę w wysokości {discount} zł na każdą kolejną wizytę po podaniu kodu firmowego. Ceny konsultacji są zgodne z aktualnym cennikiem przy profilu danego specjalisty."
+  },
+  "b2b-landings.limited-options-free-visits": {
+    "defaultMessage": "<h2>{freeVisits} {consultation} w {period}</h2>W ramach konsultacji online zapewnionych przez {company}, możesz odbyć {freeVisits} {consultation} w {period}, wykorzystując do tego kod firmowy."
+  },
+  "b2b-landings.logo-text-alternative": {
+    "defaultMessage": "W odpowiedzi na obecną sytuację i adresując Wasze potrzeby, {company} zdecydowało się na współpracę z Wellbee - platformą online oferującą dostęp do wykwalifikowanych specjalistów. Kiedy warto skorzystać z ich porady? Wtedy, gdy chcecie zadbać o swój wellbeing, szukacie wsparcia psychologicznego lub psychoterapeuty, pragniecie lepiej zrozumieć siebie oraz chcecie zadbać o satysfakcjonujące relacje z innymi."
+  },
+  "b2b-landings.logo-text-common": {
+    "defaultMessage": "W odpowiedzi na obecną sytuację i adresując Wasze potrzeby, Wasza organizacja zdecydowała się na współpracę z Wellbee - platformą online oferującą dostęp do wykwalifikowanych specjalistów. Kiedy warto skorzystać z ich porady? Wtedy, gdy chcecie zadbać o swój wellbeing, szukacie wsparcia psychologicznego lub psychoterapeuty, pragniecie lepiej zrozumieć siebie oraz chcecie zadbać o satysfakcjonujące relacje z innymi."
+  },
+  "b2b-landings.logo-text-custom-keywordsstudios": {
+    "defaultMessage": "W odpowiedzi na obecną sytuację i adresując Wasze potrzeby, Wasza organizacja zdecydowała się na współpracę z Wellbee - platformą online oferującą dostęp do wykwalifikowanych specjalistów. Kiedy warto skorzystać z ich porady? Wtedy, gdy chcecie zadbać o swój wellbeing, szukacie wsparcia psychologicznego, pragniecie lepiej zrozumieć siebie oraz chcecie zadbać o satysfakcjonujące relacje z innymi."
+  },
+  "b2b-landings.logo-text-custom-savangard": {
+    "defaultMessage": "W odpowiedzi na obecną sytuację i adresując Wasze potrzeby, firma Savangard zdecydowała się na współpracę z Wellbee - platformą online oferującą dostęp do wykwalifikowanych specjalistów. Kiedy warto skorzystać z ich porady? Wtedy, gdy chcecie zadbać o swój wellbeing, szukacie wsparcia psychologicznego lub psychoterapeuty, pragniecie lepiej zrozumieć siebie oraz chcecie zadbać o satysfakcjonujące relacje z innymi."
+  },
+  "b2b-landings.period-month": {
+    "defaultMessage": "miesiącu"
+  },
+  "b2b-landings.period-quarter": {
+    "defaultMessage": "kwartale"
+  },
+  "b2b-landings.period-year": {
+    "defaultMessage": "roku"
+  },
+  "b2b-landings.psychological-help": {
+    "defaultMessage": "<span>Zadbaj</span> o swój wellbeing i zdrowie psychiczne"
+  },
+  "b2b-landings.second-text-custom-sente": {
+    "defaultMessage": "<h2>10 zł zniżki na kolejne</h2> Jeśli wykorzystasz przysługującą Ci zniżkę, a chcesz umówić kolejne wizyty (aby np. kontynuować sesje z wybranym specjalistą), otrzymasz od Wellbee zniżkę w wysokości 10 zł na każdą kolejną wizytę po podaniu kodu firmowego. Ceny konsultacji są zgodne z aktualnym cennikiem przy profilu danego specjalisty."
+  },
+  "b2b-landings.therapist-lead-experienced": {
+    "defaultMessage": "Doświadczeni"
+  },
+  "b2b-landings.therapist-lead-experienced-info": {
+    "defaultMessage": "Posiadają doświadczenie w rozwiązywaniu szeregu problemów"
+  },
+  "b2b-landings.therapist-lead-improvement": {
+    "defaultMessage": "Dbają o ciągły rozwój"
+  },
+  "b2b-landings.therapist-lead-improvement-info": {
+    "defaultMessage": "Wszyscy nasi specjaliści posiadają odpowiednie kwalifikacje, uczestniczą w szkoleniach i są pod stałą superwizją"
+  },
+  "b2b-landings.therapist-lead-text": {
+    "defaultMessage": "Dbamy o to, aby Twoi pracownicy mieli dostęp do wysokiej jakości specjalistów"
+  },
+  "b2b-landings.therapist-lead-title": {
+    "defaultMessage": "Specjaliści Wellbee, którym możesz zaufać"
+  },
+  "b2b-landings.therapist-lead-verified": {
+    "defaultMessage": "Zweryfikowani"
+  },
+  "b2b-landings.therapist-lead-verified-info": {
+    "defaultMessage": "Nasi specjaliści przechodzą kilkuetapowy proces rekrutacji"
+  },
+  "b2b-landings.therapy-steps": {
+    "defaultMessage": "Umów się na wizytę w kilku prostych krokach"
+  },
+  "b2b-landings.therapy-steps-1": {
+    "defaultMessage": "Wybierz specjalistę oraz termin wizyty. Do dokonania rezerwacji możesz użyć dowolnego adresu mailowego."
+  },
+  "b2b-landings.therapy-steps-2": {
+    "defaultMessage": "Jeżeli nie wiesz jakiego terapeutę wybrać, zadzwoń na <a></a> lub umów się z <link>Opiekunem Terapii</link>."
+  },
+  "b2b-landings.therapy-steps-3": {
+    "defaultMessage": "Kiedy poprosimy Cię o płatność użyj kodu firmowego, który został przekazany Ci przez firmę."
+  },
+  "b2b-landings.therapy-steps-4": {
+    "defaultMessage": "Dostaniesz zaproszenie na konsultację za pomocą Google Meet."
+  },
+  "b2b-landings.unlimited-options": {
+    "defaultMessage": "<h2>Nielimitowane bezpłatne wizyty</h2>W ramach konsultacji online zapewnionych przez {company}, możesz odbyć dowolną ilość bezpłatnych wizyt wykorzystując do tego kod firmowy"
+  },
+  "b2b-landings.unlimited-text-custom-savangard": {
+    "defaultMessage": "<h2>Nielimitowana zniżka -179 PLN na wizyty</h2>W ramach konsultacji online zapewnionych przez Savangard, możesz odbyć dowolną ilość wizyt ze zniżką 179 PLN wykorzystując do tego kod firmowy."
+  },
+  "b2b-landings.unlimited-text-custom-tokai": {
+    "defaultMessage": "<h2>Nielimitowana zniżka -179 PLN na wizyty</h2>W ramach konsultacji online zapewnionych przez Tokai COBEX, możesz odbyć dowolną ilość wizyt ze zniżką 179 PLN wykorzystując do tego kod firmowy."
+  },
+  "back to settings": {
+    "defaultMessage": "Wróć do ustawień"
+  },
+  "back to wellbee": {
+    "defaultMessage": "Wróć na wellbee.pl"
+  },
+  "bank account number": {
+    "defaultMessage": "Numer rachunku bankowego"
+  },
+  "benefits": {
+    "defaultMessage": "Pożądany benefit"
+  },
+  "benefits info": {
+    "defaultMessage": "Rozbuduj swój program wellbeing i zaoferuj jeden z najbardziej pożądanych benefitów w obecnych czasach"
+  },
+  "bio en": {
+    "defaultMessage": "Bio (opis) EN"
+  },
+  "bio pl": {
+    "defaultMessage": "Bio (opis) PL"
+  },
+  "bio ru": {
+    "defaultMessage": "Bio (opis) RU"
+  },
+  "bio ua": {
+    "defaultMessage": "Bio (opis) UA"
+  },
+  "bonus": {
+    "defaultMessage": "bonus"
+  },
+  "book a visit": {
+    "defaultMessage": "Umów wizytę"
+  },
+  "book left side text": {
+    "defaultMessage": "<span>Umów się</span> na 50-minutową sesję psychoterapii"
+  },
+  "book session with therapy guide (no break)": {
+    "defaultMessage": "Umów spotkanie z Opiekunem Terapii"
+  },
+  "book therapist guide": {
+    "defaultMessage": "Umów konsultację z opiekunem"
+  },
+  "book therapy guide": {
+    "defaultMessage": "<span>Umów się</span> na bezpłatną rozmowę z Opiekunem Terapii"
+  },
+  "book video call": {
+    "defaultMessage": "umów wideorozmowę"
+  },
+  "book video call to choose therapist": {
+    "defaultMessage": "<span>Umów się</span> na <strong>bezpłatną</strong> wideorozmowę, aby <strong>dopasować terapeutę</strong>"
+  },
+  "book video call with therapy guide": {
+    "defaultMessage": "umów wideorozmowę z opiekunem"
+  },
+  "book visit wherever": {
+    "defaultMessage": "Umów się na wideokonsultację ze specjalistami Wellbee, wtedy kiedy tego potrzebujesz i gdziekolwiek jesteś - bezpiecznie i wygodnie."
+  },
+  "book visit wherever (urw)": {
+    "defaultMessage": "Umów się na konsultację ze specjalistami Wellbee, wtedy kiedy tego potrzebujesz i gdziekolwiek jesteś - bezpiecznie i wygodnie."
+  },
+  "bookedAt": {
+    "defaultMessage": "Utworzono"
+  },
+  "bookings week": {
+    "defaultMessage": "Bookings week"
+  },
+  "bookings week score": {
+    "defaultMessage": "Bookings week score"
+  },
+  "browser recommendation": {
+    "defaultMessage": "Rekomendujemy korzystanie z przeglądarki <b>Chrome. Firefox oraz Safari</b> a nawet <b>Microsof Edge</b> są dobre."
+  },
+  "by availability (sort)": {
+    "defaultMessage": "Najbliższy termin"
+  },
+  "call now": {
+    "defaultMessage": "zadzwoń teraz:"
+  },
+  "call with therapy guide": {
+    "defaultMessage": "Wideorozmowa z opiekunem terapii"
+  },
+  "call with therapy guide (with name)": {
+    "defaultMessage": "Wideorozmowa z: {userName}"
+  },
+  "can i resign": {
+    "defaultMessage": "Czy mogę zrezygnować z terapii w każdej chwili?"
+  },
+  "can't restore": {
+    "defaultMessage": "Nie przywrócisz tej akcji"
+  },
+  "cancel": {
+    "defaultMessage": "Anuluj"
+  },
+  "cancel event are you sure": {
+    "defaultMessage": "Czy na pewno anulować sesję?"
+  },
+  "cancel session": {
+    "defaultMessage": "Anuluj wizytę"
+  },
+  "certificates i want to show": {
+    "defaultMessage": "Certyfikaty, które chcesz pokazać"
+  },
+  "change password": {
+    "defaultMessage": "Zmień hasło"
+  },
+  "change product variant": {
+    "defaultMessage": "Zmień wariant produktu"
+  },
+  "changelog": {
+    "defaultMessage": "Lista zmian"
+  },
+  "check choosen specialist": {
+    "defaultMessage": "Sprawdź wybranego dla Ciebie specjalistę"
+  },
+  "check therapists": {
+    "defaultMessage": "Żaden problem! Sprawdź naszych wszystkich specjalistów i zarezerwuj termin sesji."
+  },
+  "choose best date": {
+    "defaultMessage": "Wybierz dogodny termin i zarezerwuj około 20 minut na rozmowę z Opiekunem Terapii, który zada Ci kilka pytań ułatwiających dopasowanie terapeuty do zgłaszanych trudności."
+  },
+  "choose best date but with Agnieszka": {
+    "defaultMessage": "Opiekun Terapii z naszego zespołu odpowie na Twoje wszystkie pytania i pozwoli wybrać najlepszego specjalistę do Twoich potrzeb."
+  },
+  "choose therapist by yourself": {
+    "defaultMessage": "Chcesz sam wybrać terapeutę?"
+  },
+  "choose video call": {
+    "defaultMessage": "Wybierz video rozmowę"
+  },
+  "city": {
+    "defaultMessage": "Miasto"
+  },
+  "clear": {
+    "defaultMessage": "Wyczyść"
+  },
+  "clear all": {
+    "defaultMessage": "Wyczyść wszystko"
+  },
+  "click this link": {
+    "defaultMessage": "kliknij w ten link."
+  },
+  "closest date": {
+    "defaultMessage": "Najbliższy termin"
+  },
+  "closest date:": {
+    "defaultMessage": "Najbliższy termin:"
+  },
+  "closestSession": {
+    "defaultMessage": "Najbliższa sesja"
+  },
+  "code": {
+    "defaultMessage": "Kod"
+  },
+  "codes": {
+    "defaultMessage": "Kody"
+  },
+  "common.close": {
+    "defaultMessage": "Zamknij"
+  },
+  "common.currency": {
+    "defaultMessage": "zł"
+  },
+  "common.delete": {
+    "defaultMessage": "Usuń"
+  },
+  "common.edit": {
+    "defaultMessage": "Edytuj"
+  },
+  "common.email": {
+    "defaultMessage": "Email"
+  },
+  "common.email-address": {
+    "defaultMessage": "Adres e-mail"
+  },
+  "common.name-and-surname": {
+    "defaultMessage": "Imię i Nazwisko"
+  },
+  "common.phone-number": {
+    "defaultMessage": "Numer telefonu"
+  },
+  "common.server-error": {
+    "defaultMessage": "Błąd serwera"
+  },
+  "companies section header": {
+    "defaultMessage": "Zaufali nam między innymi"
+  },
+  "company name": {
+    "defaultMessage": "Nazwa twojej firmy"
+  },
+  "company stats patients": {
+    "defaultMessage": "osób"
+  },
+  "company stats visits": {
+    "defaultMessage": "wizyt"
+  },
+  "completed sessions": {
+    "defaultMessage": "Odbyte"
+  },
+  "completed sessions tooltip": {
+    "defaultMessage": "Wizyty, które się odbyły zgodnie z planem. Otrzymasz za nie wypłatę."
+  },
+  "complex support": {
+    "defaultMessage": "Kompleksowe wsparcie"
+  },
+  "complex support info": {
+    "defaultMessage": "Wspieramy Cię na każdym kroku - w wyborze usług, w ich wdrożeniu, w komunikacji - stajemy się Twoim zaufanym partnerem."
+  },
+  "configured calendar": {
+    "defaultMessage": "Skonfigurowano kalendarz"
+  },
+  "confirm payment": {
+    "defaultMessage": "Potwierdzam, że to kwota zgodna z moimi wyliczeniami"
+  },
+  "confirm step info": {
+    "defaultMessage": "Podczas rozmowy {methodText} porozmawiamy o Twoich potrzebach i dobierzemy najlepszego dla Ciebie terapeutę. Potwierdzenie terminu i więcej informacji otrzymasz na adres {emailText}."
+  },
+  "congratulation!": {
+    "defaultMessage": "Gratulacje!"
+  },
+  "connected": {
+    "defaultMessage": "Połączono"
+  },
+  "consider list 1": {
+    "defaultMessage": "konieczność przestrzegania reżimu sanitarnego w warunkach epidemii COVID-19 (kwarantanna, osoby z grup podwyższonego ryzyka, zamieszkanie w strefie czerwonej)"
+  },
+  "consider list 2": {
+    "defaultMessage": "miejsce zamieszkania, które uniemożliwia korzystanie z terapii w gabinecie (szcz. małe miejscowości, w których nie ma dostępu do pomocy psychoterapeutycznej)"
+  },
+  "consider list 3": {
+    "defaultMessage": "sytuacja emigracji i brak dostępu do psychoterapii w języku ojczystym"
+  },
+  "consider list 4": {
+    "defaultMessage": "niepełnosprawność uniemożliwiająca korzystanie z terapii stacjonarnej"
+  },
+  "consider list 5": {
+    "defaultMessage": "zmiana miejsca zamieszkania przy jednoczesnej chęci kontynuacji terapii u dotychczasowego terapeuty"
+  },
+  "contact marketing email agreement": {
+    "defaultMessage": "Wyrażam zgodę, na otrzymywanie informacji handlowych i marketingowych dotyczących usług i produktów oferowanych przez Wellbee na wskazany w formularzu adres e-mail, włącznie z wiadomościami wysyłanymi przez automatyczny system wywołujący."
+  },
+  "contact us": {
+    "defaultMessage": "Skontaktuj się z nami"
+  },
+  "contact us info": {
+    "defaultMessage": "Wypełnij i wyślij formularz kontaktowy i wkrótce skontaktujemy się z Tobą"
+  },
+  "continuation": {
+    "defaultMessage": "Kontynuacja"
+  },
+  "contract type": {
+    "defaultMessage": "Typ umowy"
+  },
+  "copy link": {
+    "defaultMessage": "Kopiuj link"
+  },
+  "copy to clipboard": {
+    "defaultMessage": "Kopiuj do schowka"
+  },
+  "country": {
+    "defaultMessage": "Kraj"
+  },
+  "coupon count": {
+    "defaultMessage": "Ilość kuponów"
+  },
+  "coupon status ready": {
+    "defaultMessage": "Gotowy"
+  },
+  "coupon status used": {
+    "defaultMessage": "Zużyty"
+  },
+  "coupons": {
+    "defaultMessage": "Kupony"
+  },
+  "create": {
+    "defaultMessage": "Dodaj"
+  },
+  "create admin": {
+    "defaultMessage": "Tworzenie nowego Administratora"
+  },
+  "create admin label": {
+    "defaultMessage": "Stwórz Administratora"
+  },
+  "create modality": {
+    "defaultMessage": "Dodaj modalność"
+  },
+  "create new account": {
+    "defaultMessage": "Zakładam nowe konto"
+  },
+  "create password": {
+    "defaultMessage": "Utwórz hasło"
+  },
+  "create patient": {
+    "defaultMessage": "Stwórz pacjenta"
+  },
+  "create product": {
+    "defaultMessage": "Dodaj produkt"
+  },
+  "create product variant": {
+    "defaultMessage": "Dodaj wariant produktu"
+  },
+  "create specialization": {
+    "defaultMessage": "Dodaj specjalizację"
+  },
+  "create therapist": {
+    "defaultMessage": "Tworzenie nowego Terapeuty"
+  },
+  "create therapist label": {
+    "defaultMessage": "Stwórz Terapeutę"
+  },
+  "create therapy guide": {
+    "defaultMessage": "Tworzenie nowego Opiekuna"
+  },
+  "create therapy guide label": {
+    "defaultMessage": "Stwórz Opiekuna"
+  },
+  "created at": {
+    "defaultMessage": "Utworzono"
+  },
+  "created user": {
+    "defaultMessage": "Stworzono użytkownika"
+  },
+  "date": {
+    "defaultMessage": "Data"
+  },
+  "date filter": {
+    "defaultMessage": "Preferowany czas wizyty"
+  },
+  "default": {
+    "defaultMessage": "Domyślny"
+  },
+  "delete account info": {
+    "defaultMessage": "Aby usunąć konto skontaktuj się z Obsługą Serwisu wysyłając wiadomość na adres:"
+  },
+  "delete entry question": {
+    "defaultMessage": "Usunąć wpis?"
+  },
+  "delete link with google calendar": {
+    "defaultMessage": "Usuń powiązanie z kalendarzem"
+  },
+  "delete?": {
+    "defaultMessage": "Usunąć wpis?"
+  },
+  "detail": {
+    "defaultMessage": "Wyszczególnij"
+  },
+  "did not take place because of patient": {
+    "defaultMessage": "Nie odbyło się z winy pacjenta (terapeuta dostaje pieniądze)"
+  },
+  "discard changes": {
+    "defaultMessage": "Odrzuć zmiany"
+  },
+  "discount": {
+    "defaultMessage": "Zniżka"
+  },
+  "discount code": {
+    "defaultMessage": "Kod zniżkowy"
+  },
+  "do you have account": {
+    "defaultMessage": "Masz już swoje konto?"
+  },
+  "do you not remember password": {
+    "defaultMessage": "Nie pamiętasz hasła?"
+  },
+  "do you want to choose therapist": {
+    "defaultMessage": "Chcesz wybrać terapeutę?"
+  },
+  "don't know wo to choose?": {
+    "defaultMessage": "Nie wiesz kogo wybrać? zadzwoń"
+  },
+  "e-mail is not correct": {
+    "defaultMessage": "Adres e-mail nie jest poprawny"
+  },
+  "edit": {
+    "defaultMessage": "Edycja"
+  },
+  "edit admin": {
+    "defaultMessage": "Edycja Administratora"
+  },
+  "edit modality": {
+    "defaultMessage": "Edytuj modalność"
+  },
+  "edit product variant": {
+    "defaultMessage": "Edytuj wariant produktu"
+  },
+  "edit specialization": {
+    "defaultMessage": "Edytuj specjalizację"
+  },
+  "edit therapist": {
+    "defaultMessage": "Edycja Terapeuty"
+  },
+  "edit therapy guide": {
+    "defaultMessage": "Edycja Opiekuna"
+  },
+  "email change info": {
+    "defaultMessage": "Aby zmienić adres e-mail skontaktuj się z Obsługą Serwisu wysyłając wiadomość na adres:"
+  },
+  "email placeholder": {
+    "defaultMessage": "przyklad@email.com"
+  },
+  "employees": {
+    "defaultMessage": "Ilość pracowników twojej firmy"
+  },
+  "end": {
+    "defaultMessage": "Koniec"
+  },
+  "end before begining": {
+    "defaultMessage": "Koniec odcinka przed początkiem odcinka"
+  },
+  "enter your email": {
+    "defaultMessage": "Wpisz swój adres email"
+  },
+  "enter your password": {
+    "defaultMessage": "Wpisz swoje hasło"
+  },
+  "entry deleted": {
+    "defaultMessage": "Wpis usunięty"
+  },
+  "error adding session": {
+    "defaultMessage": "Błąd przy dodawaniu spotkania"
+  },
+  "error after deadline": {
+    "defaultMessage": "Próba płatności po terminie. Skontaktuj się z {therapyGuideEmail}"
+  },
+  "error already paid": {
+    "defaultMessage": "Spotkanie już jest opłacone"
+  },
+  "error already used code": {
+    "defaultMessage": "Kod już wykorzystany skontaktuj się z {therapyGuideEmail}"
+  },
+  "error invalid code": {
+    "defaultMessage": "Kod jest niestety błędny, popraw go lub skontaktuj się z {therapyGuideEmail}"
+  },
+  "error submit error": {
+    "defaultMessage": "Coś poszło nie tak. Wróć do wiadomości email i przejdź do płatności ponownie."
+  },
+  "error.calendar-limit": {
+    "defaultMessage": "Twoje 3 darmowe wizyty zostały wykorzystane"
+  },
+  "error.date-not-available": {
+    "defaultMessage": "Przykro nam, w międzyczasie ktoś zdążył zarezerwować ten termin. Prosimy wybierz inny termin lub znajdź innego specjalistę."
+  },
+  "error.server-error-appointment": {
+    "defaultMessage": "Wystąpił błąd serwera. Prosimy spróbuj ponownie, a w przypadku dalszych błędów skontaktuj się z nami na opiekun@wellbee.pl"
+  },
+  "error.unknown-error-appointment": {
+    "defaultMessage": "Wystąpił nieznany błąd. Prosimy spróbuj ponownie, a w przypadku dalszych błędów skontaktuj się z nami na opiekun@wellbee.pl"
+  },
+  "event information": {
+    "defaultMessage": "Informacje o spotkaniu"
+  },
+  "event paid": {
+    "defaultMessage": "Wizyta opłacona"
+  },
+  "event price": {
+    "defaultMessage": "Cena spotkania"
+  },
+  "event status canceled": {
+    "defaultMessage": "Anulowane"
+  },
+  "event status finished": {
+    "defaultMessage": "Zakończone"
+  },
+  "event status paid": {
+    "defaultMessage": "Opłacone"
+  },
+  "event status payment failed": {
+    "defaultMessage": "Nieopłacone"
+  },
+  "event status pending": {
+    "defaultMessage": "Nadchodzące"
+  },
+  "example-therapist-1-title": {
+    "defaultMessage": "Psychoterapeutka Humanistyczno-Egzystencjalna"
+  },
+  "example-therapist-2-title": {
+    "defaultMessage": "Psychoterapeuta Psychoanalityczny"
+  },
+  "execute": {
+    "defaultMessage": "Wykonaj"
+  },
+  "feature list 1": {
+    "defaultMessage": "Załatwiaj formalności związane z przebiegiem psychoterapii bez wychodzenia z domu - wystarczy dostęp do naszej platformy."
+  },
+  "feature list 2": {
+    "defaultMessage": "Pomoże dobrać specjalistę i rozwieje wszelkie wątpliwości dotyczące Twojej terapii. Czuwa nad tym, żeby było Ci z nami dobrze :)"
+  },
+  "feature list 3": {
+    "defaultMessage": "Współpracujemy z cenionymi profesjonalistami, którzy posiadają udokumentowane doświadczenie w pracy terapeutycznej."
+  },
+  "feature list label 1": {
+    "defaultMessage": "Kompleksowa obsługa psychoterapii online"
+  },
+  "feature list label 2": {
+    "defaultMessage": "Opiekun Terapii do Twojej dyspozycji"
+  },
+  "feature list label 3": {
+    "defaultMessage": "Wyłącznie wykwalifikowani i zweryfikowani psychoterapeuci"
+  },
+  "feel danger": {
+    "defaultMessage": "Jeżeli czujesz, że życie lub zdrowie Twoje lub Twoich bliskich jest zagrożone skorzystaj z bezpłatnego, Całodobowego Telefonu Pomocowego wybierając numer: +48 815 346 060"
+  },
+  "few questions": {
+    "defaultMessage": "kilka pytań"
+  },
+  "fill email": {
+    "defaultMessage": "Uzupełnij pole swoim e-mailem"
+  },
+  "fill name": {
+    "defaultMessage": "Uzupełnij pole swoim imieniem lub pseudonimem"
+  },
+  "fill phone": {
+    "defaultMessage": "Uzupełnij pole swoim numerem telefonu"
+  },
+  "filter": {
+    "defaultMessage": "Filtruj"
+  },
+  "find help": {
+    "defaultMessage": "Znajdź pomoc"
+  },
+  "first session": {
+    "defaultMessage": "Pierwsza sesja"
+  },
+  "first session info": {
+    "defaultMessage": "Cena sesji to od 159 zł / 50 min. {br}O tym, jak się do niej przygotować, opowie Ci nasz Opiekun Terapii. Opiekun cały czas czuwa nad Twoim komfortem!"
+  },
+  "first step completed": {
+    "defaultMessage": "Pierwszy ważny krok w pracy nad sobą wykonany :)"
+  },
+  "first step to better life": {
+    "defaultMessage": "To pierwszy krok w stronę dobrego życia, gratulujemy! Jeśli będziesz potrzebować pomocy, Opiekun Terapii jest cały czas do Twojej dyspozycji. Trzymamy za Ciebie kciuki!"
+  },
+  "first text ailleron": {
+    "defaultMessage": "W odpowiedzi na obecną sytuację i adresując Wasze potrzeby, w ramach #WELLBEING CHALLENGE Wasza organizacja zdecydowała się na współpracę z Wellbee, platformą oferującą Wam dostęp do specjalistów, którzy są dla Was dostępni jeśli chcecie zadbać o swój wellbeing, kondycję psychiczną, jeśli szukasz wsparcia psychologicznego, psychoterapeuty lub po prostu chcesz zadbać o swój rozwój emocjonalny czy też budowę zdrowych relacji z innymi ludźmi."
+  },
+  "first text aviva": {
+    "defaultMessage": "W ramach MojaAviva zapewniamy Ci dostęp do Wellbee, platformy oferującej dostęp do wykwalifikowanych specjalistów, którzy pomogą zadbać Ci o Twój wellbeing i kondycję psychiczną. Umów się na wizytę jeśli szukasz wsparcia psychologicznego, psychoterapeuty, psychodietetyka lub po prostu chcesz zadbać o swój rozwój emocjonalny, czy też budowę zdrowych relacji z innymi ludźmi."
+  },
+  "for companies": {
+    "defaultMessage": "Dla firm"
+  },
+  "for them": {
+    "defaultMessage": "Dla Nich"
+  },
+  "for you": {
+    "defaultMessage": "Dla Ciebie"
+  },
+  "form send": {
+    "defaultMessage": "Wysłano formularz!"
+  },
+  "free guide call": {
+    "defaultMessage": "<strong>Bezpłatna wideorozmowa</strong> {guideSessionTime} min"
+  },
+  "from": {
+    "defaultMessage": "od"
+  },
+  "generate link": {
+    "defaultMessage": "Wygeneruj link"
+  },
+  "generate payment link question": {
+    "defaultMessage": "Wygenerować link płatności?"
+  },
+  "generated link": {
+    "defaultMessage": "Wygenerowany link"
+  },
+  "give neccesary information": {
+    "defaultMessage": "Podaj mi kilka <strong>niezbędnych informacji</strong>, aby się z Tobą skontaktować"
+  },
+  "good hours": {
+    "defaultMessage": "Good hours"
+  },
+  "good hours score": {
+    "defaultMessage": "Good hours score"
+  },
+  "google calendar connection status": {
+    "defaultMessage": "Status połączenia z kalendarzem google"
+  },
+  "google calendar login success": {
+    "defaultMessage": "Logowanie do Kalendarza Google przebiegło pomyślnie."
+  },
+  "google meet info": {
+    "defaultMessage": "Platforma wellbee wykorzystuje technologię <b>Google Meet</b>, która na komputerze działa w przeglądarce internetowej bez konieczności instalacji czegokolwiek. Jedyne co potrzebujesz zrobić, to zaakceptować prośbę Twojej przeglądarki o dostęp do mikrofonu oraz kamery, jeżeli korzystasz z Google Meet w tej przeglądarce po raz pierwszy."
+  },
+  "have licence": {
+    "defaultMessage": "Czy terapeuci Wellbee posiadają licencję?"
+  },
+  "help that works": {
+    "defaultMessage": "Wsparcie, które daje efekty"
+  },
+  "help that works info": {
+    "defaultMessage": "Szereg firm deklaruje, że wdrożone rozwiązania w zakresie poprawy zdrowia psychicznego przekładają się na wymierne efekty"
+  },
+  "help to help": {
+    "defaultMessage": "Pomóż mi lepiej sobie pomóc i odpowiedz na"
+  },
+  "helpline": {
+    "defaultMessage": "<h3>Helpline</h3> Wiemy, że są sytuacje, w których Twoi pracownicy oczekują natychmiastowego wsparcia i chcieliby szybko otrzymać pomoc. Właśnie dla takich sytuacji stworzyliśmy Helpline."
+  },
+  "hide": {
+    "defaultMessage": "Zwiń"
+  },
+  "home - therapy for you": {
+    "defaultMessage": "Psychoterapia<br></br> w sam raz <span>dla Ciebie</span>"
+  },
+  "home - therapy guide will answer": {
+    "defaultMessage": "Opiekun Terapii pomoże Ci wybrać terapeutę dopasowanego do zgłaszanych przez Ciebie trudności. Znajdź dogodny termin i umów się na <strong>bezpłatną, 20-minutową rozmowę</strong>!"
+  },
+  "home.availability-timerange": {
+    "defaultMessage": "Pn-Pt 8:30 - 20:30 Weekend 10:00 - 14:00"
+  },
+  "home.blog": {
+    "defaultMessage": "Blog"
+  },
+  "home.book-online-visit": {
+    "defaultMessage": "Umów wizytę online"
+  },
+  "home.or-call": {
+    "defaultMessage": "Lub zadzwoń"
+  },
+  "home.privacy-policy": {
+    "defaultMessage": "Polityka prywatności"
+  },
+  "home.support-email": {
+    "defaultMessage": "kontakt@wellbee.pl"
+  },
+  "home.terms-and-conditions": {
+    "defaultMessage": "Regulamin"
+  },
+  "how to call you": {
+    "defaultMessage": "Jak mam się do Ciebie zwracać?"
+  },
+  "how to prepare": {
+    "defaultMessage": "Jak przygotować się do spotkania?"
+  },
+  "how to start": {
+    "defaultMessage": "Jak zacząć psychoterapię online w Wellbee?"
+  },
+  "how we can help": {
+    "defaultMessage": "Jak możemy pomóc?"
+  },
+  "i'm therapist": {
+    "defaultMessage": "Jestem terapeutą"
+  },
+  "id": {
+    "defaultMessage": "ID"
+  },
+  "in packet": {
+    "defaultMessage": "W pakiecie"
+  },
+  "interventions": {
+    "defaultMessage": "<h3>Interwencja kryzysowa</h3> Szybkie wsparcie specjalistów w sytuacjach kryzysowych w firmie (np. wypadki, zdarzenia losowe etc.)"
+  },
+  "invalid event date": {
+    "defaultMessage": "Błędna data spotkania"
+  },
+  "invitation sent": {
+    "defaultMessage": "Wysłano zaproszenie"
+  },
+  "jestem_terapeuta brand - bullet community": {
+    "defaultMessage": "bez tabu - jesteśmy ludźmi zaangażowanymi społecznie i nie boimy się trudnych tematów. Wielu z nas od dawna działa na rzecz psychoedukacji i co najważniejsze, nie wyobraża sobie bez tego życia 😊"
+  },
+  "jestem_terapeuta brand - bullet helpful": {
+    "defaultMessage": "nie odwracamy wzroku - zabieramy głos, kiedy osoby dotknięte zaburzeniami psychicznymi potrzebują naszego wsparcia"
+  },
+  "jestem_terapeuta brand - bullet new things": {
+    "defaultMessage": "z ręką na pulsie - obserwujemy, co się dzieje w świecie zdrowia psychicznego. Żadna nowinka naukowa czy technologiczna nie umknie naszej uwadze!"
+  },
+  "jestem_terapeuta brand - we live and know": {
+    "defaultMessage": "Żyjemy tym, co robimy. Wiemy, co to znaczy padać ofiarą uprzedzeń związanych z problemami psychicznymi. Znamy ten kawałek rzeczywistości, w którym słabość i wrażliwość nie są mile widziane - i się na niego nie godzimy."
+  },
+  "jestem_terapeuta brand - we want to": {
+    "defaultMessage": "Chcemy wpływać na obraz polskiej psychoterapii, psychoedukować i przeciwdziałać wszelkim przejawom stygmatyzacji. Naszym celem jest uświadamianie Polek i Polaków, że warto troszczyć się o swoje zdrowie psychiczne. I że uczucia to całkiem fajna sprawa."
+  },
+  "jestem_terapeuta bullet beehive": {
+    "defaultMessage": "U nas gwarno jak w ulu"
+  },
+  "jestem_terapeuta bullet brand": {
+    "defaultMessage": "Marka, której (na serio) zależy"
+  },
+  "jestem_terapeuta bullet community - content": {
+    "defaultMessage": "wykwalifikowanych specjalistów, którzy wierzą w nowoczesne rozwiązania i wysoką jakość obsługi pacjentów online"
+  },
+  "jestem_terapeuta bullet community - header": {
+    "defaultMessage": "społecznością"
+  },
+  "jestem_terapeuta bullet mission - content": {
+    "defaultMessage": "popularyzowania troski o zdrowie psychiczne i wykorzystywania technologii do zwiększania dostępności profesjonalnej pomocy psychoterapeutycznej"
+  },
+  "jestem_terapeuta bullet mission - header": {
+    "defaultMessage": "misją"
+  },
+  "jestem_terapeuta bullet partnership": {
+    "defaultMessage": "Partnerstwo i transparentność"
+  },
+  "jestem_terapeuta bullet system - content": {
+    "defaultMessage": "ułatwiającym prowadzenie psychoterapii online oraz zarządzanie wirtualnym gabinetem"
+  },
+  "jestem_terapeuta bullet system - header": {
+    "defaultMessage": "systemem"
+  },
+  "jestem_terapeuta bullet therapy guide for patients": {
+    "defaultMessage": "Opiekun Terapii dla pacjentów"
+  },
+  "jestem_terapeuta bullet work tool": {
+    "defaultMessage": "Nowoczesne narzędzie pracy"
+  },
+  "jestem_terapeuta how Wellbee works": {
+    "defaultMessage": "Jak działa wellbee?"
+  },
+  "jestem_terapeuta how Wellbee works - bullet benefits": {
+    "defaultMessage": "Benefity dla #teamWellbee - spodziewaj się od nas dodatkowych treści, szkoleń, webinarów i wydarzeń zarezerwowanych dla społeczności pacjentów i psychoterapeutów."
+  },
+  "jestem_terapeuta how Wellbee works - bullet community": {
+    "defaultMessage": "Wellbee to przede wszystkim społeczność otwartych, ciekawych i wspierających się ludzi w zakresie wiedzy na temat zdrowia psychicznego. Lubimy myśleć o sobie jak o ulu, w którym każdy znajdzie bezpieczną przystań i inspirację do działania."
+  },
+  "jestem_terapeuta how Wellbee works - bullet social media group": {
+    "defaultMessage": "Mamy grupę w mediach społecznościowych, na której dzielimy się swoimi doświadczeniami. Z przyjemnością wypijemy też z Tobą kawę w naszym biurze i porozmawiamy o tym, jak Ci się z nami współpracuje oraz jak możemy Ci pomóc w rozwoju Twoich kompetencji zawodowych. Co możemy dla Ciebie zrobić, żeby było Ci jeszcze lepiej?"
+  },
+  "jestem_terapeuta how do we work": {
+    "defaultMessage": "Jak współpracujemy z psychoterapeutami?"
+  },
+  "jestem_terapeuta how do we work - bullet marketing": {
+    "defaultMessage": "<b>stawiamy na zaufanie</b> - strategia marketingowa Wellbee będzie jawna i otwarta na Twoje sugestie"
+  },
+  "jestem_terapeuta how do we work - community": {
+    "defaultMessage": "<b>wierzymy w siłę społeczności</b> - otrzymasz dostęp do zamkniętej grupy dla psychoterapeutów Wellbee, na której dzielimy się uwagami i wzajemnie inspirujemy"
+  },
+  "jestem_terapeuta how do we work - matching patients": {
+    "defaultMessage": "<b>lubimy rozwój i wyzwania</b> - dobierzemy Ci pacjentów, którzy mierzą się z wyzwaniami odpowiadającymi Twoim zainteresowaniom zawodowym"
+  },
+  "jestem_terapeuta how do we work - we understand trust": {
+    "defaultMessage": "Rozumiemy, jak duże znaczenie ma w Twoim zawodzie zaufanie społeczne i reputacja. Dlatego oddajemy w Twoje ręce wirtualną przestrzeń, w której Twoi pacjenci będą czuć się równie bezpiecznie, co w gabinecie."
+  },
+  "jestem_terapeuta how do we work - we will provide you": {
+    "defaultMessage": "<b>tak po prostu nam na Tobie zależy</b> – dlatego zapewnimy Ci też profesjonalne superwizje 😉"
+  },
+  "jestem_terapeuta how do we work - you are a part": {
+    "defaultMessage": "Jesteś dla nas częścią zespołu Wellbee i bierzemy pod uwagę Twoją opinię. Chcemy budować i usprawniać naszą platformę nie tylko w oparciu o badania naukowe, ale też Twój feedback. Dołączając do Wellbee masz możliwość współtworzenia tego projektu razem z nami – doceniamy Twoje doświadczenie zawodowe i chcemy wiedzieć, jak pomagać i edukować skuteczniej."
+  },
+  "jestem_terapeuta therapy guide - bullet first contact": {
+    "defaultMessage": "jest pierwszym kontaktem pacjenta z Wellbee – chcemy, żeby czuł się u nas dobrze od pierwszego kliknięcia"
+  },
+  "jestem_terapeuta therapy guide - bullet has knowledge": {
+    "defaultMessage": "ma wiedzę i kompetencje do tego, by zaproponować pacjentowi najlepsze rozwiązanie"
+  },
+  "jestem_terapeuta therapy guide - bullet proposing": {
+    "defaultMessage": "proponuje rodzaj terapii i specjalistę dopasowanego do potrzeb pacjenta."
+  },
+  "jestem_terapeuta therapy guide - why necessary": {
+    "defaultMessage": "Rozpoczęcie psychoterapii może budzić u pacjentów różne obawy, również te związane z poszukiwaniem specjalisty czy wyborem nurtu psychoterapeutycznego. Chcemy rozwiewać wszystkie wątpliwości od razu i towarzyszyć w postawieniu pierwszego kroku ku zdrowiu. Wierzymy, że rozmowa z Opiekunem Terapii jest unikalną w skali kraju odpowiedzią na te potrzeby."
+  },
+  "jestem_terapeuta therapy guide description": {
+    "defaultMessage": "jest psychoterapeutką w trakcie całościowego, 4-letniego szkolenia w Laboratorium Psychoedukacji z zakresu psychoterapii indywidualnej w nurcie psychodynamicznym."
+  },
+  "jestem_terapeuta what is Wellbee": {
+    "defaultMessage": "Czym jest Wellbee?"
+  },
+  "jestem_terapeuta work tool - bullet easy to use": {
+    "defaultMessage": "wiesz, gdzie klikać – bo ta technologia ma służyć ludziom, a nasi projektanci czuwają nad tym, żeby interfejs Wellbee był intuicyjny i prosty w obsłudze"
+  },
+  "jestem_terapeuta work tool - bullet one place": {
+    "defaultMessage": "masz wszystko w jednym miejscu i nie potrzebujesz żadnych dodatkowych narzędzi do przypominania, notowania, zarządzania wizytami, obsługi płatności czy prowadzenia sesji online"
+  },
+  "jestem_terapeuta work tool - bullet persnonalize": {
+    "defaultMessage": "personalizujesz swoją przestrzeń – włączasz i wyłączasz różne opcje według uznania. Wiesz najlepiej, co jest potrzebne Tobie i Twoim pacjentom."
+  },
+  "jestem_terapeuta work tool - we built platform": {
+    "defaultMessage": "Zbudowaliśmy platformę Wellbee biorąc pod uwagę realia polskiej branży psychoterapeutycznej. Chcemy udostępnić Ci nowoczesne narzędzie do psychoterapii online i umożliwić zbudowanie wirtualnego gabinetu. My dajemy ci przestrzeń i różne funkcjonalności do wyboru, Ty zajmujesz się aranżacją wnętrza 😊"
+  },
+  "jestem_terapeuta work tool - we understand": {
+    "defaultMessage": "Rozumiemy, jak ważny dla komfortu pacjenta jest bezproblemowy przebieg sesji terapeutycznej. Dlatego dajemy Ci gwarancję natychmiastowej pomocy w przypadku problemów technicznych. Bo poczucie bezpieczeństwa Twoich pacjentów jest dla nas równie ważne, jak Twoje zaufanie."
+  },
+  "job": {
+    "defaultMessage": "Stanowisko (opcjonalnie)"
+  },
+  "job example": {
+    "defaultMessage": "np. HR Director"
+  },
+  "know more": {
+    "defaultMessage": "Dowiedz się więcej"
+  },
+  "language": {
+    "defaultMessage": "Język"
+  },
+  "languages": {
+    "defaultMessage": "Języki:"
+  },
+  "lead time": {
+    "defaultMessage": "Lead time"
+  },
+  "lead time score": {
+    "defaultMessage": "Lead time score"
+  },
+  "less absence": {
+    "defaultMessage": "zmniejszenie absencji"
+  },
+  "less absence 2": {
+    "defaultMessage": "Mniejsza absencja"
+  },
+  "less absence info": {
+    "defaultMessage": "Daj swoim pracownikom wsparcie i ogranicz poziom absencji nawet o 20-50%"
+  },
+  "less rotation": {
+    "defaultMessage": "zmniejszenie rotacji"
+  },
+  "less rotation 2": {
+    "defaultMessage": "Mniejsza rotacja"
+  },
+  "less rotation info": {
+    "defaultMessage": "Dając wsparcie zmniejszasz rotację (nawet o 10-30%) i ograniczasz koszty związane z rekrutacją nowych osób"
+  },
+  "licence info": {
+    "defaultMessage": "W Wellbee zatrudniamy tylko terapeutów po przynajmniej drugim roku 4 letniej szkoły terapeutycznej oraz specjalistów wyspecjalizowanych w konkretnych dziedzinach (interwencja kryzysowa, psychodietetyka). Ich kwalifikacje gwarantują umiejętne wykorzystanie wiedzy i narzędzi psychoterapeutycznych."
+  },
+  "location details": {
+    "defaultMessage": "Opis szczegółowy dotarcia do gabinetu"
+  },
+  "log in": {
+    "defaultMessage": "Zaloguj się"
+  },
+  "login google calendar": {
+    "defaultMessage": "Zaloguj się do kalendarza Google"
+  },
+  "login here": {
+    "defaultMessage": "Zaloguj się tutaj"
+  },
+  "man": {
+    "defaultMessage": "Mężczyzna"
+  },
+  "mark as finished": {
+    "defaultMessage": "Oznacz jako zakończone"
+  },
+  "mark as offline": {
+    "defaultMessage": "Zmień na offline"
+  },
+  "mark as online": {
+    "defaultMessage": "Zmień na online"
+  },
+  "mark as paid": {
+    "defaultMessage": "Oznacz jako opłacone"
+  },
+  "mark event as finished are you sure": {
+    "defaultMessage": "Czy na pewno oznaczyć sesję jako zakończoną?"
+  },
+  "mark event as offline are you sure": {
+    "defaultMessage": "Czy na pewno oznaczyć sesję jako offline?"
+  },
+  "mark event as online are you sure": {
+    "defaultMessage": "Czy na pewno oznaczyć sesję jako online?"
+  },
+  "mark event as paid are you sure": {
+    "defaultMessage": "Czy na pewno oznaczyć sesję jako opłaconą?"
+  },
+  "marked event as paid": {
+    "defaultMessage": "Oznaczono sesję jako opłaconą"
+  },
+  "marketing email agreement": {
+    "defaultMessage": "Zgadzam się na otrzymywanie informacji o bezpłatnych treściach oraz ofertach na podany przeze mnie e-mail/numer telefonu zgodnie z <a>regulaminem</a>."
+  },
+  "max-pay-time-new-user-description": {
+    "defaultMessage": "Gdy pacjent odbywa pierwsza sesje w Wellbee, ma określony czas na opłacenie sesji (rekomendowane 3h). Po tym czasie, wizyta zostaje automatycznie anulowana."
+  },
+  "max-pay-time-new-user-title": {
+    "defaultMessage": "Maksymalny czas na zapłatę nowego pacjenta"
+  },
+  "max-pay-time-returning-user-description": {
+    "defaultMessage": "Gdy powracający pacjent odbywa sesje w Wellbee, ma określony czas na opłacenie sesji. Po tym czasie, wizyta zostaje automatycznie anulowana."
+  },
+  "max-pay-time-returning-user-title": {
+    "defaultMessage": "Maksymalny czas na zapłatę powracającego pacjenta"
+  },
+  "media about us": {
+    "defaultMessage": "Media o nas"
+  },
+  "meet our therapists": {
+    "defaultMessage": "Poznaj naszych terapeutów"
+  },
+  "meet out therapists header mz": {
+    "defaultMessage": "Poznaj naszych terapeutów i odbierz wizytę ze zniżką 80%"
+  },
+  "meet out therapists header receptomat": {
+    "defaultMessage": "Klienci <a>receptomat.pl</a> otrzymują zniżkę 50zł"
+  },
+  "meeting will happen on": {
+    "defaultMessage": "Spotkanie odbędzie się:"
+  },
+  "message content": {
+    "defaultMessage": "Treść wiadomości"
+  },
+  "method text online": {
+    "defaultMessage": "online"
+  },
+  "method text phone": {
+    "defaultMessage": "telefonicznej"
+  },
+  "min time lead": {
+    "defaultMessage": "Minimalny czas, w godzinach, między czasem rejestracji na terapię i czasem samej terapii"
+  },
+  "missed": {
+    "defaultMessage": "Nieodbyte"
+  },
+  "missed sessions tooltip": {
+    "defaultMessage": "Wizyty, na których pacjent się nie pojawił lub odwołał je zbyt późno. Otrzymasz za nie wypłatę."
+  },
+  "missing company name": {
+    "defaultMessage": "Brakująca nazwa firmy"
+  },
+  "missing email": {
+    "defaultMessage": "Brakujący email"
+  },
+  "missing name surname": {
+    "defaultMessage": "Brakujące imię i nazwisko"
+  },
+  "missing privacy policy": {
+    "defaultMessage": "Zgoda na przetwarzanie danych wrażliwych jest wymagana"
+  },
+  "missing terms conditions": {
+    "defaultMessage": "Zapoznanie się z treścią regulaminu jest wymagane"
+  },
+  "modalities": {
+    "defaultMessage": "Modalności"
+  },
+  "month": {
+    "defaultMessage": "Miesiąc"
+  },
+  "more dates": {
+    "defaultMessage": "Więcej terminów"
+  },
+  "more effective": {
+    "defaultMessage": "zwiekszenie produktywnosci"
+  },
+  "more involved": {
+    "defaultMessage": "Poprawa samopoczucia i większe zaangażowanie"
+  },
+  "more involved info": {
+    "defaultMessage": "Pracownicy, którzy otrzymali wsparcie świadomie mówią o trwałych zmianach podnoszących jakość życia"
+  },
+  "my patients": {
+    "defaultMessage": "Moi Pacjenci"
+  },
+  "my profile": {
+    "defaultMessage": "Mój Profil"
+  },
+  "my wallet": {
+    "defaultMessage": "Mój Portfel"
+  },
+  "name": {
+    "defaultMessage": "Imię"
+  },
+  "name and surname of bank account": {
+    "defaultMessage": "Imię i nazwisko posiadacza rachunku bankowego"
+  },
+  "name en": {
+    "defaultMessage": "Nazwa (EN)"
+  },
+  "name or pseudonym": {
+    "defaultMessage": "Imię lub pseudonim"
+  },
+  "name pl": {
+    "defaultMessage": "Nazwa (PL)"
+  },
+  "name ru": {
+    "defaultMessage": "Nazwa (RU)"
+  },
+  "name ua": {
+    "defaultMessage": "Nazwa (UA)"
+  },
+  "new account": {
+    "defaultMessage": "Nowe konto"
+  },
+  "new session": {
+    "defaultMessage": "Nowa sesja"
+  },
+  "new session added": {
+    "defaultMessage": "Nowe spotkanie dodane"
+  },
+  "news-bar-ua-title-2": {
+    "defaultMessage": "Oferujemy niskopłatne wsparcie dla osób dotkniętych wojną w Ukrainie."
+  },
+  "next therapist": {
+    "defaultMessage": "Kolejny terapeuta:"
+  },
+  "no": {
+    "defaultMessage": "Nie"
+  },
+  "no changes": {
+    "defaultMessage": "Bez zmian"
+  },
+  "no longer shame": {
+    "defaultMessage": "Mamy dla Ciebie bardzo dobre wiadomości - psychoterapia to już nie powód do wstydu jak wynika z <a>naszego raportu</a>"
+  },
+  "no patients": {
+    "defaultMessage": "Nie masz jeszcze pacjentów"
+  },
+  "no sessions": {
+    "defaultMessage": "Nie masz jeszcze sesji"
+  },
+  "no sessions for patient": {
+    "defaultMessage": "Ten pacjent jeszcze nie ma sesji"
+  },
+  "no sms messages": {
+    "defaultMessage": "Brak Wiadomości SMS"
+  },
+  "no time lead": {
+    "defaultMessage": "Brak ograniczenia płatności do min. czasu do sesji"
+  },
+  "no transactions": {
+    "defaultMessage": "Brak Transakcji"
+  },
+  "no work": {
+    "defaultMessage": "Nie pracuję"
+  },
+  "not completed": {
+    "defaultMessage": "Nieodbyte:"
+  },
+  "not connected": {
+    "defaultMessage": "Brak połączenia"
+  },
+  "not for statistics": {
+    "defaultMessage": "Notatka (do statystyk)"
+  },
+  "note": {
+    "defaultMessage": "Nota"
+  },
+  "offline": {
+    "defaultMessage": "W gabinecie"
+  },
+  "offline session": {
+    "defaultMessage": "Spotkanie offline"
+  },
+  "offline-header": {
+    "defaultMessage": "Gabinet"
+  },
+  "ok": {
+    "defaultMessage": "Ok"
+  },
+  "online consultation": {
+    "defaultMessage": "<h3>Konsultacje online</h3> Zapewnij swoim pracownikom możliwość umówienia wizyt z dopasowanym do niego specjalistą - wykup pakiet wizyt, płać tylko za wykorzystane wizyty (pay-as-you-go), lub pokryj część kosztu wizyty."
+  },
+  "open": {
+    "defaultMessage": "Otwórz"
+  },
+  "optimal interaction": {
+    "defaultMessage": "Dla optymalnej interakcji z terapeutą polecamy <b>ustawienie kamery na wysokości wzroku</b> i ustawienie się w odległości, która pozwoli przynajmniej uchwycić <b>ciało od wysokości klatki piersiowej</b>. Po ustawieniu się polecamy przestać na siebie patrzeć, gdyż obniża to naturalność interakcji. Możemy <b>wyłączyć podgląd siebie</b> naciskając w trzy kropki w prawym dolnym rogu Google Meet i wybierając funkcję “układ”."
+  },
+  "options 1 aviva": {
+    "defaultMessage": "<h2> 40 zł zniżki{br}na 3 pierwsze wizyty </h2> Jako Klient MojaAviva możesz odbyć 3 konsultacje ze zniżką 40zł. Ceny konsultacji są zgodne z aktualnym cennikiem przy profilu danego specjalisty."
+  },
+  "options 2 aviva": {
+    "defaultMessage": "<h2>10 zł zniżki{br}na kolejne wizyty</h2> Jeśli wykorzystasz przysługujące Ci wizyty ze zniżką 40 zł, a chcesz umówić kolejne (np. aby kontynuować sesje z wybranym specjalistą), otrzymasz dodatkową zniżkę w wysokości 10 zł na każdą kolejną wizytę."
+  },
+  "or": {
+    "defaultMessage": "lub"
+  },
+  "or call:": {
+    "defaultMessage": "lub zadzwoń:"
+  },
+  "other": {
+    "defaultMessage": "Inne"
+  },
+  "our call data": {
+    "defaultMessage": "Nasza rozmowa odbędzie się:"
+  },
+  "our psychotherapy team": {
+    "defaultMessage": "Nasz zespół tworzą wyłącznie<br></br>zweryfikowani i wykwalifikowani specjaliści."
+  },
+  "our specialists": {
+    "defaultMessage": "Nasi specjaliści"
+  },
+  "our team description": {
+    "defaultMessage": "Nasz zespół tworzą wyłącznie zweryfikowani i wykwalifikowani specjaliści. Znajdź tę osobę, która pomoże ci postawić pierwszy krok ku poprawie jakości Twojego życia."
+  },
+  "page id": {
+    "defaultMessage": "ID strony"
+  },
+  "paid visits": {
+    "defaultMessage": "Opłacone wizyty"
+  },
+  "panel.note-to-patient": {
+    "defaultMessage": "Notatka do pacjenta"
+  },
+  "panel.patient-info": {
+    "defaultMessage": "Dane pacjenta"
+  },
+  "panel.patient-prefers-phone-contact": {
+    "defaultMessage": "Pacjent preferuje kontakt telefoniczny"
+  },
+  "panel.patient-state": {
+    "defaultMessage": "Status pacjenta"
+  },
+  "panel.price-for-session": {
+    "defaultMessage": "Cena sesji"
+  },
+  "panel.refresh": {
+    "defaultMessage": "Odśwież"
+  },
+  "panel.save-changes": {
+    "defaultMessage": "Zapisz zmiany"
+  },
+  "panel.updated-data": {
+    "defaultMessage": "Zaktualizowano dane"
+  },
+  "password": {
+    "defaultMessage": "Hasło"
+  },
+  "patient": {
+    "defaultMessage": "Pacjent"
+  },
+  "patient email to reassign": {
+    "defaultMessage": "Podaj adres email pacjenta, do którego mają być powiązane spotkania i transakcje"
+  },
+  "patient events": {
+    "defaultMessage": "Spotkania Pacjenta"
+  },
+  "patient information": {
+    "defaultMessage": "Podaj kilka <strong>niezbędnych informacji</strong>, aby terapeuta mógł się z Tobą skontaktować"
+  },
+  "patient no sessions": {
+    "defaultMessage": "Brak sesji"
+  },
+  "patient not found": {
+    "defaultMessage": "Nie znaleziono pacjenta"
+  },
+  "patient panel data": {
+    "defaultMessage": "Panel Pacjenta"
+  },
+  "patient panel description": {
+    "defaultMessage": "Panel pacjenta serwisu Wellbee"
+  },
+  "patient panel title": {
+    "defaultMessage": "Panel pacjenta - Wellbee"
+  },
+  "patient sms messages": {
+    "defaultMessage": "Wiadomości SMS Pacjenta"
+  },
+  "patient transactions": {
+    "defaultMessage": "Transakcje Pacjenta"
+  },
+  "patient-panel-account-deletion-success": {
+    "defaultMessage": "Usunięto konto"
+  },
+  "patient-panel-account-marketing-checkbox-label": {
+    "defaultMessage": "Zgadzam się na otrzymywanie informacji o bezpłatnych treściach oraz ofertach na podany przeze mnie e-mail/numer telefonu zgodnie z <a>Polityką Prywatności.</a>"
+  },
+  "patient-panel-account-search-timezone": {
+    "defaultMessage": "Wyszukaj strefę czasową..."
+  },
+  "patient-panel-account-update-default-language": {
+    "defaultMessage": "Domyślny język"
+  },
+  "patient-panel-account-update-default-timezone": {
+    "defaultMessage": "Timezone"
+  },
+  "patient-panel-account-update-error": {
+    "defaultMessage": "Błąd przy aktualizowaniu danych pacjenta"
+  },
+  "patient-panel-account-update-name-how-to-call": {
+    "defaultMessage": "Jak mamy się do Ciebie zwracać"
+  },
+  "patient-panel-account-update-name-nickname": {
+    "defaultMessage": "Imię/Pseudonim"
+  },
+  "patient-panel-account-update-phone": {
+    "defaultMessage": "Telefon"
+  },
+  "patient-panel-account-update-success": {
+    "defaultMessage": "Zaktualizowano dane pacjenta"
+  },
+  "patient-panel-account-update-title-settings": {
+    "defaultMessage": "Ustawienia"
+  },
+  "patient-panel-any-questions": {
+    "defaultMessage": "Masz pytania?"
+  },
+  "patient-panel-btn-cancel": {
+    "defaultMessage": "Anuluj"
+  },
+  "patient-panel-btn-ok": {
+    "defaultMessage": "OK"
+  },
+  "patient-panel-card-data": {
+    "defaultMessage": "Dane karty"
+  },
+  "patient-panel-card-owner-name": {
+    "defaultMessage": "Imię właściciela"
+  },
+  "patient-panel-closest-session": {
+    "defaultMessage": "Najbliższa sesja:"
+  },
+  "patient-panel-confirm-new-password": {
+    "defaultMessage": "Potwierdź nowe hasło"
+  },
+  "patient-panel-delete-account-btn-back": {
+    "defaultMessage": "Wróć"
+  },
+  "patient-panel-delete-account-btn-confirm": {
+    "defaultMessage": "Tak, usuń"
+  },
+  "patient-panel-delete-account-confirm": {
+    "defaultMessage": "Czy na pewno chcesz usunąć konto?"
+  },
+  "patient-panel-delete-account-info-continue": {
+    "defaultMessage": "Możesz kontynuować terapię bez konta"
+  },
+  "patient-panel-enter-coupon-code": {
+    "defaultMessage": "Wpisz kod z kuponu"
+  },
+  "patient-panel-free-session": {
+    "defaultMessage": "Darmowa wizyta"
+  },
+  "patient-panel-join-session": {
+    "defaultMessage": "Dołącz do spotkania:"
+  },
+  "patient-panel-login-password": {
+    "defaultMessage": "Hasło"
+  },
+  "patient-panel-my-sessions": {
+    "defaultMessage": "Moje Sesje"
+  },
+  "patient-panel-new-password": {
+    "defaultMessage": "Nowe hasło"
+  },
+  "patient-panel-or-with-email": {
+    "defaultMessage": "Lub przez email"
+  },
+  "patient-panel-paid": {
+    "defaultMessage": "opłacona"
+  },
+  "patient-panel-password-change-error": {
+    "defaultMessage": "Błąd przy zmianie hasła"
+  },
+  "patient-panel-password-change-success": {
+    "defaultMessage": "Zmieniono hasło"
+  },
+  "patient-panel-password-reset": {
+    "defaultMessage": "Zresetować hasło dla {email}?"
+  },
+  "patient-panel-password-validation-accepted": {
+    "defaultMessage": "Znakomite hasło!"
+  },
+  "patient-panel-password-validation-confirm": {
+    "defaultMessage": "Nowe hasła nie są identyczne"
+  },
+  "patient-panel-password-validation-min-chars": {
+    "defaultMessage": "9+ znaków, minimum 1 duża litera i minimum 1 znak specjalny"
+  },
+  "patient-panel-password-validation-missing-fields": {
+    "defaultMessage": "Należy wypełnić wszystkie pola"
+  },
+  "patient-panel-password-validation-old-identical": {
+    "defaultMessage": "Nowe i stare hasło jest identyczne"
+  },
+  "patient-panel-pay-now": {
+    "defaultMessage": "Opłać"
+  },
+  "patient-panel-pay-now-cta": {
+    "defaultMessage": "Zapłać teraz"
+  },
+  "patient-panel-payments": {
+    "defaultMessage": "Płatności"
+  },
+  "patient-panel-payments-add-coupon": {
+    "defaultMessage": "Dodaj Kupon"
+  },
+  "patient-panel-payments-add-credit-card": {
+    "defaultMessage": "Dodaj Kartę"
+  },
+  "patient-panel-payments-added-manually": {
+    "defaultMessage": "Płatność dodana ręcznie w zamian za inną płatność lub płatność poza systemem PayU."
+  },
+  "patient-panel-payments-code-success": {
+    "defaultMessage": "Użycie kodu zakończone sukcesem"
+  },
+  "patient-panel-payments-copy-ref-code": {
+    "defaultMessage": "Kopiuj kod"
+  },
+  "patient-panel-payments-offline": {
+    "defaultMessage": "Wizyta w gabinecie"
+  },
+  "patient-panel-payments-online": {
+    "defaultMessage": "Spotkanie online"
+  },
+  "patient-panel-payments-paid-with-coupons": {
+    "defaultMessage": "Spotkanie opłacone z użyciem kuponów zniżkowych"
+  },
+  "patient-panel-payments-recovered": {
+    "defaultMessage": "Płatność została zwrócona lub odtworzona manualnie do opłacenia kolejnej wizyty."
+  },
+  "patient-panel-payments-ref-code-1": {
+    "defaultMessage": "Jeżeli czujesz się z tym komfortowo poleć nas swoim znajomym za pomocą osobistego kodu:"
+  },
+  "patient-panel-payments-ref-code-2": {
+    "defaultMessage": "Otrzyma osoba której polecisz Wellbee na każdą z 3 pierwszych sesji terapii"
+  },
+  "patient-panel-payments-ref-code-3": {
+    "defaultMessage": "Otrzymaj 40zł zniżki na każdą z 3 kolejnych sesji, jeśli polecona osoba skorzysta z 3 sesji"
+  },
+  "patient-panel-payments-save": {
+    "defaultMessage": "Zapisz"
+  },
+  "patient-panel-payments-usage-info": {
+    "defaultMessage": "Kupony będą wykorzystane w kolejności od najkorzystniejszych"
+  },
+  "patient-panel-payments-with": {
+    "defaultMessage": "z"
+  },
+  "patient-panel-post-code": {
+    "defaultMessage": "Kod pocztowy"
+  },
+  "patient-panel-previous-password": {
+    "defaultMessage": "Poprzednie hasło"
+  },
+  "patient-panel-recurring-payments": {
+    "defaultMessage": "Płatności cykliczne"
+  },
+  "patient-panel-recurring-payments-modal-agree": {
+    "defaultMessage": "Potwierdzam zmiany"
+  },
+  "patient-panel-recurring-payments-modal-content-1": {
+    "defaultMessage": "Wyrażam zgodne, na używanie mojej karty do opłacania usług w serwisie Wellbee, takich jak: płatność za psychoterapię czy abonament za subskrypcję platformy rozwojowej. Rezygnacja z Płatności cyklicznych może nastąpić w każdym czasie, na każde życzenie Klienta."
+  },
+  "patient-panel-recurring-payments-modal-content-2": {
+    "defaultMessage": "Subskrypcja miesięczna, włączana jest na czas nieokreślony z możliwością rezygnacji w dowolnym momencie trwania subskrypcji. Gdy użytkownik zrezygnuje podczas trwania opłaconego pakietu, dostęp do usługi jest przyznawany aż do końca okresu rozliczeniowego."
+  },
+  "patient-panel-recurring-payments-modal-content-3": {
+    "defaultMessage": "W wypadku braku rezygnacji z usługi, subskrypcja jest automatycznie przedłużana w momencie zakończenia."
+  },
+  "patient-panel-recurring-payments-modal-title": {
+    "defaultMessage": "Płatności cykliczne"
+  },
+  "patient-panel-register-accept-cookie": {
+    "defaultMessage": "Cookie Policy"
+  },
+  "patient-panel-session-switch-completed": {
+    "defaultMessage": "Ukończone"
+  },
+  "patient-panel-sessions-cancel": {
+    "defaultMessage": "Odwołaj"
+  },
+  "patient-panel-sessions-cancel-confirmation": {
+    "defaultMessage": "Anulować sesję {startFormatted}?"
+  },
+  "patient-panel-sessions-edit": {
+    "defaultMessage": "Edytuj"
+  },
+  "patient-panel-sessions-modal-cancellation-title": {
+    "defaultMessage": "Czy na pewno chcesz odwołać sesje?"
+  },
+  "patient-panel-sessions-modal-confirm": {
+    "defaultMessage": "Potwierdzam zmiany"
+  },
+  "patient-panel-sessions-modal-confirm-cancellation": {
+    "defaultMessage": "Tak, odwołaj"
+  },
+  "patient-panel-sessions-modal-event-after-cancellation-deadline": {
+    "defaultMessage": "W celu anulowania wizyty, skontaktuj się z Opiekunem Terapii"
+  },
+  "patient-panel-sessions-modal-next-timeslot": {
+    "defaultMessage": "Nowy termin"
+  },
+  "patient-panel-sessions-modal-or-contact": {
+    "defaultMessage": "Lub skontaktuj sie z Opiekunem"
+  },
+  "patient-panel-sessions-modal-prev-timeslot": {
+    "defaultMessage": "Poprzedni termin"
+  },
+  "patient-panel-sessions-modal-session-details": {
+    "defaultMessage": "Detale sesji"
+  },
+  "patient-panel-sessions-modal-timeslot-unavailable": {
+    "defaultMessage": "Nie można przenieść - termin niedostępny."
+  },
+  "patient-panel-sessions-modal-voucher-after-cancellation": {
+    "defaultMessage": "Po odwołaniu dostaniesz voucher o kwocie tej sesji dla opłaty przyszłych wizyt"
+  },
+  "patient-panel-sessions-move-to-next-week": {
+    "defaultMessage": "Przenieś na następny tydzień"
+  },
+  "patient-panel-sessions-reschedule-confirmation": {
+    "defaultMessage": "Przełożyć sesję z {oldStartFormatted} na {newStartFormatted}"
+  },
+  "patient-panel-sessions-reschedule-successful": {
+    "defaultMessage": "Zaktualizowano spotkanie"
+  },
+  "patient-panel-sessions-therapist-with": {
+    "defaultMessage": "Spotkanie online z"
+  },
+  "patient-panel-sessions-title": {
+    "defaultMessage": "Moje Sesje"
+  },
+  "patient-panel-sessions-your-therapist": {
+    "defaultMessage": "Twój Terapeuta:"
+  },
+  "patient-panel-settings": {
+    "defaultMessage": "Ustawienia"
+  },
+  "patient-panel-title-change-password": {
+    "defaultMessage": "Zmiana Hasła"
+  },
+  "patient-panel-title-delete-account": {
+    "defaultMessage": "Usuń Konto"
+  },
+  "patient-panel-town": {
+    "defaultMessage": "Miejscowość"
+  },
+  "patient-panel-unpaid": {
+    "defaultMessage": "nieopłacona"
+  },
+  "patient-panel.already-have-account": {
+    "defaultMessage": "Masz już konto?"
+  },
+  "patient-panel.btn-login": {
+    "defaultMessage": "Zaloguj się"
+  },
+  "patient-panel.btn-register": {
+    "defaultMessage": "Zarejestruj się"
+  },
+  "patient-panel.btn-remind-password": {
+    "defaultMessage": "Zresetuj hasło"
+  },
+  "patient-panel.cta-register": {
+    "defaultMessage": "Zarejestruj się"
+  },
+  "patient-panel.email-already-in-use": {
+    "defaultMessage": "Ten email jest już zarejestrowany"
+  },
+  "patient-panel.email-empty-email": {
+    "defaultMessage": "Wpisz swój email aby zresetować hasło"
+  },
+  "patient-panel.email-verification-msg-not-verified": {
+    "defaultMessage": "Twój adres e-mail nie jest jeszcze zweryfikowany. Otwórz wiadomość i kliknij podany w niej link, żeby go zweryfikować."
+  },
+  "patient-panel.email-verification-resend": {
+    "defaultMessage": "Wyślij email weryfikacyjny jeszcze raz"
+  },
+  "patient-panel.invalid-email": {
+    "defaultMessage": "Email jest niepoprawny"
+  },
+  "patient-panel.invalid-google-password": {
+    "defaultMessage": "The password is invalid or the user does not have a password."
+  },
+  "patient-panel.invalid-password-or-email": {
+    "defaultMessage": "Nazwa użytkownika lub hasło jest błędne. Skontaktuj się proszę z {therapyGuideEmail}"
+  },
+  "patient-panel.masked-login-error": {
+    "defaultMessage": "Podany mail lub hasło są nieprawidłowe. Proszę sprawdź poprawność swojego adresu mailowego lub zresetuj hasło"
+  },
+  "patient-panel.no-account": {
+    "defaultMessage": "Nie masz konta?"
+  },
+  "patient-panel.password-reset-sent": {
+    "defaultMessage": "Jeśli podane konto istnieje, e-mail z resetem hasła został wysłany"
+  },
+  "patient-panel.password-validation-accepted": {
+    "defaultMessage": "Znakomite hasło!"
+  },
+  "patient-panel.password-validation-min-chars": {
+    "defaultMessage": "9+ znaków, minimum 1 duża litera i minimum 1 znak specjalny"
+  },
+  "patient-panel.register-accept": {
+    "defaultMessage": "Zakładając konto zgadzam się z"
+  },
+  "patient-panel.register-accept-label-and": {
+    "defaultMessage": "|"
+  },
+  "patient-panel.register-accept-privacy": {
+    "defaultMessage": "Privacy"
+  },
+  "patient-panel.register-accept-toc": {
+    "defaultMessage": "Terms and Conditions"
+  },
+  "patient-panel.register-need-to-confirm-email": {
+    "defaultMessage": "Na Twój adres email została wysłana wiadomość - kliknij podany w niej link, żeby potwierdzić poprawność adresu."
+  },
+  "patient-panel.register-success-header": {
+    "defaultMessage": "Rejestracja udana!"
+  },
+  "patient-panel.title-login": {
+    "defaultMessage": "Zaloguj się"
+  },
+  "patient-panel.title-register": {
+    "defaultMessage": "Załóż konto"
+  },
+  "patient-panel.user-does-not-exist": {
+    "defaultMessage": "Użytkownik nie istnieje"
+  },
+  "patient-panel.user-is-not-admin": {
+    "defaultMessage": "Użytkownik nie jest administratorem"
+  },
+  "patient-panel.user-is-not-therapist": {
+    "defaultMessage": "Użytkownik nie jest terapeutą"
+  },
+  "patient-panel.user-is-not-therapy guide": {
+    "defaultMessage": "Użytkownik nie jest opiekunem terapii"
+  },
+  "patient-panel.user-not-found": {
+    "defaultMessage": "Brak konta o takim adresie email"
+  },
+  "patient-panel.wrong-password": {
+    "defaultMessage": "Błędne hasło"
+  },
+  "patients": {
+    "defaultMessage": "Pacjenci"
+  },
+  "patients count": {
+    "defaultMessage": "Liczba pacjentów"
+  },
+  "patients-price-pln": {
+    "defaultMessage": "Cena pacj. zł"
+  },
+  "pay for first visit": {
+    "defaultMessage": "Zapłać za pierwszą sesję online"
+  },
+  "paying": {
+    "defaultMessage": "Płatność"
+  },
+  "payment": {
+    "defaultMessage": "Płatność"
+  },
+  "payment don't match": {
+    "defaultMessage": "Kwota się nie zgadza?"
+  },
+  "payment done at end of month": {
+    "defaultMessage": "Wypłaty możesz dokonywać po zakończeniu danego miesiąca"
+  },
+  "payment failed tooltip": {
+    "defaultMessage": "Wizyty, które zostały zarezerwowane ale nie są opłacone. Nie otrzymasz za nie wypłaty."
+  },
+  "payment link sent to client": {
+    "defaultMessage": "Link do płatności zostanie automatycznie wysłany pacjentowi."
+  },
+  "payment method": {
+    "defaultMessage": "Metoda płatności"
+  },
+  "payment method coupon": {
+    "defaultMessage": "Płatność kuponem"
+  },
+  "payment method manual": {
+    "defaultMessage": "Ręcznie"
+  },
+  "payment.book-free-session": {
+    "defaultMessage": "Zarezerwuj darmową sesję"
+  },
+  "payment.booking-complete": {
+    "defaultMessage": "Płatność zakończona sukcesem"
+  },
+  "payment.booking-edit-visit": {
+    "defaultMessage": "Jeżeli chcesz edytować tę wizytę"
+  },
+  "payment.booking-login": {
+    "defaultMessage": "lub <strong>zaloguj się</strong>"
+  },
+  "payment.booking-panel-info": {
+    "defaultMessage": "W <strong>Panelu Pacjenta</strong> możesz wygodnie zarządzać swoimi wizytami<br></br>Znajdziesz tam również informacje o wszystkich swoich wizytach i płatnościach."
+  },
+  "payment.booking-register": {
+    "defaultMessage": "Załóż konto"
+  },
+  "payment.booking-session-time": {
+    "defaultMessage": "Nasza rozmowa odbędzie się:"
+  },
+  "payment.confirm": {
+    "defaultMessage": "Opłać sesję"
+  },
+  "payment.congratulation-coupon": {
+    "defaultMessage": "Gratulacje! Dostajesz {couponValue} zł rabatu"
+  },
+  "payment.congratulation-session-paid": {
+    "defaultMessage": "Gratulacje! Przysługuje Ci bezpłatna sesja"
+  },
+  "payment.contact-us": {
+    "defaultMessage": "Skontaktuj się z nami:"
+  },
+  "payment.failed": {
+    "defaultMessage": "Płatność nie powiodła się!"
+  },
+  "payment.keep-calm": {
+    "defaultMessage": "Spokojnie. Zdarza się."
+  },
+  "payment.payu-info": {
+    "defaultMessage": "obsługuje w wellbee.pl szybkie, wygodne płatności online. Postępuj proszę zgodnie z instrukcjami, aby opłacić sesję."
+  },
+  "payment.percent-discount-text": {
+    "defaultMessage": "Wygoda i oszczędzasz"
+  },
+  "payment.percent-discount-text-short": {
+    "defaultMessage": "Oszczędzasz"
+  },
+  "payment.recommend-benefits": {
+    "defaultMessage": "Dzięki Tobie, osoba której polecisz Wellbee otrzyma od nas 40zł zniżki na każdą z <strong>3 pierwszych wizyt</strong>"
+  },
+  "payment.recommend-benefits-for-you": {
+    "defaultMessage": "Wierzymy, że dobro powinno wracać, dlatego jeśli polecona przez Ciebie osoba skorzysta z 3 sesji, Ty otrzymasz od nas to samo: <strong>40zł zniżki na każdą z 3 kolejnych sesji</strong>."
+  },
+  "payment.recommend-wellbee": {
+    "defaultMessage": "Jeżeli czujesz się z tym komfortowo, <strong>poleć Wellbee swoim znajomym</strong> wykorzystując do tego swój <strong>osobisty kod</strong>:"
+  },
+  "payment.thank-you-for-trust": {
+    "defaultMessage": "Dziękujemy za zaufanie"
+  },
+  "payment.to-enter-before-paying": {
+    "defaultMessage": "(do wpisania tuż przed płatnością)"
+  },
+  "payment.try-pay-again": {
+    "defaultMessage": "Spróbuj ponownie dokonać płatności klikając ponownie w link z maila"
+  },
+  "payment.use-code": {
+    "defaultMessage": "Zrealizuj"
+  },
+  "payment.use-other-payment-method": {
+    "defaultMessage": "Użyj innej metody płatności"
+  },
+  "payment.what-can-you-do": {
+    "defaultMessage": "Co możesz zrobić?"
+  },
+  "payment.with": {
+    "defaultMessage": "z"
+  },
+  "payout": {
+    "defaultMessage": "Wypłacono"
+  },
+  "payout-pln": {
+    "defaultMessage": "Wypłata zł"
+  },
+  "phone number optional": {
+    "defaultMessage": "Nr telefonu (opcjonalnie)"
+  },
+  "photo in background": {
+    "defaultMessage": "Zdjęcie w tle"
+  },
+  "prepare glass of water": {
+    "defaultMessage": "Przygotuj sobie szklankę wody, coś do notowania, chusteczki higieniczne, jeżeli ich potrzebujesz. Im mniej czasu poświęcisz na organizację tych przedmiotów podczas sesji, tym lepiej wykorzystasz swój czas z terapeutą."
+  },
+  "prepare headphones": {
+    "defaultMessage": "Dla Twojego komfortu polecamy Ci przygotowanie <b>słuchawek z mikrofonem</b> - w ten sposób wzmocnisz nie tylko swoją słyszalność i jakość odbioru połączenia, ale zadbasz także o swoją prywatność – nikt nieproszony nie będzie członkiem Twojej sesji z terapeutą ani konsultacji z Opiekunem Terapii."
+  },
+  "prepare headphones and glass of water": {
+    "defaultMessage": "Przygotuj słuchawki z mikrofonem oraz szklankę wody."
+  },
+  "prepare internet access": {
+    "defaultMessage": "Upewnij się, że masz dostęp do internetu."
+  },
+  "prepare private space": {
+    "defaultMessage": "Zapewnij sobie cichą, prywatną przestrzeń."
+  },
+  "press enter to search": {
+    "defaultMessage": "Naciśnij Enter, aby wyszukać"
+  },
+  "price": {
+    "defaultMessage": "Cena"
+  },
+  "price in lowest denomination": {
+    "defaultMessage": "Cena (gr)"
+  },
+  "price section": {
+    "defaultMessage": "<span>{price}zł</span> / sesja 50 min"
+  },
+  "pro tip": {
+    "defaultMessage": "PRO TIP"
+  },
+  "product": {
+    "defaultMessage": "Produkt"
+  },
+  "product delete are you sure": {
+    "defaultMessage": "Na pewno chcesz usunąć wybrany produkt?"
+  },
+  "product deleted": {
+    "defaultMessage": "Usunięto produkt"
+  },
+  "products": {
+    "defaultMessage": "Produkty"
+  },
+  "professional title": {
+    "defaultMessage": "Modalność"
+  },
+  "profile pictures": {
+    "defaultMessage": "Zdjęcia w profilu"
+  },
+  "profile video url": {
+    "defaultMessage": "URL wideo profilowego (YT)"
+  },
+  "provision": {
+    "defaultMessage": "Prowizja"
+  },
+  "provision percent": {
+    "defaultMessage": "Procent prowizji"
+  },
+  "provision percent in office": {
+    "defaultMessage": "Procent prowizji (w gabinecie)"
+  },
+  "psychic health checked": {
+    "defaultMessage": "Sprawdziliśmy zdrowie psychiczne Polaków"
+  },
+  "psychic health imprtant": {
+    "defaultMessage": "Zdrowie psychiczne jest najważniejsze"
+  },
+  "psychoterapy revelation": {
+    "defaultMessage": "Psychoterapia okazuje się <span>nie być</span> już powodem do wstydu"
+  },
+  "psychotherapist": {
+    "defaultMessage": "psychoterapeuta"
+  },
+  "psychotherapy existential": {
+    "defaultMessage": "Psychoterapia humanistyczno-egzystencjalna"
+  },
+  "psychotherapy existential 1": {
+    "defaultMessage": "W Wellbee każda z zainteresowanych osób może skorzystać z psychoterapii online, prowadzonej w nurcie humanistyczno - egzystencjalnym. Ta odmiana terapii cieszy się dużym zainteresowaniem, co może wynikać z kilku zasadniczych czynników, które opisujemy poniżej."
+  },
+  "psychotherapy existential 10": {
+    "defaultMessage": "Sprawdź wolne terminy u psychoterapeutów online Wellbee, pracujących w nurcie humanistyczno - egzystencjalnym"
+  },
+  "psychotherapy existential 11": {
+    "defaultMessage": "Czym charakteryzuje się psychoterapia online w nurcie humanistyczno - egzystencjalnym?"
+  },
+  "psychotherapy existential 12": {
+    "defaultMessage": "W psychoterapii humanistyczno-egzystencjalnej klient jest traktowany jako specjalista od swojego życia, psychoterapeuta zaś nie jest ekspertem. Posiada oczywiście wiedzę z zakresu psychopatologii, diagnozy czy zna techniki terapeutyczne, ale rozumienie człowieka wyłącznie w kategoriach wiedzy psychologicznej nie umożliwi zrozumienia, czego naprawdę doświadcza jego klient. Dlatego psychoterapeuta jest wolny od założeń, teorii, współprzeżywa problemy klienta, a jednocześnie zachowuje postawę obiektywnego obserwatora."
+  },
+  "psychotherapy existential 13": {
+    "defaultMessage": "W tym nurcie psychoterapeutycznym często wykorzystywane są elementy psychodramy, dialogu egzystencjalnego, czy techniki pracy z ciałem."
+  },
+  "psychotherapy existential 14": {
+    "defaultMessage": "Ile może trwać terapia online w nurcie humanistyczno-egzystencjalnym?"
+  },
+  "psychotherapy existential 15": {
+    "defaultMessage": "Czas trwania psychoterapii humanistyczno-egzystencjalnej jest sprawą indywidualną. Ustalany jest między psychoterapeutą i klientem, a zależy od rodzaju zgłaszanych trudności oraz zaangażowania klienta w proces psychoterapeutyczny."
+  },
+  "psychotherapy existential 16": {
+    "defaultMessage": "Zazwyczaj psychoterapia humanistyczno-egzystencjalna jest psychoterapią raczej długoterminową – jeśli zaistnieje taka potrzeba, może trwać do kilku lat, z częstotliwością jednego spotkania w tygodniu. Czas pojedynczego spotkania jest ustalony z góry i trwa zazwyczaj około 50 minut. Koszt 1 wizyty online u psychoterapeuty humanistyczno-egzystencjalnego to od 139 złotych."
+  },
+  "psychotherapy existential 17": {
+    "defaultMessage": "Do kogo szczególnie adresowana jest psychoterapia w nurcie humanistyczno - egzystencjalnym"
+  },
+  "psychotherapy existential 18": {
+    "defaultMessage": "Psychoterapia humanistyczno-egzystencjalna jest dobrą propozycją dla osób, które:"
+  },
+  "psychotherapy existential 19": {
+    "defaultMessage": "Kto w Polsce nadaje oficjalne uprawnienia psychoterapeutom i psychoterapeutkom humanistyczno-egzystencjalnym?"
+  },
+  "psychotherapy existential 2": {
+    "defaultMessage": "Czym charakteryzuje się nurt humanistyczno-egzystencjalny w psychoterapii?"
+  },
+  "psychotherapy existential 2 arrowlist 1": {
+    "defaultMessage": "Doświadczają kryzysu w życiu osobistym czy zawodowym, cierpią z powodu niskiego poczucia własnej wartości, zaburzeń nastroju, depresji, zaburzeń lękowych."
+  },
+  "psychotherapy existential 2 arrowlist 2": {
+    "defaultMessage": "Doświadczają trudności w relacjach z ważnymi osobami, szcz. w bliskich związkach."
+  },
+  "psychotherapy existential 2 arrowlist 3": {
+    "defaultMessage": "Chcą przyjrzeć się swojemu życiu, odnaleźć sens lub wyznaczyć sobie cel w życiu."
+  },
+  "psychotherapy existential 2 arrowlist 4": {
+    "defaultMessage": "Poszukują psychoterapii, która umożliwi im rozwój osobisty"
+  },
+  "psychotherapy existential 20": {
+    "defaultMessage": "Uzyskanie certyfikatu psychoterapeuty humanistyczno-egzystencjalnego związane jest ukończeniem zazwyczaj 4-letniego szkolenia psychoterapeutycznego, odbyciem stażu klinicznego, pracą pod stałą superwizją oraz udziałem we własnej psychoterapii. Certyfikat dla terapeutów, którzy ukończyli szkolenie w podejściu Gestalt wydaje Polskie Towarzystwo Psychoterapii Gestalt."
+  },
+  "psychotherapy existential 3": {
+    "defaultMessage": "<strong>Nurt humanistyczno-egzystencjalny</strong> jest podejściem psychoterapeutycznym, który czerpie z wielu źródeł, zarówno z dorobku filozoficznego, jak i wielu nurtów psychoterapeutycznych. Współcześnie mówi się już o grupie terapii wywodzących się z nurtu humanistyczno-egzystencjalnego. Nurt ten łączy w różnym stopniu podejście skoncentrowane na osobie, psychoanalizę, filozofię egzystencjalną oraz fenomenologię. Na rozwój tego nurtu miał wpływ Carl Rogers - twórca terapii humanistycznej- oraz Victor Frankl - prekursor terapii egzystencjalnej. Psychoterapia Gestalt (psychologia postaci) także zalicza się do tego szerokiego nurtu i jest obecnie jedną z najbardziej dynamicznie rozwijających się form terapii humanistyczno-egzystencjalnych."
+  },
+  "psychotherapy existential 4": {
+    "defaultMessage": "Kalendarz dostępnych terminów u każdego z psychoterapeutów Wellbee można znaleźć klikając w link: <a>https://wellbee.pl/psychoterapia_online</a>"
+  },
+  "psychotherapy existential 5": {
+    "defaultMessage": "Jak naprawdę zaakceptować siebie?"
+  },
+  "psychotherapy existential 6": {
+    "defaultMessage": "Fundamentalnym założeniem wszystkich podejść w ramach nurtu humanistyczno-egzystencjalnego jest właśnie <strong> pomoc człowiekowi w zaakceptowaniu siebie takim, jakim jest naprawdę </strong> oraz dostrzeżeniu i usunięciu sprzeczności pomiędzy jego odczuciami, a tym, co jest uznawane za społecznie akceptowalne czy oczekiwane. Klient ma docenić swoją tożsamość, a także kierować się własnymi wartościami oraz preferencjami."
+  },
+  "psychotherapy existential 7": {
+    "defaultMessage": "W psychoterapii humanistyczno-egzystencjalnej, psychoterapeuta zapewnia klientowi bezwarunkową akceptację, empatyczne zrozumienie, szacunek oraz własną autentyczność w relacji. Stwarza w ten sposób warunki sprzyjające zachodzeniu konstruktywnych zmian, otwarcia nowych horyzontów i rekonstrukcji osobowości. Mówiąc inaczej, psychoterapeuta jest przewodnikiem na ścieżce samopoznania."
+  },
+  "psychotherapy existential 8": {
+    "defaultMessage": "Główne założenia psychoterapii humanistyczno-egzystencjalnej"
+  },
+  "psychotherapy existential 9": {
+    "defaultMessage": "W podejściu humanistyczno-egzystencjalnym psychoterapia jest spotkaniem, wewnętrznym doświadczeniem kontaktu dwóch osób. Drugą ważną składową tego nurtu psychoterapii jest psychodynamika egzystencjalna, czyli akcentowanie wolności człowieka, sfery wartości oraz sensu życia."
+  },
+  "psychotherapy existential Gestalt": {
+    "defaultMessage": "Psychoterapia Gestalt w nurcie humanistyczno - egzystencjalnym"
+  },
+  "psychotherapy existential Gestalt 1": {
+    "defaultMessage": "Frederick i Laura Perls, Ralph Hefferline oraz Paul Goodman to główni twórcy podejścia <strong>Gestalt</strong>. W podejściu tym przykłada się dużą rolę do poszerzania samoświadomości, szczególnie w doświadczeniu \"tu i teraz\". Bez poszerzania i pogłębiania świadomości siebie trudno jest o poprawę samopoczucia. Dlaczego? Ponieważ większa świadomość siebie prowadzi do zyskania możliwości podejmowania wyborów, a poczucie wyboru prowadzi do wolności."
+  },
+  "psychotherapy existential Gestalt 2": {
+    "defaultMessage": "Świadomość siebie, nad jaką pracuje się w terapii Gestalt, obejmuje zarówno emocje, odczucia pochodzące z ciała, myśli, pragnienia, ale także konflikty, jakie tworzą się między nimi."
+  },
+  "psychotherapy existential Gestalt 3": {
+    "defaultMessage": "Znaczenie świadomości w podejściu Gestalt"
+  },
+  "psychotherapy existential Gestalt 4": {
+    "defaultMessage": "Świadomością zgodnie z podejściem Gestalt nie jest wiedza intelektualna, ale doświadczenie kontaktu ze sobą. Klient może zyskać większą świadomość siebie będąc w relacji z drugim człowiekiem (np. terapeutą) opartej na zaufaniu, bezpieczeństwie oraz autentyczności. Sytuacja terapeutyczna powinna mieć charakter elastyczny, dopasowany do potrzeb klienta, a sam klient jest traktowany w sposób holistyczny (ciało i psychika). Celem terapii Gestalt jest osiągnięcie dojrzałości, wzrost potencjału człowieka poprzez integrację wyalienowanych części osobowości (pragnień,sądów, fantazji) oraz wzmacnianie autentycznych pragnień."
+  },
+  "psychotherapy existential arrowlist 1": {
+    "defaultMessage": "Psychoterapeuta nie oferuje klientowi interpretacji ani nie doradza. Jego praca polega na tworzeniu bezpiecznej atmosfery do poznawania własnych uczuć, potrzeb i pragnień. Według tego podejścia każdy z nas ma wrodzone zdolności do samoleczenia, potrzebujemy natomiast wsparcia, aby je dostrzec."
+  },
+  "psychotherapy existential arrowlist 2": {
+    "defaultMessage": "W każdym z nas rozgrywa się (często nieuświadomiony) konflikt pomiędzy naszymi pragnieniami: aby żyć, aby być w relacji z innymi, aby być akceptowanym, aby nasze życie miało sens, a tzw. troskami ostatecznymi – śmiercią, wolnością, izolacją i brakiem sensu w świecie. Te konflikty są źródłem naszych lęków i problemów, które utrudniają nam prawidłowe funkcjonowanie."
+  },
+  "psychotherapy existential arrowlist 3": {
+    "defaultMessage": "Psychoterapeuta próbuje zrozumieć świat znaczeń klienta, podąża za nim, dopasowuje interwencje do indywidualnych potrzeb, ponieważ każdy człowiek jest niepowtarzalny. W bezpiecznych warunkach psychoterapii pomaga klientowi zetknąć się z własnymi lękami egzystencjalnymi."
+  },
+  "psychotherapy young 1": {
+    "defaultMessage": "Wellbee | Internetowa psychoterapia młodzieży poniżej 18 roku życia | Kilkunastu terapeutów dostępnych online | 1 sesja terapii online w cenie od 139 zł."
+  },
+  "psychotherapy young 10": {
+    "defaultMessage": "W <strong>psychoterapii młodzieży</strong> musimy uwzględniać tzw kontekst rozwojowy. Wiele zachowań dorastającego dziecka, które są oceniane przez dorosłych jako problematyczne i wymagające interwencji, może mieć charakter przejściowy związany z rozwojem w związku z czym w diagnozie i doborze narzędzi terapeutytcznych kluczowe jest odnoszenie sie do wiedzy o prawidłowościach i mechanizmach rozwoju dziecka."
+  },
+  "psychotherapy young 11": {
+    "defaultMessage": "Rola kontekstu rodzinnego w terapii online młodzieży"
+  },
+  "psychotherapy young 12": {
+    "defaultMessage": "Konieczność uwzględnienia tzw. <strong>kontekstu rodzinnego</strong> jest kolejną cechą wyróżniającą terapię dzieci i młodzieży. <strong> Zasada uwzględniania kontekstu rodzinnego wyraża się poprzez udział jednego lub obojga rodziców w psychoterapii osoby niepełnoletniej </strong> . Jest to o tyle ważne, że umożliwia zrozumienie trudności dziecka poprzez uwzględnienie relacji między nim a jego środowiskiem a rodzina w tym środowisku odgrywa kluczową rolę."
+  },
+  "psychotherapy young 13": {
+    "defaultMessage": "Psychoterapeuci młodzieży dostępni online w Wellbee"
+  },
+  "psychotherapy young 14": {
+    "defaultMessage": "<strong> Wpływ terapeuty na dziecko może być wzmocniony lub hamowany postawą rodziców </strong> , którzy w ten sposób mogą wpływać na powodzenie samej terapii. <strong> Dorośli mogą się zgłosić na terapię sami, natomiast dzieci są posyłane lub przyprowadzane. Stanowi to kolejną istotną różnicę </strong> , ponieważ może mieć wpływ na motywację do podjęcia pracy terapeutycznej i w konsekwencji na skuteczność terapii."
+  },
+  "psychotherapy young 15": {
+    "defaultMessage": "Jakie problemy ze zdrowiem psychicznym nastolatków pomaga rozwiązywać psychoterapia online?"
+  },
+  "psychotherapy young 16": {
+    "defaultMessage": "Zaburzenia dzieci i młodzieży można przyporządkować do dwóch kategorii:"
+  },
+  "psychotherapy young 17": {
+    "defaultMessage": "<elem> zaburzenia z objawami skierowanymi do wewnątrz tzw. internalizacyjne </elem> <elem> zaburzenia z objawami skierowanymi na zewnątrz tzw. eksternalizacyjne. </elem>"
+  },
+  "psychotherapy young 18": {
+    "defaultMessage": "Internalizacyjne zaburzenia młodzieży"
+  },
+  "psychotherapy young 19": {
+    "defaultMessage": "Objawy problemów skierowanych do własnego wnętrza to np.:"
+  },
+  "psychotherapy young 2": {
+    "defaultMessage": "Czym jest dorastanie?"
+  },
+  "psychotherapy young 20": {
+    "defaultMessage": "<elem>lęk,</elem> <elem>depresja,</elem> <elem> wycofanie społeczne, </elem> <elem>izolacja,</elem> <elem> zaburzenia odżywiania. </elem>"
+  },
+  "psychotherapy young 21": {
+    "defaultMessage": "Eksternalizacyjne zaburzenia u osób poniżej 18 roku życia"
+  },
+  "psychotherapy young 22": {
+    "defaultMessage": "Zaburzenia z objawami kierowanymi na zewnątrz są to nieprzystosowawcze wzory zachowań, które sprawiają problemy innym osobom oraz powodują konflikty pomiędzy dzieckiem a jego otoczeniem społecznym np. zachowania antyspołeczne czy używanie substancji psychoaktywnych."
+  },
+  "psychotherapy young 23": {
+    "defaultMessage": "Szczególnie dużym problemem zdrowotnym i społecznym w Polsce są próby samobójcze i samobójstwa dokonane przez dzieci i młodzież. Szacuje się, że w grupie wiekowej 10-19 lat samobójstwa stanowią w Polsce, po urazach i wypadkach komunikacyjnych drugą przyczynę zgonów."
+  },
+  "psychotherapy young 24": {
+    "defaultMessage": "Na czym polega psychoterapia online w Wellbee dla osób poniżej 18 roku życia?"
+  },
+  "psychotherapy young 25": {
+    "defaultMessage": "W <a>Wellbee</a> za pomocą internetowej psychoterapii młodzieży umożliwiamy konsultację i pomoc w zakresie m.in."
+  },
+  "psychotherapy young 26": {
+    "defaultMessage": "<elem>zaburzeń emocjonalnych,</elem> <elem>zaburzeń funkcjonowania społecznego – trudności adaptacyjnych, nieśmiałości, wycofania z relacji,</elem> <elem>zaburzeń lękowych,</elem> <elem>zaburzeń zachowania,</elem> <elem>zaburzeń pod postacią somatyczną, którym często towarzyszą objawy wegetatywne np. bóle brzucha, nudności i wymioty, bóle głowy.</elem>"
+  },
+  "psychotherapy young 27": {
+    "defaultMessage": "<p> Psychoterapia indywidualna młodzieży polega na indywidualnych, stałych spotkaniach z psychoterapeutą. Pierwsza, lub kilka pierwszych sesji psychoterapii indywidualnej służy dokładnemu rozeznaniu trudności, a także poznaniu aktualnej i przeszłej sytuacji życiowej. Sesje te mają charakter diagnostyczny i kończą się sformułowaniem celu dalszej pracy. Dalsze spotkania, w zależności od przyjętego celu mogą mieć charakter krótko, średnio i długoterminowy. </p> <p> W przypadku osób poniżej 18 roku życia, na terapię indywidualną pisemną zgodę wyrazić musi posiadający pełnię władz rodzicielskich rodzic lub opiekun prawny. </p>"
+  },
+  "psychotherapy young 28": {
+    "defaultMessage": "Psychoterapia online dla młodzieży - cennik 2021"
+  },
+  "psychotherapy young 29": {
+    "defaultMessage": "W Wellbee pojedyncza, 50 minutowa sesja psychoterapii przez internet dla osoby w wieku poniżej 18 lat jest oferowana w cenie od 139 złotych. Terminy wizyt dostępne są o różnych porach. W weekendy również. Wellbee dodatkowo umożliwia korzystanie z merytorycznego oraz organizacyjnego wsparcia ze strony wykwalifikowanych <linkGuide>Opiekunów Terapii</linkGuide>. <strong> Można się z nimi na bieżąco kontaktować telefonicznie: <span></span> lub umówić konkretny termin wideorozmowy w sprawie terapii online osoby niepełnoletniej </strong> . Więcej informacji wraz ze szczegółowymi danymi można znaleźć na stronie: <linkHelp>wellbee - najlepiej dobrana psychoterapia online</linkHelp>"
+  },
+  "psychotherapy young 3": {
+    "defaultMessage": "<strong>Dorastanie</strong> inaczej zwane <strong>adolescencją</strong> jest niezwykle istotnym etapem w rozwoju, ponieważ <strong>stanowi pomost między dzieciństwem a dorosłością</strong>. Młody człowiek doświadcza gwałtownych zmian, które nazywamy dojrzewaniem. Zmienia się wtedy nasze ciało, zachodzą zmiany psychiczne, związane między innymi ze sferą afektywno-motywacyjną i poznawczą oraz zmienia się nasz sposób funkcjonowania w społeczeństwie. Jest to okres formowania się tożsamości indywidualnej jak również tożsamości społecznej."
+  },
+  "psychotherapy young 30": {
+    "defaultMessage": "Psychoterapia online - wybierz specjalistę/-kę"
+  },
+  "psychotherapy young 31": {
+    "defaultMessage": "Szczegółowy wykaz terapeutek/-ów dostępnych online w Wellbee, którzy specjalizują się w problemach ze zdrowiem psychicznym osób poniżej 18 roku życia znajdziesz klikając w poniższy link:"
+  },
+  "psychotherapy young 32": {
+    "defaultMessage": "Zobacz profile psychoterapeutek/-ów prowadzących psychoterapię przez internet dla osób niepełnoletnich >"
+  },
+  "psychotherapy young 33": {
+    "defaultMessage": "W jakich nurtach terapeutycznych prowadzona jest terapia online dla osób poniżej 18 roku życia?"
+  },
+  "psychotherapy young 34": {
+    "defaultMessage": "Najbardziej podstawowy podział nurtów terapeutycznych obejmuje 4 grupy:"
+  },
+  "psychotherapy young 35": {
+    "defaultMessage": "<elem>terapie psychoanalityczno-psychodynamiczne,</elem> <elem>terapie poznawczo-behawioralne,</elem> <elem>humanistyczno-egzystencjalne,</elem> <elem>systemowe.</elem>"
+  },
+  "psychotherapy young 36": {
+    "defaultMessage": "Każdy nurt terapeutyczny opiera się na określonych podstawach teoretycznych, które pociągają za sobą odmienne sposoby rozumienia zaburzeń i metody ich leczenia. Psychoterapia zaburzeń młodzieży prowadzona jest we wszystkich powyższych modalnościach."
+  },
+  "psychotherapy young 37": {
+    "defaultMessage": "<h2> Czy psychoterapeuta informuje rodziców nastolatka o postępach w jego terapii? </h2> <p> Fakt, że najczęściej decyzję o terapii podejmuje rodzic, może powodować problem zaufania nastolatka do terapeuty. Może wystąpić tutaj konflikt interesów. Nastolatek może się obawiać, że terapeuta przekazuje rodzicom poufne informacje jakimi podzielił się z terapeutą. Rodzice z kolei chcąc mieć pewność, że z ich dzieckiem nie dzieje się nic poważnego mogą oczekiwać, że uzyskają informacje na temat ich dziecka, do których nie mieli dotychczas dostępu. Może to być trudna dla psychoterapeuty sytuacja jednak podstawą w pracy psychoterapeutycznej jest zaufanie między terapeutą i pacjentem. </p> <p> W wypadku zagrożenia życia lub zdrowia dziecka psychoterapeuta jest bezwzględnie zobowiązany do poinformowania rodziców o grożącym niebezpieczeństwie, ale jest to wyjątek od zasady, że to, co powiedziane w gabinecie pozostaje tajemnicą dzieloną przez terapeutę i pacjenta. </p> <p> W innych sytuacjach można pracować z dzieckiem w tym kierunku, aby mogło samo lub przy wsparciu terapeuty powiedzieć rodzicom o istotnych rzeczach. </p>"
+  },
+  "psychotherapy young 4": {
+    "defaultMessage": "Wynika z tego, że <strong> zdrowie psychiczne młodego człowieka ma fundamentalne znaczenie dla jego funkcjonowania w dorosłości i jeżeli nie leczymy zaburzeń dzieci i młodzieży, one same z nich nie wyrosną. </strong> Mogą natomiast stać się w przyszłości zaburzonymi psychicznie dorosłymi."
+  },
+  "psychotherapy young 5": {
+    "defaultMessage": "Młodzież to nie są dorośli"
+  },
+  "psychotherapy young 5.1": {
+    "defaultMessage": "W przeszłości uważano dzieci i młodzież za „małych dorosłych”. Dzisiaj, na szczęście, mamy świadomość tego, że <strong> młody człowiek różni się w zasadniczy sposób od dorosłych. </strong>"
+  },
+  "psychotherapy young 6": {
+    "defaultMessage": "Młodzież, a dorośli: poziom rozwoju funkcji poznawczych"
+  },
+  "psychotherapy young 7": {
+    "defaultMessage": "<strong> Jednym z takich obszarów jest poziom rozwoju funkcji poznawczych, </strong> od których zależy sposób w jaki dziecko będzie uczestniczyć w psychoterapii."
+  },
+  "psychotherapy young 8": {
+    "defaultMessage": "Kluczowa jest tutaj zdolność do refleksji nad własnym działaniem, uczuciami i myślami oraz nabranie dystansu do doświadczeń, nad którymi koncentruje się psychoterapia. W związku z tym <strong> psychoterapia dzieci i młodzieży wymaga uwzględnienia stopnia rozwoju poznawczego i dostosowania do niego adekwatnych narzędzi terapeutycznych </strong> ."
+  },
+  "psychotherapy young 9": {
+    "defaultMessage": "Znaczenie kontekstu rozwojowego w psychoterapii młodzieży"
+  },
+  "psychotherapy young photobox alt 1": {
+    "defaultMessage": "psychoterapia online dla nastolatków"
+  },
+  "psychotherapy young photobox alt 2": {
+    "defaultMessage": "psychoterapia dzieci i młodzieży wymaga uwzględnienia stopnia rozwoju poznawczego i dostosowania do niego adekwatnych narzędzi terapeutycznych"
+  },
+  "psychotherapy young photobox alt 3": {
+    "defaultMessage": "Nastolatki cierpią na wiele różnych problemów psychicznych związanych z korzystaniem z technologii"
+  },
+  "psychotherapy young photobox title 1": {
+    "defaultMessage": "psychoterapia młodzieży online"
+  },
+  "psychotherapy young photobox title 2": {
+    "defaultMessage": "Uwarunkowania psychoterapii młodzieży"
+  },
+  "psychotherapy young photobox title 3": {
+    "defaultMessage": "Problemy ze zdrowiem psychicznym u nastolatkow"
+  },
+  "psychotherapy young title 1": {
+    "defaultMessage": "Psychoterapia online dla młodzieży"
+  },
+  "psychotherapy young title 2": {
+    "defaultMessage": "Internetowa psychoterapia młodzieży poniżej 18 roku życia"
+  },
+  "pwc therapist": {
+    "defaultMessage": "Terapeuta PWC"
+  },
+  "pwc therapist description": {
+    "defaultMessage": "Terapeuta PWC jest przechowywany jako oddzielny wpis w bazie danych, może mieć identyczne imię i nazwisko co standardowy, ale musi mieć inny email."
+  },
+  "quality": {
+    "defaultMessage": "Jakość, szybkość i wygoda"
+  },
+  "quality info": {
+    "defaultMessage": "Dostęp do wykwalifikowanych psychoterapeutów oraz innych specjalistów, w dowolnym miejscu i na dowolnym urządzeniu"
+  },
+  "question for payment sent": {
+    "defaultMessage": "Zapytanie o wypłatę wysłane!"
+  },
+  "questionnaire date": {
+    "defaultMessage": "Wybierz swój rok urodzenia"
+  },
+  "questionnaire first visit": {
+    "defaultMessage": "Czy to Twoja pierwsza psychoterapia?"
+  },
+  "questionnaire gender": {
+    "defaultMessage": "Wybierz swoją płeć"
+  },
+  "questionnaire is after": {
+    "defaultMessage": "Czy jesteś po konsultacji z psychiatrą?"
+  },
+  "questionnaire motivation": {
+    "defaultMessage": "Co jest Twoją główną motywacją do rozmowy ze mną?"
+  },
+  "questionnaire motivation 1": {
+    "defaultMessage": "Potrzebuję pomocy w doborze terapeuty"
+  },
+  "questionnaire motivation 2": {
+    "defaultMessage": "Zastanawiam się czy psychoterapia ma szansę mi pomóc"
+  },
+  "questionnaire motivation 3": {
+    "defaultMessage": "Jest mi bardzo ciężko/czuję się źle"
+  },
+  "questionnaire other": {
+    "defaultMessage": "Inne / Odmowa odpowiedzi"
+  },
+  "read more": {
+    "defaultMessage": "Czytaj więcej"
+  },
+  "reassign patient and delete success": {
+    "defaultMessage": "Powiązano z innym pacjentem i usunięto"
+  },
+  "receive specialist info on email": {
+    "defaultMessage": "Na adres mailowy otrzymasz informacje o wybranym specjaliście oraz dacie i godzinie pierwszej sesji. Jeśli pojawią się jakieś pytania, zwróć się z nimi do Opiekuna Terapii."
+  },
+  "recommend video call": {
+    "defaultMessage": "Polecamy formę wideokonferencji - dzięki temu możesz zobaczyć swojego terapeutę i poczuć się niemal jak w gabinecie! Rozumiemy, że czasem z różnych względów nawet to jest niemożliwe - dlatego dajemy Ci zawsze opcję rozmowy telefonicznej."
+  },
+  "recommended": {
+    "defaultMessage": "Polecani"
+  },
+  "recommended (sort)": {
+    "defaultMessage": "Polecani"
+  },
+  "refund": {
+    "defaultMessage": "Zwrot"
+  },
+  "remember me": {
+    "defaultMessage": "Pamiętaj mnie"
+  },
+  "repeat meeting in week": {
+    "defaultMessage": "Ponów za tydzień"
+  },
+  "repeat next week": {
+    "defaultMessage": "Powtórz automatycznie na następny tydzień"
+  },
+  "reservation soon": {
+    "defaultMessage": "Rezerwacja dostępna wkrótce"
+  },
+  "reset password": {
+    "defaultMessage": "Zresetuj hasło"
+  },
+  "reset password success": {
+    "defaultMessage": "Zresetowano hasło"
+  },
+  "resign of course": {
+    "defaultMessage": "Oczywiście, ale jeżeli zrobisz to później niż 24h przed rozpoczęciem wizyty, nie będziemy mogli zwrócić Ci pieniędzy."
+  },
+  "return investition": {
+    "defaultMessage": "zwrot z inwestycji"
+  },
+  "return rate": {
+    "defaultMessage": "Return rate"
+  },
+  "return rate score": {
+    "defaultMessage": "Return rate score"
+  },
+  "saved": {
+    "defaultMessage": "Zapisano"
+  },
+  "score": {
+    "defaultMessage": "score"
+  },
+  "search month": {
+    "defaultMessage": "Wyszukaj miesiąc"
+  },
+  "search therapist": {
+    "defaultMessage": "Wyszukaj terapeutę"
+  },
+  "search therapist by city": {
+    "defaultMessage": "Wpisz miasto"
+  },
+  "search therapist...": {
+    "defaultMessage": "Wyszukaj terapeutę..."
+  },
+  "search year": {
+    "defaultMessage": "Wyszukaj rok"
+  },
+  "see": {
+    "defaultMessage": "Zobacz"
+  },
+  "see all": {
+    "defaultMessage": "Zobacz wszystkich"
+  },
+  "see our report": {
+    "defaultMessage": "Zobacz nasz raport"
+  },
+  "see transaction": {
+    "defaultMessage": "Zobacz transakcję"
+  },
+  "select": {
+    "defaultMessage": "Wybierz"
+  },
+  "select all": {
+    "defaultMessage": "Zaznacz wszystkie"
+  },
+  "select guide": {
+    "defaultMessage": "Wybierz opiekuna"
+  },
+  "send and ask for contact": {
+    "defaultMessage": "Wyślij i poproś o kontakt"
+  },
+  "send invitation": {
+    "defaultMessage": "Wyślij zaproszenie"
+  },
+  "session completed": {
+    "defaultMessage": "odbyła się"
+  },
+  "session created using aviva website": {
+    "defaultMessage": "Spotkanie umówione przez stronę Aviva"
+  },
+  "session created using pwc website": {
+    "defaultMessage": "Spotkanie umówione przez stronę PWC"
+  },
+  "session details": {
+    "defaultMessage": "Detale sesji"
+  },
+  "session failed": {
+    "defaultMessage": "nie odbyła się"
+  },
+  "session payment failed": {
+    "defaultMessage": "Nieodwołane"
+  },
+  "session time": {
+    "defaultMessage": "Godzina sesji"
+  },
+  "set availability data": {
+    "defaultMessage": "Ustaw wygodny dla Ciebie i Twoich pacjentów grafik pracy"
+  },
+  "set call image": {
+    "defaultMessage": "Ustaw obraz połączenia"
+  },
+  "set work hours": {
+    "defaultMessage": "Ustaw godziny pracy"
+  },
+  "set work time": {
+    "defaultMessage": "Ustaw czas pracy"
+  },
+  "shortcut": {
+    "defaultMessage": "W SKRÓCIE"
+  },
+  "shortened details": {
+    "defaultMessage": "Skrócony opis (opcjonalny)"
+  },
+  "show all": {
+    "defaultMessage": "Pokaż wszystkich"
+  },
+  "show events with guide": {
+    "defaultMessage": "Pokaż też spotkania z opiekunem"
+  },
+  "show only events without gcal": {
+    "defaultMessage": "Pokaż tylko spotkania bez google calendar"
+  },
+  "show our therapists": {
+    "defaultMessage": "Pokaż naszych terapeutów"
+  },
+  "show results": {
+    "defaultMessage": "Pokaż wyniki"
+  },
+  "show therapist": {
+    "defaultMessage": "Pokaż terapeutę"
+  },
+  "sid": {
+    "defaultMessage": "SID"
+  },
+  "siy-agenda-day1-1": {
+    "defaultMessage": "<strong>Trening:</strong> ćwiczenie uwagi"
+  },
+  "siy-agenda-day1-10": {
+    "defaultMessage": "<strong>Trening:</strong> przekształć aktualne wyzwania i reaguj na nie"
+  },
+  "siy-agenda-day1-2": {
+    "defaultMessage": "Jak rozwijasz <strong>inteligencję emocjonalną?</strong>"
+  },
+  "siy-agenda-day1-3": {
+    "defaultMessage": "<strong>Mindfulness:</strong> przejście z autopilota do bycia świadomym"
+  },
+  "siy-agenda-day1-4": {
+    "defaultMessage": "<strong>Trening:</strong> uwolnij świadomość"
+  },
+  "siy-agenda-day1-5": {
+    "defaultMessage": "<strong>Ćwiczenie:</strong> skanowanie ciała"
+  },
+  "siy-agenda-day1-6": {
+    "defaultMessage": "<strong>Samoświadomość:</strong> bycie świadomym swoich stanów wewnętrznych"
+  },
+  "siy-agenda-day1-7": {
+    "defaultMessage": "<strong>Samozarządzanie:</strong> umiejętnie zarządzaj swoimi impulsami i reakcjami"
+  },
+  "siy-agenda-day1-8": {
+    "defaultMessage": "<strong>Trening:</strong> świadome słuchanie"
+  },
+  "siy-agenda-day1-9": {
+    "defaultMessage": "<strong>Trening:</strong> samowspółczucie"
+  },
+  "siy-agenda-day2-1": {
+    "defaultMessage": "<strong>Motywacja:</strong> dostosuj swoje wartości do pracy"
+  },
+  "siy-agenda-day2-10": {
+    "defaultMessage": "<strong>Przywództwo:</strong> prowadź ze współczuciem"
+  },
+  "siy-agenda-day2-11": {
+    "defaultMessage": "<strong>Trening:</strong> trening współczucia"
+  },
+  "siy-agenda-day2-12": {
+    "defaultMessage": "<strong>Ćwiczenie:</strong> zaangażowanie przywódcze"
+  },
+  "siy-agenda-day2-13": {
+    "defaultMessage": "<strong>Burza mózgów</strong>"
+  },
+  "siy-agenda-day2-2": {
+    "defaultMessage": "<strong>Ćwiczenie:</strong> wyrównanie wartości"
+  },
+  "siy-agenda-day2-3": {
+    "defaultMessage": "<strong>Trening wyobraźni:</strong> zwizualizuj swoje cele"
+  },
+  "siy-agenda-day2-4": {
+    "defaultMessage": "<strong>Trening:</strong> odporność, wyjście z niepowodzeń"
+  },
+  "siy-agenda-day2-5": {
+    "defaultMessage": "<strong>Ćwiczenie:</strong> \"Taki jak ja\""
+  },
+  "siy-agenda-day2-6": {
+    "defaultMessage": "<strong>Empatia:</strong> rozumienie uczuć i doświadczeń innych ludzi"
+  },
+  "siy-agenda-day2-7": {
+    "defaultMessage": "<strong>Trening:</strong> świadomy spacer"
+  },
+  "siy-agenda-day2-8": {
+    "defaultMessage": "<strong>Ćwiczenie:</strong> empatyczne słuchanie"
+  },
+  "siy-agenda-day2-9": {
+    "defaultMessage": "<strong>Ćwiczenie:</strong> trudne rozmowy"
+  },
+  "siy-agenda-info": {
+    "defaultMessage": "Ten dwudniowy program nauczany stacjonarnie przez dwóch certyfikowanych nauczycieli SIY, <strong>to zgłębienie tematu umiejętności inteligencji emocjonalnej oraz praktycznych zastosowań opartych na mindfulness.</strong>"
+  },
+  "siy-agenda-sign-up": {
+    "defaultMessage": "Zapisz się"
+  },
+  "siy-agenda-title": {
+    "defaultMessage": "<span>Dwudniowy program</span>"
+  },
+  "siy-agenda-title-day": {
+    "defaultMessage": "Dzień"
+  },
+  "siy-agenda-title-day1-end": {
+    "defaultMessage": "17:00 - Koniec dnia pierwszego"
+  },
+  "siy-agenda-title-day1-start": {
+    "defaultMessage": "9:00 - początek"
+  },
+  "siy-agenda-title-day2-end": {
+    "defaultMessage": "17:00 - Koniec dnia drugiego"
+  },
+  "siy-agenda-title-day2-start": {
+    "defaultMessage": "9:00 - początek"
+  },
+  "siy-expect-lead-text": {
+    "defaultMessage": "Program SIY rozpoczyna się wysoce interaktywną <strong>dwudniową sesją</strong>. Później w formie online następuje <strong>czterotygodniowa integracja umiejętności</strong>, a na koniec programu organizowany jest <strong>webinar</strong>."
+  },
+  "siy-expect-text-1": {
+    "defaultMessage": "Empiryczny trening uważności, neuronauki oraz pięciu zdolności inteligencji emocjonalnej."
+  },
+  "siy-expect-text-2": {
+    "defaultMessage": "Codzienne ćwiczenia i materiały wysyłane na maila, które pomogą w wyrobieniu nowych nawyków."
+  },
+  "siy-expect-text-3": {
+    "defaultMessage": "Skontaktuj się ponownie ze swoimi nauczycielami i swoją grupą w celu przeprowadzenia analizy oraz ustalenia dalszego planu działania."
+  },
+  "siy-expect-time-1": {
+    "defaultMessage": "2 dni"
+  },
+  "siy-expect-time-2": {
+    "defaultMessage": "4 tygodnie"
+  },
+  "siy-expect-time-3": {
+    "defaultMessage": "1 godzina"
+  },
+  "siy-expect-title": {
+    "defaultMessage": "<span>Przebieg</span> programu"
+  },
+  "siy-expect-title-1": {
+    "defaultMessage": "Szkolenie na żywo"
+  },
+  "siy-expect-title-2": {
+    "defaultMessage": "Wirtualny trening"
+  },
+  "siy-expect-title-3": {
+    "defaultMessage": "Webinar"
+  },
+  "siy-form-company": {
+    "defaultMessage": "Firma"
+  },
+  "siy-form-motivation": {
+    "defaultMessage": "Motywacja / co chcę osiągnąć"
+  },
+  "siy-form-name": {
+    "defaultMessage": "Imię i nazwisko"
+  },
+  "siy-form-position": {
+    "defaultMessage": "Stanowisko"
+  },
+  "siy-form-send": {
+    "defaultMessage": "Wyślij"
+  },
+  "siy-form-title": {
+    "defaultMessage": "Formularz Zgłoszeniowy"
+  },
+  "siy-lead-date": {
+    "defaultMessage": "11–12 maja 2022 r. Warszawa"
+  },
+  "siy-lead-date-early": {
+    "defaultMessage": "do 12 kwietnia"
+  },
+  "siy-lead-date-late": {
+    "defaultMessage": "po 12 kwietnia"
+  },
+  "siy-lead-regular-price": {
+    "defaultMessage": "Cena regularna"
+  },
+  "siy-lead-text": {
+    "defaultMessage": "Dwudniowy program dla liderów i kadr zarządzających"
+  },
+  "siy-longer-lead-text": {
+    "defaultMessage": "Oryginalny <strong>dwudniowy program szkoleniowy na temat inteligencji emocjonalnej oparty na uważności, opracowany przez Google</strong>. Popraw koncentrację, odporność i wzmocnij empatię, aby wykorzystać pełny potencjał swojego zespołu."
+  },
+  "siy-nav-agenda": {
+    "defaultMessage": "Agenda"
+  },
+  "siy-nav-programme": {
+    "defaultMessage": "Program"
+  },
+  "siy-nav-what-to-expect": {
+    "defaultMessage": "Przebieg"
+  },
+  "siy-partners-title": {
+    "defaultMessage": "<span>Dołącz do grona organizacji</span>, które wzięły udział w naszym szkoleniu"
+  },
+  "siy-programme-header-1": {
+    "defaultMessage": "<strong>Dajemy liderom narzędzia usprawniające skupienie, samoświadomość i odporność.</strong>"
+  },
+  "siy-programme-header-2": {
+    "defaultMessage": "<strong>Dwudniowy interaktywny program</strong> zawiera:"
+  },
+  "siy-programme-header-3": {
+    "defaultMessage": "Uczestnicy <strong>trwale poprawią: </strong>"
+  },
+  "siy-programme-results-1": {
+    "defaultMessage": "Zadeklarowało, że po programie lepiej radzi sobie ze stresem"
+  },
+  "siy-programme-results-2": {
+    "defaultMessage": "Powiedziało, że po programie szybciej wraca do równowagi po doświadczeniu trudności"
+  },
+  "siy-programme-results-3": {
+    "defaultMessage": "Zauważyła wzrost skupienia i umiejętnością bycia w pełni obecnym"
+  },
+  "siy-programme-results-note": {
+    "defaultMessage": "*na podstawie 6 000 uczestników kursu SIY"
+  },
+  "siy-programme-text-1": {
+    "defaultMessage": "Opracowany i przetestowany przez Google program SIY uczy technik uważności oraz inteligencji emocjonalnej, które prowadzą do utrzymania szczytowej wydajności oraz do silnej współpracy i skutecznego przywództwa."
+  },
+  "siy-programme-text-2": {
+    "defaultMessage": "<li>Przegląd wsparcia uważności i inteligencji emocjonalnej przez neuronaukę</li><li>Zgłębienie zdolności inteligencji emocjonalnej: samoświadomości, samoregulacji, motywacji, empatii i przywództwa</li><li>Praktyczne ćwiczenia pomagające skupić uwagę oraz rozwijające świadomość i empatię, które są podstawą panowania nad sobą i przywództwa</li><li>Specjalne aplikacje w miejscu pracy, które pomogą uczestnikom osiągnąć większą koncentrację, równowagę emocjonalną, empatię oraz motywację</li><li>Wysoce interaktywne doświadczenie składające się w 1/3 z prezentacji i w 2/3 z ćwiczeń praktycznych</li><li>28-dniowe wyzwanie następujące po 2-dniowym programie. Po treningu zapewnione są codzienne materiały i ćwiczenia, które mają pomóc uczestnikom w wypracowaniu nowych nawyków</li>"
+  },
+  "siy-programme-text-3": {
+    "defaultMessage": "<li>Samoświadomość i samoregulację, które są dwiema pierwszymi kluczowymi kompetencjami inteligencji emocjonalnej</li><li>Praktyczne umiejętności, które można zabrać do domu: szereg technik uważności, samoświadomości, prowadzenia dziennika, empatycznego słuchania i przygotowania do trudnych rozmów</li><li>Narzędzia do komunikowania z insightem oraz ze świadomością emocji i perspektyw innych</li>"
+  },
+  "siy-teacher-john-puts-text-1": {
+    "defaultMessage": "Urodzony w Amsterdamie i zamieszkały w Berlinie John jest certyfikowanym facylitatorem programu Search Inside Yourself Leadership Institute (<a>siyli.org</a>), certyfikowanym Trenerem Integralnym (<a>newventureswest.com</a>) oraz akredytowanym użytkownikiem narzędzia Enneagram (<a>integrative9.com</a>). Mieszkał, studiował i pracował w pięciu krajach i na trzech kontynentach. Jego misją jest pomoc w tworzeniu bardziej skupionych na ludziach i zorientowanych na cel liderów, zespołów i organizacji."
+  },
+  "siy-teacher-john-puts-text-2": {
+    "defaultMessage": "Puts udostępnia programy transformacyjne, aby przynosiły większe poczucie przynależności, zwiększały motywację, produktywność, dobrostan pracowników i (samo)przywództwo. W swoich warsztatach łączy uważność, inteligencję emocjonalną, neuronaukę, przywództwo, odporność, empatię, bezpieczeństwo psychiczne i wiele więcej."
+  },
+  "siy-teacher-john-puts-text-3": {
+    "defaultMessage": "Poza tym towarzyszy liderom, przedsiębiorcom i osobom w okresie przejściowym w transformacyjnych procesach coachingowych, aby umożliwić autentyczny sposób życia i pracy. Wykorzystuje swoje wcześniejsze doświadczenie jako lider produktu i przedsiębiorca, a ponadto spędził wiele lat pracując w europejskiej siedzibie Google i GetYourGuide."
+  },
+  "siy-teacher-john-puts-text-4": {
+    "defaultMessage": "Więcej informacji: <a>johnputs.com</a>, <a>linkedin.com/in/johnputs/</a>"
+  },
+  "siy-teacher-john-puts-title": {
+    "defaultMessage": "O Johnie Putsie"
+  },
+  "siy-teacher-kamil-barbarski-text-1": {
+    "defaultMessage": "Cześć, mam na imię Kamil. Jestem przedsiębiorcą, facylitatorem innowacji oraz certyfikowanym nauczycielem stworzonego przez Google programu Search Inside Yourself dotyczącego przywództwa, inteligencji emocjonalnej, odporności i uważności. Uważam się za łącznika między „wywieraniem wpływu/tworzeniem nowego biznesu” a „byciem człowiekiem/ludźmi i kulturą”."
+  },
+  "siy-teacher-kamil-barbarski-text-2": {
+    "defaultMessage": "W tym celu tworzę innowacje, które znacząco zmieniają ludzi, organizacje i rynki. Moim głównym zajęciem jest łączenie inteligencji emocjonalnej, neuronauki i uważności ze zwinnymi metodami i przedsiębiorczością."
+  },
+  "siy-teacher-kamil-barbarski-text-3": {
+    "defaultMessage": "Więcej informacji: <a>kamilbarbarski.com/en/home/</a>, <a>linkedin.com/in/kamilbarbarski/</a>"
+  },
+  "siy-teacher-kamil-barbarski-title": {
+    "defaultMessage": "O Kamilu Barbarskim"
+  },
+  "siy-teachers-title": {
+    "defaultMessage": "Nasi <span>nauczyciele</span>"
+  },
+  "siy-testimonial-1": {
+    "defaultMessage": "<strong>Gorąco polecam SIY</strong> każdemu, kto chce poprawić współpracę w swoim zespole, ulepszyć innowacyjne myślenie i przejrzystość, zmniejszyć stres, poprawić ogólne samopoczucie, lepiej radzić sobie z trudnymi rozmowami i ogólnie umieć zachować spokój."
+  },
+  "siy-testimonial-2": {
+    "defaultMessage": "<strong>Zachwyciła mnie każda minuta programu</strong> i od razu zdążyłem podzielić się swoim doświadczeniem z niektórymi członkami mojego zespołu"
+  },
+  "siy-testimonial-3": {
+    "defaultMessage": "Metody nauczane podczas programu SIY są łatwe do naśladowania, a mimo to <strong>dają niesamowite rezultaty</strong>"
+  },
+  "siy-testimonial-4": {
+    "defaultMessage": "Uznaliśmy szkolenie za tak przydatne, że teraz <strong>cała kadra kierownicza w nim uczestniczy</strong>"
+  },
+  "siy-testimonial-5": {
+    "defaultMessage": "Dzięki hojności moich pracodawców w bol.com właśnie zakończyłem drugi dzień programu o uważności „Search Inside Yourself” opracowanego przez Google. Podsumowując te dwa dni mogę powiedzieć, że <strong>kurs „Search Inside Yourself” daje mi wgląd w moje pomysły i preferencje, pokazuje jak powinienem się o siebie zatroszczyć, kiedy moje potrzeby nie są zaspokajane oraz na jakie niespodzianki mogę trafić, kiedy otwieram się na nowe doświadczenia.</strong>"
+  },
+  "siy-testimonial-6": {
+    "defaultMessage": "<strong>Bezcenna</strong> inwestycja"
+  },
+  "siy-testimonial-function-1": {
+    "defaultMessage": "Dyrektor ds. strategii Plantronics"
+  },
+  "siy-testimonial-function-2": {
+    "defaultMessage": "Wiceprezes GetYourGuide"
+  },
+  "siy-testimonial-function-3a": {
+    "defaultMessage": "Globalny Menedżer Programu"
+  },
+  "siy-testimonial-function-3b": {
+    "defaultMessage": "Biuro Transformacji Biznesu, Dell"
+  },
+  "siy-testimonial-function-4": {
+    "defaultMessage": "Wiceprezes Global Marketing Content & Campaigns Equinix"
+  },
+  "siy-testimonial-function-5": {
+    "defaultMessage": "Partner Specialist w Bol.com"
+  },
+  "siy-testimonial-function-6": {
+    "defaultMessage": "Rodger Spiller & Associates"
+  },
+  "sms messages": {
+    "defaultMessage": "Wiadomości SMS"
+  },
+  "solution for your company": {
+    "defaultMessage": "<h3>Porozmawiajmy o rozwiązaniu dopasowanym do Twojej firmy</h3> <p> Skorzystaj ze wsparcia doświadczonych ekspertów wellbee i określ strategiczne potrzeby Twojej organizacji w zakresie dbania o zdrowie psychiczne Twoich pracowników </p>"
+  },
+  "solved": {
+    "defaultMessage": "Rozwiązane"
+  },
+  "sort": {
+    "defaultMessage": "Sortuj"
+  },
+  "sort (menu)": {
+    "defaultMessage": "Sortuj"
+  },
+  "sort and filter": {
+    "defaultMessage": "Sortuj i filtruj"
+  },
+  "sort and filter therapist": {
+    "defaultMessage": "Sortuj i filtruj terapeutów"
+  },
+  "sort by": {
+    "defaultMessage": "Sortuj po"
+  },
+  "source": {
+    "defaultMessage": "Gdzie o nas usłyszałeś(-aś)?"
+  },
+  "specialization": {
+    "defaultMessage": "Specjalizacja"
+  },
+  "speed check": {
+    "defaultMessage": "Szybkość swojego łącza możesz sprawdzić <a>na stronie</a> – już <b>500kb/s</b> powinno być wystarczające choć optymalnie będzie to przynajmniej 1,5 Mb/s."
+  },
+  "start": {
+    "defaultMessage": "Początek"
+  },
+  "start therapy": {
+    "defaultMessage": "Rozpocznij psychoterapię 😌"
+  },
+  "status": {
+    "defaultMessage": "Status"
+  },
+  "status canceled": {
+    "defaultMessage": "Anulowana"
+  },
+  "status cancelled": {
+    "defaultMessage": "anulowana"
+  },
+  "status cash returned": {
+    "defaultMessage": "zwrot pieniędzy"
+  },
+  "status complete": {
+    "defaultMessage": "Wykonana"
+  },
+  "status paid": {
+    "defaultMessage": "opłacona"
+  },
+  "status payment_failed": {
+    "defaultMessage": "nieodwołana"
+  },
+  "status pending": {
+    "defaultMessage": "Oczekująca"
+  },
+  "status waiting": {
+    "defaultMessage": "zarezerwowana"
+  },
+  "street address": {
+    "defaultMessage": "Ulica"
+  },
+  "surname": {
+    "defaultMessage": "Nazwisko"
+  },
+  "system": {
+    "defaultMessage": "System"
+  },
+  "system id": {
+    "defaultMessage": "ID systemowe"
+  },
+  "telephone tips": {
+    "defaultMessage": "Możesz bez problemu dołączyć do spotkania przez Google Meet na telefonie komórkowym, jeżeli masz problem z komputerem (na przykład zepsuta kamera). Wystarczy zainstalować aplikację <b>Google Meet z Apple App Store (dla iOS) lub Google Play (dla Android)</b>. Pamiętaj, że trzymanie telefonu w ręce przez godzinę nie będzie komfortowe, więc znajdź stabilny sposób ustawienia go przed sobą :)"
+  },
+  "terms conditions label": {
+    "defaultMessage": "Oświadczam, że zapoznałem się z treścią <a>regulaminu</a> i zgadzam się z jego postanowieniami"
+  },
+  "test hidden": {
+    "defaultMessage": "Testowy/ukryty"
+  },
+  "therapist": {
+    "defaultMessage": "Terapeuta"
+  },
+  "therapist choosing help question": {
+    "defaultMessage": "Potrzebujesz pomocy z<br></br><span>wyborem terapeuty?</span>"
+  },
+  "therapist doesnt get money for session": {
+    "defaultMessage": "Terapeuta nie otrzymuje pieniędzy za sesję"
+  },
+  "therapist email": {
+    "defaultMessage": "Terapeuta (email)"
+  },
+  "therapist find person": {
+    "defaultMessage": "Znajdź niżej osobę, która pomoże ci postawić pierwszy krok ku poprawie jakości twojego życia"
+  },
+  "therapist guide box lower text": {
+    "defaultMessage": "Nasza rozmowa pozwoli nam lepiej poznać Twoje potrzeby i dobrać terapię idealnie do Twoich potrzeb"
+  },
+  "therapist list info 1": {
+    "defaultMessage": "Wysłucham Cię uważnie i pomogę wybrać najlepszy rodzaj terapii"
+  },
+  "therapist list info 2": {
+    "defaultMessage": "Pomogę znaleźć najlepszego terapeutę dopasowanego do Twoich potrzeb"
+  },
+  "therapist list info 3": {
+    "defaultMessage": "Wyjaśnię dokładnie jak przygotować się do pierwszej wizyty online"
+  },
+  "therapist list info 4": {
+    "defaultMessage": "Odpowiem na wszystkie wątpliwości i pytania dotyczące przebiegu terapii"
+  },
+  "therapist panel description": {
+    "defaultMessage": "Panel terapeuty serwisu Wellbee"
+  },
+  "therapist panel title": {
+    "defaultMessage": "Panel terapeuty - Wellbee"
+  },
+  "therapist utilisation": {
+    "defaultMessage": "Utylizacja terapeutów"
+  },
+  "therapist-panel-sessions-move-to-next-week": {
+    "defaultMessage": "Przenieś na następny tydzień"
+  },
+  "therapists": {
+    "defaultMessage": "Terapeuci"
+  },
+  "therapy guide": {
+    "defaultMessage": "Opiekun Terapii"
+  },
+  "therapy guide answer questions": {
+    "defaultMessage": "... a ponadto, odpowiemy na wszystkie Twoje pytania związane z przebiegiem psychoterapii."
+  },
+  "therapy guide description plural": {
+    "defaultMessage": "Jesteśmy tu aby pomóc Ci w znalezieniu psychoterapeuty dopasowanego do zgłaszanych przez Ciebie trudności. Sprawdź, co możemy dla Ciebie zrobić."
+  },
+  "therapy guide first step": {
+    "defaultMessage": "Pierwszy krok"
+  },
+  "therapy guide help": {
+    "defaultMessage": "Chcielibyśmy wesprzeć Cię w dalszej drodze, zatem <b>oferujemy Ci wsparcie Opiekuna Terapii - osobę, która pomoże Ci dobrze przygotować się do tej podróży</b>. Zadaniem Opiekuna Terapii jest pomoc w <b>znalezieniu psychoterapeuty odpowiadającego Twoim preferencjom, a także będącego najlepszym specjalistą w obszarze, w którym dostrzegasz trudności</b>. Czy jest to przewlekle obniżony nastrój, stany lękowe, napady paniki - Opiekun Terapii uwzględni wszystkie zgłaszane przez Ciebie problemy, preferencje godzinowe odbywania sesji i wszelkie inne ważne dla Ciebie kwestie."
+  },
+  "therapy guide how works": {
+    "defaultMessage": "Opiekun Terapii – jak to działa?"
+  },
+  "therapy guide how works answer": {
+    "defaultMessage": "Wybór właściwego specjalisty zdrowia psychicznego to duże wyzwanie. Jesteśmy w stanie wesprzeć Cię w dokonaniu właściwego wyboru, dzięki tysiącom rozmów z poszukującymi pomocy oraz doskonałej znajomości specyfiki pracy specjalistów w Wellbee. Zadbamy o dopasowanie specjalisty do Twoich potrzeb szanując Twoją prywatność. Wesprzemy Cię w pierwszym kroku ku zmianie:"
+  },
+  "therapy guide in wellbee": {
+    "defaultMessage": "Opiekun Terapii w Wellbee - kim jest i w czym może Ci pomóc?"
+  },
+  "therapy guide info section": {
+    "defaultMessage": "Mam na imię {opiekunTerapiiLink} i jestem Opiekunem Terapii w Wellbee. Dowiedz się, jak mogę Ci pomóc:"
+  },
+  "therapy guide info section tasks 1": {
+    "defaultMessage": "Wysłucham Cię i pomogę wybrać najlepszy rodzaj terapii"
+  },
+  "therapy guide info section tasks 2": {
+    "defaultMessage": "Pomogę Ci znaleźć terapeutę dopasowanego do Twoich potrzeb"
+  },
+  "therapy guide info section tasks 3": {
+    "defaultMessage": "Wyjaśnię jak przygotować się do pierwszej wizyty"
+  },
+  "therapy guide info section tasks 4": {
+    "defaultMessage": "Odpowiem na wszystkie wątpliwości i pytania dotyczące przebiegu terapii"
+  },
+  "therapy guide list - advice": {
+    "defaultMessage": "Doradzimy najodpowiedniejszą formę wsparcia oraz zarekomendujemy specjalistów"
+  },
+  "therapy guide list - checks": {
+    "defaultMessage": "Sprawdzimy wolne terminy i umożliwimy Ci szybkie rozpoczęcie terapii"
+  },
+  "therapy guide list - confidential": {
+    "defaultMessage": "Obowiązuje nas tajemnica poufności i nie przekroczymy Twoich granic komfortu"
+  },
+  "therapy guide our help": {
+    "defaultMessage": "Nasze wsparcie"
+  },
+  "therapy guide plan": {
+    "defaultMessage": "Za plan terapii odpowiada terapeuta, za jej <b>powodzenie - klient wespół z terapeutą</b>. Terapia, to proces, w ramach którego zmierzasz do <b>osiągnięcia osobistych celów i poprawy swojego dobrostanu</b>. Mówiąc prościej, to Ty jesteś ekspertem od swojego życia - wiesz, że zmagasz się z pewnymi objawami, które utrudniają Twoje codzienne funkcjonowanie na bardzo wielu poziomach. <b>Zauważenie swoich problemów i pozwolenie sobie na udzielenie pomocy, to pierwszy i bardzo ważny krok</b>."
+  },
+  "therapy guide qualifications": {
+    "defaultMessage": "Kompetencje Opiekunów terapii"
+  },
+  "therapy guide qualifications answer": {
+    "defaultMessage": "Nasi opiekunowie odbyli tysiące rozmów z poszukującymi pomocy w celu doboru najodpowiedniejszej terapii, specjalisty oraz psychoedukując. Opiekunowie, znają doskonale specyfikę pracy każdego z naszych terapeutów, będąc z nimi w stałym kontakcie oraz korzystają z narzędzi ułatwiających wsparcie pacjenta. Nasi opiekunowie to absolwenci i studenci studiów psychologicznych pracujący pod nadzorem doświadczonych terapeutów, stale rozwijający swoje kompetencje oraz uczestniczący w dedykowanych superwizjach organizowanych przez ośrodek Intra."
+  },
+  "therapy guide second lowercase": {
+    "defaultMessage": "Opiekun terapii"
+  },
+  "therapy guide support box header": {
+    "defaultMessage": "Jeżeli potrzebujesz wsparcia lub masz jakieś dodatkowe pytania"
+  },
+  "therapy guide tasks": {
+    "defaultMessage": "Zadania Opiekuna Terapii"
+  },
+  "therapy guide tasks 1": {
+    "defaultMessage": "Nie wiesz, co takiego się dzieje, ale czujesz, że coś jest nie tak?"
+  },
+  "therapy guide tasks 2 merged": {
+    "defaultMessage": "Czasami zdarza się, że nie potrafimy zrozumieć tego, co się z nami dzieje, a jednak odczuwamy pogorszenie naszego dobrostanu. <b>Opiekun Terapii pomoże Ci nakreślić obszar trudności, znajdzie odpowiedniego specjalistę, pomoże przygotować się do pierwszej wizyty</b>. Nie martw się, dla nas nie ma głupich ani złych pytań, tak samo jak nie ma głupich ani złych odpowiedzi - właśnie po to powołaliśmy Opiekuna Terapii."
+  },
+  "therapy guide title": {
+    "defaultMessage": "Opiekun Terapii - pomoc w wyborze terapeuty"
+  },
+  "therapy guide title description": {
+    "defaultMessage": "Skorzystaj z pomocy Opiekuna Terapii w doborze najwłaściwszego psychoterapeuty pod kątem zgłaszanych przez Ciebie problemów."
+  },
+  "therapy guides": {
+    "defaultMessage": "Opiekunowie"
+  },
+  "therapy languages": {
+    "defaultMessage": "Języki w których prowadzona jest terapia"
+  },
+  "therapy no diff": {
+    "defaultMessage": "Badania i metaanalizy wskazują na brak różnic pomiędzy efektywnością terapii online a offline."
+  },
+  "therapy science": {
+    "defaultMessage": "Istnieje szereg badań naukowych potwierdzających, że"
+  },
+  "therapy science link": {
+    "defaultMessage": "terapia online jest przynajmniej tak skuteczna jak terapia tradycyjna"
+  },
+  "therapy science returns": {
+    "defaultMessage": "Badania pokazują, że terapia online przynosi istotne efekty w przypadku szeregu zaburzeń (m.in. depresji, fobii społecznej, OCD, PTSD)."
+  },
+  "therapy session price": {
+    "defaultMessage": "<strong>{sessionPrice} zł</strong> / sesja {sessionTime} min"
+  },
+  "therapy specializations": {
+    "defaultMessage": "Specjalizacje terapii"
+  },
+  "therapy succesfull": {
+    "defaultMessage": "Czy terapia online jest skuteczna?"
+  },
+  "therapy type": {
+    "defaultMessage": "Rodzaj terapii"
+  },
+  "therapy type en": {
+    "defaultMessage": "Rodzaj terapii (EN)"
+  },
+  "therapy type pl": {
+    "defaultMessage": "Rodzaj terapii (PL)"
+  },
+  "therapy type ru": {
+    "defaultMessage": "Rodzaj terapii (RU)"
+  },
+  "therapy type search": {
+    "defaultMessage": "Rodzaj terapii"
+  },
+  "therapy type ua": {
+    "defaultMessage": "Rodzaj terapii (UA)"
+  },
+  "therpy guide list - explain": {
+    "defaultMessage": "Wyjaśnimy, jak przygotować się do wizyty"
+  },
+  "this field is required": {
+    "defaultMessage": "To pole jest wymagane"
+  },
+  "time": {
+    "defaultMessage": "Godzina"
+  },
+  "timerange overlap": {
+    "defaultMessage": "Odcinki czasu nakładają się na siebie"
+  },
+  "tips": {
+    "defaultMessage": "Wskazówki"
+  },
+  "tips intro": {
+    "defaultMessage": "W wellbee wiemy, że spotkanie z terapeutą i rozpoczęcie psychoterapii, to wyzwanie. Aby pomóc Ci jak najlepiej się do niego przygotować, proponujemy kilka przydatnych wskazówek:"
+  },
+  "tips title": {
+    "defaultMessage": "Psychoterapia przez Internet - porady i wskazówki"
+  },
+  "tips title description": {
+    "defaultMessage": "Psychoterapia online: jak korzystać? Czym sesja u psychoterapeuty przez internet różni się od wizyty stacjonarnej?"
+  },
+  "title": {
+    "defaultMessage": "Nazwa"
+  },
+  "to": {
+    "defaultMessage": "do"
+  },
+  "to get more tips": {
+    "defaultMessage": "Aby uzyskać więcej wskazówek"
+  },
+  "total": {
+    "defaultMessage": "Total"
+  },
+  "total hours": {
+    "defaultMessage": "Total hours"
+  },
+  "transaction events list": {
+    "defaultMessage": "Spotkania powiązane z transakcją"
+  },
+  "transaction status canceled": {
+    "defaultMessage": "Anulowana"
+  },
+  "transaction status complete": {
+    "defaultMessage": "Ukończona"
+  },
+  "transaction status pending": {
+    "defaultMessage": "Oczekująca"
+  },
+  "turn off sounds": {
+    "defaultMessage": "Postaraj się <b>wyciszyć wszelkie dźwięki w tle</b> – wyłącz telewizor, radio, zamknij okno, jeżeli jest to możliwe. Ważne jest abyście wespół z terapeutą poczuli się komfortowo w tej wirtualnej przestrzeni."
+  },
+  "ua-therapists-header": {
+    "defaultMessage": "#PomocUkrainie"
+  },
+  "ua-therapists-header-support": {
+    "defaultMessage": "Partner:"
+  },
+  "ua-therapists-lead-hours": {
+    "defaultMessage": "Poniedziałek - piątek: 8:00 – 16:00<br></br>Wtorek: od 11:30 – 16:00<br></br>Weekend: 10:00 – 14:00"
+  },
+  "ua-therapists-lead-hours-pl": {
+    "defaultMessage": "Poniedziałek - piątek: 8:30 – 20:30<br></br>Weekend: 10:00 – 14:00"
+  },
+  "ua-therapists-lead-larger-2": {
+    "defaultMessage": "Potrzebujesz pomocy?<br></br>Oferujemy <span>niskopłatne</span> wsparcie dla osób dotkniętych wojną w Ukrainie. Oddajemy do Twojej dyspozycji naszych terapeutów prowadzących terapię z językiem ukraińskim."
+  },
+  "ua-therapists-lead-smaller": {
+    "defaultMessage": "Umów poniżej wizytę z wybranym specjalistą, lub skontaktuj się z naszym opiekunem terapii:"
+  },
+  "understand your needs": {
+    "defaultMessage": "Nasza rozmowa ma na celu zrozumienie Twoich potrzeb oraz dobór najlepszego terapeuty dla Ciebie."
+  },
+  "unroll": {
+    "defaultMessage": "Rozwiń"
+  },
+  "upcoming": {
+    "defaultMessage": "Nadchodzące"
+  },
+  "upcoming sessions tooltip": {
+    "defaultMessage": "Wizyty, które zostały zarezerwowane w przyszłości. Niekoniecznie są opłacone."
+  },
+  "updated": {
+    "defaultMessage": "Aktualizowano"
+  },
+  "updated at": {
+    "defaultMessage": "Zmodyfikowano"
+  },
+  "updated availability data": {
+    "defaultMessage": "Zaktualizowano dane dostępności"
+  },
+  "updated data": {
+    "defaultMessage": "Zaktualizowano dane"
+  },
+  "url slug": {
+    "defaultMessage": "Url (slug)"
+  },
+  "use headphones": {
+    "defaultMessage": "Użyj słuchawek"
+  },
+  "user delete are you sure": {
+    "defaultMessage": "Na pewno chcesz usunąć wybranego użytkownika?"
+  },
+  "user deleted": {
+    "defaultMessage": "Usunięto użytkownika"
+  },
+  "users": {
+    "defaultMessage": "Administratorzy"
+  },
+  "value": {
+    "defaultMessage": "Wartość"
+  },
+  "verified specialist": {
+    "defaultMessage": "Zweryfikowani specjaliści"
+  },
+  "version female en": {
+    "defaultMessage": "Wersja żeńska (EN)"
+  },
+  "version female pl": {
+    "defaultMessage": "Wersja żeńska (PL)"
+  },
+  "version female ru": {
+    "defaultMessage": "Wersja żeńska (RU)"
+  },
+  "version female ua": {
+    "defaultMessage": "Wersja żeńska (UA)"
+  },
+  "version male en": {
+    "defaultMessage": "Wersja męska (EN)"
+  },
+  "version male pl": {
+    "defaultMessage": "Wersja męska (PL)"
+  },
+  "version male ru": {
+    "defaultMessage": "Wersja męska (RU)"
+  },
+  "version male ua": {
+    "defaultMessage": "Wersja męska (UA)"
+  },
+  "video call requirements": {
+    "defaultMessage": "Do wideokonferencji potrzebujesz relatywnie stabilnego i szybkiegopołączenia z internetem. Dobra wiadomość jest taka, że nawet <b>3G</b> jest wystarczające."
+  },
+  "view transaction": {
+    "defaultMessage": "Podgląd transakcji"
+  },
+  "visit count": {
+    "defaultMessage": "Liczba wizyt"
+  },
+  "visit day": {
+    "defaultMessage": "Dzień wizyty"
+  },
+  "visits": {
+    "defaultMessage": "Wizyty"
+  },
+  "visits count": {
+    "defaultMessage": "Liczba wizyt"
+  },
+  "vitalia-benefits-1": {
+    "defaultMessage": "Nauczysz się jeść z przyjemnością i bez poczucia winy"
+  },
+  "vitalia-benefits-2": {
+    "defaultMessage": "Posiłki nie będą więcej wyznacznikiem Twojego trybu życia"
+  },
+  "vitalia-benefits-3": {
+    "defaultMessage": "Zwiększysz pewność siebie i poczujesz się dobrze ze swoim ciałem"
+  },
+  "vitalia-benefits-title": {
+    "defaultMessage": "W czym może pomóc Ci praca z psychodietetykiem?"
+  },
+  "vitalia-discount-book-text": {
+    "defaultMessage": "Umów wizytę z psychodietetykiem"
+  },
+  "vitalia-discount-title": {
+    "defaultMessage": "<b>Stała zniżka -15%</b><br></br>dla użytkowniczek Vitalii"
+  },
+  "vitalia-effects-1-text": {
+    "defaultMessage": "Dowiesz się prawdy na temat mitów ‘zakazanego jedzenia’. Polubisz komponowanie posiłków według własnych preferencji i zachcianek, tak aby dieta nadal dawała efekty."
+  },
+  "vitalia-effects-1-title": {
+    "defaultMessage": "Na nowo polubisz się z jedzeniem"
+  },
+  "vitalia-effects-2-text": {
+    "defaultMessage": "Zrozumiesz jak wybierać jedzenie świadomie, a nie pod wpływem impulsów. Nauczysz się zauważać, rozumieć i konstruktywnie rozładowywać swoje emocje."
+  },
+  "vitalia-effects-2-title": {
+    "defaultMessage": "Nauczysz się słuchać i rozumieć potrzeby własnego ciała"
+  },
+  "vitalia-effects-3-text": {
+    "defaultMessage": "Nauczysz się wspierania siebie w trakcie zmiany nawyków. Zaczniesz akceptować własne potrzeby i doceniać swoje osiągnięcia. Zrozumiesz, skąd wzięła się chęć do zmian."
+  },
+  "vitalia-effects-3-title": {
+    "defaultMessage": "Odbudujesz pewność siebie i poczujesz się ze sobą dobrze"
+  },
+  "vitalia-effects-title": {
+    "defaultMessage": "Jakie korzyści daje praca<br></br> z <span>psychodietetykiem?</span>"
+  },
+  "vitalia-meet-our-specialists": {
+    "defaultMessage": "Poznaj naszych specjalistów"
+  },
+  "vitalia-nav-": {
+    "defaultMessage": "Korzyści"
+  },
+  "vitalia-nav-faq": {
+    "defaultMessage": "Pytania i odpowiedzi"
+  },
+  "vitalia-nav-is-it-for-me": {
+    "defaultMessage": "Czy to dla mnie?"
+  },
+  "vitalia-nav-testimonials": {
+    "defaultMessage": "Opinie"
+  },
+  "vitalia-new-benefits-3": {
+    "defaultMessage": "Pożegnasz nadmierne kilogramy i poczujesz się dobrze ze swoim ciałem"
+  },
+  "vitalia-new-effects-2-text": {
+    "defaultMessage": "Odkryjesz przyczyny powracających kilogramów i licznych diet bez większych rezultatów. Dowiesz się, co stoi za Twoją motywacją do zmian lub jej brakiem."
+  },
+  "vitalia-new-effects-2-title": {
+    "defaultMessage": "Zrozumiesz dlaczego każda dieta kończyła się niepowodzeniem"
+  },
+  "vitalia-new-effects-3-text": {
+    "defaultMessage": "Zaczniesz słuchać swojego organizmu i jeść według jego potrzeb. Staniesz się swoim wsparciem i największą sojuszniczką w osiągnięciu wymarzonego celu."
+  },
+  "vitalia-new-effects-3-title": {
+    "defaultMessage": "Nauczysz się słuchać siebie i zauważać swoje potrzeby"
+  },
+  "vitalia-new-effects-title": {
+    "defaultMessage": "Jakie korzyści daje praca<br/> z <span>psychodietetykiem?</span>"
+  },
+  "vitalia-new-problems-1-text": {
+    "defaultMessage": "To już kolejna dieta bez efektów. Kilogramy wracają szybciej niż udało się je zgubić. Masz wrażenie, że próbowałaś już wszystkiego. Czujesz się zrezygnowana - duże skoki wagi to nieodłączny element Twojego życia."
+  },
+  "vitalia-new-problems-1-title": {
+    "defaultMessage": "Masz za sobą kilka prób odchudzania, każda dieta kończy się efektem jojo"
+  },
+  "vitalia-new-problems-3-text": {
+    "defaultMessage": "Posiłki są pocieszeniem na każdy zły dzień i nagrodą za każdy osiągnięty sukces. Jedzenie to jedyny element życia, który reguluje Twoje emocje. Wiesz, że jedzenie ma nad Tobą kontrolę ale nie potrafisz tego zmienić."
+  },
+  "vitalia-new-problems-3-title": {
+    "defaultMessage": "Jedzenie jest Twoją karą i nagrodą"
+  },
+  "vitalia-problems-1-text": {
+    "defaultMessage": "Nieustannie myślisz o jedzeniu, często zestresowana sprawdzasz kaloryczność produktów. Trudno wyobrazić Ci sobie codzienność bez ciągłego liczenia i ważenia."
+  },
+  "vitalia-problems-1-title": {
+    "defaultMessage": "Masz wrażenie, że jedzenie przejęło kontrolę nad Twoim życiem"
+  },
+  "vitalia-problems-2-text": {
+    "defaultMessage": "Nikt nie rozumie Twojej walki o nową sylwetkę. Bliscy twierdzą, że nie potrzebujesz zmian. Czujesz, że znajomi nie ma pojęcia, przez co przechodzisz."
+  },
+  "vitalia-problems-2-title": {
+    "defaultMessage": "Czujesz się nierozumiana, nie masz w nikim wsparcia"
+  },
+  "vitalia-problems-3-text": {
+    "defaultMessage": "Wypad ze znajomymi do knajpy przyprawia Cię o dreszcze, stresuje Cię brak kontroli nad kalorycznością posiłków. Unikasz jedzenia w gościach."
+  },
+  "vitalia-problems-3-title": {
+    "defaultMessage": "Jedzenie negatywnie wpływa na Twoje relacje"
+  },
+  "vitalia-problems-4-text": {
+    "defaultMessage": "Jedzenie kostki czekolady kończy się na całej tabliczce. Produkty “niedozwolone” w diecie smakują najlepiej, a po ich zjedzeniu towarzyszą Ci wyrzuty sumienia, złość i frustracja."
+  },
+  "vitalia-problems-4-title": {
+    "defaultMessage": "Masz dość objadania się"
+  },
+  "vitalia-problems-book-text": {
+    "defaultMessage": "Umów wizytę"
+  },
+  "vitalia-problems-quote-text": {
+    "defaultMessage": "Jeśli w trakcie czytania choć raz pomyślałaś <b>\"To o mnie\"</b>, konsultacja z psychodietetykiem pomoże Ci rozwiązać twoje trudności"
+  },
+  "vitalia-problems-title": {
+    "defaultMessage": "Czy to <span>dla mnie?</span>"
+  },
+  "vitalia-symptoms-1": {
+    "defaultMessage": "Nadmierna masa ciała"
+  },
+  "vitalia-symptoms-10": {
+    "defaultMessage": "Obniżona pewność siebie"
+  },
+  "vitalia-symptoms-11": {
+    "defaultMessage": "Brak wsparcia w odchudzaniu"
+  },
+  "vitalia-symptoms-12": {
+    "defaultMessage": "Powracająca stara waga"
+  },
+  "vitalia-symptoms-2": {
+    "defaultMessage": "Niedowaga"
+  },
+  "vitalia-symptoms-3": {
+    "defaultMessage": "Zmiana nawyków żywieniowych"
+  },
+  "vitalia-symptoms-4": {
+    "defaultMessage": "Zajadanie problemów"
+  },
+  "vitalia-symptoms-5": {
+    "defaultMessage": "Brak efektów diety"
+  },
+  "vitalia-symptoms-6": {
+    "defaultMessage": "Jedzenie emocjonalne"
+  },
+  "vitalia-symptoms-7": {
+    "defaultMessage": "Brak motywacji do zmiany diety"
+  },
+  "vitalia-symptoms-8": {
+    "defaultMessage": "Zdrowe odżywianie"
+  },
+  "vitalia-symptoms-9": {
+    "defaultMessage": "Krytyczny stosunek do ciała"
+  },
+  "vitalia-symptoms-title": {
+    "defaultMessage": "Z czym możesz się do nas zwrócić"
+  },
+  "vitalia-testimonials-stats-1": {
+    "defaultMessage": "Psychodietetyków"
+  },
+  "vitalia-testimonials-stats-2": {
+    "defaultMessage": "Zadowolonych klientek"
+  },
+  "vitalia-testimonials-stats-3": {
+    "defaultMessage": "Odbytych konsultacji online"
+  },
+  "vitalia-testimonials-text-1": {
+    "defaultMessage": "Współpraca z Panią Magdą była dla mnie przyjemnością, na którą czekałam każdego tygodnia. Nauczyła mnie patrzeć na dietę zupełnie inaczej, bilansować posiłki samodzielnie i nie traktować diety zero-jedynkowo."
+  },
+  "vitalia-testimonials-text-2": {
+    "defaultMessage": "Pierwszy raz w czasie \"odchudzania\" nie jestem głodna. Czuję, że jem zdrowe, dobrze skomponowane posiłki i naprawdę chudnę."
+  },
+  "vitalia-testimonials-text-3": {
+    "defaultMessage": "Pani Julia pomogła mi zrozumieć zarówno przyczyny powstania niezdrowych nawyków, jak i dostosować się do nowych. Nie narzuca swoich rozwiązań, a raczej stara się wypracować wspólne zasady i umacnia mnie w postanowieniach."
+  },
+  "vitalia-testimonials-title": {
+    "defaultMessage": "Wsparcie, które <b>naprawdę działa</b>"
+  },
+  "warm welcome": {
+    "defaultMessage": "Cześć!"
+  },
+  "week of first visit": {
+    "defaultMessage": "Week of first visit"
+  },
+  "week of first visit score": {
+    "defaultMessage": "Week of first visit score"
+  },
+  "when not": {
+    "defaultMessage": "Jakie są przeciwwskazania do psychoterapii online?"
+  },
+  "when not comparison": {
+    "defaultMessage": "Psychoterapia online posiada podobną skuteczność jak \"tradycyjna\" terapia w gabinecie. Sprawdza się w przypadku leczenia zaburzeń lękowych, nastroju, trudnościach w relacjach interpersonalnych jest pomocna dla osób, które poszukują rozwoju osobistego. Jednak są sytuacje, w których psychoterapia za pośrednictwem internetu"
+  },
+  "when not list 1": {
+    "defaultMessage": "Nawracające myśli samobójcze"
+  },
+  "when not list 2": {
+    "defaultMessage": "Doświadczenia stanów psychozy"
+  },
+  "when not list 3": {
+    "defaultMessage": "Trudności w kontroli agresji, która zagrażałaby życiu lub zdrowiu własnemu albo innych"
+  },
+  "when not list 4": {
+    "defaultMessage": "Diagnoza anoreksji i/lub wskaźnik BMI (Body Mass Index) niższy niż 18"
+  },
+  "when not list 5": {
+    "defaultMessage": "Psychoterapia dzieci poniżej 13 roku życia"
+  },
+  "when not unrolled": {
+    "defaultMessage": "nie jest wskazana. Warto zapoznać się z poniższymi przeciwwskazaniami i w razie doświadczenia takich trudności szukać innych form pomocy (np. konsultacja psychiatryczna, wizyta w przychodni przyszpitalnej):"
+  },
+  "when to consider": {
+    "defaultMessage": "Kiedy warto rozważyć psychoterapię online?"
+  },
+  "when to consider description": {
+    "defaultMessage": "W sytuacji gdy potrzebujesz pomocy w zakresie zdrowia psychicznego, a psychoterapia w gabinecie nie jest możliwa z różnych powodów. Psychoterapia za pośrednictwem internetu (video-sesje) jest praktykowana od wielu lat, a szczególnie bywa wskazana w następujących przypadkach:"
+  },
+  "woman": {
+    "defaultMessage": "Kobieta"
+  },
+  "work email": {
+    "defaultMessage": "Służbowy adres e-mail"
+  },
+  "worker help wherever": {
+    "defaultMessage": "Zapewnij wsparcie swoim pracownikom. Wtedy, kiedy tego potrzebują i gdziekolwiek są - bezpiecznie i wygodnie."
+  },
+  "worker psychological help": {
+    "defaultMessage": "<span>Zadbaj</span> o zdrowie psychiczne swoich pracowników"
+  },
+  "workshop": {
+    "defaultMessage": "<h3>Warsztaty i webinary</h3> Jak sobie radzić w czasach pandemii? Jak nauczyć się odpoczywać? A może jak budować zdrowe relacje? Dopasujemy tematy i format warsztatów/webinarów do potrzeb Twoich pracowników i bieżących wyzwań."
+  },
+  "write code": {
+    "defaultMessage": "Wpisz kod rabatowy/firmowy"
+  },
+  "write email": {
+    "defaultMessage": "Wpisz swój adres email"
+  },
+  "write expected money": {
+    "defaultMessage": "Napisz nam oczekiwaną kwotę i skąd wynika różnica pomiędzy naszymi wyliczeniami - dodatkowa sesja, nietypowe odwołanie wizyty itp. Dziękujemy!"
+  },
+  "write name and surname": {
+    "defaultMessage": "Wpisz swoje imię i nazwisko"
+  },
+  "write password": {
+    "defaultMessage": "Wpisz swoje hasło"
+  },
+  "year": {
+    "defaultMessage": "Rok"
+  },
+  "yes": {
+    "defaultMessage": "Tak"
+  },
+  "yes, delete": {
+    "defaultMessage": "Tak, usuń"
+  }
+}

@@ -1,0 +1,8590 @@
+{
+  "#let's talk": [
+    {
+      "type": 0,
+      "value": "#давайтепоговоримо"
+    }
+  ],
+  "1 session": [
+    {
+      "type": 0,
+      "value": "1 зустріч"
+    }
+  ],
+  "1000 more": [
+    {
+      "type": 0,
+      "value": "1000 і більше"
+    }
+  ],
+  "4 sessions": [
+    {
+      "type": 0,
+      "value": "4 зустрічі"
+    }
+  ],
+  "8 sessions": [
+    {
+      "type": 0,
+      "value": "8 зустрічей"
+    }
+  ],
+  "Admin panel title": [
+    {
+      "type": 0,
+      "value": "Назва адміністративної панелі "
+    }
+  ],
+  "Admins": [
+    {
+      "type": 0,
+      "value": "Адміністратори"
+    }
+  ],
+  "All spots booked offline": [
+    {
+      "type": 0,
+      "value": "Усі дати заброньовані"
+    }
+  ],
+  "All spots booked online": [
+    {
+      "type": 0,
+      "value": "Усі дати заброньовані"
+    }
+  ],
+  "Available hours": [
+    {
+      "type": 0,
+      "value": "Доступі години"
+    }
+  ],
+  "B2B all stats": [
+    {
+      "type": 0,
+      "value": " В2В Вся статистика"
+    }
+  ],
+  "B2B balance stats": [
+    {
+      "type": 0,
+      "value": "B2B розрахунки"
+    }
+  ],
+  "Back": [
+    {
+      "type": 0,
+      "value": "Назад"
+    }
+  ],
+  "Back to therapist list": [
+    {
+      "type": 0,
+      "value": "Повернутися до списку терапевтів"
+    }
+  ],
+  "Book visit": [
+    {
+      "type": 0,
+      "value": "Далі"
+    }
+  ],
+  "Certificates": [
+    {
+      "type": 0,
+      "value": "Сертифікати"
+    }
+  ],
+  "Choose another day": [
+    {
+      "type": 0,
+      "value": "Виберіть інший день"
+    }
+  ],
+  "Come back": [
+    {
+      "type": 0,
+      "value": "Повернутися"
+    }
+  ],
+  "Connect with calendar": [
+    {
+      "type": 0,
+      "value": "Зв'язати з календарем"
+    }
+  ],
+  "Connected with calendar": [
+    {
+      "type": 0,
+      "value": "Зв'язано з календарем"
+    }
+  ],
+  "Consultation": [
+    {
+      "type": 0,
+      "value": "Психотерапевтичний сеанс з (ім'я терапевта)"
+    }
+  ],
+  "Dashboard": [
+    {
+      "type": 0,
+      "value": "Панель приладів (дешборд)"
+    }
+  ],
+  "Events": [
+    {
+      "type": 0,
+      "value": "Зустрічі"
+    }
+  ],
+  "Friday": [
+    {
+      "type": 0,
+      "value": "П'ятниця"
+    }
+  ],
+  "Fridays": [
+    {
+      "type": 0,
+      "value": "П'ятниці"
+    }
+  ],
+  "Hi!": [
+    {
+      "type": 0,
+      "value": "Привіт!"
+    }
+  ],
+  "I'm": [
+    {
+      "type": 0,
+      "value": "Я "
+    }
+  ],
+  "Log out": [
+    {
+      "type": 0,
+      "value": "Вийти"
+    }
+  ],
+  "Mandatory": [
+    {
+      "type": 0,
+      "value": "Обов'язкове"
+    }
+  ],
+  "Monday": [
+    {
+      "type": 0,
+      "value": "Понеділок"
+    }
+  ],
+  "Mondays": [
+    {
+      "type": 0,
+      "value": "Понеділки"
+    }
+  ],
+  "More availability": [
+    {
+      "type": 0,
+      "value": "Більше термінів"
+    }
+  ],
+  "Next available spot": [
+    {
+      "type": 0,
+      "value": "Найближчий термін"
+    }
+  ],
+  "Other": [
+    {
+      "type": 0,
+      "value": "Інше"
+    }
+  ],
+  "PVH2we": [
+    {
+      "type": 0,
+      "value": "Приєднайся до нас"
+    }
+  ],
+  "Patients": [
+    {
+      "type": 0,
+      "value": "Пацієнти"
+    }
+  ],
+  "Payout": [
+    {
+      "type": 0,
+      "value": "Виплата"
+    }
+  ],
+  "Profil": [
+    {
+      "type": 0,
+      "value": "Профіль"
+    }
+  ],
+  "Sandra Pasek quote": [
+    {
+      "type": 0,
+      "value": "На основі наукових досліджень можу сказати, що без психічного здоров’я немає фізичного здоров’я. Психічне здоров’я необхідне для того, щоб людина могла добре функціонувати у професійній та приватній сферах. Коли компанії інвестують у психічне здоров’я своїх співробітників, вони отримують віддачу від цих інвестицій, оскільки психічне благополуччя сприяє творчості, еластичності, відданості та позитивному ставленню до роботи."
+    }
+  ],
+  "Saturday": [
+    {
+      "type": 0,
+      "value": "Субота"
+    }
+  ],
+  "Saturdays": [
+    {
+      "type": 0,
+      "value": "Суботи"
+    }
+  ],
+  "Save": [
+    {
+      "type": 0,
+      "value": "Зберегти"
+    }
+  ],
+  "Schedule": [
+    {
+      "type": 0,
+      "value": "Графік"
+    }
+  ],
+  "Select a date": [
+    {
+      "type": 0,
+      "value": "Виберіть дату"
+    }
+  ],
+  "Sessions": [
+    {
+      "type": 0,
+      "value": "Сеанси"
+    }
+  ],
+  "Settings": [
+    {
+      "type": 0,
+      "value": "Налаштування"
+    }
+  ],
+  "Sex": [
+    {
+      "type": 0,
+      "value": "Стать"
+    }
+  ],
+  "Specialties modalities": [
+    {
+      "type": 0,
+      "value": "Спеціальності, модальності"
+    }
+  ],
+  "Step": [
+    {
+      "type": 0,
+      "value": "крок"
+    }
+  ],
+  "Submit": [
+    {
+      "type": 0,
+      "value": "Вислати"
+    }
+  ],
+  "Sunday": [
+    {
+      "type": 0,
+      "value": "Неділя"
+    }
+  ],
+  "Sundays": [
+    {
+      "type": 0,
+      "value": "Неділі"
+    }
+  ],
+  "Therapist stats": [
+    {
+      "type": 0,
+      "value": "Статистика психотерапевта"
+    }
+  ],
+  "Therapists": [
+    {
+      "type": 0,
+      "value": "Психотерапевти"
+    }
+  ],
+  "TherapyGuides": [
+    {
+      "type": 0,
+      "value": "Опікуни"
+    }
+  ],
+  "Thursday": [
+    {
+      "type": 0,
+      "value": "Четвер"
+    }
+  ],
+  "Thursdays": [
+    {
+      "type": 0,
+      "value": "Четверги"
+    }
+  ],
+  "Today": [
+    {
+      "type": 0,
+      "value": "Сьогодні"
+    }
+  ],
+  "Transactions": [
+    {
+      "type": 0,
+      "value": "Транзакція"
+    }
+  ],
+  "Tuesday": [
+    {
+      "type": 0,
+      "value": "Вівторок"
+    }
+  ],
+  "Tuesdays": [
+    {
+      "type": 0,
+      "value": "Вівторки"
+    }
+  ],
+  "Wallet": [
+    {
+      "type": 0,
+      "value": "Гаманець"
+    }
+  ],
+  "Wednesday": [
+    {
+      "type": 0,
+      "value": "Середа"
+    }
+  ],
+  "Wednesdays": [
+    {
+      "type": 0,
+      "value": "Середи"
+    }
+  ],
+  "Yieldbird psychological help": [
+    {
+      "type": 0,
+      "value": "Психологічна підтримка для працівників Yieldbird"
+    }
+  ],
+  "YqV7hx": [
+    {
+      "type": 0,
+      "value": "Увійти"
+    }
+  ],
+  "Z9EKCT": [
+    {
+      "type": 0,
+      "value": "Запрошуємо до співпраці амбітних психотерапевтів. Зв'яжіться з нами та дізнайтеся деталі."
+    }
+  ],
+  "about me": [
+    {
+      "type": 0,
+      "value": "Про мене"
+    }
+  ],
+  "actions": [
+    {
+      "type": 0,
+      "value": "Дії"
+    }
+  ],
+  "active filters": [
+    {
+      "type": 0,
+      "value": "Активні фільтри"
+    }
+  ],
+  "add": [
+    {
+      "type": 0,
+      "value": "Додати"
+    }
+  ],
+  "add certificate": [
+    {
+      "type": 0,
+      "value": "Додати сертифікат"
+    }
+  ],
+  "add range": [
+    {
+      "type": 0,
+      "value": "Додати діапазон"
+    }
+  ],
+  "add session": [
+    {
+      "type": 0,
+      "value": "Додати сеанси"
+    }
+  ],
+  "additional sorting points": [
+    {
+      "type": 0,
+      "value": "Додаткові пункти сортування"
+    }
+  ],
+  "adjusted to needs": [
+    {
+      "type": 0,
+      "value": "Пристосованя до ваших потреб"
+    }
+  ],
+  "adjusted to needs info": [
+    {
+      "type": 0,
+      "value": "Співробітники часто кажуть, що надання послуг психічної підтримки було однією з найкращих ідей, реалізованих фірмою в якій вони працюють."
+    }
+  ],
+  "admin panel welcome": [
+    {
+      "type": 0,
+      "value": "Ласкаво просимо до панелі адміністрування wellbee."
+    }
+  ],
+  "admin-panel.link-and-delete": [
+    {
+      "type": 0,
+      "value": "Link with other patient and delete"
+    }
+  ],
+  "admin-panel.patient-deleted": [
+    {
+      "type": 0,
+      "value": "Пацієнта видалено"
+    }
+  ],
+  "aggree with therms": [
+    {
+      "type": 0,
+      "value": "Я погоджуюсь з правилами Wellbee.pl"
+    }
+  ],
+  "aggrement to health data processing": [
+    {
+      "type": 0,
+      "value": "Я погоджуюсь на обробку конфіденційних даних (включаючи стан здоров’я) з метою покращення процесу безкоштовної консультації, вибору терапевта та виконання договору відповідно до "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "регламенту "
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "agreement to contact data processing 1": [
+    {
+      "type": 0,
+      "value": "Надсилаючи запит на контакт, я даю згоду Wellbee на обробку персональних даних відповідно до "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " регламенту"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": ", щоб проаналізувати заявку та представити пропозицію Wellbee."
+    }
+  ],
+  "already paid for": [
+    {
+      "type": 0,
+      "value": "Оплачено"
+    }
+  ],
+  "anonimity": [
+    {
+      "type": 0,
+      "value": "Безпечно та анонімово"
+    }
+  ],
+  "anonimity info": [
+    {
+      "type": 0,
+      "value": "Ви надаєте своїм співробітникам простір, в якому вони отримають підтримку - безпечно і без відома роботодавця."
+    }
+  ],
+  "any therapy guide": [
+    {
+      "type": 0,
+      "value": "Будь-який опікун"
+    }
+  ],
+  "appointment title": [
+    {
+      "type": 0,
+      "value": "Сеанс психотерапії з (ім'я терапевта)"
+    }
+  ],
+  "appointment.back-to-calendar": [
+    {
+      "type": 0,
+      "value": "повернутися до календаря"
+    }
+  ],
+  "appointment.we-have-a-problem": [
+    {
+      "type": 0,
+      "value": "у нас проблема"
+    }
+  ],
+  "are you sure you want to delete?": [
+    {
+      "type": 0,
+      "value": "Ви впевнені, що хочете видалити цей файл?"
+    }
+  ],
+  "arranging calls": [
+    {
+      "type": 0,
+      "value": "Організування бесіди з терапевтом"
+    }
+  ],
+  "authorization state": [
+    {
+      "type": 0,
+      "value": "Стан авторизації"
+    }
+  ],
+  "b2b care": [
+    {
+      "type": 0,
+      "value": "Піклуючись про своїх співробітників - ви піклуєтеся про фірму"
+    }
+  ],
+  "b2b discount": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Знижка 10 злотих на наступну зустріч "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " Якщо ви використаєте свої безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, для продовження психотерапії), Wellbee надасть вам знижку в розмірі 10 злотих на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають чинному прайс-листу на сайті wellbee.pl."
+    }
+  ],
+  "b2b discount options -20": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Знижка 20 злотих на наступну зустріч "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " Якщо ви використаєте безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, продовжити сеанси з вибраним спеціалістом), Wellbee надасть вам знижку 20 злотих на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають діючому прайс-листу на профілю даного спеціаліста."
+    }
+  ],
+  "b2b discount options -30": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Знижка 30 злотих на наступну зустріч "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " Якщо ви використаєте безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, продовжити сеанси з вибраним спеціалістом), Wellbee надасть вам знижку 30 злотих на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають діючому прайс-листу на профілю даного спеціаліста."
+    }
+  ],
+  "b2b discount options 10%": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Знижка 10% на наступну зустріч"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " Якщо Ви використаєте безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, продовжити сеанси з вибраним спеціалістом), Wellbee надасть вам знижку 10% на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають діючому прайс-листу на профілю даного спеціаліста."
+    }
+  ],
+  "b2b discount options ailleron canon": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Знижка 10 злотих на наступну зустріч"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " Якщо ви використаєте безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, продовжити сеанси з вибраним спеціалістом), Wellbee надасть вам знижку 10 злотих на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають діючому прайс-листу на профілю даного спеціаліста."
+    }
+  ],
+  "b2b discount options jobimpulse": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Знижка 10 злотих на наступну зустріч"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " Якщо ви використаєте безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, продовжити сеанси з вибраним спеціалістом), Wellbee надасть вам знижку 10 злотих на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають діючому прайс-листу на профілю даного спеціаліста."
+    }
+  ],
+  "b2b discout divante": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Знижка 10 злотих на наступну зустріч "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " Якщо ви використаєте безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, продовжити сеанси з вибраним спеціалістом), Wellbee надасть вам знижку 10 злотих на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають діючому прайс-листу на профілю даного спеціаліста."
+    }
+  ],
+  "b2b first text": [
+    {
+      "type": 0,
+      "value": "У відповідь на поточну ситуацію та задовольнивши ваші потреби, у рамках програми співпраці wellbeing (добробуту) "
+    },
+    {
+      "type": 1,
+      "value": "company"
+    },
+    {
+      "type": 0,
+      "value": " разом із Wellbee підготували для вас рішення, яке підтримає вас у сфері психічного здоров’я, емоційного розвитку та побудови здорових стосунків з іншими людьми."
+    }
+  ],
+  "b2b free visits": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 2 безкоштовні зустрічі на квартал "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-відеоконсультації Yieldbird ви можете мати 2 безкоштовні консультації/зустрічі на квартал, використовуючи код компанії. Якщо ви не використаєте сесії під час одного кварталу, їх можна використати в наступному кварталі, сумарно усі сеанси необхідно використати протягом 1 року."
+    }
+  ],
+  "b2b free visits 100x": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 100 безкоштовні зустрічі на рік "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає Brenntag, Ви можете отримати 100 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits 10clouds": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 3 безкоштовні зустрічі на рік "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає 10cloud, Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits KWS": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Необмежена кількість безкоштовних сеансів "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, наданої Keywords Studios, Ви можете здійснити будь-яку кількість безкоштовних відвідувань, використовуючи код компанії"
+    }
+  ],
+  "b2b free visits ailleron jobimpulse": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 3 безкоштовні зустрічі на рік "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає (компанія), Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits aludesign": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 3 безкоштовні зустрічі на рік "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає Aludesign, Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits axpo": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 5 безкоштовних зустрічей "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках консультації, яку надає Axpo, Ви можете отримати 5 безкоштовних консультацій/зустрічей, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits barry": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 3 безкоштовні зустрічі на рік "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає Barry Callebaut, Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits canon": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 3 безкоштовні зустрічі на рік "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає Canon, Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits caps": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 2 безкоштовні зустрічі на рік "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає CAPS, Ви можете отримати 2 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits currenda": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 3 безкоштовні зустрічі на рік "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає Currenda, Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits divante": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 3 безкоштовні зустрічі на рік "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає Divante, Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits grape up": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 5 безкоштовних зустрічей на рік "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає Grape Up, Ви можете отримати 5 безкоштовних консультацій/зустрічей на рік, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits ing": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 6 безкоштовних зустрічей"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає ING, Ви можете отримати 6 безкоштовних консультацій/зустрічей, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits kerris": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 6 безкоштовних зустрічей на рік "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає Kerris Group, Ви можете отримати 6 безкоштовних консультацій/зустрічей на рік, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits maxima": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 3 безкоштовні зустрічі на рік "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає Maxima Europe, Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits orsted": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 15 безкоштовних зустрічей"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає Ørsted Polska, Ви можете отримати 15 безкоштовних консультацій/зустрічей, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits techland": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 4 безкоштовні зустрічі"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає Techland, Ви можете отримати 4 безкоштовні консультації/зустрічі, використовуючи код компанії."
+    }
+  ],
+  "b2b free visits urw": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 6 безкоштовних зустрічей"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-консультації, яку надає Unibail‑Rodamco‑Westfield, Ви можете отримати 6 безкоштовних консультацій/зустрічей, використовуючи код компанії."
+    }
+  ],
+  "b2b how it works 1 aviva": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Анонімно та безпечно "
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " процес призначення відбувається через платформу Wellbee, і відвідування є повністю анонімними. Усі ваші консультації з фахівцем повністю конфіденційні."
+    }
+  ],
+  "b2b mirumee": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "4 безкоштовні зустрічі на місяць"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "У рамах онлайн-консультацій, які надає Mirumee, ви можете брати участь у безкоштовних сесіях чотири рази на місяць, використовуючи код компанії."
+    }
+  ],
+  "b2b options customfirsttext solwit": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "3 free visits per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "Your employer has a pool of free consultations (offline / online) provided by the code: @SOLWIT1!. Each employee can receive up to 3 free visits per year."
+    }
+  ],
+  "b2b options customsecondtext solwit": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Afterwards 40 PLN discount on every session"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "When you run out of free visits, you will receive -40 PLN discount for next meetings. The use is anonymous."
+    }
+  ],
+  "b2b saleor": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "4 безкоштовні зустрічі на місяць"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "У рамах онлайн-консультацій, які надає Saleor, ви можете брати участь у безкоштовних сесіях чотири рази на місяць, використовуючи код компанії."
+    }
+  ],
+  "b2b why invest": [
+    {
+      "type": 0,
+      "value": "Навіщо інвестувати в психічне здоров’я співробітників"
+    }
+  ],
+  "b2b why invest source": [
+    {
+      "type": 0,
+      "value": "Джерела: Oracle Mental Health Report; Absencja chorobowa w 2018 roku, ZUS, 2019;"
+    }
+  ],
+  "b2b why invest stats 1": [
+    {
+      "type": 0,
+      "value": "працівників кажуть, що пандемія негативно впливає на їхнє психічне здоров’я"
+    }
+  ],
+  "b2b why invest stats 1.5": [
+    {
+      "type": 0,
+      "value": "працівників заявляють про погіршення якості життя"
+    }
+  ],
+  "b2b why invest stats 2": [
+    {
+      "type": 0,
+      "value": "співробітники очікують підтримки у сфері психічного здоров’я від своєї компанії"
+    }
+  ],
+  "b2b why invest stats 3": [
+    {
+      "type": 0,
+      "value": "щороку польські компанії могли б заощадити, якби надавали психологічну підтримку своїм працівникам"
+    }
+  ],
+  "b2b why invest stats 3 title": [
+    {
+      "type": 0,
+      "value": "6 млрд злотих"
+    }
+  ],
+  "b2b-landings.book-visit": [
+    {
+      "type": 0,
+      "value": "Призначати зустріч"
+    }
+  ],
+  "b2b-landings.book-visit-wherever": [
+    {
+      "type": 0,
+      "value": "Запишіться на прийом до спеціалістів Wellbee, коли Вам це потрібно та де б Ви не були – безпечно та зручно."
+    }
+  ],
+  "b2b-landings.consultation-amount-1": [
+    {
+      "type": 0,
+      "value": "безкоштовні зустрічі"
+    }
+  ],
+  "b2b-landings.consultation-amount-2-4": [
+    {
+      "type": 0,
+      "value": "безкоштовні зустрічі"
+    }
+  ],
+  "b2b-landings.consultation-amount-5-21": [
+    {
+      "type": 0,
+      "value": "безкоштовні зустрічі"
+    }
+  ],
+  "b2b-landings.first-text-custom-ey": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Five -200 zł discounts per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " You are entitled to schedule 5 visits with -200 zł discount per year - when scheduling your appointment simply use the company code provided by the HR department."
+    }
+  ],
+  "b2b-landings.first-text-custom-sente": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Jedna zniżka -50% w roku"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " W ramach wideokonsultacji online zapewnionych przez Sente, możesz otrzymać jednorazową zniżkę -50% w ciągu roku, wykorzystując do tego kod firmowy."
+    }
+  ],
+  "b2b-landings.first-text-custom-stx": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "16x -50% discount per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " You are entitled to schedule 16 visits with -50% discount per year - when scheduling your appointment simply use the company code provided by the HR department."
+    }
+  ],
+  "b2b-landings.how-it-works": [
+    {
+      "type": 0,
+      "value": "Як це працює?"
+    }
+  ],
+  "b2b-landings.how-it-works-1": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Анонімно та безпечно "
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " процес призначення сеансів, а також самі відвідування відбуваються через платформу Wellbee і є повністю анонімними. Ваш роботодавець не знає, хто і коли користується послугами. Усі консультації між вами та даним фахівцем є повністю конфіденційними."
+    }
+  ],
+  "b2b-landings.how-it-works-2": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Швидко та зручно "
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " Ви можете брати участь у консультації на будь-якому пристрої, коли Вам зручно і де б Ви не були. Знайдіть місце, де Вам буде комфортно – важливо лише, щоб у вас був хороший доступ до Інтернету."
+    }
+  ],
+  "b2b-landings.how-it-works-3": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Персоналізація "
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " ви зможете вибрати фахівця самостійно або скористатися безкоштовною послугою нашої команди опікунів, яка допоможе підібрати спеціаліста відповідно до ваших потреб."
+    }
+  ],
+  "b2b-landings.limited-options-discount": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Знижка "
+        },
+        {
+          "type": 1,
+          "value": "discount"
+        },
+        {
+          "type": 0,
+          "value": " злотих на наступну зустріч"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "Якщо ви використаєте безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, продовжити сеанси з вибраним спеціалістом), Wellbee надасть вам знижку "
+    },
+    {
+      "type": 1,
+      "value": "discount"
+    },
+    {
+      "type": 0,
+      "value": " злотих на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають діючому прайс-листу на профілю даного спеціаліста."
+    }
+  ],
+  "b2b-landings.limited-options-free-visits": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " "
+        },
+        {
+          "type": 1,
+          "value": "freeVisits"
+        },
+        {
+          "type": 0,
+          "value": " "
+        },
+        {
+          "type": 1,
+          "value": "consultation"
+        },
+        {
+          "type": 0,
+          "value": " на "
+        },
+        {
+          "type": 1,
+          "value": "period"
+        },
+        {
+          "type": 0,
+          "value": " "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " У рамках онлайн-відеоконсультації "
+    },
+    {
+      "type": 1,
+      "value": "company"
+    },
+    {
+      "type": 0,
+      "value": " ви можете мати "
+    },
+    {
+      "type": 1,
+      "value": "freeVisits"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "consultation"
+    },
+    {
+      "type": 0,
+      "value": " на "
+    },
+    {
+      "type": 1,
+      "value": "period"
+    },
+    {
+      "type": 0,
+      "value": ", використовуючи код компанії."
+    }
+  ],
+  "b2b-landings.logo-text-alternative": [
+    {
+      "type": 0,
+      "value": "У відповідь на поточну ситуацію та задовольнивши ваші потреби, ваша організація вирішила співпрацювати з Wellbee – онлайн-платформою, яка пропонує доступ до кваліфікованих спеціалістів. Коли варто скористатися їхніми порадами? Коли ви хочете подбати про своє самопочуття, ви шукаєте психологічну підтримку чи психотерапевта, ви хочете краще зрозуміти себе та подбати про задовільні стосунки з іншими."
+    }
+  ],
+  "b2b-landings.logo-text-common": [
+    {
+      "type": 0,
+      "value": "У відповідь на поточну ситуацію та задовольнивши ваші потреби, ваша організація вирішила співпрацювати з Wellbee – онлайн-платформою, яка пропонує доступ до кваліфікованих спеціалістів. Коли варто скористатися їхніми порадами? Коли ви хочете подбати про своє самопочуття, ви шукаєте психологічну підтримку чи психотерапевта, ви хочете краще зрозуміти себе та подбати про задовільні стосунки з іншими."
+    }
+  ],
+  "b2b-landings.logo-text-custom-savangard": [
+    {
+      "type": 0,
+      "value": "W odpowiedzi na obecną sytuację i adresując Wasze potrzeby, firma Savangard zdecydowała się na współpracę z Wellbee - platformą online oferującą dostęp do wykwalifikowanych specjalistów. Kiedy warto skorzystać z ich porady? Wtedy, gdy chcecie zadbać o swój wellbeing, szukacie wsparcia psychologicznego lub psychoterapeuty, pragniecie lepiej zrozumieć siebie oraz chcecie zadbać o satysfakcjonujące relacje z innymi."
+    }
+  ],
+  "b2b-landings.period-month": [
+    {
+      "type": 0,
+      "value": "місяць"
+    }
+  ],
+  "b2b-landings.period-quarter": [
+    {
+      "type": 0,
+      "value": "квартал"
+    }
+  ],
+  "b2b-landings.period-year": [
+    {
+      "type": 0,
+      "value": "рік"
+    }
+  ],
+  "b2b-landings.psychological-help": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Подбай"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": " про своє благополуччя та психічне здоров’я"
+    }
+  ],
+  "b2b-landings.second-text-custom-sente": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "10 zł zniżki na kolejne"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " Jeśli wykorzystasz przysługującą Ci zniżkę, a chcesz umówić kolejne wizyty (aby np. kontynuować sesje z wybranym specjalistą), otrzymasz od Wellbee zniżkę w wysokości 10 zł na każdą kolejną wizytę po podaniu kodu firmowego. Ceny konsultacji są zgodne z aktualnym cennikiem przy profilu danego specjalisty."
+    }
+  ],
+  "b2b-landings.therapist-lead-experienced": [
+    {
+      "type": 0,
+      "value": "Досвідчені"
+    }
+  ],
+  "b2b-landings.therapist-lead-experienced-info": [
+    {
+      "type": 0,
+      "value": "Вони мають досвід вирішення ряду проблем"
+    }
+  ],
+  "b2b-landings.therapist-lead-improvement": [
+    {
+      "type": 0,
+      "value": "Дбають про безперервний розвиток"
+    }
+  ],
+  "b2b-landings.therapist-lead-improvement-info": [
+    {
+      "type": 0,
+      "value": "Усі наші спеціалісти мають відповідну кваліфікацію, проходять навчання та перебувають під постійним наглядом"
+    }
+  ],
+  "b2b-landings.therapist-lead-text": [
+    {
+      "type": 0,
+      "value": "Ми дбаємо про те, щоб твої співробітники мали доступ до високоякісних спеціалістів"
+    }
+  ],
+  "b2b-landings.therapist-lead-title": [
+    {
+      "type": 0,
+      "value": "Фахівці Wellbee, яким можна довіряти"
+    }
+  ],
+  "b2b-landings.therapist-lead-verified": [
+    {
+      "type": 0,
+      "value": "Перевірені"
+    }
+  ],
+  "b2b-landings.therapist-lead-verified-info": [
+    {
+      "type": 0,
+      "value": "Наші спеціалісти проходять багатоетапний процес набору"
+    }
+  ],
+  "b2b-landings.therapy-steps": [
+    {
+      "type": 0,
+      "value": "Для запису на зустріч виконайте кілька простих кроків"
+    }
+  ],
+  "b2b-landings.therapy-steps-1": [
+    {
+      "type": 0,
+      "value": "Виберіть фахівця та дату сеансу. Ви можете використовувати будь-яку адресу електронної пошти, щоб зарезервувати термін."
+    }
+  ],
+  "b2b-landings.therapy-steps-2": [
+    {
+      "type": 0,
+      "value": "Якщо ви не знаєте, якого терапевта вибрати, зателефонуйте по номеру "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " +48 732 489 003 "
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": " або запишіться на прийом до "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Therapy Carer "
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "b2b-landings.therapy-steps-3": [
+    {
+      "type": 0,
+      "value": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою."
+    }
+  ],
+  "b2b-landings.therapy-steps-4": [
+    {
+      "type": 0,
+      "value": "Ви отримаєте запрошення на консультацію за допомогою Google Meet."
+    }
+  ],
+  "b2b-landings.unlimited-options": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Безлімітні безкоштовні консультації"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "Використовуючи код компанії Ви отримуєте необмежену кількість безкоштовних онлайн-консультацій в рамах послуг від "
+    },
+    {
+      "type": 1,
+      "value": "company"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "back to settings": [
+    {
+      "type": 0,
+      "value": "Поверніться до налаштувань"
+    }
+  ],
+  "back to wellbee": [
+    {
+      "type": 0,
+      "value": "Повернутись на wellbee.pl"
+    }
+  ],
+  "bank account number": [
+    {
+      "type": 0,
+      "value": "номер банківського рахунку"
+    }
+  ],
+  "benefits": [
+    {
+      "type": 0,
+      "value": "Бажана вигода"
+    }
+  ],
+  "benefits info": [
+    {
+      "type": 0,
+      "value": "Розширте свою програму благополуччя та запропонуйте одну з найбажаніших вигід сьогодні"
+    }
+  ],
+  "bio en": [
+    {
+      "type": 0,
+      "value": "Опис англійською (EN)"
+    }
+  ],
+  "bio pl": [
+    {
+      "type": 0,
+      "value": "Опис польською (PL)"
+    }
+  ],
+  "bio ru": [
+    {
+      "type": 0,
+      "value": "Опис російською (RU)"
+    }
+  ],
+  "book a visit": [
+    {
+      "type": 0,
+      "value": "Призначати зустріч"
+    }
+  ],
+  "book left side text": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Запишіться "
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": " на 50-хвилинний сеанс психотерапії"
+    }
+  ],
+  "book session with therapy guide (no break)": [
+    {
+      "type": 0,
+      "value": "Запишіться на прийом до Опікуна Терапевта"
+    }
+  ],
+  "book therapist guide": [
+    {
+      "type": 0,
+      "value": "Записатись на консультацію "
+    }
+  ],
+  "book therapy guide": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Запишіться"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": " на безкоштовну співбесіду з Опікуном Терапії"
+    }
+  ],
+  "book video call": [
+    {
+      "type": 0,
+      "value": "Призначити відеорозмову"
+    }
+  ],
+  "book video call to choose therapist": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Запишіться "
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": "  на "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "безкоштовний "
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " відеодзвінок, щоб "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " підібрати терапевта "
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    }
+  ],
+  "book video call with therapy guide": [
+    {
+      "type": 0,
+      "value": "запланувати відеодзвінок зі своїм опікуном"
+    }
+  ],
+  "book visit step 3 (no count)": [
+    {
+      "type": 0,
+      "value": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. "
+    }
+  ],
+  "book visit step 3 (version with 100)": [
+    {
+      "type": 0,
+      "value": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. Перші 100 сеансів оплачує "
+    },
+    {
+      "type": 1,
+      "value": "company"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "book visit step 3 (version with 15)": [
+    {
+      "type": 0,
+      "value": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. Перші 15 сеансів оплачує "
+    },
+    {
+      "type": 1,
+      "value": "company"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "book visit step 3 (version with 2)": [
+    {
+      "type": 0,
+      "value": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. Перші 2 сеанси оплачує "
+    },
+    {
+      "type": 1,
+      "value": "company"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "book visit step 3 (version with 4)": [
+    {
+      "type": 0,
+      "value": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. Перші 4 сеанси оплачує "
+    },
+    {
+      "type": 1,
+      "value": "company"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "book visit step 3 (version with 5)": [
+    {
+      "type": 0,
+      "value": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. Перші 5 сеанси оплачує "
+    },
+    {
+      "type": 1,
+      "value": "company"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "book visit step 3 (version with 6)": [
+    {
+      "type": 0,
+      "value": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. Перші 6 сеанси оплачує "
+    },
+    {
+      "type": 1,
+      "value": "company"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "book visit step 3 ailleron": [
+    {
+      "type": 0,
+      "value": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. Перші 3 сеанси оплачує Ailleron."
+    }
+  ],
+  "book visit step 3 yieldbird": [
+    {
+      "type": 0,
+      "value": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам відділом кадрів. Перші 2 відвідування будуть оплачені через компанію Yieldbird."
+    }
+  ],
+  "book visit steps 3 jobimpulse": [
+    {
+      "type": 0,
+      "value": "Коли ми просимо Вас зробити оплату, використовуйте код компанії, наданий Вам фірмою. Перші 3 відвідування будуть оплачені через Job Impulse."
+    }
+  ],
+  "book visit wherever": [
+    {
+      "type": 0,
+      "value": "Заплануйте відеоконсультацію з фахівцями Wellbee, коли Вам це потрібно і де б Ви не були – безпечно та зручно."
+    }
+  ],
+  "bookedAt": [
+    {
+      "type": 0,
+      "value": "Створено"
+    }
+  ],
+  "booking complete info": [
+    {
+      "type": 0,
+      "value": "Ви щойно заплатили за прийом до терапевта. Усі деталі зустрічі Ви знайдете на електронній пошті"
+    }
+  ],
+  "browser recommendation": [
+    {
+      "type": 0,
+      "value": "Ми рекомендуємо використовувати "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Chrome. Firefox і Safari "
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " і "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Microsof Edge теж є "
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " хорошим браузером."
+    }
+  ],
+  "by availability (sort)": [
+    {
+      "type": 0,
+      "value": "Найближча дата"
+    }
+  ],
+  "calendar authorization": [
+    {
+      "type": 0,
+      "value": "Авторизація з календарем"
+    }
+  ],
+  "calendar connection active": [
+    {
+      "type": 0,
+      "value": "Авторизація з календарем активована"
+    }
+  ],
+  "calendar connection not active": [
+    {
+      "type": 0,
+      "value": "Не пов'язано з календарем."
+    }
+  ],
+  "call now": [
+    {
+      "type": 0,
+      "value": "Подзвонити зараз"
+    }
+  ],
+  "call to action know more": [
+    {
+      "type": 0,
+      "value": "Дізнайтеся більше про онлайн-психотерапію"
+    }
+  ],
+  "call with therapy guide": [
+    {
+      "type": 0,
+      "value": "Відеорозмова з Опікуном Терапії"
+    }
+  ],
+  "call with therapy guide (with name)": [
+    {
+      "type": 0,
+      "value": "Відеорозмова з: "
+    },
+    {
+      "type": 1,
+      "value": "userName"
+    }
+  ],
+  "calls are accepted": [
+    {
+      "type": 0,
+      "value": "Дзвінки приймаються в такі години:"
+    }
+  ],
+  "can i resign": [
+    {
+      "type": 0,
+      "value": "Чи можу я припинити терапію в будь-який час?"
+    }
+  ],
+  "can't restore": [
+    {
+      "type": 0,
+      "value": "Ви не відновите цю дію"
+    }
+  ],
+  "cancel event are you sure": [
+    {
+      "type": 0,
+      "value": "Ви впевнені, що хочете скасувати сеанс?"
+    }
+  ],
+  "cancel session": [
+    {
+      "type": 0,
+      "value": "Анулювати зустріч"
+    }
+  ],
+  "certificates i want to show": [
+    {
+      "type": 0,
+      "value": "Сертифікати, які Ви хочете показати"
+    }
+  ],
+  "change events to online if no address": [
+    {
+      "type": 0,
+      "value": "Змініть стаціонарні зустрічі на онлайн, якщо не вистачає адреса"
+    }
+  ],
+  "check choosen specialist": [
+    {
+      "type": 0,
+      "value": "Перевірте обраного для Вас спеціаліста."
+    }
+  ],
+  "check therapists": [
+    {
+      "type": 0,
+      "value": "Без проблем! Перевірте всіх наших спеціалістів та забронюйте дату сеансу."
+    }
+  ],
+  "choose best date": [
+    {
+      "type": 0,
+      "value": "Виберіть зручну дату і зарезервуйте близько 20 хвилин для бесіди з Опікуном Терапії, який поставить Вам кілька запитань, щоб допомогти Вам підібрати терапевта для Ваших труднощів."
+    }
+  ],
+  "choose best date but with Agnieszka": [
+    {
+      "type": 0,
+      "value": "Опікун Терапії з нашої команди відповість на всі Ваші запитання і допоможе підібрати найкращого спеціаліста для Ваших потреб."
+    }
+  ],
+  "choose therapist by yourself": [
+    {
+      "type": 0,
+      "value": "Хочеш самостійно вибрати терапевта?"
+    }
+  ],
+  "choose video call": [
+    {
+      "type": 0,
+      "value": "Вибери місто для відеодзвінка"
+    }
+  ],
+  "city": [
+    {
+      "type": 0,
+      "value": "Місто"
+    }
+  ],
+  "clear": [
+    {
+      "type": 0,
+      "value": "Видалити"
+    }
+  ],
+  "clear all": [
+    {
+      "type": 0,
+      "value": "Видалити все"
+    }
+  ],
+  "click this link": [
+    {
+      "type": 0,
+      "value": "Натисни посилання"
+    }
+  ],
+  "closest date": [
+    {
+      "type": 0,
+      "value": "Найближча дата"
+    }
+  ],
+  "closest date:": [
+    {
+      "type": 0,
+      "value": "Найближча дата"
+    }
+  ],
+  "code": [
+    {
+      "type": 0,
+      "value": "Код"
+    }
+  ],
+  "common.close": [
+    {
+      "type": 0,
+      "value": "Закрити"
+    }
+  ],
+  "common.currency": [
+    {
+      "type": 0,
+      "value": "злотих"
+    }
+  ],
+  "common.delete": [
+    {
+      "type": 0,
+      "value": "Видалити"
+    }
+  ],
+  "common.email": [
+    {
+      "type": 0,
+      "value": "Електронна пошта"
+    }
+  ],
+  "common.email-address": [
+    {
+      "type": 0,
+      "value": "Адреса електронної пошти"
+    }
+  ],
+  "common.name-and-surname": [
+    {
+      "type": 0,
+      "value": "Ім'я та прізвище"
+    }
+  ],
+  "common.phone-number": [
+    {
+      "type": 0,
+      "value": "номер телефону"
+    }
+  ],
+  "common.server-error": [
+    {
+      "type": 0,
+      "value": "Помилка сервера"
+    }
+  ],
+  "companies section header": [
+    {
+      "type": 0,
+      "value": "Нам довіряють, зокрема"
+    }
+  ],
+  "company name": [
+    {
+      "type": 0,
+      "value": "Назва твоєї компанії"
+    }
+  ],
+  "completed sessions": [
+    {
+      "type": 0,
+      "value": "Пройдено"
+    }
+  ],
+  "completed sessions tooltip": [
+    {
+      "type": 0,
+      "value": "Прийоми, які відбулися за планом. За них отримуєш оплату."
+    }
+  ],
+  "complex support": [
+    {
+      "type": 0,
+      "value": "Комплексна підтримка"
+    }
+  ],
+  "complex support info": [
+    {
+      "type": 0,
+      "value": "Ми підтримуємо вас на кожному кроці – у виборі послуг, у їх реалізації, у спілкуванні – ми стаємо вашим надійним партнером."
+    }
+  ],
+  "configured calendar": [
+    {
+      "type": 0,
+      "value": "Календар налаштовано"
+    }
+  ],
+  "confirm payment": [
+    {
+      "type": 0,
+      "value": "Я підтверджую, що ця сума відповідає моїм розрахункам"
+    }
+  ],
+  "confirm step info": [
+    {
+      "type": 0,
+      "value": "Під час співбесіди "
+    },
+    {
+      "type": 1,
+      "value": "methodText"
+    },
+    {
+      "type": 0,
+      "value": " ми обговоримо твої потреби та підберемо найкращого терапевта для тебе. Підтвердження зустрічі та додаткову інформацію отримаєш на електронну адресу "
+    },
+    {
+      "type": 1,
+      "value": "emailText"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "congratulation!": [
+    {
+      "type": 0,
+      "value": "Вітаємо!"
+    }
+  ],
+  "consider list 1": [
+    {
+      "type": 0,
+      "value": "необхідність дотримання санітарного режиму в умовах епідемії COVID-19 (карантин, люди з груп підвищеного ризику, які проживають у червоній зоні)"
+    }
+  ],
+  "consider list 2": [
+    {
+      "type": 0,
+      "value": "місце проживання, що унеможливлює використання терапії в офісі (наприклад, невеликі міста, де немає доступу до психотерапевтичної допомоги)"
+    }
+  ],
+  "consider list 3": [
+    {
+      "type": 0,
+      "value": "ситуація еміграції та відсутність доступу до психотерапії рідною мовою"
+    }
+  ],
+  "consider list 4": [
+    {
+      "type": 0,
+      "value": "інвалідність, що перешкоджає застосуванню стаціонарної терапії"
+    }
+  ],
+  "consider list 5": [
+    {
+      "type": 0,
+      "value": "зміна місця проживання з одночасним бажанням продовжити терапію у поточного терапевта"
+    }
+  ],
+  "contact marketing email agreement": [
+    {
+      "type": 0,
+      "value": "Я погоджуюсь отримувати комерційну та маркетингову інформацію щодо послуг і продуктів, які пропонує Wellbee, на адресу електронної пошти, зазначену у заявці, включаючи повідомлення, надіслані системою автоматично."
+    }
+  ],
+  "contact us": [
+    {
+      "type": 0,
+      "value": "Зв'яжись з нами"
+    }
+  ],
+  "contact us info": [
+    {
+      "type": 0,
+      "value": "Заповни та надішли заявку, і ми зв’яжемося з вами найближчим часом"
+    }
+  ],
+  "contract type": [
+    {
+      "type": 0,
+      "value": "Тип договору"
+    }
+  ],
+  "copy link": [
+    {
+      "type": 0,
+      "value": "Копіювати посилання"
+    }
+  ],
+  "copy to clipboard": [
+    {
+      "type": 0,
+      "value": "Копіювати до буфера"
+    }
+  ],
+  "country": [
+    {
+      "type": 0,
+      "value": "Країна"
+    }
+  ],
+  "create new account": [
+    {
+      "type": 0,
+      "value": "Створюю новий обліковий запис"
+    }
+  ],
+  "created at": [
+    {
+      "type": 0,
+      "value": "Створено"
+    }
+  ],
+  "date filter": [
+    {
+      "type": 0,
+      "value": "Бажаний час прийому"
+    }
+  ],
+  "delete": [
+    {
+      "type": 0,
+      "value": "Видалити"
+    }
+  ],
+  "delete account info": [
+    {
+      "type": 0,
+      "value": "Щоб видалити обліковий запис, зверніться до Служби веб-сайту, надіславши повідомлення на таку адресу:"
+    }
+  ],
+  "delete link with google calendar": [
+    {
+      "type": 0,
+      "value": "Видалити посилання на календар"
+    }
+  ],
+  "delete?": [
+    {
+      "type": 0,
+      "value": "Видалити запис?"
+    }
+  ],
+  "did not take place because of patient": [
+    {
+      "type": 0,
+      "value": "Зустріч не відбулась з вини пацієнта (терапевт отримує гроші)"
+    }
+  ],
+  "discard changes": [
+    {
+      "type": 0,
+      "value": "Відхилити зміни"
+    }
+  ],
+  "discount": [
+    {
+      "type": 0,
+      "value": "Знижка"
+    }
+  ],
+  "do you have account": [
+    {
+      "type": 0,
+      "value": "Вже маєш свій обліковий запис?"
+    }
+  ],
+  "do you want to choose therapist": [
+    {
+      "type": 0,
+      "value": "Хочеш самостійно вибрати терапевта?"
+    }
+  ],
+  "don't know wo to choose?": [
+    {
+      "type": 0,
+      "value": "Не знаєш кого вибрати? Зателефонуй"
+    }
+  ],
+  "edit admin": [
+    {
+      "type": 0,
+      "value": "Редагування Адміністратора"
+    }
+  ],
+  "edit therapist": [
+    {
+      "type": 0,
+      "value": "Редагування Терапевта"
+    }
+  ],
+  "edit therapy guide": [
+    {
+      "type": 0,
+      "value": "Редагування Опікуна"
+    }
+  ],
+  "email change info": [
+    {
+      "type": 0,
+      "value": "Щоб змінити адресу електронної пошти, зверніться до Служби веб-сайту, надіславши повідомлення на таку адресу:"
+    }
+  ],
+  "email placeholder": [
+    {
+      "type": 0,
+      "value": "наприклад@email.com"
+    }
+  ],
+  "employees": [
+    {
+      "type": 0,
+      "value": "Кількість співробітників у твоїй компанії"
+    }
+  ],
+  "end": [
+    {
+      "type": 0,
+      "value": "Кінець"
+    }
+  ],
+  "end before begining": [
+    {
+      "type": 0,
+      "value": "Кінець епізоду перед початком епізоду"
+    }
+  ],
+  "error adding session": [
+    {
+      "type": 0,
+      "value": "Помилка при додаванні зустрічі"
+    }
+  ],
+  "error after deadline": [
+    {
+      "type": 0,
+      "value": "Спроба несвоєчасного платежу. Зв’яжись з "
+    },
+    {
+      "type": 1,
+      "value": "therapyGuideEmail"
+    }
+  ],
+  "error already paid": [
+    {
+      "type": 0,
+      "value": "Зустріч вже оплачена"
+    }
+  ],
+  "error already used code": [
+    {
+      "type": 0,
+      "value": "Код вже використано, будь ласка, зв’яжись з "
+    },
+    {
+      "type": 1,
+      "value": "therapyGuideEmail"
+    }
+  ],
+  "error calendar limit pwc": [
+    {
+      "type": 0,
+      "value": "Твої 3 безкоштовні прийоми вичерпано"
+    }
+  ],
+  "error date not available": [
+    {
+      "type": 0,
+      "value": "Дата вже заброньована"
+    }
+  ],
+  "error invalid code": [
+    {
+      "type": 0,
+      "value": "На жаль, код неправильний, виправ його або зв’яжись з "
+    },
+    {
+      "type": 1,
+      "value": "therapyGuideEmail"
+    }
+  ],
+  "error submit error": [
+    {
+      "type": 0,
+      "value": "Щось пішло не так. Повернись до електронного повідомлення та знову перейди до оплати."
+    }
+  ],
+  "error.calendar-limit": [
+    {
+      "type": 0,
+      "value": "Твої 3 безкоштовні прийоми вичерпано"
+    }
+  ],
+  "error.date-not-available": [
+    {
+      "type": 0,
+      "value": "Sorry, the selected date was just taken. Please select another date or find different specialist."
+    }
+  ],
+  "error.server-error-appointment": [
+    {
+      "type": 0,
+      "value": "A server error has occurred. Please try again, and in case of further errors please contact us at opiekun@wellbee.pl"
+    }
+  ],
+  "error.unknown-error-appointment": [
+    {
+      "type": 0,
+      "value": "An unknown error has occurred. Please try again, and in case of further errors please contact us at opiekun@wellbee.pl"
+    }
+  ],
+  "event information": [
+    {
+      "type": 0,
+      "value": "Інформація про зустріч"
+    }
+  ],
+  "event price": [
+    {
+      "type": 0,
+      "value": "Ціна зустрічі"
+    }
+  ],
+  "event status canceled": [
+    {
+      "type": 0,
+      "value": "Скасоване"
+    }
+  ],
+  "event status finished": [
+    {
+      "type": 0,
+      "value": "Завершене"
+    }
+  ],
+  "event status payment failed": [
+    {
+      "type": 0,
+      "value": "Неоплачене"
+    }
+  ],
+  "event status pending": [
+    {
+      "type": 0,
+      "value": "Майбутні зустрічі"
+    }
+  ],
+  "every": [
+    {
+      "type": 0,
+      "value": "Що"
+    }
+  ],
+  "example-therapist-1-title": [
+    {
+      "type": 0,
+      "value": "Екзистенційно-гуманістична психотерапевтка"
+    }
+  ],
+  "example-therapist-2-title": [
+    {
+      "type": 0,
+      "value": "Психоаналітичний психотерапевт"
+    }
+  ],
+  "executed": [
+    {
+      "type": 0,
+      "value": "Виконано"
+    }
+  ],
+  "feature list 1": [
+    {
+      "type": 0,
+      "value": "Подбай про формальності, пов’язані з курсом психотерапії, не виходячи з дому – тобі потрібен лише доступ до нашої платформи."
+    }
+  ],
+  "feature list 2": [
+    {
+      "type": 0,
+      "value": "Допоможе вибрати фахівця і розвіє будь-які сумніви щодо твоєї терапії. Подбає про те, щоб тобі було добре з нами :)"
+    }
+  ],
+  "feature list 3": [
+    {
+      "type": 0,
+      "value": "Ми співпрацюємо з шанованими професіоналами, які мають підтверджений досвід терапевтичної роботи."
+    }
+  ],
+  "feature list label 1": [
+    {
+      "type": 0,
+      "value": "Комплексна онлайн-психотерапія"
+    }
+  ],
+  "feature list label 2": [
+    {
+      "type": 0,
+      "value": "У вашому розпорядженні Опікун Терапії"
+    }
+  ],
+  "feature list label 3": [
+    {
+      "type": 0,
+      "value": "Тільки кваліфіковані та перевірені психотерапевти"
+    }
+  ],
+  "feel danger": [
+    {
+      "type": 0,
+      "value": "Якщо ти відчуваєш, що твоє життя чи здоров’я загрожує тобі чи твоїм близьким, скористайся безкоштовною цілодобовою довідковою лінією: +48 815 346 060"
+    }
+  ],
+  "few questions": [
+    {
+      "type": 0,
+      "value": "Декілька запитань"
+    }
+  ],
+  "fill email": [
+    {
+      "type": 0,
+      "value": "Заповни поле своєю електронною адресою"
+    }
+  ],
+  "fill name": [
+    {
+      "type": 0,
+      "value": "Заповни поле своїм іменем або псевдонімом"
+    }
+  ],
+  "fill phone": [
+    {
+      "type": 0,
+      "value": "Заповни поле своїм номером телефону"
+    }
+  ],
+  "filter": [
+    {
+      "type": 0,
+      "value": "Фільтрувати"
+    }
+  ],
+  "find help": [
+    {
+      "type": 0,
+      "value": "Отримати допомогу"
+    }
+  ],
+  "first session": [
+    {
+      "type": 0,
+      "value": "Перша сесія"
+    }
+  ],
+  "first session info": [
+    {
+      "type": 0,
+      "value": "Вартість сеансу від 159 злотих / 50 хвилин. "
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": " Наш Опікун Терапії розповість тобі, як підготуватися до цього. Опікун весь час слідкує, щоб тобі було комфортно!"
+    }
+  ],
+  "first step completed": [
+    {
+      "type": 0,
+      "value": "Перший важливий крок у роботі над собою зроблено :)"
+    }
+  ],
+  "first step to better life": [
+    {
+      "type": 0,
+      "value": "Це перший крок до хорошого життя, вітаємо! Якщо тобі потрібна допомога, Опікун Терапії завжди у твоєму розпорядженні. Тримаємо за тебе кулачки!"
+    }
+  ],
+  "first text (common bold)": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​У відповідь на поточну ситуацію для заспокоєння ваших потреб, ваша організація вирішила співпрацювати з Wellbee​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ - онлайн-платформа, що пропонує доступ до кваліфікованих спеціалістів. Коли варто скористатися їхніми порадами? Коли ви хочете подбати про своє самопочуття, ви шукаєте психологічну підтримку чи психотерапевта, ви хочете краще зрозуміти себе та подбати про задовільні стосунки з іншими."
+    }
+  ],
+  "first text ailleron": [
+    {
+      "type": 0,
+      "value": "У відповідь на поточну ситуацію та задовольняючи ваші потреби, в рамках #WELLBEING CHALLENGE, ваша організація вирішила співпрацювати з Wellbee, платформою, яка пропонує вам доступ до фахівців, які вам доступні, якщо ви хочете подбати про своє здоров’я, стан, якщо ви шукаєте психологічну підтримку, психотерапевта або просто хочете подбати про свій емоційний розвиток чи побудувати здорові стосунки з іншими людьми."
+    }
+  ],
+  "first text aviva": [
+    {
+      "type": 0,
+      "value": "Як частина MojaAviva, ми надаємо тобі доступ до Wellbee, платформи, яка пропонує доступ до кваліфікованих спеціалістів, які допоможуть тобі подбати про твоє самопочуття та психічний стан. Запишись на прийом, якщо шукаєш психологічну підтримку, психотерапевта, психодієтолога або просто хочеш подбати про свій емоційний розвиток чи побудувати здорові стосунки з іншими людьми."
+    }
+  ],
+  "for companies": [
+    {
+      "type": 0,
+      "value": "Для компаній"
+    }
+  ],
+  "for them": [
+    {
+      "type": 0,
+      "value": "Для них"
+    }
+  ],
+  "for you": [
+    {
+      "type": 0,
+      "value": "Для тебе"
+    }
+  ],
+  "form send": [
+    {
+      "type": 0,
+      "value": "Заявку надіслано!"
+    }
+  ],
+  "free guide call": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Безкоштовна відеорозмова ​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ "
+    },
+    {
+      "type": 1,
+      "value": "guideSessionTime"
+    },
+    {
+      "type": 0,
+      "value": " хв"
+    }
+  ],
+  "from": [
+    {
+      "type": 0,
+      "value": "від"
+    }
+  ],
+  "generate link": [
+    {
+      "type": 0,
+      "value": "Створи посилання"
+    }
+  ],
+  "generate payment link question": [
+    {
+      "type": 0,
+      "value": "Створити платіжне посилання?"
+    }
+  ],
+  "generated link": [
+    {
+      "type": 0,
+      "value": "Створене посилання"
+    }
+  ],
+  "give neccesary information": [
+    {
+      "type": 0,
+      "value": "Залиш мені кілька ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​необхідних інформацій​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​щоб зв'язатися з тобою"
+    }
+  ],
+  "google calendar login success": [
+    {
+      "type": 0,
+      "value": "Вхід в Календар Google відбувся успішно"
+    }
+  ],
+  "google meet info": [
+    {
+      "type": 0,
+      "value": "Платформа wellbee використовує технології ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Google Meet​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​який працює на комп’ютері у веб-браузері без необхідності нічого встановлювати. Все, що тобі потрібно зробити, це прийняти запит браузера на доступ до мікрофона та камери, якщо ти вперше використовуєш Google Meet у цьому веб-переглядачі. "
+    }
+  ],
+  "have licence": [
+    {
+      "type": 0,
+      "value": "Чи терапевти Wellbee мають ліцензію?"
+    }
+  ],
+  "help that works": [
+    {
+      "type": 0,
+      "value": "Підтримка, котра дає ефекти"
+    }
+  ],
+  "help that works info": [
+    {
+      "type": 0,
+      "value": "Ряд компаній заявляють, що впроваджені рішення у сфері покращення психічного здоров'я дають вимірні результати."
+    }
+  ],
+  "help to help": [
+    {
+      "type": 0,
+      "value": "Допоможи мені краще допомогти собі і дай відповідь "
+    }
+  ],
+  "helpline": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Гаряча лінія​"
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " Ми знаємо, що бувають ситуації, коли твої співробітники очікують негайної підтримки і хотіли б швидко отримати допомогу. Саме для таких ситуацій ми створили Гарячу лінію."
+    }
+  ],
+  "hide": [
+    {
+      "type": 0,
+      "value": "Згорнути"
+    }
+  ],
+  "home - call to action know more": [
+    {
+      "type": 0,
+      "value": "Дізнайтеся більше"
+    }
+  ],
+  "home - therapy for you": [
+    {
+      "type": 0,
+      "value": "Психотерапія"
+    },
+    {
+      "children": [
+      ],
+      "type": 8,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": " саме для "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "тебе"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    }
+  ],
+  "home - therapy guide will answer": [
+    {
+      "type": 0,
+      "value": "Опікун Терапії з нашої команди відповість на всі твої запитання та дозволить вибрати найкращого спеціаліста для твоїх потреб."
+    }
+  ],
+  "home.availability-timerange": [
+    {
+      "type": 0,
+      "value": "Пн-Пт 8:30 - 20:30 Вихідні 10:00 - 14:00"
+    }
+  ],
+  "home.blog": [
+    {
+      "type": 0,
+      "value": "Блог"
+    }
+  ],
+  "home.book-online-visit": [
+    {
+      "type": 0,
+      "value": "Призначити зустріч онлайн"
+    }
+  ],
+  "home.or-call": [
+    {
+      "type": 0,
+      "value": "Або подзвоніть"
+    }
+  ],
+  "home.privacy-policy": [
+    {
+      "type": 0,
+      "value": "Політика приватності"
+    }
+  ],
+  "home.support-email": [
+    {
+      "type": 0,
+      "value": "kontakt@wellbee.pl"
+    }
+  ],
+  "home.terms-and-conditions": [
+    {
+      "type": 0,
+      "value": "Регламент"
+    }
+  ],
+  "how to call you": [
+    {
+      "type": 0,
+      "value": "Як я можу до тебе звертатися?"
+    }
+  ],
+  "how to prepare": [
+    {
+      "type": 0,
+      "value": "Як підготуватися до зустрічі?"
+    }
+  ],
+  "how to start": [
+    {
+      "type": 0,
+      "value": "Як почати онлайн-психотерапію в Wellbee?"
+    }
+  ],
+  "how we can help": [
+    {
+      "type": 0,
+      "value": "Як ми можемо допомогти тобі?"
+    }
+  ],
+  "i'm therapist": [
+    {
+      "type": 0,
+      "value": "Я психотерапевт."
+    }
+  ],
+  "id": [
+    {
+      "type": 0,
+      "value": "ID"
+    }
+  ],
+  "interventions": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Кризова допомога​"
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " Швидка підтримка спеціалістів у кризових ситуаціях у компанії (наприклад, аварії, випадкові події тощо)"
+    }
+  ],
+  "invalid event date": [
+    {
+      "type": 0,
+      "value": "Неправильна дата зустрічі"
+    }
+  ],
+  "invalid google password": [
+    {
+      "type": 0,
+      "value": "Пароль недійсний або користувач не має пароля."
+    }
+  ],
+  "invalid password": [
+    {
+      "type": 0,
+      "value": "Неправильний пароль"
+    }
+  ],
+  "jestem_terapeuta brand - bullet community": [
+    {
+      "type": 0,
+      "value": "ніяких табу – ми соціально заангажовані люди і не боїмося складних тем. Багато з нас давно працюють у сфері психоосвіти, і, головне, ми не уявляємо свого життя без цього."
+    }
+  ],
+  "jestem_terapeuta brand - bullet helpful": [
+    {
+      "type": 0,
+      "value": "ми не відводимо погляду - ми говоримо, коли люди, які страждають на психічні розлади, потребують нашої підтримки"
+    }
+  ],
+  "jestem_terapeuta brand - bullet new things": [
+    {
+      "type": 0,
+      "value": "стежимо за тим, що відбувається у світі психічного здоров’я. Жодна наукова чи технологічна новинка не омине нашої уваги!"
+    }
+  ],
+  "jestem_terapeuta brand - we live and know": [
+    {
+      "type": 0,
+      "value": "Ми живемо тим, що робимо. Ми знаємо, що означає стати жертвою упереджень щодо проблем із психічним здоров’ям. Ми знаємо частинку реальності, де слабкість і вразливість не вітаються – і не миримося з цим."
+    }
+  ],
+  "jestem_terapeuta brand - we want to": [
+    {
+      "type": 0,
+      "value": "Ми хочемо вплинути на імідж польської психотерапії, психоосвітити та протидіяти всім проявам стигматизації. Наша мета – донести до наших жінок та чоловіків, що варто дбати про своє психічне здоров’я. І що відчуття дуже класні."
+    }
+  ],
+  "jestem_terapeuta bullet beehive": [
+    {
+      "type": 0,
+      "value": "У нас шумно, як у вулику"
+    }
+  ],
+  "jestem_terapeuta bullet brand": [
+    {
+      "type": 0,
+      "value": "Бренд, який (справді) піклується"
+    }
+  ],
+  "jestem_terapeuta bullet community - content": [
+    {
+      "type": 0,
+      "value": "кваліфіковані спеціалісти, які вірять у сучасні рішення та високу якість обслуговування пацієнтів онлайн"
+    }
+  ],
+  "jestem_terapeuta bullet community - header": [
+    {
+      "type": 0,
+      "value": "спільнота"
+    }
+  ],
+  "jestem_terapeuta bullet mission - content": [
+    {
+      "type": 0,
+      "value": "популяризація догляду за психічним здоров’ям та використання технологій для підвищення доступності професійної психотерапевтичної допомоги"
+    }
+  ],
+  "jestem_terapeuta bullet mission - header": [
+    {
+      "type": 0,
+      "value": "місія"
+    }
+  ],
+  "jestem_terapeuta bullet partnership": [
+    {
+      "type": 0,
+      "value": "Партнерство та прозорість"
+    }
+  ],
+  "jestem_terapeuta bullet system - content": [
+    {
+      "type": 0,
+      "value": "сприяння онлайн-психотерапії та управління віртуальним офісом"
+    }
+  ],
+  "jestem_terapeuta bullet system - header": [
+    {
+      "type": 0,
+      "value": "система"
+    }
+  ],
+  "jestem_terapeuta bullet therapy guide for patients": [
+    {
+      "type": 0,
+      "value": "Опікун Терапії для пацієнтів"
+    }
+  ],
+  "jestem_terapeuta bullet work tool": [
+    {
+      "type": 0,
+      "value": "Сучасний робочий інструмент"
+    }
+  ],
+  "jestem_terapeuta how Wellbee works": [
+    {
+      "type": 0,
+      "value": "Як працює wellbee?"
+    }
+  ],
+  "jestem_terapeuta how Wellbee works - bullet benefits": [
+    {
+      "type": 0,
+      "value": "Переваги для #teamWellbee – очікуй від нас додаткового контенту, тренінгів, вебінарів та заходів, призначених для спільноти пацієнтів та психотерапевтів."
+    }
+  ],
+  "jestem_terapeuta how Wellbee works - bullet community": [
+    {
+      "type": 0,
+      "value": "Wellbee – це насамперед спільнота відкритих, цікавих та підтримуючих людей у сфері знань про психічне здоров’я. Нам подобається думати про себе як про вулик, де кожен знайде безпечний притулок і натхнення діяти."
+    }
+  ],
+  "jestem_terapeuta how Wellbee works - bullet social media group": [
+    {
+      "type": 0,
+      "value": "У нас є група в соціальних мережах, де ми ділимося досвідом. Ми також будемо раді випити з тобою каву в нашому офісі та розповісти про те, як ти з нами працюєш і як ми можемо допомогти тобі розвинути твої професійні компетенції. Що ми можемо зробити для тебе, щоб тобі стало ще краще?"
+    }
+  ],
+  "jestem_terapeuta how do we work": [
+    {
+      "type": 0,
+      "value": "Як ми співпрацюємо з психотерапевтами?"
+    }
+  ],
+  "jestem_terapeuta how do we work - bullet marketing": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ми орієнтуємося на довіру​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​ – Маркетингова стратегія Wellbee буде публічною та відкритою для твоїх пропозицій"
+    }
+  ],
+  "jestem_terapeuta how do we work - community": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ми віримо в силу спільноти​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​ - ти отримаєш доступ до закритої групи для психотерапевтів Wellbee, де ми ділимося своїми коментарями та надихаємо один одного"
+    }
+  ],
+  "jestem_terapeuta how do we work - matching patients": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ми любимо розвиток і виклики​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​ - ми підберемо пацієнтів, які стикаються з проблемами, які відповідають твоїм професійним інтересам"
+    }
+  ],
+  "jestem_terapeuta how do we work - we understand trust": [
+    {
+      "type": 0,
+      "value": "Ми розуміємо важливість соціальної довіри та репутації у твоїй професії. Тому ми надаємо тобі віртуальний простір, у якому твої пацієнти почуватимуться так само безпечно, як і в кабінеті."
+    }
+  ],
+  "jestem_terapeuta how do we work - we will provide you": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ми просто піклуємося про вас​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​ - тому ми також забезпечимо тобі професійний нагляд"
+    }
+  ],
+  "jestem_terapeuta how do we work - you are a part": [
+    {
+      "type": 0,
+      "value": "Ти є частиною команди Wellbee для нас, і ми враховуємо твою думку. Ми хочемо будувати та вдосконалювати нашу платформу не лише на основі наукових досліджень, а й на основі твоїх відгуків. Приєднавшись до Wellbee, Ти маєш можливість спільно з нами створити цей проект – ми цінуємо твій професійний досвід і хочемо знати, як допомагати та навчати більш ефективно."
+    }
+  ],
+  "jestem_terapeuta therapy guide - bullet first contact": [
+    {
+      "type": 0,
+      "value": "це перший контакт пацієнта з Wellbee – ми хочемо, щоб він відчував себе комфортно з нами з першого кліку"
+    }
+  ],
+  "jestem_terapeuta therapy guide - bullet has knowledge": [
+    {
+      "type": 0,
+      "value": "має знання та компетенцію, щоб запропонувати пацієнту найкраще рішення"
+    }
+  ],
+  "jestem_terapeuta therapy guide - bullet proposing": [
+    {
+      "type": 0,
+      "value": "пропонує тип терапії та спеціаліста з урахуванням потреб пацієнта."
+    }
+  ],
+  "jestem_terapeuta therapy guide - why necessary": [
+    {
+      "type": 0,
+      "value": "Початок психотерапії може викликати у пацієнтів різні занепокоєння, у тому числі пов’язані з пошуком спеціаліста чи вибором психотерапевтичного підходу. Ми хочемо відразу розвіяти всі сумніви і супроводжувати вас у тому, щоб зробити перший крок до здоров’я. Ми вважаємо, що розмова з Опікуном Терапії є унікальною відповіддю на ці потреби в національному масштабі."
+    }
+  ],
+  "jestem_terapeuta therapy guide description": [
+    {
+      "type": 0,
+      "value": "вона психотерапевт в процесі 4-річного комплексного навчання в Психоосвітній лабораторії за напрямом індивідуальної психотерапії в психодинамічному напрямі."
+    }
+  ],
+  "jestem_terapeuta what is Wellbee": [
+    {
+      "type": 0,
+      "value": "Що таке Wellbee?"
+    }
+  ],
+  "jestem_terapeuta work tool - bullet easy to use": [
+    {
+      "type": 0,
+      "value": "Знаєш, куди клікнути - адже ця технологія призначена для обслуговування людей, а наші дизайнери подбають, щоб інтерфейс Wellbee був інтуїтивно зрозумілим та простим у використанні"
+    }
+  ],
+  "jestem_terapeuta work tool - bullet one place": [
+    {
+      "type": 0,
+      "value": "все знаходиться в одному місці, і тобі не потрібні додаткові інструменти для нагадування, створення нотаток, керування відвідуваннями, обробки платежів або проведення онлайн-сесій"
+    }
+  ],
+  "jestem_terapeuta work tool - bullet persnonalize": [
+    {
+      "type": 0,
+      "value": "Персоналізуєш свій простір - вмикаєш і вимикаєш різні параметри, як тобі подобаються. Ти найкраще знаєш, що потрібно тобі і твоїм пацієнтам."
+    }
+  ],
+  "jestem_terapeuta work tool - we built platform": [
+    {
+      "type": 0,
+      "value": "Ми побудували платформу Wellbee з урахуванням реалій польської психотерапевтичної індустрії. Ми хочемо надати тобі сучасний інструмент онлайн-психотерапії та уможливити збудування віртуального кабінету. Ми надаємо тобі простір та різноманітні функціональні можливості на вибір, ти займаєшся внутрішнім облаштуванням. "
+    }
+  ],
+  "jestem_terapeuta work tool - we understand": [
+    {
+      "type": 0,
+      "value": "Ми надаємо тобі простір та різноманітні функціональні можливості на вибір, ти займаєшся внутрішнім облаштуванням. Ми розуміємо, наскільки важливий плавний хід терапевтичного сеансу для комфорту пацієнта. Тому ми гарантуємо тобі негайну допомогу у разі технічних проблем. Тому що відчуття безпеки твоїх пацієнтів для нас так само важливе, як і твоя довіра."
+    }
+  ],
+  "job": [
+    {
+      "type": 0,
+      "value": "Посада (необов'язково)"
+    }
+  ],
+  "job example": [
+    {
+      "type": 0,
+      "value": "наприклад HR Директор"
+    }
+  ],
+  "know more": [
+    {
+      "type": 0,
+      "value": "Дізнайся більше"
+    }
+  ],
+  "language": [
+    {
+      "type": 0,
+      "value": "Мова"
+    }
+  ],
+  "languages": [
+    {
+      "type": 0,
+      "value": "Мови"
+    }
+  ],
+  "less absence": [
+    {
+      "type": 0,
+      "value": "зменшення прогулів"
+    }
+  ],
+  "less absence 2": [
+    {
+      "type": 0,
+      "value": "Менше прогулів"
+    }
+  ],
+  "less absence info": [
+    {
+      "type": 0,
+      "value": "Надай своїм співробітникам підтримку та скороти прогули до 20-50%"
+    }
+  ],
+  "less rotation": [
+    {
+      "type": 0,
+      "value": "зменшення ротації"
+    }
+  ],
+  "less rotation 2": [
+    {
+      "type": 0,
+      "value": "Менша ротація"
+    }
+  ],
+  "less rotation info": [
+    {
+      "type": 0,
+      "value": "Надаючи підтримку, ти зменшуєш ротацію (навіть на 10-30%) і мінімалізуєш витрати, пов’язані з наймом нових людей"
+    }
+  ],
+  "licence info": [
+    {
+      "type": 0,
+      "value": "У Wellbee ми наймаємо терапевтів лише після закінчення другого курсу 4-річної терапевтичної школи та спеціалістів, які спеціалізуються на певних сферах (кризове втручання, психодієтологія). Їхня кваліфікація гарантує вміле використання психотерапевтичних знань та засобів."
+    }
+  ],
+  "location details": [
+    {
+      "type": 0,
+      "value": "Детальний опис під’їзду до офісу"
+    }
+  ],
+  "login google calendar": [
+    {
+      "type": 0,
+      "value": "Увійди у свій Календар Google"
+    }
+  ],
+  "login here": [
+    {
+      "type": 0,
+      "value": "Увійди тут"
+    }
+  ],
+  "man": [
+    {
+      "type": 0,
+      "value": "Чоловік"
+    }
+  ],
+  "mark as finished": [
+    {
+      "type": 0,
+      "value": "Познач як виконане"
+    }
+  ],
+  "mark as offline": [
+    {
+      "type": 0,
+      "value": "Змінити на офлайн"
+    }
+  ],
+  "mark as online": [
+    {
+      "type": 0,
+      "value": "Змінити на онлайн"
+    }
+  ],
+  "mark as paid": [
+    {
+      "type": 0,
+      "value": "Позначити як оплачене"
+    }
+  ],
+  "mark event as finished are you sure": [
+    {
+      "type": 0,
+      "value": "Чи напевно хочеш позначити сеанс як закінчений?"
+    }
+  ],
+  "mark event as offline are you sure": [
+    {
+      "type": 0,
+      "value": "Чи напевно хочеш позначити сеанс як офлайн?"
+    }
+  ],
+  "mark event as online are you sure": [
+    {
+      "type": 0,
+      "value": "Чи напевно хочеш позначити сесію онлайн?"
+    }
+  ],
+  "mark event as paid are you sure": [
+    {
+      "type": 0,
+      "value": "Чи напевно хочеш позначити сеанс як оплачений?"
+    }
+  ],
+  "marked event as paid": [
+    {
+      "type": 0,
+      "value": "Сеанс позначений як оплачений"
+    }
+  ],
+  "marketing email agreement": [
+    {
+      "type": 0,
+      "value": "Я погоджуюся отримувати інформацію про безкоштовний контент та пропозиції на електронну пошту / номер телефону, наданий мною відповідно до ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​правилами​"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": "​."
+    }
+  ],
+  "media about us": [
+    {
+      "type": 0,
+      "value": "ЗМІ про нас"
+    }
+  ],
+  "meet our therapists": [
+    {
+      "type": 0,
+      "value": "Познайомся з нашими терапевтами"
+    }
+  ],
+  "meet out therapists long": [
+    {
+      "type": 0,
+      "value": "Наша команда складається тільки з перевірених та кваліфікованих спеціалістів. Знайдіть людину, яка допоможе вам зробити перший крок до змін."
+    }
+  ],
+  "method text online": [
+    {
+      "type": 0,
+      "value": "онлайн"
+    }
+  ],
+  "method text phone": [
+    {
+      "type": 0,
+      "value": "телефон"
+    }
+  ],
+  "min time lead": [
+    {
+      "type": 0,
+      "value": "Мінімальний час, у годинах, між моментом реєстрації на терапію та часом самої терапії"
+    }
+  ],
+  "minutes": [
+    {
+      "type": 0,
+      "value": "хвилин"
+    }
+  ],
+  "missed": [
+    {
+      "type": 0,
+      "value": "Не відбулись"
+    }
+  ],
+  "missed sessions tooltip": [
+    {
+      "type": 0,
+      "value": "Прийоми, на які пацієнт не з’явився або скасований занадто пізно. За них отримуєш оплату."
+    }
+  ],
+  "missing company name": [
+    {
+      "type": 0,
+      "value": "Відсутня назва компанії"
+    }
+  ],
+  "missing email": [
+    {
+      "type": 0,
+      "value": "Відсутня електронна адреса"
+    }
+  ],
+  "missing name surname": [
+    {
+      "type": 0,
+      "value": "Відсутнє ім’я та прізвище"
+    }
+  ],
+  "missing privacy policy": [
+    {
+      "type": 0,
+      "value": "Необхідна згода на обробку конфіденційних даних"
+    }
+  ],
+  "missing terms conditions": [
+    {
+      "type": 0,
+      "value": "Ознайомлення зі змістом нормативних актів є обов’язковим"
+    }
+  ],
+  "month": [
+    {
+      "type": 0,
+      "value": "Місяць "
+    }
+  ],
+  "more dates": [
+    {
+      "type": 0,
+      "value": "Більше термінів"
+    }
+  ],
+  "more effective": [
+    {
+      "type": 0,
+      "value": "збільшення продуктивності"
+    }
+  ],
+  "more involved": [
+    {
+      "type": 0,
+      "value": "Поліпшення самопочуття та більша відданість"
+    }
+  ],
+  "more involved info": [
+    {
+      "type": 0,
+      "value": "Співробітники, які отримали підтримку, свідомо говорять про постійні зміни, які підвищують якість життя"
+    }
+  ],
+  "my patients": [
+    {
+      "type": 0,
+      "value": "Мої Пацієнти"
+    }
+  ],
+  "my profile": [
+    {
+      "type": 0,
+      "value": "Мій Профіль"
+    }
+  ],
+  "my wallet": [
+    {
+      "type": 0,
+      "value": "Мій Гаманець"
+    }
+  ],
+  "name": [
+    {
+      "type": 0,
+      "value": "Ім'я"
+    }
+  ],
+  "name and surname of bank account": [
+    {
+      "type": 0,
+      "value": "Ім'я та прізвище власника банківського рахунку"
+    }
+  ],
+  "name or pseudonym": [
+    {
+      "type": 0,
+      "value": "Ім'я або псевдонім"
+    }
+  ],
+  "new account": [
+    {
+      "type": 0,
+      "value": "Новий обліковий запис"
+    }
+  ],
+  "new session added": [
+    {
+      "type": 0,
+      "value": "Додано нову зустріч"
+    }
+  ],
+  "news-bar-ua-title-2": [
+    {
+      "type": 0,
+      "value": "Ми пропонуємо недорогу психологичну підтримку для людей постраждалих від війни в Україні."
+    }
+  ],
+  "next therapist": [
+    {
+      "type": 0,
+      "value": "Наступний терапевт:"
+    }
+  ],
+  "no": [
+    {
+      "type": 0,
+      "value": "Ні "
+    }
+  ],
+  "no longer shame": [
+    {
+      "type": 0,
+      "value": "Маємо для вас дуже гарну новину – психотерапія більше не привід соромитися ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​наш звіт​"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    }
+  ],
+  "no patients": [
+    {
+      "type": 0,
+      "value": "У тебе ще немає пацієнтів"
+    }
+  ],
+  "no sessions": [
+    {
+      "type": 0,
+      "value": "У тебе ще немає сеансу"
+    }
+  ],
+  "no sessions for patient": [
+    {
+      "type": 0,
+      "value": "У цього пацієнта ще немає сеансу"
+    }
+  ],
+  "no work": [
+    {
+      "type": 0,
+      "value": "Не працюю"
+    }
+  ],
+  "not completed": [
+    {
+      "type": 0,
+      "value": "Не відбулись"
+    }
+  ],
+  "not for statistics": [
+    {
+      "type": 0,
+      "value": "Примітка (для статистики)"
+    }
+  ],
+  "offline": [
+    {
+      "type": 0,
+      "value": "У кабінеті"
+    }
+  ],
+  "offline session": [
+    {
+      "type": 0,
+      "value": "Зустріч офлайн"
+    }
+  ],
+  "offline-header": [
+    {
+      "type": 0,
+      "value": "Кабінет"
+    }
+  ],
+  "ok": [
+    {
+      "type": 0,
+      "value": "Ок"
+    }
+  ],
+  "online consultation": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Онлайн консультація​"
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " Надай своїм співробітникам можливість домовитися про відвідування спеціального фахівця - придбай пакет відвідувань, оплачуй тільки використані відвідування (pay-as-you-go) або оплати частину вартості прийому."
+    }
+  ],
+  "optimal interaction": [
+    {
+      "type": 0,
+      "value": "Для оптимальної взаємодії з терапевтом ми рекомендуємо ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​розташувати камеру на рівні очей​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​ і розташувати себе на відстані, яка принаймні дозволить вам захопити ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​тулуб до рівня грудної клітки​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​. Після позиціонування рекомендуємо перестати дивитися на себе, оскільки це знижує природність взаємодії. Можеш​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​вимкнути попередній перегляд​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​ натиснувши три крапки в правому нижньому кутку Google Meet і вибравши функцію «макет»."
+    }
+  ],
+  "options 1 aviva": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Знижка 40 злотих "
+        },
+        {
+          "type": 1,
+          "value": "br"
+        },
+        {
+          "type": 0,
+          "value": " за перші 3 відвідування ​"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " Як клієнт MojaAviva, ти можеш отримати 3 консультації зі знижкою 40 злотих. Ціни на консультації відповідають діючому прайс-листу на профіль даного спеціаліста."
+    }
+  ],
+  "options 2 aviva": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Знижка 10 злотих "
+        },
+        {
+          "type": 1,
+          "value": "br"
+        },
+        {
+          "type": 0,
+          "value": " на наступні відвідування​"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " Якщо прийоми, на які маєш знижку 40 злотих вичерпані і хочеш записатися на іншу зустріч (наприклад, продовжити сеанси з вибраним спеціалістом), отримаєш додаткову знижку в розмірі 10 злотих за кожен наступний прийом."
+    }
+  ],
+  "or": [
+    {
+      "type": 0,
+      "value": "або"
+    }
+  ],
+  "or call": [
+    {
+      "type": 0,
+      "value": "або зателефонуй"
+    }
+  ],
+  "or call:": [
+    {
+      "type": 0,
+      "value": "або зателефонуй"
+    }
+  ],
+  "other": [
+    {
+      "type": 0,
+      "value": "Inne"
+    }
+  ],
+  "our call data": [
+    {
+      "type": 0,
+      "value": "Наша розмова відбудеться:"
+    }
+  ],
+  "our psychotherapy team": [
+    {
+      "type": 0,
+      "value": "Нашу команду творять тільки перевірені"
+    },
+    {
+      "children": [
+      ],
+      "type": 8,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "та висококваліфіковані спеціалісти"
+    }
+  ],
+  "our specialists": [
+    {
+      "type": 0,
+      "value": "Наші спеціалісти"
+    }
+  ],
+  "our team description": [
+    {
+      "type": 0,
+      "value": "Наша команда складається тільки з перевірених та кваліфікованих спеціалістів. Знайди людину, яка допоможе вам зробити перший крок до покращення якості вашого життя."
+    }
+  ],
+  "panel.note-to-patient": [
+    {
+      "type": 0,
+      "value": "Пам’ятка пацієнту"
+    }
+  ],
+  "panel.patient-prefers-phone-contact": [
+    {
+      "type": 0,
+      "value": "Пацієнт воліє зв’язатися з ним по телефону"
+    }
+  ],
+  "panel.price-for-session": [
+    {
+      "type": 0,
+      "value": "Ціна сеансу"
+    }
+  ],
+  "panel.refresh": [
+    {
+      "type": 0,
+      "value": "Refresh"
+    }
+  ],
+  "panel.save-changes": [
+    {
+      "type": 0,
+      "value": "Зберегти зміни"
+    }
+  ],
+  "panel.therapist-none": [
+    {
+      "type": 0,
+      "value": "None"
+    }
+  ],
+  "panel.updated-data": [
+    {
+      "type": 0,
+      "value": "Оновлено дані"
+    }
+  ],
+  "password": [
+    {
+      "type": 0,
+      "value": "Пароль "
+    }
+  ],
+  "patient": [
+    {
+      "type": 0,
+      "value": "Пацієнт"
+    }
+  ],
+  "patient active": [
+    {
+      "type": 0,
+      "value": "Постійний пацієнт"
+    }
+  ],
+  "patient active description": [
+    {
+      "type": 0,
+      "value": "Пацієнт провів першу бесіду з терапевтом і не відмовився від продовження терапії"
+    }
+  ],
+  "patient finished": [
+    {
+      "type": 0,
+      "value": "Терапія закінчена"
+    }
+  ],
+  "patient finished description": [
+    {
+      "type": 0,
+      "value": "Пацієнт відмовився від продовження терапії після щонайменше п’яти розмов з терапевтом Перша консультація"
+    }
+  ],
+  "patient first visit": [
+    {
+      "type": 0,
+      "value": "Перші консультації"
+    }
+  ],
+  "patient first visit description": [
+    {
+      "type": 0,
+      "value": "Пацієнт знаходиться перед першою розмовою з терапевтом"
+    }
+  ],
+  "patient information": [
+    {
+      "type": 0,
+      "value": "Залиш мені кілька ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​необхідних інформацій​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​щоб зв'язатися з тобою"
+    }
+  ],
+  "patient new": [
+    {
+      "type": 0,
+      "value": "Новий"
+    }
+  ],
+  "patient new description": [
+    {
+      "type": 0,
+      "value": "Пацієнт чекає на розмову з опікуном. "
+    }
+  ],
+  "patient no contact": [
+    {
+      "type": 0,
+      "value": "Немає контакту"
+    }
+  ],
+  "patient no contact description": [
+    {
+      "type": 0,
+      "value": "Немає контакту з пацієнтом"
+    }
+  ],
+  "patient no sessions": [
+    {
+      "type": 0,
+      "value": "Жодних сеанс"
+    }
+  ],
+  "patient not found": [
+    {
+      "type": 0,
+      "value": "Пацієнта не знайдено"
+    }
+  ],
+  "patient quick churn": [
+    {
+      "type": 0,
+      "value": "Перервана терапія"
+    }
+  ],
+  "patient quick churn description": [
+    {
+      "type": 0,
+      "value": "Пацієнт відмовився від продовження терапії після першої бесіди з терапевтом."
+    }
+  ],
+  "patient-panel-account-deletion-success": [
+    {
+      "type": 0,
+      "value": "Accound successfully deleted"
+    }
+  ],
+  "patient-panel-account-update-error": [
+    {
+      "type": 0,
+      "value": "Помилка оновлення облікового запису"
+    }
+  ],
+  "patient-panel-account-update-name-how-to-call": [
+    {
+      "type": 0,
+      "value": "Як нам до Вас звертатися?"
+    }
+  ],
+  "patient-panel-account-update-name-nickname": [
+    {
+      "type": 0,
+      "value": "Ім'я / Псевдонім"
+    }
+  ],
+  "patient-panel-account-update-phone": [
+    {
+      "type": 0,
+      "value": "Номер телефону"
+    }
+  ],
+  "patient-panel-account-update-success": [
+    {
+      "type": 0,
+      "value": "Дані пацієнта успішно оновлено"
+    }
+  ],
+  "patient-panel-account-update-title-settings": [
+    {
+      "type": 0,
+      "value": "Налаштування"
+    }
+  ],
+  "patient-panel-any-questions": [
+    {
+      "type": 0,
+      "value": "У вас є які-небудь питання?"
+    }
+  ],
+  "patient-panel-btn-cancel": [
+    {
+      "type": 0,
+      "value": "Скасувати"
+    }
+  ],
+  "patient-panel-btn-ok": [
+    {
+      "type": 0,
+      "value": "Гаразд"
+    }
+  ],
+  "patient-panel-closest-session": [
+    {
+      "type": 0,
+      "value": "Наступний сеанс:"
+    }
+  ],
+  "patient-panel-confirm-new-password": [
+    {
+      "type": 0,
+      "value": "Підтвердіть новий пароль"
+    }
+  ],
+  "patient-panel-delete-account-btn-back": [
+    {
+      "type": 0,
+      "value": "Повернутися"
+    }
+  ],
+  "patient-panel-delete-account-btn-confirm": [
+    {
+      "type": 0,
+      "value": "Так, видалити"
+    }
+  ],
+  "patient-panel-delete-account-confirm": [
+    {
+      "type": 0,
+      "value": "Ви впевнені, що хочете видалити обліковий запис?"
+    }
+  ],
+  "patient-panel-delete-account-info-continue": [
+    {
+      "type": 0,
+      "value": "Ви можете продовжувати терапію без облікового запису"
+    }
+  ],
+  "patient-panel-login-password": [
+    {
+      "type": 0,
+      "value": "Пароль"
+    }
+  ],
+  "patient-panel-my-sessions": [
+    {
+      "type": 0,
+      "value": "Мої сеанси"
+    }
+  ],
+  "patient-panel-new-password": [
+    {
+      "type": 0,
+      "value": "Новий пароль"
+    }
+  ],
+  "patient-panel-or-with-email": [
+    {
+      "type": 0,
+      "value": "Або електронною поштою"
+    }
+  ],
+  "patient-panel-paid": [
+    {
+      "type": 0,
+      "value": "оплачено"
+    }
+  ],
+  "patient-panel-password-change-error": [
+    {
+      "type": 0,
+      "value": "Не вдалося змінити пароль"
+    }
+  ],
+  "patient-panel-password-change-success": [
+    {
+      "type": 0,
+      "value": "Пароль успішно змінено"
+    }
+  ],
+  "patient-panel-password-reset": [
+    {
+      "type": 0,
+      "value": "Оновити пароль для "
+    },
+    {
+      "type": 1,
+      "value": "email"
+    },
+    {
+      "type": 0,
+      "value": "?"
+    }
+  ],
+  "patient-panel-password-validation-confirm": [
+    {
+      "type": 0,
+      "value": "Нові паролі не співпадають"
+    }
+  ],
+  "patient-panel-password-validation-missing-fields": [
+    {
+      "type": 0,
+      "value": "Усі поля необхідно заповнити"
+    }
+  ],
+  "patient-panel-password-validation-old-identical": [
+    {
+      "type": 0,
+      "value": "Новий і старий паролі ідентичні"
+    }
+  ],
+  "patient-panel-pay-now": [
+    {
+      "type": 0,
+      "value": "Оплатити зараз"
+    }
+  ],
+  "patient-panel-previous-password": [
+    {
+      "type": 0,
+      "value": "Попередній пароль"
+    }
+  ],
+  "patient-panel-session-switch-completed": [
+    {
+      "type": 0,
+      "value": "Завершено"
+    }
+  ],
+  "patient-panel-sessions-move-to-next-week": [
+    {
+      "type": 0,
+      "value": "Перенести на наступний тиждень"
+    }
+  ],
+  "patient-panel-sessions-therapist-with": [
+    {
+      "type": 0,
+      "value": "Онлайн зустріч з"
+    }
+  ],
+  "patient-panel-sessions-title": [
+    {
+      "type": 0,
+      "value": "Мої сеанси"
+    }
+  ],
+  "patient-panel-sessions-your-therapist": [
+    {
+      "type": 0,
+      "value": "Ваш терапевт:"
+    }
+  ],
+  "patient-panel-settings": [
+    {
+      "type": 0,
+      "value": "Налаштування"
+    }
+  ],
+  "patient-panel-title-change-password": [
+    {
+      "type": 0,
+      "value": "Зміна паролю"
+    }
+  ],
+  "patient-panel-title-delete-account": [
+    {
+      "type": 0,
+      "value": "Видалити обліковий запис"
+    }
+  ],
+  "patient-panel-unpaid": [
+    {
+      "type": 0,
+      "value": "неоплачена"
+    }
+  ],
+  "patient-panel.already-have-account": [
+    {
+      "type": 0,
+      "value": "У вас вже є обліковий запис?"
+    }
+  ],
+  "patient-panel.btn-login": [
+    {
+      "type": 0,
+      "value": "Увійти"
+    }
+  ],
+  "patient-panel.btn-register": [
+    {
+      "type": 0,
+      "value": "Зареєструватись"
+    }
+  ],
+  "patient-panel.btn-remind-password": [
+    {
+      "type": 0,
+      "value": "Скинути пароль"
+    }
+  ],
+  "patient-panel.cta-register": [
+    {
+      "type": 0,
+      "value": "Зареєструватись"
+    }
+  ],
+  "patient-panel.email-empty-email": [
+    {
+      "type": 0,
+      "value": "Введіть свій e-mail, щоб змінити пароль"
+    }
+  ],
+  "patient-panel.invalid-google-password": [
+    {
+      "type": 0,
+      "value": "Пароль недійсний або користувач не має пароля."
+    }
+  ],
+  "patient-panel.invalid-password-or-email": [
+    {
+      "type": 0,
+      "value": "Неправильне ім'я користувача або пароль. Будь ласка, зв'яжіться з "
+    },
+    {
+      "type": 1,
+      "value": "therapyGuideEmail"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "patient-panel.no-account": [
+    {
+      "type": 0,
+      "value": "У Вас немає облікового запису?"
+    }
+  ],
+  "patient-panel.password-validation-accepted": [
+    {
+      "type": 0,
+      "value": "Відмінний пароль!"
+    }
+  ],
+  "patient-panel.password-validation-min-chars": [
+    {
+      "type": 0,
+      "value": "9+ символів, мінімум 1 велика літера та мінімум 1 спеціальний символ"
+    }
+  ],
+  "patient-panel.register-accept": [
+    {
+      "type": 0,
+      "value": "Створюючи обліковий запис, я погоджуюся з"
+    }
+  ],
+  "patient-panel.register-accept-cookie": [
+    {
+      "type": 0,
+      "value": "Політика файлів cookie"
+    }
+  ],
+  "patient-panel.register-accept-label-and": [
+    {
+      "type": 0,
+      "value": "|"
+    }
+  ],
+  "patient-panel.register-accept-privacy": [
+    {
+      "type": 0,
+      "value": "Конфіденційність"
+    }
+  ],
+  "patient-panel.register-accept-toc": [
+    {
+      "type": 0,
+      "value": "Правила та умови"
+    }
+  ],
+  "patient-panel.title-login": [
+    {
+      "type": 0,
+      "value": "Увійти"
+    }
+  ],
+  "patient-panel.title-register": [
+    {
+      "type": 0,
+      "value": "Створити обліковий запис"
+    }
+  ],
+  "patient-panel.user-does-not-exist": [
+    {
+      "type": 0,
+      "value": "Користувача немає серед існуючих користувачів."
+    }
+  ],
+  "patient-panel.user-is-not-admin": [
+    {
+      "type": 0,
+      "value": "Користувач не є адміністратором"
+    }
+  ],
+  "patient-panel.user-is-not-therapist": [
+    {
+      "type": 0,
+      "value": "Користувач не є терапевтом"
+    }
+  ],
+  "patient-panel.user-is-not-therapy-guide": [
+    {
+      "type": 0,
+      "value": "Користувач не є опікуном"
+    }
+  ],
+  "patients": [
+    {
+      "type": 0,
+      "value": "Пацієнти"
+    }
+  ],
+  "pay for first visit": [
+    {
+      "type": 0,
+      "value": "Оплати перший онлайн-сеанс"
+    }
+  ],
+  "paying": [
+    {
+      "type": 0,
+      "value": "Оплата"
+    }
+  ],
+  "payment": [
+    {
+      "type": 0,
+      "value": "Оплата"
+    }
+  ],
+  "payment don't match": [
+    {
+      "type": 0,
+      "value": "Сума не відповідає?"
+    }
+  ],
+  "payment done at end of month": [
+    {
+      "type": 0,
+      "value": "Можеш зняти гроші після закінчення місяця"
+    }
+  ],
+  "payment failed tooltip": [
+    {
+      "type": 0,
+      "value": "Прийоми, які були заброньовані, але не оплачені. За них не отримуєш оплату."
+    }
+  ],
+  "payment link sent to client": [
+    {
+      "type": 0,
+      "value": "Посилання на оплату буде автоматично надіслано пацієнту."
+    }
+  ],
+  "payment method": [
+    {
+      "type": 0,
+      "value": "Спосіб оплати"
+    }
+  ],
+  "payment method coupon": [
+    {
+      "type": 0,
+      "value": "Оплата за купоном"
+    }
+  ],
+  "payment method manual": [
+    {
+      "type": 0,
+      "value": "Оплата вручну"
+    }
+  ],
+  "payment.book-free-session": [
+    {
+      "type": 0,
+      "value": "Забронюй безкоштовний сеанс"
+    }
+  ],
+  "payment.booking-complete": [
+    {
+      "type": 0,
+      "value": "Оплата прошла успіно"
+    }
+  ],
+  "payment.confirm": [
+    {
+      "type": 0,
+      "value": "Оплати сеанс"
+    }
+  ],
+  "payment.congratulation-coupon": [
+    {
+      "type": 0,
+      "value": "Вітаємо! Отримуєш знижку "
+    },
+    {
+      "type": 1,
+      "value": "couponValue"
+    },
+    {
+      "type": 0,
+      "value": " PLN"
+    }
+  ],
+  "payment.congratulation-session-paid": [
+    {
+      "type": 0,
+      "value": "Вітаємо! Ваш сеанс вже оплачено"
+    }
+  ],
+  "payment.contact-us": [
+    {
+      "type": 0,
+      "value": "Зв'яжись з нами."
+    }
+  ],
+  "payment.failed": [
+    {
+      "type": 0,
+      "value": "Оплата не вдалася"
+    }
+  ],
+  "payment.keep-calm": [
+    {
+      "type": 0,
+      "value": "Зберігай спокій.Трапляється."
+    }
+  ],
+  "payment.payu-info": [
+    {
+      "type": 0,
+      "value": "підтримує швидкі та зручні онлайн-платежі на wellbee.pl. Будь ласка, дотримуйся інструкцій щодо оплати сеансу.​_1​​2​  ​2​/"
+    }
+  ],
+  "payment.percent-discount-text": [
+    {
+      "type": 0,
+      "value": "Зручність і економія"
+    }
+  ],
+  "payment.percent-discount-text-short": [
+    {
+      "type": 0,
+      "value": "Економія"
+    }
+  ],
+  "payment.recommend-benefits": [
+    {
+      "type": 0,
+      "value": "Завдяки тобі людина, яку ти рекомендуєш Wellbee, отримає знижку 40 злотих на кожну з них ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Перші 3 відвідування​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    }
+  ],
+  "payment.recommend-benefits-for-you": [
+    {
+      "type": 0,
+      "value": "Ми вважаємо, що добро має повертатися, тому якщо рекомендована тобою людина скористається 3 сеансами, ти отримаєте від нас те саме: ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Знижка 40 злотих на кожну з наступних 3 сеансів​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​."
+    }
+  ],
+  "payment.recommend-wellbee": [
+    {
+      "type": 0,
+      "value": "Якщо комфортно, ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​порекомендуй Wellbee своїм друзям​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ використовуючи для цього свій ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​персональний код​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​:"
+    }
+  ],
+  "payment.thank-you-for-trust": [
+    {
+      "type": 0,
+      "value": "Дякуємо за довіру"
+    }
+  ],
+  "payment.to-enter-before-paying": [
+    {
+      "type": 0,
+      "value": "(вводиться безпосередньо перед оплатою)"
+    }
+  ],
+  "payment.try-pay-again": [
+    {
+      "type": 0,
+      "value": "Спробуй здійснити платіж ще раз, натиснувши посилання з листа електронної пошти"
+    }
+  ],
+  "payment.use-code": [
+    {
+      "type": 0,
+      "value": "Зреалізуйте"
+    }
+  ],
+  "payment.use-other-payment-method": [
+    {
+      "type": 0,
+      "value": "Будь ласка, використай інший спосіб оплати"
+    }
+  ],
+  "payment.what-can-you-do": [
+    {
+      "type": 0,
+      "value": "Що можеш зробити?"
+    }
+  ],
+  "payout": [
+    {
+      "type": 0,
+      "value": "Виплачено"
+    }
+  ],
+  "per session": [
+    {
+      "type": 0,
+      "value": "сеанс 50 хв"
+    }
+  ],
+  "percent discount text": [
+    {
+      "type": 0,
+      "value": "Зручність і економія"
+    }
+  ],
+  "percent discount text short": [
+    {
+      "type": 0,
+      "value": "Економія"
+    }
+  ],
+  "phone": [
+    {
+      "type": 0,
+      "value": "номер телефону"
+    }
+  ],
+  "phone number": [
+    {
+      "type": 0,
+      "value": "номер телефону"
+    }
+  ],
+  "phone number optional": [
+    {
+      "type": 0,
+      "value": "Номер телефону (необов'язково)"
+    }
+  ],
+  "photo in background": [
+    {
+      "type": 0,
+      "value": "Фонова фотографія"
+    }
+  ],
+  "prepare glass of water": [
+    {
+      "type": 0,
+      "value": "Приготуй склянку води, щось для нотаток, серветки, якщо вони знадобляться. Чим менше часу ти витрачаєш на організацію цих предметів під час сеансів, тим краще будеш використовувати час з терапевтом."
+    }
+  ],
+  "prepare headphones": [
+    {
+      "type": 0,
+      "value": "Для твого комфорту рекомендуємо підготуватися ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​навушники з мікрофоном​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​ - таким чином ви посилите не тільки свою чутність і якість прийому дзвінка, але й подбаєте про свою конфіденційність - ніхто небажаний не буде учасником твого сеансу з терапевтом або консультації з Опікуном Терапії ."
+    }
+  ],
+  "prepare headphones and glass of water": [
+    {
+      "type": 0,
+      "value": "Приготуй навушники з мікрофоном і склянку води."
+    }
+  ],
+  "prepare internet access": [
+    {
+      "type": 0,
+      "value": "Переконайся, що у тебе є доступ до Інтернету."
+    }
+  ],
+  "prepare private space": [
+    {
+      "type": 0,
+      "value": "Переконайся, що у тебе є тихий приватний простір."
+    }
+  ],
+  "press enter to search": [
+    {
+      "type": 0,
+      "value": "Натисни Enter для пошуку"
+    }
+  ],
+  "price": [
+    {
+      "type": 0,
+      "value": "Ціна"
+    }
+  ],
+  "price section": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​"
+        },
+        {
+          "type": 1,
+          "value": "price"
+        },
+        {
+          "type": 0,
+          "value": " зл​"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": "​ / сеанс 50 хв"
+    }
+  ],
+  "pro tip": [
+    {
+      "type": 0,
+      "value": "Порада"
+    }
+  ],
+  "product": [
+    {
+      "type": 0,
+      "value": "Продукт"
+    }
+  ],
+  "profile pictures": [
+    {
+      "type": 0,
+      "value": "Фото у профілі"
+    }
+  ],
+  "profile video url": [
+    {
+      "type": 0,
+      "value": "URL-адреса відео профілю (YT)"
+    }
+  ],
+  "provision percent": [
+    {
+      "type": 0,
+      "value": "Відсоток комісії"
+    }
+  ],
+  "provision percent in office": [
+    {
+      "type": 0,
+      "value": "Відсоток комісії (в кабінеті)"
+    }
+  ],
+  "psychic health checked": [
+    {
+      "type": 0,
+      "value": "Ми перевірили психічне здоров’я поляків "
+    }
+  ],
+  "psychic health imprtant": [
+    {
+      "type": 0,
+      "value": "Психічне здоров’я – найважливіше"
+    }
+  ],
+  "psychoterapy revelation": [
+    {
+      "type": 0,
+      "value": "Психотерапія вже ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​не є​"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": "​ приводом соромитися"
+    }
+  ],
+  "psychotherapist": [
+    {
+      "type": 0,
+      "value": "психотерапевт"
+    }
+  ],
+  "psychotherapy existential": [
+    {
+      "type": 0,
+      "value": "Гуманістична та екзистенційна психотерапія"
+    }
+  ],
+  "psychotherapy existential 1": [
+    {
+      "type": 0,
+      "value": "У Wellbee кожен із зацікавлених може скористатися онлайн-психотерапією, яка проводиться в гуманістичній та екзистенційній тенденції. Цей вид терапії дуже популярний, що може бути пов’язано з кількома основними факторами, які описані нижче."
+    }
+  ],
+  "psychotherapy existential 10": [
+    {
+      "type": 0,
+      "value": "Перевір доступні дати у онлайн-психотерапевтів Wellbee, які працюють у гуманістичній та екзистенційній тенденції"
+    }
+  ],
+  "psychotherapy existential 11": [
+    {
+      "type": 0,
+      "value": "Що характеризує онлайн-психотерапію в гуманістичному та екзистенційному напрямі?"
+    }
+  ],
+  "psychotherapy existential 12": [
+    {
+      "type": 0,
+      "value": "У гуманістичній та екзистенційній психотерапії клієнт у своєму житті розглядається як спеціаліст, а психотерапевт не є експертом. Звичайно, він володіє знаннями в області психопатології, діагностики або терапевтичних методик, але розуміння людини лише з точки зору психологічних знань не дозволить їй зрозуміти, що насправді переживає його клієнт.Тому психотерапевт вільний від припущень, теорій, він переживає проблеми клієнта і водночас зберігає позицію об’єктивного спостерігача."
+    }
+  ],
+  "psychotherapy existential 13": [
+    {
+      "type": 0,
+      "value": "У цьому психотерапевтичному напрямі часто використовуються елементи психодрами, екзистенційного діалогу або техніки роботи з тілом."
+    }
+  ],
+  "psychotherapy existential 14": [
+    {
+      "type": 0,
+      "value": "Скільки може тривати онлайн-терапія в гуманістичній та екзистенційній тенденції?"
+    }
+  ],
+  "psychotherapy existential 15": [
+    {
+      "type": 0,
+      "value": "Тривалість гуманістичної та екзистенційної психотерапії – справа індивідуальна. Він встановлюється між психотерапевтом і клієнтом і залежить від типу повідомлених труднощів і залучення клієнта до психотерапевтичного процесу."
+    }
+  ],
+  "psychotherapy existential 16": [
+    {
+      "type": 0,
+      "value": "Зазвичай гуманістично-екзистенційна психотерапія є досить довготривалою психотерапією - при необхідності вона може тривати до кількох років з періодичністю одна зустріч на тиждень. Час однієї зустрічі заздалегідь визначений і зазвичай займає близько 50 хвилин. Вартість 1 онлайн візиту до гуманістичного та екзистенційного психотерапевта становить 139 злотих."
+    }
+  ],
+  "psychotherapy existential 17": [
+    {
+      "type": 0,
+      "value": "Кому особливо адресована психотерапія в гуманістичному та екзистенційному напрямі"
+    }
+  ],
+  "psychotherapy existential 18": [
+    {
+      "type": 0,
+      "value": "Гуманістична та екзистенційна психотерапія є хорошою пропозицією для людей, які:"
+    }
+  ],
+  "psychotherapy existential 19": [
+    {
+      "type": 0,
+      "value": "Хто в Польщі надає офіційні права психотерапевтам та гуманістичним та екзистенційним психотерапевтам?"
+    }
+  ],
+  "psychotherapy existential 2": [
+    {
+      "type": 0,
+      "value": "Що характеризує гуманістичний та екзистенційний напрям у психотерапії?"
+    }
+  ],
+  "psychotherapy existential 2 arrowlist 1": [
+    {
+      "type": 0,
+      "value": "Вони переживають кризу в особистому чи професійному житті, страждають від низької самооцінки, розладів настрою, депресії, тривожних розладів."
+    }
+  ],
+  "psychotherapy existential 2 arrowlist 2": [
+    {
+      "type": 0,
+      "value": "Вони відчувають труднощі у відносинах з важливими людьми, особливо. у близьких стосунках."
+    }
+  ],
+  "psychotherapy existential 2 arrowlist 3": [
+    {
+      "type": 0,
+      "value": "Вони хочуть придивитися зблизька на своє життя, знайти сенс або поставити мету в житті."
+    }
+  ],
+  "psychotherapy existential 2 arrowlist 4": [
+    {
+      "type": 0,
+      "value": "Вони шукають психотерапію, яка дасть їм можливість розвитку особистості"
+    }
+  ],
+  "psychotherapy existential 20": [
+    {
+      "type": 0,
+      "value": "Отримання сертифікату гуманістичного та екзистенційного психотерапевта пов’язане із проходженням зазвичай 4-річної психотерапевтичної підготовки, проходженням клінічної інтернатури, роботою під постійним наглядом та участю у власній психотерапії. Сертифікат для терапевтів, які пройшли навчання з гештальт-підходу, видається Польським товариством гештальт-психотерапії."
+    }
+  ],
+  "psychotherapy existential 3": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Гуманістичний та екзистенційний напрям​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ це психотерапевтичний підхід, який черпає з багатьох джерел, як з філософських досягнень, так і з багатьох психотерапевтичних напрямків. Нині вже говорять про групу методів лікування, похідних від гуманістичного та екзистенційного напряму. Ця тенденція поєднує різною мірою особистісно-центрований підхід, психоаналіз, екзистенційну філософію та феноменологію. На розвиток цього напряму вплинув Карл Роджерс - засновник гуманістичної терапії - і Віктор Франкл - попередник екзистенційної терапії. Гештальт-психотерапія (психологія характеру) також належить до цього широкого напряму і в даний час є однією з форм гуманістичної та екзистенційної терапії котрі розвиваються найбільш динамічно. "
+    }
+  ],
+  "psychotherapy existential 4": [
+    {
+      "type": 0,
+      "value": "З календарем вільних термінів у кожного з психотерапевтів Wellbee можна ознайомитися за посиланням: ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​https://wellbee.pl/psychoterapia_online​"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": "​​1"
+    }
+  ],
+  "psychotherapy existential 5": [
+    {
+      "type": 0,
+      "value": "Як по-справжньому прийняти себе?"
+    }
+  ],
+  "psychotherapy existential 6": [
+    {
+      "type": 0,
+      "value": "Це фундаментальне припущення всіх підходів у рамках гуманістичного та екзистенційного напряму ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ допомогти людині прийняти себе таким, яким він є насправді ​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ і помічаючи та усуваючи протиріччя між його почуттями та тим, що вважається соціально прийнятним або очікуваним. Клієнт повинен цінувати свою ідентичність, а також керуватися власними цінностями та уподобаннями."
+    }
+  ],
+  "psychotherapy existential 7": [
+    {
+      "type": 0,
+      "value": "У гуманістично-екзистенційній психотерапії психотерапевт забезпечує клієнту безумовне прийняття, емпатичне розуміння, повагу та власну автентичність у стосунках. Таким чином, він створює умови, що сприяють настанню конструктивних змін, відкриттю нових горизонтів і перебудові особистості. Інакше кажучи, психотерапевт – це провідник на шляху самопізнання."
+    }
+  ],
+  "psychotherapy existential 8": [
+    {
+      "type": 0,
+      "value": "Основні положення гуманістичної та екзистенційної психотерапії"
+    }
+  ],
+  "psychotherapy existential 9": [
+    {
+      "type": 0,
+      "value": "У гуманістичному та екзистенційному підході психотерапія — це зустріч, внутрішній досвід контакту двох людей. Другою важливою складовою цієї течії психотерапії є екзистенційна психодинаміка, тобто підкреслення свободи людини, сфери цінностей і сенсу життя."
+    }
+  ],
+  "psychotherapy existential Gestalt": [
+    {
+      "type": 0,
+      "value": "Гештальт-психотерапія в гуманістичному та екзистенційному напрямі"
+    }
+  ],
+  "psychotherapy existential Gestalt 1": [
+    {
+      "type": 0,
+      "value": "Фредерік і Лора Перлз, Ральф Хефферлайн і Пол Гудман є основними авторами підходу ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​гештальт​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​. У цьому підході велика роль відводиться розширенню самосвідомості, особливо в досвіді «тут і зараз». Без розширення та поглиблення усвідомлення себе важко відчути себе краще. Чому? Тому що більша самосвідомість веде до вибору, а відчуття вибору веде до свободи."
+    }
+  ],
+  "psychotherapy existential Gestalt 2": [
+    {
+      "type": 0,
+      "value": "Самосвідомість, над якою працює гештальт-терапія, включає як емоції, відчуття тіла, думки, бажання, так і конфлікти, що виникають між ними."
+    }
+  ],
+  "psychotherapy existential Gestalt 3": [
+    {
+      "type": 0,
+      "value": "Важливість усвідомлення в гештальт-підході"
+    }
+  ],
+  "psychotherapy existential Gestalt 4": [
+    {
+      "type": 0,
+      "value": "Свідомість за гештальт-підходом - це не інтелектуальне знання, а досвід контакту з собою. Клієнт може отримати більшу самосвідомість у стосунках з іншою людиною (наприклад, терапевтом) на основі довіри, безпеки та автентичності. Терапевтична ситуація має бути гнучкою, адаптованою до потреб клієнта, а сам клієнт піддається цілісному лікуванню (тіло і психіка). Метою гештальт-терапії є досягнення зрілості, збільшення людського потенціалу через інтеграцію відчужених частин особистості (бажання, судження, фантазії) та посилення справжніх бажань."
+    }
+  ],
+  "psychotherapy existential arrowlist 1": [
+    {
+      "type": 0,
+      "value": "Психотерапевт не пропонує клієнту тлумачення чи поради. Його робота — створити безпечну атмосферу для пізнання власних почуттів, потреб і бажань. Відповідно до цього підходу, кожен з нас має вроджену здатність до самолікування, але нам потрібна підтримка, щоб побачити їх."
+    }
+  ],
+  "psychotherapy existential arrowlist 2": [
+    {
+      "type": 0,
+      "value": "У кожному з нас існує (часто неусвідомлений) конфлікт між нашими бажаннями: жити, бути у стосунках з іншими, бути прийнятими, осмислювати своє життя та т. зв. найголовніші турботи - смерть, свобода, ізоляція і безглуздість у світі. "
+    }
+  ],
+  "psychotherapy existential arrowlist 3": [
+    {
+      "type": 0,
+      "value": "Ці конфлікти є джерелом наших страхів і проблем, які заважають нам нормально функціонувати. Психотерапевт намагається зрозуміти світ значень клієнта, стежить за ним, підлаштовує втручання під індивідуальні потреби, адже кожна людина унікальна. У безпечних умовах психотерапії це допомагає клієнту зіткнутися з власними екзистенційними страхами."
+    }
+  ],
+  "psychotherapy young 1": [
+    {
+      "type": 0,
+      "value": "Wellbee | Інтернет-психотерапія для підлітків до 18 років | Десяток терапевтів доступні в Інтернеті | 1 сеанс онлайн терапії від 139 злотих."
+    }
+  ],
+  "psychotherapy young 10": [
+    {
+      "type": 0,
+      "value": "В ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​психотерапії підлітків​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ ми повинні враховувати так званий контекст розвитку. Багато поведінки дитини-підлітка, які сприймаються дорослими як проблематичні та потребують втручання, можуть мати тимчасовий характер, пов’язаний з розвитком, тому при діагностиці та підборі терапевтичних засобів вкрай важливо звертатися до знань про закономірності та механізми розвитку дитини."
+    }
+  ],
+  "psychotherapy young 11": [
+    {
+      "type": 0,
+      "value": "Роль сімейного контексту в онлайн-терапії підлітків"
+    }
+  ],
+  "psychotherapy young 12": [
+    {
+      "type": 0,
+      "value": "Необхідність врахування т. зв ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​сімейного контексту​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ є ще однією особливістю, яка відрізняє терапію дітей та підлітків. ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ Принцип урахування сімейного контексту виражається через участь одного або обох батьків у психотерапії неповнолітнього. ​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ . Це важливо, оскільки дає змогу зрозуміти труднощі дитини, беручи до уваги стосунки між нею та її оточенням, і в цьому середовищі родина відіграє ключову роль."
+    }
+  ],
+  "psychotherapy young 13": [
+    {
+      "type": 0,
+      "value": "Молодіжні психотерапевти онлайн на Wellbee"
+    }
+  ],
+  "psychotherapy young 14": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ Вплив терапевта на дитину може посилюватися або гальмуватися ставленням батьків ​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ які таким чином можуть впливати на успіх самої терапії. ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ Дорослі можуть прийти на терапію самі, натомість дітей відправляють або привозять. Це ще одна важлива відмінність ​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ оскільки це може вплинути на мотивацію початку терапевтичної роботи і, як наслідок, на ефективність терапії."
+    }
+  ],
+  "psychotherapy young 15": [
+    {
+      "type": 0,
+      "value": "Які проблеми психічного здоров’я у підлітків допомагає вирішити онлайн-психотерапія?"
+    }
+  ],
+  "psychotherapy young 16": [
+    {
+      "type": 0,
+      "value": "Захворювання дітей та підлітків можна розділити на дві категорії:"
+    }
+  ],
+  "psychotherapy young 17": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ розлади з симптомами, спрямованими всередину, т. зв інтеріоризуючи ​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    },
+    {
+      "type": 0,
+      "value": "​ ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ розлади з зовнішніми симптомами, т. зв екстерналізації. ​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    },
+    {
+      "type": 0,
+      "value": "​"
+    }
+  ],
+  "psychotherapy young 18": [
+    {
+      "type": 0,
+      "value": "Інтерналізаційні розлади підлітків"
+    }
+  ],
+  "psychotherapy young 19": [
+    {
+      "type": 0,
+      "value": "Симптоми внутрішніх проблем включають:"
+    }
+  ],
+  "psychotherapy young 2": [
+    {
+      "type": 0,
+      "value": "Чим є зростання?"
+    }
+  ],
+  "psychotherapy young 20": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​страх,​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    },
+    {
+      "type": 0,
+      "value": "​ ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​депресія,​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    },
+    {
+      "type": 0,
+      "value": "​ ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ соціальне відсторонення, ​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    },
+    {
+      "type": 0,
+      "value": "​ ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ізоляція,​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    },
+    {
+      "type": 0,
+      "value": "​ ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ розлади харчування. ​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    }
+  ],
+  "psychotherapy young 21": [
+    {
+      "type": 0,
+      "value": "Розлади екстерналізації у осіб до 18 років"
+    }
+  ],
+  "psychotherapy young 22": [
+    {
+      "type": 0,
+      "value": "Розлади з зовнішньою спрямованістю симптомів – це дезадаптивні моделі поведінки, які викликають проблеми для інших людей і викликають конфлікти між дитиною та її соціальним середовищем, наприклад, асоціальна поведінка або вживання психоактивних речовин."
+    }
+  ],
+  "psychotherapy young 23": [
+    {
+      "type": 0,
+      "value": "Спроби суїциду та самогубства, вчинені дітьми та підлітками, є особливо великою проблемою здоров’я та соціальної сфери Польщі. Вважається, що у віковій групі 10-19 років самогубства є другою причиною смерті в Польщі після дорожньо-транспортних травм та аварій."
+    }
+  ],
+  "psychotherapy young 24": [
+    {
+      "type": 0,
+      "value": "Що таке онлайн-психотерапія в Wellbee для людей до 18 років?"
+    }
+  ],
+  "psychotherapy young 25": [
+    {
+      "type": 0,
+      "value": "У ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Wellbee​"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": "​ за допомогою молодіжної онлайн-психотерапії ми надаємо консультації та допомогу у сфері, зокрема"
+    }
+  ],
+  "psychotherapy young 26": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​емоційні розлади,​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    },
+    {
+      "type": 0,
+      "value": "​ ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​порушення соціального функціонування - труднощі адаптації, сором'язливість, відсторонення від стосунків,​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    },
+    {
+      "type": 0,
+      "value": "​ ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​тривожні розлади,​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    },
+    {
+      "type": 0,
+      "value": "​ ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​розлади поведінки,​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    },
+    {
+      "type": 0,
+      "value": "​ ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​розлади в соматичній формі, які часто супроводжуються вегетативними симптомами, наприклад, болем у животі, нудотою та блювотою, головним болем.​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    }
+  ],
+  "psychotherapy young 27": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Індивідуальна психотерапія підлітків складається з індивідуальних, регулярних зустрічей з психотерапевтом. Перші або перші кілька сеансів індивідуальної психотерапії використовуються для точного розпізнавання труднощів, а також для пізнання поточної та минулої життєвої ситуації. Ці заняття носять діагностичний характер і завершуються формулюванням мети подальшої роботи. Подальші зустрічі, залежно від прийнятої мети, можуть бути короткостроковими, середньостроковими та довгостроковими. ​"
+        }
+      ],
+      "type": 8,
+      "value": "p"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " У випадку осіб віком до 18 років індивідуальна терапія має бути письмовою згодою з батьків або законного опікуна, який має повні батьківські повноваження. "
+        }
+      ],
+      "type": 8,
+      "value": "p"
+    }
+  ],
+  "psychotherapy young 28": [
+    {
+      "type": 0,
+      "value": "​ У разі онлайн-психотерапії для підлітків - прайс-лист 2021"
+    }
+  ],
+  "psychotherapy young 29": [
+    {
+      "type": 0,
+      "value": "У Wellbee один 50-хвилинний онлайн-сеанс психотерапії для особи віком до 18 років пропонується за 139 злотих. Записи доступні в різний час. Також у вихідні дні. Wellbee додатково дає можливість використовувати основну та організаційну підтримку кваліфікованих осіб ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Опікунів Терапії​"
+        }
+      ],
+      "type": 8,
+      "value": "linkGuide"
+    },
+    {
+      "type": 0,
+      "value": "​. ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ Ви можете зв'язатися з ними на постійній основі за телефоном: +48 732 489 003 або домовитися про конкретну дату "
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": ". Більше інформації з детальними даними можна знайти за посиланням: "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " wellbee - найкраща онлайн-психотерапія "
+        }
+      ],
+      "type": 8,
+      "value": "linkHelp"
+    }
+  ],
+  "psychotherapy young 3": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Зростання​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ інакше відомий як ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​підлітковий вік​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ є надзвичайно важливим етапом розвитку, тому що ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​це міст між дитинством і дорослістю​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​. Молода людина відчуває різкі зміни, які ми називаємо статевим дозріванням. Потім змінюється наше тіло, відбуваються психічні зміни, пов’язані, в тому числі, з афективно-мотиваційною та когнітивною сферою, змінюється наш спосіб функціонування в суспільстві. Це період формування індивідуальної та соціальної ідентичності."
+    }
+  ],
+  "psychotherapy young 30": [
+    {
+      "type": 0,
+      "value": "Це онлайн-психотерапія – обирай фахівця"
+    }
+  ],
+  "psychotherapy young 31": [
+    {
+      "type": 0,
+      "value": "Можеш знайти детальний список онлайн-терапевтів у Wellbee, які спеціалізуються на проблемах психічного здоров’я для людей віком до 18 років, натиснувши на посилання нижче:"
+    }
+  ],
+  "psychotherapy young 32": [
+    {
+      "type": 0,
+      "value": "Дивись профілі психотерапевтів, які проводять психотерапію для неповнолітніх в Інтернеті>"
+    }
+  ],
+  "psychotherapy young 33": [
+    {
+      "type": 0,
+      "value": "У яких терапевтичних напрямках проводиться онлайн-терапія для людей до 18 років?"
+    }
+  ],
+  "psychotherapy young 34": [
+    {
+      "type": 0,
+      "value": "Основний поділ терапевтичних напрямків включає 4 групи:"
+    }
+  ],
+  "psychotherapy young 35": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​психоаналітична та психодинамічна терапія,​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    },
+    {
+      "type": 0,
+      "value": "​ ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​когнітивно-поведінкова терапія,​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    },
+    {
+      "type": 0,
+      "value": "​ ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​гуманістична і екзистенційна,​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    },
+    {
+      "type": 0,
+      "value": "​ ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​системна.​"
+        }
+      ],
+      "type": 8,
+      "value": "elem"
+    }
+  ],
+  "psychotherapy young 36": [
+    {
+      "type": 0,
+      "value": "Кожна терапевтична тенденція базується на специфічних теоретичних засадах, що тягнуть за собою різні способи розуміння розладів і методів їх лікування. Психотерапія підліткових розладів проводиться в усіх перерахованих вище способах."
+    }
+  ],
+  "psychotherapy young 37": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Чи інформує психотерапевт батьків підлітка про хід їх терапії? "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "​ "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Той факт, що рішення про терапію найчастіше приймається батьками, може викликати проблему довіри підлітка до терапевта. Тут може виникнути конфлікт інтересів. Підліток може бути стурбований тим, що терапевт передає його/її батькам конфіденційну інформацію, якою вони поділилися з терапевтом. Батьки, навпаки, бажаючи бути впевненими, що з їхньою дитиною нічого серйозного не відбувається, можуть розраховувати на отримання інформації про свою дитину, до якої вони досі не мали доступу. Це може бути складною ситуацією для психотерапевта, однак основою психотерапевтичної роботи є довіра між терапевтом і пацієнтом. "
+        }
+      ],
+      "type": 8,
+      "value": "p"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " У разі загрози життю або здоров'ю дитини психотерапевт обов'язково зобов'язаний повідомити батьків про небезпеку, що настає, але це виняток з правила, що сказане в кабінеті залишається секрет, яким ділиться терапевт і пацієнт. "
+        }
+      ],
+      "type": 8,
+      "value": "p"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " В інших ситуаціях можна попрацювати з дитиною так, щоб вона сама чи за підтримки терапевта могла розповісти батькам про важливі речі. "
+        }
+      ],
+      "type": 8,
+      "value": "p"
+    }
+  ],
+  "psychotherapy young 4": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Психічне здоров’я молодої людини має принципове значення для її функціонування в дорослому віці, і якщо не лікувати розлади у дітей та підлітків, вони не виростуть з них самі по собі. ​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ Однак у майбутньому вони можуть стати дорослими з психічними розладами."
+    }
+  ],
+  "psychotherapy young 5": [
+    {
+      "type": 0,
+      "value": "Молоді люди не дорослі"
+    }
+  ],
+  "psychotherapy young 5.1": [
+    {
+      "type": 0,
+      "value": "У минулому дітей і підлітків вважали «маленькими дорослими». Сьогодні, на щастя, ми це усвідомлюємо ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ молода людина принципово відрізняється від дорослих. ​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    }
+  ],
+  "psychotherapy young 6": [
+    {
+      "type": 0,
+      "value": "Молодь і дорослі: рівень розвитку пізнавальних функцій"
+    }
+  ],
+  "psychotherapy young 7": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ Одним з таких напрямків є рівень розвитку когнітивних функцій, ​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ від чого залежить спосіб участі дитини в психотерапії."
+    }
+  ],
+  "psychotherapy young 8": [
+    {
+      "type": 0,
+      "value": "Ключовим тут є вміння рефлексувати над своїми вчинками, почуттями та думками, дистанціюватися від переживань, на яких орієнтована психотерапія. Тому ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ Психотерапія дітей та підлітків вимагає врахування рівня когнітивного розвитку та адаптації до нього адекватних терапевтичних засобів. ​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ ."
+    }
+  ],
+  "psychotherapy young 9": [
+    {
+      "type": 0,
+      "value": "Значення розвивального контексту в психотерапії підлітків"
+    }
+  ],
+  "psychotherapy young photobox alt 1": [
+    {
+      "type": 0,
+      "value": "онлайн-психотерапія для підлітків"
+    }
+  ],
+  "psychotherapy young photobox alt 2": [
+    {
+      "type": 0,
+      "value": "Психотерапія дітей та підлітків вимагає врахування рівня когнітивного розвитку та адаптації до нього адекватних терапевтичних засобів."
+    }
+  ],
+  "psychotherapy young photobox alt 3": [
+    {
+      "type": 0,
+      "value": "Підлітки страждають від різноманітних проблем психічного здоров’я, пов’язаних із використанням технологій"
+    }
+  ],
+  "psychotherapy young photobox title 1": [
+    {
+      "type": 0,
+      "value": "молодіжна онлайн-психотерапія"
+    }
+  ],
+  "psychotherapy young photobox title 2": [
+    {
+      "type": 0,
+      "value": "Детермінанти молодіжної психотерапії"
+    }
+  ],
+  "psychotherapy young photobox title 3": [
+    {
+      "type": 0,
+      "value": "Психічні проблеми у підлітків"
+    }
+  ],
+  "psychotherapy young title 1": [
+    {
+      "type": 0,
+      "value": "Онлайн-психотерапія для підлітків"
+    }
+  ],
+  "psychotherapy young title 2": [
+    {
+      "type": 0,
+      "value": "Онлайн-психотерапія підлітків до 18 років"
+    }
+  ],
+  "pwc therapist": [
+    {
+      "type": 0,
+      "value": "PWC терапевт"
+    }
+  ],
+  "pwc therapist description": [
+    {
+      "type": 0,
+      "value": "PWC терапевт зберігається як окремий запис у базі даних, може мати те саме ім’я та прізвище, що й стандартний, але повинен мати іншу адресу електронної пошти."
+    }
+  ],
+  "quality": [
+    {
+      "type": 0,
+      "value": "Якість, швидкість та зручність"
+    }
+  ],
+  "quality info": [
+    {
+      "type": 0,
+      "value": "Доступ до кваліфікованих психотерапевтів та інших спеціалістів у будь-якому місці та на будь-якому пристрої"
+    }
+  ],
+  "question for payment sent": [
+    {
+      "type": 0,
+      "value": "Запит на зняття коштів надіслано!"
+    }
+  ],
+  "questionnaire date": [
+    {
+      "type": 0,
+      "value": "Вибери свій рік народження"
+    }
+  ],
+  "questionnaire first visit": [
+    {
+      "type": 0,
+      "value": "Це ваша перша психотерапія?"
+    }
+  ],
+  "questionnaire gender": [
+    {
+      "type": 0,
+      "value": "Вибери свою стать"
+    }
+  ],
+  "questionnaire is after": [
+    {
+      "type": 0,
+      "value": "Чи відбулась твоя консультація з психіатром?"
+    }
+  ],
+  "questionnaire motivation": [
+    {
+      "type": 0,
+      "value": "Яка твоя основна мотивація розмовляти зі мною?"
+    }
+  ],
+  "questionnaire motivation 1": [
+    {
+      "type": 0,
+      "value": "Мені потрібна допомога у виборі терапевта"
+    }
+  ],
+  "questionnaire motivation 2": [
+    {
+      "type": 0,
+      "value": "Цікаво, чи може психотерапія мені допомогти"
+    }
+  ],
+  "questionnaire motivation 3": [
+    {
+      "type": 0,
+      "value": "Мені дуже важко / мені погано"
+    }
+  ],
+  "questionnaire other": [
+    {
+      "type": 0,
+      "value": "Інше / Відмова відповідати"
+    }
+  ],
+  "read more": [
+    {
+      "type": 0,
+      "value": "Більше"
+    }
+  ],
+  "receive specialist info on email": [
+    {
+      "type": 0,
+      "value": "Інформацію про обраного спеціаліста, а також дату та час першого сеансу ти отримаєш на електронну пошту. Якщо у тебе виникли запитання, не соромся запитати свого Опікуна Терапії."
+    }
+  ],
+  "recommend video call": [
+    {
+      "type": 0,
+      "value": "Рекомендуємо форму відеоконференції - завдяки цьому ти зможеш побачити свого терапевта і почувати себе майже як в кабінеті! Ми розуміємо, що іноді з різних причин навіть це неможливо – тому ми завжди даємо вам можливість телефонного дзвінка."
+    }
+  ],
+  "recommended": [
+    {
+      "type": 0,
+      "value": "Рекомендовані"
+    }
+  ],
+  "recommended (sort)": [
+    {
+      "type": 0,
+      "value": "Рекомендовані"
+    }
+  ],
+  "repeat next week": [
+    {
+      "type": 0,
+      "value": "Повторити автоматично протягом наступного тижня"
+    }
+  ],
+  "reservation soon": [
+    {
+      "type": 0,
+      "value": "Незабаром доступне бронювання"
+    }
+  ],
+  "reset password": [
+    {
+      "type": 0,
+      "value": "Скинути пароль"
+    }
+  ],
+  "reset password success": [
+    {
+      "type": 0,
+      "value": "Скинуто пароль"
+    }
+  ],
+  "resign of course": [
+    {
+      "type": 0,
+      "value": "Звичайно, але якщо ти зробиш це пізніше ніж за 24 години до початку вашого візиту, ми не зможемо повернути тобі гроші."
+    }
+  ],
+  "return investition": [
+    {
+      "type": 0,
+      "value": "повернення з інвестиції"
+    }
+  ],
+  "search therapist": [
+    {
+      "type": 0,
+      "value": "Знайди терапевта"
+    }
+  ],
+  "search therapist by city": [
+    {
+      "type": 0,
+      "value": "Введи місто"
+    }
+  ],
+  "search therapist...": [
+    {
+      "type": 0,
+      "value": "Шукати терапевта..."
+    }
+  ],
+  "see": [
+    {
+      "type": 0,
+      "value": "Подивитись"
+    }
+  ],
+  "see all": [
+    {
+      "type": 0,
+      "value": "Побачити всіх"
+    }
+  ],
+  "see our report": [
+    {
+      "type": 0,
+      "value": "Ознайомся з нашим звітом"
+    }
+  ],
+  "see transaction": [
+    {
+      "type": 0,
+      "value": "Переглянути транзакцію"
+    }
+  ],
+  "select": [
+    {
+      "type": 0,
+      "value": "Вибери"
+    }
+  ],
+  "select all": [
+    {
+      "type": 0,
+      "value": "Вибрати всіх"
+    }
+  ],
+  "select guide": [
+    {
+      "type": 0,
+      "value": "Вибери опікуна"
+    }
+  ],
+  "select your therapist": [
+    {
+      "type": 0,
+      "value": "Наші спеціалісти"
+    }
+  ],
+  "send and ask for contact": [
+    {
+      "type": 0,
+      "value": "Надішли та попроси про зворотній контакт"
+    }
+  ],
+  "session completed": [
+    {
+      "type": 0,
+      "value": "Відбулась"
+    }
+  ],
+  "session created using aviva website": [
+    {
+      "type": 0,
+      "value": "Зустріч організована сайтом Aviva"
+    }
+  ],
+  "session created using pwc website": [
+    {
+      "type": 0,
+      "value": "Зустріч, організована стороною PWC"
+    }
+  ],
+  "session details": [
+    {
+      "type": 0,
+      "value": "Деталі сесії"
+    }
+  ],
+  "session failed": [
+    {
+      "type": 0,
+      "value": "не відбулась"
+    }
+  ],
+  "session payment failed": [
+    {
+      "type": 0,
+      "value": "Не скасовано"
+    }
+  ],
+  "set availability data": [
+    {
+      "type": 0,
+      "value": "Вибери зручний для тебе і твоїх пацієнтів графік роботи"
+    }
+  ],
+  "set call image": [
+    {
+      "type": 0,
+      "value": "Встанови картинку підключення"
+    }
+  ],
+  "set work hours": [
+    {
+      "type": 0,
+      "value": "Встанови свій робочий час"
+    }
+  ],
+  "set work time": [
+    {
+      "type": 0,
+      "value": "Встанови робочий час"
+    }
+  ],
+  "shortcut": [
+    {
+      "type": 0,
+      "value": "Скорочено"
+    }
+  ],
+  "shortened details": [
+    {
+      "type": 0,
+      "value": "Короткий опис (необов'язково)"
+    }
+  ],
+  "show all": [
+    {
+      "type": 0,
+      "value": "Показати всім"
+    }
+  ],
+  "show our therapists": [
+    {
+      "type": 0,
+      "value": "Показати наших терапевтів"
+    }
+  ],
+  "show results": [
+    {
+      "type": 0,
+      "value": "Показати результати"
+    }
+  ],
+  "show therapist": [
+    {
+      "type": 0,
+      "value": "Показати терапевта"
+    }
+  ],
+  "siy-agenda-day1-1": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Навчання:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ тренування уваги"
+    }
+  ],
+  "siy-agenda-day1-10": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Навчання:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ трансформуй поточні виклики та реагуй на них"
+    }
+  ],
+  "siy-agenda-day1-2": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Як ти розвиваєшся ​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​емоційний інтелект?"
+    }
+  ],
+  "siy-agenda-day1-3": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Уважність:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ перехід від автопілота до усвідомлення"
+    }
+  ],
+  "siy-agenda-day1-4": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Навчання:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ звільни свідомість"
+    }
+  ],
+  "siy-agenda-day1-5": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Навчання:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ звільни свідомість"
+    }
+  ],
+  "siy-agenda-day1-6": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Самосвідомість:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ усвідомлення свого внутрішнього стану"
+    }
+  ],
+  "siy-agenda-day1-7": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Самоуправління:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ вміло керуй своїми імпульсами та реакціями"
+    }
+  ],
+  "siy-agenda-day1-8": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Навчання:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ свідоме слухання"
+    }
+  ],
+  "siy-agenda-day1-9": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Навчання:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ співчуття до себе"
+    }
+  ],
+  "siy-agenda-day2-1": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Мотивація:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ налаштуй свої цінності під роботу"
+    }
+  ],
+  "siy-agenda-day2-10": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Лідерство:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ керуй зі співчуттям"
+    }
+  ],
+  "siy-agenda-day2-11": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Навчання:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ навчання співчуття"
+    }
+  ],
+  "siy-agenda-day2-12": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Вправа:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ відданість керівника"
+    }
+  ],
+  "siy-agenda-day2-13": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Мозковий штурм​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    }
+  ],
+  "siy-agenda-day2-2": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Вправа:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ вирівнювання цінностей"
+    }
+  ],
+  "siy-agenda-day2-3": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Тренування уяви:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ візуалізуй свої цілі"
+    }
+  ],
+  "siy-agenda-day2-4": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Навчання:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ опір, вихід із невдачі"
+    }
+  ],
+  "siy-agenda-day2-5": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Вправа:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ \"Зовсім як я\""
+    }
+  ],
+  "siy-agenda-day2-6": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Емпатія:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ розуміння почуттів і переживань інших людей"
+    }
+  ],
+  "siy-agenda-day2-7": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Навчання:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ свідома ходьба"
+    }
+  ],
+  "siy-agenda-day2-8": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Вправа:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ емпатійне слухання"
+    }
+  ],
+  "siy-agenda-day2-9": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Вправа:​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ важкі розмови"
+    }
+  ],
+  "siy-agenda-info": [
+    {
+      "type": 0,
+      "value": "Ця дводенна програма, яку викладають два сертифіковані вчителі SIY, ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​полягає в дослідженні теми навичок емоційного інтелекту та практичних застосувань на основі усвідомленості.​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​"
+    }
+  ],
+  "siy-agenda-sign-up": [
+    {
+      "type": 0,
+      "value": "Підписатись"
+    }
+  ],
+  "siy-agenda-title": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Дводенна програма​"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": "​ Шукай всередині себе"
+    }
+  ],
+  "siy-agenda-title-day": [
+    {
+      "type": 0,
+      "value": "День"
+    }
+  ],
+  "siy-agenda-title-day1-end": [
+    {
+      "type": 0,
+      "value": "17:00 – Кінець першого дня"
+    }
+  ],
+  "siy-agenda-title-day1-start": [
+    {
+      "type": 0,
+      "value": "9:00 – початок"
+    }
+  ],
+  "siy-agenda-title-day2-end": [
+    {
+      "type": 0,
+      "value": "17:00 – Кінець другого дня"
+    }
+  ],
+  "siy-agenda-title-day2-start": [
+    {
+      "type": 0,
+      "value": "9:00 – початок"
+    }
+  ],
+  "siy-expect-lead-text": [
+    {
+      "type": 0,
+      "value": "Програма SIY починається з надзвичайно інтерактивного досвіду ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​дводенна сесія​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​. Пізніше в формі онлайн відбудеться ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​чотиритижнева інтеграція навичок​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​і в кінці програми організовується ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​вебінар​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​."
+    }
+  ],
+  "siy-expect-text-1": [
+    {
+      "type": 0,
+      "value": "Емпіричний тренінг усвідомленості, нейронауки та п’яти навичок емоційного інтелекту."
+    }
+  ],
+  "siy-expect-text-2": [
+    {
+      "type": 0,
+      "value": "Щоденні вправи та матеріали, надіслані електронною поштою, допоможуть у виробленні нових звичок."
+    }
+  ],
+  "siy-expect-text-3": [
+    {
+      "type": 0,
+      "value": "Повторно зв’яжись зі своїми вчителями та групою для аналізу та подальшого плану дій."
+    }
+  ],
+  "siy-expect-time-1": [
+    {
+      "type": 0,
+      "value": "2 дні"
+    }
+  ],
+  "siy-expect-time-2": [
+    {
+      "type": 0,
+      "value": "4 тижні"
+    }
+  ],
+  "siy-expect-time-3": [
+    {
+      "type": 0,
+      "value": "1 година"
+    }
+  ],
+  "siy-expect-title": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​перебіг"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": "курсу"
+    }
+  ],
+  "siy-expect-title-1": [
+    {
+      "type": 0,
+      "value": "тренуваня в прямому ефірі"
+    }
+  ],
+  "siy-expect-title-2": [
+    {
+      "type": 0,
+      "value": "Віртуальний вебінар-тренінг"
+    }
+  ],
+  "siy-expect-title-3": [
+    {
+      "type": 0,
+      "value": "Вебінар"
+    }
+  ],
+  "siy-form-company": [
+    {
+      "type": 0,
+      "value": "Компанія"
+    }
+  ],
+  "siy-form-motivation": [
+    {
+      "type": 0,
+      "value": "Мотивація / чого я хочу досягти"
+    }
+  ],
+  "siy-form-name": [
+    {
+      "type": 0,
+      "value": "Ім'я та прізвище"
+    }
+  ],
+  "siy-form-position": [
+    {
+      "type": 0,
+      "value": "Посада"
+    }
+  ],
+  "siy-form-send": [
+    {
+      "type": 0,
+      "value": "Надіслати"
+    }
+  ],
+  "siy-form-title": [
+    {
+      "type": 0,
+      "value": "Форма заявки"
+    }
+  ],
+  "siy-lead-date": [
+    {
+      "type": 0,
+      "value": "11–12 травня 2022 р. Варшава"
+    }
+  ],
+  "siy-lead-date-early": [
+    {
+      "type": 0,
+      "value": "до 15 березня"
+    }
+  ],
+  "siy-lead-date-late": [
+    {
+      "type": 0,
+      "value": "після 15 березня"
+    }
+  ],
+  "siy-lead-text": [
+    {
+      "type": 0,
+      "value": "Дводенна програма для керівників та менеджерів"
+    }
+  ],
+  "siy-longer-lead-text": [
+    {
+      "type": 0,
+      "value": "Оригінальна ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​дводенна програма навчання емоційного інтелекту на основі усвідомленості, розроблена Google​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​. Покращуй концентрацію, стійкість і посилюй емпатію, щоб використовувати весь потенціал своєї команди."
+    }
+  ],
+  "siy-nav-agenda": [
+    {
+      "type": 0,
+      "value": "План навчання"
+    }
+  ],
+  "siy-nav-partners": [
+    {
+      "type": 0,
+      "value": "Партнери"
+    }
+  ],
+  "siy-nav-programme": [
+    {
+      "type": 0,
+      "value": "Програма "
+    }
+  ],
+  "siy-nav-what-to-expect": [
+    {
+      "type": 0,
+      "value": "Перебіг"
+    }
+  ],
+  "siy-partners-title": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Приєднуйся до групи організацій​"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": "​які брали участь у нашому тренінгу"
+    }
+  ],
+  "siy-programme-header-1": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Ми даємо лідерам інструменти для підвищення концентрації, самосвідомості та стійкості.​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​"
+    }
+  ],
+  "siy-programme-header-2": [
+    {
+      "type": 0,
+      "value": " ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Дводенна інтерактивна програма​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ містить:"
+    }
+  ],
+  "siy-programme-header-3": [
+    {
+      "type": 0,
+      "value": "Учасники ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​буде постійно покращуватися: ​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ "
+    }
+  ],
+  "siy-programme-results-1": [
+    {
+      "type": 0,
+      "value": "Заявлено, що після програми краще почали справлялася зі стресом"
+    }
+  ],
+  "siy-programme-results-2": [
+    {
+      "type": 0,
+      "value": "Сказали, що швидше відновились після труднощів після програми."
+    }
+  ],
+  "siy-programme-results-3": [
+    {
+      "type": 0,
+      "value": "Помітили збільшення концентрації та здатність бути повністю присутнім"
+    }
+  ],
+  "siy-programme-results-note": [
+    {
+      "type": 0,
+      "value": "* на основі 6000 учасників курсу SIY"
+    }
+  ],
+  "siy-programme-text-1": [
+    {
+      "type": 0,
+      "value": "Програма SIY, розроблена й перевірена компанією Google, навчає технік уважності й емоційного інтелекту, які ведуть до підтримки максимальної продуктивності та міцної співпраці та ефективного лідерства."
+    }
+  ],
+  "siy-programme-text-2": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Огляд нейронаукової підтримки усвідомленості та емоційного інтелекту​"
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    },
+    {
+      "type": 0,
+      "value": " ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Досліджуй навички емоційного інтелекту: самосвідомість, саморегуляція, мотивація, емпатія та лідерство​"
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    },
+    {
+      "type": 0,
+      "value": " ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Практичні вправи для концентрації уваги та розвитку усвідомлення та емпатії, які є основою самоконтролю та лідерства​"
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    },
+    {
+      "type": 0,
+      "value": " ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Спеціальні програми на робочому місці, які допомагають учасникам досягти більшої концентрації, емоційної рівноваги, емпатії та мотивації "
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Дуже інтерактивний 1/ 3 досвіду з презентації та 2/3 від практичних вправ "
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 28-денне завдання після 2-денної програми. Після тренування щоденно надаються матеріали та вправи, які допоможуть учасникам виробити нові звички "
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    }
+  ],
+  "siy-programme-text-3": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Самосвідомість і саморегуляція, які є першими двома ключовими компетенціями емоційного інтелекту​"
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    },
+    {
+      "type": 0,
+      "value": " ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Практичні навички, які потрібно взяти додому: низка технік усвідомленості, самосвідомість, ведення щоденника, чуйне слухання та підготовка до важких розмов​"
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    },
+    {
+      "type": 0,
+      "value": " ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Інструменти для спілкування з проникливістю та усвідомленням емоцій та точок зору інших​"
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    }
+  ],
+  "siy-testimonial-1": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Я дуже рекомендую SIY​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ будь-хто, хто хоче покращити співпрацю в команді, покращити інноваційне мислення та ясність, зменшити стрес, покращити загальне самопочуття, краще справлятися зі складними розмовами та мати можливість залишатися спокійним загалом."
+    }
+  ],
+  "siy-testimonial-2": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Я був у захваті від кожної хвилини програми​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ і відразу поділився своїм досвідом з деякими членами моєї команди. "
+    }
+  ],
+  "siy-testimonial-3": [
+    {
+      "type": 0,
+      "value": "Методи, які навчаються в програмі SIY, легко дотримуватися, але ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​дають дивовижні результати​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    }
+  ],
+  "siy-testimonial-4": [
+    {
+      "type": 0,
+      "value": "Ми визнали тренінг настільки корисним, що зараз ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​в ньому бере участь весь управлінський персонал​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    }
+  ],
+  "siy-testimonial-5": [
+    {
+      "type": 0,
+      "value": "Завдяки щедрості моїх роботодавців на bol.com я щойно завершив другий день програми усвідомлення від Google «Пошук всередині себе». Підсумовуючи ці два дні, можу сказати, що ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Курс «Пошук всередині себе» дає мені уявлення про мої ідеї та вподобання, показує, як я маю піклуватися про себе, коли мої потреби не задовольняються, і на які сюрпризи я можу зіткнутися, коли відкриваю новий досвід.​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​​"
+    }
+  ],
+  "siy-testimonial-6": [
+    {
+      "type": 0,
+      "value": "​​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Безцінна"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ інвестиція"
+    }
+  ],
+  "siy-testimonial-function-1": [
+    {
+      "type": 0,
+      "value": "Директор зі стратегії Plantronics"
+    }
+  ],
+  "siy-testimonial-function-2": [
+    {
+      "type": 0,
+      "value": "Віце-президент GetYourGuide"
+    }
+  ],
+  "siy-testimonial-function-3a": [
+    {
+      "type": 0,
+      "value": "Глобальний Менеджер Програми"
+    }
+  ],
+  "siy-testimonial-function-3b": [
+    {
+      "type": 0,
+      "value": "Офіс Трансформації Бізнесу, Dell"
+    }
+  ],
+  "siy-testimonial-function-4": [
+    {
+      "type": 0,
+      "value": "Віце-президент з глобального маркетингового контенту та кампаній Equinix"
+    }
+  ],
+  "siy-testimonial-function-5": [
+    {
+      "type": 0,
+      "value": "Партнерський спеціаліст Bol.com​1"
+    }
+  ],
+  "siy-testimonial-function-6": [
+    {
+      "type": 0,
+      "value": "Роджер Спіллер і партнери"
+    }
+  ],
+  "solution for your company": [
+    {
+      "type": 0,
+      "value": "​Давай поговоримо про рішення, пристосоване до твоєї компанії​. ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ Скористайся підтримкою досвідчених експертів wellbee і визнач стратегічні потреби твоєї організації у сфері турботи про психічне здоров'я твоїх співробітників ​"
+        }
+      ],
+      "type": 8,
+      "value": "p"
+    }
+  ],
+  "sort": [
+    {
+      "type": 0,
+      "value": "Сортувати"
+    }
+  ],
+  "sort (menu)": [
+    {
+      "type": 0,
+      "value": "Сортувати"
+    }
+  ],
+  "sort and filter": [
+    {
+      "type": 0,
+      "value": "Сортувати і фільтрувати"
+    }
+  ],
+  "sort and filter therapist": [
+    {
+      "type": 0,
+      "value": "Сортувати і фільтрувати терапевтів"
+    }
+  ],
+  "source": [
+    {
+      "type": 0,
+      "value": "How did you hear about us?"
+    }
+  ],
+  "specialization": [
+    {
+      "type": 0,
+      "value": "Спеціалізація"
+    }
+  ],
+  "speed check": [
+    {
+      "type": 0,
+      "value": "Ти можеш перевірити швидкість з’єднання ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​на сторінці​"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": "​ - вже ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​500 Кб/с​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​ його має бути достатньо, хоча оптимально буде не менше 1,5 Мб / с."
+    }
+  ],
+  "start": [
+    {
+      "type": 0,
+      "value": "Початок"
+    }
+  ],
+  "start therapy": [
+    {
+      "type": 0,
+      "value": "Почни психотерапію"
+    }
+  ],
+  "status": [
+    {
+      "type": 0,
+      "value": "Статус"
+    }
+  ],
+  "status canceled": [
+    {
+      "type": 0,
+      "value": "Скасовано"
+    }
+  ],
+  "status cancelled": [
+    {
+      "type": 0,
+      "value": "Скасовано"
+    }
+  ],
+  "status cash returned": [
+    {
+      "type": 0,
+      "value": "Повернення коштів"
+    }
+  ],
+  "status complete": [
+    {
+      "type": 0,
+      "value": "Виконано"
+    }
+  ],
+  "status paid": [
+    {
+      "type": 0,
+      "value": "Оплачено"
+    }
+  ],
+  "status payment_failed": [
+    {
+      "type": 0,
+      "value": "Не скасовано"
+    }
+  ],
+  "status pending": [
+    {
+      "type": 0,
+      "value": "Очікує"
+    }
+  ],
+  "status waiting": [
+    {
+      "type": 0,
+      "value": "Заброньована"
+    }
+  ],
+  "status.active": [
+    {
+      "type": 0,
+      "value": "Stały pacjent"
+    }
+  ],
+  "status.active-description": [
+    {
+      "type": 0,
+      "value": "Pacjent odbył pierwszą rozmowę z terapeutą i nie zrezygnował z kontynuacji terapii"
+    }
+  ],
+  "status.finished": [
+    {
+      "type": 0,
+      "value": "Terapia zakończona"
+    }
+  ],
+  "status.finished-description": [
+    {
+      "type": 0,
+      "value": "Pacjent zrezygnował z kontynuacji terapii po co najmniej pięciu rozmowach z terapeutą"
+    }
+  ],
+  "status.first-visit": [
+    {
+      "type": 0,
+      "value": "Pierwsze konsultacje"
+    }
+  ],
+  "status.first-visit-description": [
+    {
+      "type": 0,
+      "value": "Pacjent jest przed swoją pierwszą rozmową z terapeutą"
+    }
+  ],
+  "status.no-contact": [
+    {
+      "type": 0,
+      "value": "Brak kontaktu"
+    }
+  ],
+  "status.no-contact-description": [
+    {
+      "type": 0,
+      "value": "Brak kontaktu z pacjentem"
+    }
+  ],
+  "status.pending": [
+    {
+      "type": 0,
+      "value": "Nowy"
+    }
+  ],
+  "status.pending-description": [
+    {
+      "type": 0,
+      "value": "Pacjent oczekuje na rozmowę z Opiekunem terapii"
+    }
+  ],
+  "status.quick-churn": [
+    {
+      "type": 0,
+      "value": "Terapia przerwana"
+    }
+  ],
+  "status.quick-churn-description": [
+    {
+      "type": 0,
+      "value": "Pacjent zrezygnował z kontynuacji terapii po pierwszej rozmowie z terapeutą"
+    }
+  ],
+  "status.single-visit": [
+    {
+      "type": 0,
+      "value": "Jednorazowa konsultacja"
+    }
+  ],
+  "status.single-visit-description": [
+    {
+      "type": 0,
+      "value": "Jednorazowa konsultacja"
+    }
+  ],
+  "street address": [
+    {
+      "type": 0,
+      "value": "Вулиця"
+    }
+  ],
+  "surname": [
+    {
+      "type": 0,
+      "value": "Прізвище"
+    }
+  ],
+  "system": [
+    {
+      "type": 0,
+      "value": "Система"
+    }
+  ],
+  "system id": [
+    {
+      "type": 0,
+      "value": "Ідентифікатор системи"
+    }
+  ],
+  "telephone tips": [
+    {
+      "type": 0,
+      "value": "Ти можеш легко приєднатися до зустрічі через Google Meet на своєму мобільному телефоні, якщо у тебе є проблеми з комп’ютером (наприклад, зламана камера). Просто встанови додаток ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Google Meet з Apple App Store (для iOS) або Google Play (для Android)​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​. Пам’ятай, що тримати телефон у руці годину буде не зручно, тому знайди стійкий спосіб розташувати його перед собою :)"
+    }
+  ],
+  "terms conditions label": [
+    {
+      "type": 0,
+      "value": "Я підтверджую, що прочитав зміст ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​регламенту​"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": "​ і я згоден з його положеннями"
+    }
+  ],
+  "test hidden": [
+    {
+      "type": 0,
+      "value": "Тест / прихований"
+    }
+  ],
+  "therapist": [
+    {
+      "type": 0,
+      "value": "Терапевт"
+    }
+  ],
+  "therapist choosing help question": [
+    {
+      "type": 0,
+      "value": "Потрібна допомога в"
+    },
+    {
+      "children": [
+      ],
+      "type": 8,
+      "value": "br"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "виборі психотерапевта?"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    }
+  ],
+  "therapist doesnt get money for session": [
+    {
+      "type": 0,
+      "value": "Терапевт не отримує оплату за сеанс"
+    }
+  ],
+  "therapist find person": [
+    {
+      "type": 0,
+      "value": "Нижче вибери особу, яка допоможе тобі зробити перший крок до поліпшення якості твого життя"
+    }
+  ],
+  "therapist guide": [
+    {
+      "type": 0,
+      "value": "Відповім на Ваші запитання щодо вибору терапевта"
+    }
+  ],
+  "therapist guide box lower text": [
+    {
+      "type": 0,
+      "value": "Наша розмова допоможе нам краще зрозуміти твої потреби і добрати ідеальну терапію"
+    }
+  ],
+  "therapist list info 1": [
+    {
+      "type": 0,
+      "value": "Я уважно вислухаю тебе і допоможу підібрати найкращий вид терапії"
+    }
+  ],
+  "therapist list info 2": [
+    {
+      "type": 0,
+      "value": "Я допоможу тобі знайти найкращого терапевта з урахуванням твоїх потреб"
+    }
+  ],
+  "therapist list info 3": [
+    {
+      "type": 0,
+      "value": "Я поясню, як саме підготуватися до твого першого прийому онлайн"
+    }
+  ],
+  "therapist list info 4": [
+    {
+      "type": 0,
+      "value": "Відповім на всі сумніви та запитання щодо курсу терапії"
+    }
+  ],
+  "therapists": [
+    {
+      "type": 0,
+      "value": "Терапевти"
+    }
+  ],
+  "therapy for you": [
+    {
+      "type": 0,
+      "value": "Психотерапія саме для тебе"
+    }
+  ],
+  "therapy guide": [
+    {
+      "type": 0,
+      "value": "Опікун Терапії"
+    }
+  ],
+  "therapy guide answer questions": [
+    {
+      "type": 0,
+      "value": "... і більше того, ми відповімо на всі твої запитання щодо курсу психотерапії."
+    }
+  ],
+  "therapy guide description plural": [
+    {
+      "type": 0,
+      "value": "Ми тут, щоб допомогти тобі знайти психотерапевта, який підходить для тих труднощів, про які ти повідомиш. Перевір, що ми можемо зробити для тебе."
+    }
+  ],
+  "therapy guide first step": [
+    {
+      "type": 0,
+      "value": "Перший крок"
+    }
+  ],
+  "therapy guide help": [
+    {
+      "type": 0,
+      "value": "Тому ми хочемо підтримати тебе на твоєму шляху ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​ми пропонуємо тобі підтримку терапевта - людини, яка допоможе тобі добре підготуватися до цієї подорожі​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​. Завдання терапевта – допомагати ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​знайти психотерапевта, який відповідає твоїм уподобанням і який є найкращим спеціалістом у тій сфері, де ти бачиш труднощі​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​.Чи це хронічно пригнічений настрій, тривожні стани, панічні атаки - Опікун Терапії візьме до уваги всі проблеми про які повідомиш, добере години і інші важливі для тебе деталі."
+    }
+  ],
+  "therapy guide how works": [
+    {
+      "type": 0,
+      "value": "Опікун Терапії - як це працює?"
+    }
+  ],
+  "therapy guide how works answer": [
+    {
+      "type": 0,
+      "value": "Вибір правильного фахівця з психічного здоров’я – велика проблема. Ми можемо підтримати тебе у правильному виборі, завдяки тисячам розмов з людьми, які шукають допомоги, та відмінному знанням особливостей роботи фахівців Wellbee. Ми гарантуємо, що спеціаліст буде відповідати твоїм потребам, поважаючи твою конфіденційність. Ми підтримаємо тебе на першому кроці до змін:"
+    }
+  ],
+  "therapy guide in wellbee": [
+    {
+      "type": 0,
+      "value": "Опікун Терапії у Wellbee - хто він і чим він може вам допомогти?"
+    }
+  ],
+  "therapy guide info section": [
+    {
+      "type": 0,
+      "value": "Мене звати "
+    },
+    {
+      "type": 1,
+      "value": "tutorLink"
+    },
+    {
+      "type": 0,
+      "value": ", і я опікун у Wellbee. Дізнайся, як я можу тобі допомогти:"
+    }
+  ],
+  "therapy guide info section tasks 1": [
+    {
+      "type": 0,
+      "value": "Я уважно вислухаю тебе і допоможу підібрати найкращий вид терапії"
+    }
+  ],
+  "therapy guide info section tasks 2": [
+    {
+      "type": 0,
+      "value": "Я допоможу тобі знайти найкращого терапевта з урахуванням твоїх потреб"
+    }
+  ],
+  "therapy guide info section tasks 3": [
+    {
+      "type": 0,
+      "value": "Поясню, як підготуватися до першого візиту"
+    }
+  ],
+  "therapy guide info section tasks 4": [
+    {
+      "type": 0,
+      "value": "Відповім на всі сумніви та запитання щодо курсу терапії"
+    }
+  ],
+  "therapy guide list - advice": [
+    {
+      "type": 0,
+      "value": "Ми підкажемо тобі найбільш підходящу форму підтримки та порекомендуємо спеціалістів"
+    }
+  ],
+  "therapy guide list - checks": [
+    {
+      "type": 0,
+      "value": "Ми перевіримо доступні дати і дозволимо тобі швидко розпочати терапію"
+    }
+  ],
+  "therapy guide list - confidential": [
+    {
+      "type": 0,
+      "value": "Нас зобов’язує таємниця конфіденційності, і ми не виходимо за межі твого комфорту"
+    }
+  ],
+  "therapy guide our help": [
+    {
+      "type": 0,
+      "value": "Наша підтримка"
+    }
+  ],
+  "therapy guide plan": [
+    {
+      "type": 0,
+      "value": "Терапевт відповідає за план терапії, за свій ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​успіх - клієнт разом з терапевтом​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​. Терапія – це процес, в якому ти рухаєшся до ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​досягнення особистих цілей та покращення свого самопочуття​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​. Простіше кажучи, ти експерт у своєму житті – ти знаєш, що борешся з певними симптомами, які заважають твоєму повсякденному функціонуванню на багатьох рівнях. ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Помічати свої проблеми та дозволяти собі допомагати – це перша і перший і дуже важливий крок."
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    }
+  ],
+  "therapy guide qualifications": [
+    {
+      "type": 0,
+      "value": "Компетенції Опікунів Терапії"
+    }
+  ],
+  "therapy guide qualifications answer": [
+    {
+      "type": 0,
+      "value": "Наші опікуни провели тисячі інтерв’ю з людьми, які шукали допомоги, щоб підібрати найбільш відповідну терапію, спеціаліста та психоосвіту. Опікуни досконало знають особливості роботи кожного з наших терапевтів, перебувають з ними в постійному контакті та використовують інструменти для полегшення підтримки пацієнтів. Наші опікуни – випускники та студенти психологічних факультетів, які працюють під наглядом досвідчених терапевтів, постійно розвивають свої компетенції та беруть участь у спеціалізованих супервізіях, організованих центром Intra."
+    }
+  ],
+  "therapy guide second lowercase": [
+    {
+      "type": 0,
+      "value": "Опікун Терапії"
+    }
+  ],
+  "therapy guide support box header": [
+    {
+      "type": 0,
+      "value": "Якщо тобі потрібна підтримка або виникли додаткові запитання"
+    }
+  ],
+  "therapy guide tasks": [
+    {
+      "type": 0,
+      "value": "Завдання Опікуна Терапії"
+    }
+  ],
+  "therapy guide tasks 1": [
+    {
+      "type": 0,
+      "value": "Ти не знаєш, що відбувається, але відчуваєш, що щось не так?"
+    }
+  ],
+  "therapy guide tasks 2 merged": [
+    {
+      "type": 0,
+      "value": "Іноді буває так, що ми не можемо зрозуміти, що з нами відбувається, але відчуваємо погіршення самопочуття. ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Лікар-терапевт допоможе  тобі окреслити зону труднощів, знайти відповідного спеціаліста та допоможе підготуватися до першого відвідування​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​. Не хвилюйся, для нас не буває дурних чи поганих запитань, так само, як немає дурних чи неправильних відповідей – саме для цього нам допомагають Опікуни Терапії."
+    }
+  ],
+  "therapy guide title": [
+    {
+      "type": 0,
+      "value": "Опікун Терапії- допомога у виборі терапевта"
+    }
+  ],
+  "therapy guide title description": [
+    {
+      "type": 0,
+      "value": "Скористайся допомогою Опікуна Терапії у виборі найбільш відповідного психотерапевта з точки зору проблем, про які ти повідомляєш."
+    }
+  ],
+  "therapy guide will answer": [
+    {
+      "type": 0,
+      "value": "Опікун Терапії з нашої команди відповість на всі твої запитання та дозволить вибрати найкращого спеціаліста для твоїх потреб."
+    }
+  ],
+  "therapy guides": [
+    {
+      "type": 0,
+      "value": "Опікуни"
+    }
+  ],
+  "therapy languages": [
+    {
+      "type": 0,
+      "value": "Мови, якими проводиться терапія"
+    }
+  ],
+  "therapy no diff": [
+    {
+      "type": 0,
+      "value": "Дослідження та мета-аналізи не показують відмінностей між ефективністю онлайн- та офлайн-терапії."
+    }
+  ],
+  "therapy science": [
+    {
+      "type": 0,
+      "value": "Існує ряд наукових досліджень, які підтверджують, що"
+    }
+  ],
+  "therapy science link": [
+    {
+      "type": 0,
+      "value": "онлайн-терапія принаймні настільки ж ефективна, як і традиційна терапія"
+    }
+  ],
+  "therapy science returns": [
+    {
+      "type": 0,
+      "value": "Дослідження показують, що онлайн-терапія приносить значний ефект у разі низки розладів (включаючи депресію, соціофобію, ОКР, посттравматичний стресовий стрес)."
+    }
+  ],
+  "therapy session price": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​"
+        },
+        {
+          "type": 1,
+          "value": "sessionPrice"
+        },
+        {
+          "type": 0,
+          "value": " зл​"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "​ / сеанс "
+    },
+    {
+      "type": 1,
+      "value": "sessionTime"
+    },
+    {
+      "type": 0,
+      "value": " хв"
+    }
+  ],
+  "therapy succesfull": [
+    {
+      "type": 0,
+      "value": "Чи ефективна онлайн-терапія?"
+    }
+  ],
+  "therapy type": [
+    {
+      "type": 0,
+      "value": "Вид терапії"
+    }
+  ],
+  "therapy type search": [
+    {
+      "type": 0,
+      "value": "Вид терапії"
+    }
+  ],
+  "therpy guide list - explain": [
+    {
+      "type": 0,
+      "value": "Ми пояснимо, як підготуватися до твого прийому"
+    }
+  ],
+  "timerange overlap": [
+    {
+      "type": 0,
+      "value": "Відрізки часу перекриваються"
+    }
+  ],
+  "tips": [
+    {
+      "type": 0,
+      "value": "Вказівки"
+    }
+  ],
+  "tips intro": [
+    {
+      "type": 0,
+      "value": "У Wellbee ми знаємо, що зустрітися з терапевтом і почати психотерапію – це складно. Щоб допомогти тобі найкраще підготуватися до нього, ось кілька корисних порад:"
+    }
+  ],
+  "tips title": [
+    {
+      "type": 0,
+      "value": "Психотерапія через Інтернет - поради та рекомендації"
+    }
+  ],
+  "tips title description": [
+    {
+      "type": 0,
+      "value": "Онлайн-психотерапія: як користуватися? Чим відрізняється онлайн-сесія з психотерапевтом від стаціонарного відвідування?"
+    }
+  ],
+  "to": [
+    {
+      "type": 0,
+      "value": "до"
+    }
+  ],
+  "to get more tips": [
+    {
+      "type": 0,
+      "value": "Щоб отримати додаткові поради"
+    }
+  ],
+  "turn off sounds": [
+    {
+      "type": 0,
+      "value": "Намагайся з усіх сил ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​вимкнути будь-який фоновий шум​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​ - вимкнути телевізор, радіо, закрити вікно, якщо є можливість. Важливо, щоб ти разом із терапевтом відчували себе комфортно в цьому віртуальному просторі."
+    }
+  ],
+  "ua-therapists-header": [
+    {
+      "type": 0,
+      "value": "#Допомога Україні"
+    }
+  ],
+  "ua-therapists-header-support": [
+    {
+      "type": 0,
+      "value": "Partner:"
+    }
+  ],
+  "ua-therapists-lead-download": [
+    {
+      "type": 0,
+      "value": "Повідомте про акцію інших - завантажте "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "кольоровий"
+        }
+      ],
+      "type": 8,
+      "value": "color"
+    },
+    {
+      "type": 0,
+      "value": " або "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "чорно-білий"
+        }
+      ],
+      "type": 8,
+      "value": "bw"
+    },
+    {
+      "type": 0,
+      "value": " плакат для друку"
+    }
+  ],
+  "ua-therapists-lead-hours": [
+    {
+      "type": 0,
+      "value": "Понеділок - п'ятниця: 8:00 - 16:00"
+    },
+    {
+      "children": [
+      ],
+      "type": 8,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "Вівторок: 11.30 - 16.00"
+    },
+    {
+      "children": [
+      ],
+      "type": 8,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "Вихідні: 10:00 - 14:00"
+    }
+  ],
+  "ua-therapists-lead-hours-pl": [
+    {
+      "type": 0,
+      "value": "Понеділок - п'ятниця: 8:30 - 20:30"
+    },
+    {
+      "children": [
+      ],
+      "type": 8,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "Вихідні: 10:00 - 14:00"
+    }
+  ],
+  "ua-therapists-lead-larger-2": [
+    {
+      "type": 0,
+      "value": "Вам потрібна допомога?"
+    },
+    {
+      "children": [
+      ],
+      "type": 8,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "Ми пропонуємо недорогу "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "психологичну"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": " підтримку для людей постраждалих від війни в Україні. До Ваших послуг є терапевти, які проводять психотерапию українською мовою."
+    }
+  ],
+  "ua-therapists-lead-smaller": [
+    {
+      "type": 0,
+      "value": "Запишись на прийом до вибраного спеціаліста нижче або зв’яжись з нашим терапевтом:"
+    }
+  ],
+  "understand your needs": [
+    {
+      "type": 0,
+      "value": "Наша розмова спрямована на те, щоб зрозуміти твої потреби та вибрати найкращого терапевта для тебе."
+    }
+  ],
+  "unknown error": [
+    {
+      "type": 0,
+      "value": "Невідома помилка"
+    }
+  ],
+  "unroll": [
+    {
+      "type": 0,
+      "value": "Розгорнути"
+    }
+  ],
+  "upcoming": [
+    {
+      "type": 0,
+      "value": "Майбутні зустрічі"
+    }
+  ],
+  "upcoming sessions tooltip": [
+    {
+      "type": 0,
+      "value": "Відвідування, які були заброньовані на майбутнє. Вони не обов’язково оплачені."
+    }
+  ],
+  "updated": [
+    {
+      "type": 0,
+      "value": "Оновлено"
+    }
+  ],
+  "updated at": [
+    {
+      "type": 0,
+      "value": "Востаннє змінено:"
+    }
+  ],
+  "updated availability data": [
+    {
+      "type": 0,
+      "value": "Дані про наявність оновлено"
+    }
+  ],
+  "updated data": [
+    {
+      "type": 0,
+      "value": "Оновлено дані"
+    }
+  ],
+  "use headphones": [
+    {
+      "type": 0,
+      "value": "Використовуй навушники"
+    }
+  ],
+  "user delete are you sure": [
+    {
+      "type": 0,
+      "value": "Чи напевно хочеш видалити вибраного користувача?"
+    }
+  ],
+  "user deleted": [
+    {
+      "type": 0,
+      "value": "Користувача видалено"
+    }
+  ],
+  "user is not admin": [
+    {
+      "type": 0,
+      "value": "Користувач не є адміністратором"
+    }
+  ],
+  "user is not therapist": [
+    {
+      "type": 0,
+      "value": "Користувач не є терапевтом"
+    }
+  ],
+  "user is not therapy guide": [
+    {
+      "type": 0,
+      "value": "Користувач не є опікуном"
+    }
+  ],
+  "user not found": [
+    {
+      "type": 0,
+      "value": "Користувача немає серед існуючих користувачів."
+    }
+  ],
+  "users": [
+    {
+      "type": 0,
+      "value": "Адміністратори"
+    }
+  ],
+  "verified specialist": [
+    {
+      "type": 0,
+      "value": "Перевірені спеціалісти"
+    }
+  ],
+  "video call requirements": [
+    {
+      "type": 0,
+      "value": "Для проведення відеоконференцій потрібне відносно стабільне та швидке інтернет-з’єднання. Хороша новина в тому, що навіть ​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​3G​"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "​ для цього достатньо."
+    }
+  ],
+  "view transaction": [
+    {
+      "type": 0,
+      "value": "Попередній перегляд транзакції"
+    }
+  ],
+  "visits": [
+    {
+      "type": 0,
+      "value": "Прийоми"
+    }
+  ],
+  "warm welcome": [
+    {
+      "type": 0,
+      "value": "Привіт"
+    }
+  ],
+  "when not": [
+    {
+      "type": 0,
+      "value": "Які протипоказання до онлайн-психотерапії?"
+    }
+  ],
+  "when not comparison": [
+    {
+      "type": 0,
+      "value": "Онлайн-психотерапія настільки ж ефективна, як і «традиційна» терапія в кабінеті. Спрацьовує при лікуванні тривожних розладів, розладів настрою, труднощів у міжособистісних стосунках, а також корисна для людей, які шукають особистісного розвитку. Однак бувають ситуації, коли психотерапія проводиться через Інтернет"
+    }
+  ],
+  "when not list 1": [
+    {
+      "type": 0,
+      "value": "Повторювані суїцидальні думки"
+    }
+  ],
+  "when not list 2": [
+    {
+      "type": 0,
+      "value": "Переживання психотичних станів"
+    }
+  ],
+  "when not list 3": [
+    {
+      "type": 0,
+      "value": "Труднощі в контролі агресії, яка загрожує власному чи чужому життю чи здоров’ю"
+    }
+  ],
+  "when not list 4": [
+    {
+      "type": 0,
+      "value": "Діагноз анорексії та/або індекс маси тіла (ІМТ) менше 18"
+    }
+  ],
+  "when not list 5": [
+    {
+      "type": 0,
+      "value": "Психотерапія дітей віком до 13 років"
+    }
+  ],
+  "when not unrolled": [
+    {
+      "type": 0,
+      "value": "не рекомендується. Варто ознайомитися з наступними протипоказаннями і при виникненні таких труднощів звернутися за іншими видами допомоги (наприклад, консультація психіатра, відвідування поліклініки):"
+    }
+  ],
+  "when to consider": [
+    {
+      "type": 0,
+      "value": "Коли варто розглядати онлайн-психотерапію?"
+    }
+  ],
+  "when to consider description": [
+    {
+      "type": 0,
+      "value": "У ситуації, коли потрібна психіатрична допомога, а кабінетна психотерапія неможлива з різних причин. Психотерапія через Інтернет (відеосеанси) практикується вже багато років і особливо показана в таких випадках:"
+    }
+  ],
+  "woman": [
+    {
+      "type": 0,
+      "value": "Жінка"
+    }
+  ],
+  "work email": [
+    {
+      "type": 0,
+      "value": "Робоча адреса електронної пошти"
+    }
+  ],
+  "worker help wherever": [
+    {
+      "type": 0,
+      "value": "Надай підтримку своїм співробітникам. Коли їм це потрібно і де б вони не були – безпечно та зручно."
+    }
+  ],
+  "worker psychological help": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Піклуйся​"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": "​ про психічне здоров'я своїх співробітників"
+    }
+  ],
+  "workshop": [
+    {
+      "type": 0,
+      "value": "​"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "​Воркшопи та вебінари​"
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " Як впоратися з пандемією? Як навчитися відпочивати? А може, як будувати здорові стосунки? Ми адаптуємо тематику та формат семінарів/вебінарів відповідно до потреб твоїх співробітників та актуальних проблем."
+    }
+  ],
+  "write code": [
+    {
+      "type": 0,
+      "value": "Введи знижковий код компанії"
+    }
+  ],
+  "write email": [
+    {
+      "type": 0,
+      "value": "Введи адресу твоєї електронної пошти"
+    }
+  ],
+  "write expected money": [
+    {
+      "type": 0,
+      "value": "Напиши нам очікувану суму та звідки різниця між нашими розрахунками – додатковий сеанс, незвичайне скасування візиту тощо. Дякуємо!"
+    }
+  ],
+  "write name and surname": [
+    {
+      "type": 0,
+      "value": "Введи своє ім’ я та прізвище"
+    }
+  ],
+  "write password": [
+    {
+      "type": 0,
+      "value": "Введи свій пароль"
+    }
+  ],
+  "yes": [
+    {
+      "type": 0,
+      "value": "Так"
+    }
+  ],
+  "yes, delete": [
+    {
+      "type": 0,
+      "value": "Так,видалити"
+    }
+  ],
+  "your nearest meeting": [
+    {
+      "type": 0,
+      "value": "Твоя наступна зустріч:"
+    }
+  ]
+}

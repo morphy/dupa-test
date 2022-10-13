@@ -1,0 +1,8374 @@
+{
+  "#let's talk": [
+    {
+      "type": 0,
+      "value": "#letstalk"
+    }
+  ],
+  "(filter line) show": [
+    {
+      "type": 0,
+      "value": "Show"
+    }
+  ],
+  "1 session": [
+    {
+      "type": 0,
+      "value": "1 session"
+    }
+  ],
+  "1000 more": [
+    {
+      "type": 0,
+      "value": "1000 and more"
+    }
+  ],
+  "4 sessions": [
+    {
+      "type": 0,
+      "value": "4 sessions"
+    }
+  ],
+  "8 sessions": [
+    {
+      "type": 0,
+      "value": "8 sessions"
+    }
+  ],
+  "Admin panel title": [
+    {
+      "type": 0,
+      "value": "Wellbee admin panel"
+    }
+  ],
+  "All spots booked offline": [
+    {
+      "type": 0,
+      "value": "All time slots reserved"
+    }
+  ],
+  "All spots booked online": [
+    {
+      "type": 0,
+      "value": "All time slots reserved"
+    }
+  ],
+  "Available hours": [
+    {
+      "type": 0,
+      "value": "Available time slots"
+    }
+  ],
+  "B2B all stats": [
+    {
+      "type": 0,
+      "value": "B2B all stats"
+    }
+  ],
+  "B2B balance stats": [
+    {
+      "type": 0,
+      "value": "B2B balance stats"
+    }
+  ],
+  "B2B clients list": [
+    {
+      "type": 0,
+      "value": "B2B clients list"
+    }
+  ],
+  "Back": [
+    {
+      "type": 0,
+      "value": "Back"
+    }
+  ],
+  "Back to therapist list": [
+    {
+      "type": 0,
+      "value": "Show all therapists"
+    }
+  ],
+  "Blog": [
+    {
+      "type": 0,
+      "value": "Blog"
+    }
+  ],
+  "Book visit": [
+    {
+      "type": 0,
+      "value": "Next"
+    }
+  ],
+  "Certificates": [
+    {
+      "type": 0,
+      "value": "Certifications"
+    }
+  ],
+  "Choose another day": [
+    {
+      "type": 0,
+      "value": "Pick another day"
+    }
+  ],
+  "Come back": [
+    {
+      "type": 0,
+      "value": "Back/ return/ come back"
+    }
+  ],
+  "Connect with calendar": [
+    {
+      "type": 0,
+      "value": "Connect with the calendar"
+    }
+  ],
+  "Connected with calendar": [
+    {
+      "type": 0,
+      "value": "Calendar connected"
+    }
+  ],
+  "Consultation": [
+    {
+      "type": 0,
+      "value": "Therapy session with "
+    },
+    {
+      "type": 1,
+      "value": "therapistName"
+    }
+  ],
+  "Dashboard": [
+    {
+      "type": 0,
+      "value": "Dashboard"
+    }
+  ],
+  "Events": [
+    {
+      "type": 0,
+      "value": "Sessions"
+    }
+  ],
+  "Friday": [
+    {
+      "type": 0,
+      "value": "Friday"
+    }
+  ],
+  "Fridays": [
+    {
+      "type": 0,
+      "value": "Fridays"
+    }
+  ],
+  "Hi!": [
+    {
+      "type": 0,
+      "value": "Hi!"
+    }
+  ],
+  "I'm": [
+    {
+      "type": 0,
+      "value": "I am"
+    }
+  ],
+  "Log out": [
+    {
+      "type": 0,
+      "value": "Log out"
+    }
+  ],
+  "Mandatory": [
+    {
+      "type": 0,
+      "value": "Mandatory"
+    }
+  ],
+  "Monday": [
+    {
+      "type": 0,
+      "value": "Monday"
+    }
+  ],
+  "Mondays": [
+    {
+      "type": 0,
+      "value": "Mondays"
+    }
+  ],
+  "More availability": [
+    {
+      "type": 0,
+      "value": "More slots"
+    }
+  ],
+  "Next available spot": [
+    {
+      "type": 0,
+      "value": "Next free slot:"
+    }
+  ],
+  "PVH2we": [
+    {
+      "type": 0,
+      "value": "JOIN US"
+    }
+  ],
+  "Patient Doubled": [
+    {
+      "type": 0,
+      "value": "Patient doubled"
+    }
+  ],
+  "Patients": [
+    {
+      "type": 0,
+      "value": "Patients"
+    }
+  ],
+  "Payout": [
+    {
+      "type": 0,
+      "value": "Request Payment"
+    }
+  ],
+  "Privacy policy": [
+    {
+      "type": 0,
+      "value": "Privacy policy"
+    }
+  ],
+  "Profil": [
+    {
+      "type": 0,
+      "value": "Profile"
+    }
+  ],
+  "Sandra Pasek quote": [
+    {
+      "type": 0,
+      "value": "Based on several research papers I can confidently say that there is no physical health without mental health. Mental health is an essential part of our success both in our private and professional life. When companies invest in the mental health of their employees, it benefits not only their performance but also their creativity, flexibility, commitment and positive attitude at work."
+    }
+  ],
+  "Saturday": [
+    {
+      "type": 0,
+      "value": "Saturday"
+    }
+  ],
+  "Saturdays": [
+    {
+      "type": 0,
+      "value": "Saturdays"
+    }
+  ],
+  "Save": [
+    {
+      "type": 0,
+      "value": "Save"
+    }
+  ],
+  "Schedule": [
+    {
+      "type": 0,
+      "value": "Schedule"
+    }
+  ],
+  "Select a date": [
+    {
+      "type": 0,
+      "value": "Select a date"
+    }
+  ],
+  "Sessions": [
+    {
+      "type": 0,
+      "value": "Sessions"
+    }
+  ],
+  "Settings": [
+    {
+      "type": 0,
+      "value": "Settings"
+    }
+  ],
+  "Sex": [
+    {
+      "type": 0,
+      "value": "Sex"
+    }
+  ],
+  "Specialties": [
+    {
+      "type": 0,
+      "value": "Specialties"
+    }
+  ],
+  "Step": [
+    {
+      "type": 0,
+      "value": "Step"
+    }
+  ],
+  "Submit": [
+    {
+      "type": 0,
+      "value": "Submit"
+    }
+  ],
+  "Sunday": [
+    {
+      "type": 0,
+      "value": "Sunday"
+    }
+  ],
+  "Sundays": [
+    {
+      "type": 0,
+      "value": "Sundays"
+    }
+  ],
+  "Terms & Conditions": [
+    {
+      "type": 0,
+      "value": "T&Cs"
+    }
+  ],
+  "Therapist stats": [
+    {
+      "type": 0,
+      "value": "Therapist stats"
+    }
+  ],
+  "Therapists": [
+    {
+      "type": 0,
+      "value": "Therapists"
+    }
+  ],
+  "Therapists Wallets": [
+    {
+      "type": 0,
+      "value": "Therapists Wallets"
+    }
+  ],
+  "TherapyGuides": [
+    {
+      "type": 0,
+      "value": "Therapy Guides"
+    }
+  ],
+  "Thursday": [
+    {
+      "type": 0,
+      "value": "Thursday"
+    }
+  ],
+  "Thursdays": [
+    {
+      "type": 0,
+      "value": "Thursdays"
+    }
+  ],
+  "Time Doubled Events": [
+    {
+      "type": 0,
+      "value": "Time doubled"
+    }
+  ],
+  "Today": [
+    {
+      "type": 0,
+      "value": "Today"
+    }
+  ],
+  "Transactions": [
+    {
+      "type": 0,
+      "value": "Transactions"
+    }
+  ],
+  "Tuesday": [
+    {
+      "type": 0,
+      "value": "Tuesday"
+    }
+  ],
+  "Tuesdays": [
+    {
+      "type": 0,
+      "value": "Tuesdays"
+    }
+  ],
+  "Wallet": [
+    {
+      "type": 0,
+      "value": "Wallet"
+    }
+  ],
+  "Wednesday": [
+    {
+      "type": 0,
+      "value": "Wednesday"
+    }
+  ],
+  "Wednesdays": [
+    {
+      "type": 0,
+      "value": "Wednesdays"
+    }
+  ],
+  "Yieldbird psychological help": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Mental Health support "
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": " for Yieldbird employees"
+    }
+  ],
+  "YqV7hx": [
+    {
+      "type": 0,
+      "value": "LOG IN"
+    }
+  ],
+  "Z9EKCT": [
+    {
+      "type": 0,
+      "value": "We invite all ambitious therapists to collaborate with us. Please get in touch and learn about the details."
+    }
+  ],
+  "about me": [
+    {
+      "type": 0,
+      "value": "About me"
+    }
+  ],
+  "account email": [
+    {
+      "type": 0,
+      "value": "Account e-mail"
+    }
+  ],
+  "account password": [
+    {
+      "type": 0,
+      "value": "Account password"
+    }
+  ],
+  "acquaintance": [
+    {
+      "type": 0,
+      "value": "A friend"
+    }
+  ],
+  "actions": [
+    {
+      "type": 0,
+      "value": "Actions"
+    }
+  ],
+  "active filters": [
+    {
+      "type": 0,
+      "value": "Active filters"
+    }
+  ],
+  "add": [
+    {
+      "type": 0,
+      "value": "Dodaj"
+    }
+  ],
+  "add certificate": [
+    {
+      "type": 0,
+      "value": "Add certificate"
+    }
+  ],
+  "add range": [
+    {
+      "type": 0,
+      "value": "Add range"
+    }
+  ],
+  "add session": [
+    {
+      "type": 0,
+      "value": "Add session"
+    }
+  ],
+  "add variant": [
+    {
+      "type": 0,
+      "value": "Add variant"
+    }
+  ],
+  "additional patient data": [
+    {
+      "type": 0,
+      "value": "Additional patient data"
+    }
+  ],
+  "additional patient data below": [
+    {
+      "type": 0,
+      "value": "There are additional patient data below."
+    }
+  ],
+  "additional sorting points": [
+    {
+      "type": 0,
+      "value": "Additional sorting points"
+    }
+  ],
+  "adjusted to needs": [
+    {
+      "type": 0,
+      "value": "Meeting their needs"
+    }
+  ],
+  "adjusted to needs info": [
+    {
+      "type": 0,
+      "value": "Employees often say that providing them with mental health support was one of the best initiatives implemented in the company"
+    }
+  ],
+  "admin panel description": [
+    {
+      "type": 0,
+      "value": "Wellbee Admin panel"
+    }
+  ],
+  "admin panel title": [
+    {
+      "type": 0,
+      "value": "Admin panel - Wellbee"
+    }
+  ],
+  "admin panel welcome": [
+    {
+      "type": 0,
+      "value": "Welcome to wellbee admin panel."
+    }
+  ],
+  "admin-panel-cancel-event-no-refund-voucher-are-you-sure": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to cancel session without creating refund voucher?"
+    }
+  ],
+  "admin-panel-cancel-session-no-refund-voucher": [
+    {
+      "type": 0,
+      "value": "Cancel without creating voucher"
+    }
+  ],
+  "admin-panel-hide-solved-older-than-3-days": [
+    {
+      "type": 0,
+      "value": "Hide solved older than 3 days"
+    }
+  ],
+  "admin-panel-show-test-hidden": [
+    {
+      "type": 0,
+      "value": "Show test/hidden"
+    }
+  ],
+  "admin-panel.link-and-delete": [
+    {
+      "type": 0,
+      "value": "Link with other patient and delete"
+    }
+  ],
+  "admin-panel.patient-create": [
+    {
+      "type": 0,
+      "value": "Create Patient"
+    }
+  ],
+  "admin-panel.patient-deleted": [
+    {
+      "type": 0,
+      "value": "Patient deleted"
+    }
+  ],
+  "admin-panel.patient-edit": [
+    {
+      "type": 0,
+      "value": "Edit Patient"
+    }
+  ],
+  "aggree with therms": [
+    {
+      "type": 0,
+      "value": "I agree to Wellbee.pl’s Terms & Conditions"
+    }
+  ],
+  "aggrement to health data processing": [
+    {
+      "type": 0,
+      "value": "I agree to processing my private data (including health) in order to facilitate free consultation, select therapist, as well as conduct contract in accordance with "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "T&Cs"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "agreement to contact data processing 1": [
+    {
+      "type": 0,
+      "value": "By clicking “Send form”, I agree to data processing by Wellbee and consent to the "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "T&Cs"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": " to process my request and be informed about Wellbee’s offer."
+    }
+  ],
+  "all": [
+    {
+      "type": 0,
+      "value": "All"
+    }
+  ],
+  "all years": [
+    {
+      "type": 0,
+      "value": "All years"
+    }
+  ],
+  "already paid for": [
+    {
+      "type": 0,
+      "value": "Already paid out"
+    }
+  ],
+  "anonimity": [
+    {
+      "type": 0,
+      "value": "Safely and anonymously"
+    }
+  ],
+  "anonimity info": [
+    {
+      "type": 0,
+      "value": "You provide your employees with safe and anonymous access to mental health care"
+    }
+  ],
+  "any therapy guide": [
+    {
+      "type": 0,
+      "value": "Any therapy guide"
+    }
+  ],
+  "appoint event with therapist": [
+    {
+      "type": 0,
+      "value": "Appoint event with Therapist"
+    }
+  ],
+  "appoint event with therapist explanation": [
+    {
+      "type": 0,
+      "value": "After making an appointment with Therapist, patient will receive an email with payment link. After the payment patient will receive email with meeting invite."
+    }
+  ],
+  "appointment in past": [
+    {
+      "type": 0,
+      "value": "Appointment in the past"
+    }
+  ],
+  "appointment title": [
+    {
+      "type": 0,
+      "value": "Therapy session with: "
+    },
+    {
+      "type": 1,
+      "value": "therapistName"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "therapistSurname"
+    }
+  ],
+  "appointment.back-to-calendar": [
+    {
+      "type": 0,
+      "value": "Go back to the calendar"
+    }
+  ],
+  "appointment.we-have-a-problem": [
+    {
+      "type": 0,
+      "value": "We have a problem"
+    }
+  ],
+  "are you sure you want to delete?": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to delete this file?"
+    }
+  ],
+  "arranging calls": [
+    {
+      "type": 0,
+      "value": "Arranging calls with therapy guide"
+    }
+  ],
+  "authorization state": [
+    {
+      "type": 0,
+      "value": "Authorization state"
+    }
+  ],
+  "available slots soon": [
+    {
+      "type": 0,
+      "value": "Available slots soon"
+    }
+  ],
+  "available slots soon score": [
+    {
+      "type": 0,
+      "value": "Available slots soon score"
+    }
+  ],
+  "available slots week": [
+    {
+      "type": 0,
+      "value": "Available slots week"
+    }
+  ],
+  "available slots week score": [
+    {
+      "type": 0,
+      "value": "Available slots week score"
+    }
+  ],
+  "b2b care": [
+    {
+      "type": 0,
+      "value": "Taking care of your employees means taking care of your company"
+    }
+  ],
+  "b2b discount": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "10 PLN discount for each next visit"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " If you use the free visits you are entitled to, and you would like to arrange further appointments, we are happy to offer you a 10 PLN discount for each next visit - when scheduling your appointment simply use your company code provided by the HR department. You can find our pricing on wellbee.pl."
+    }
+  ],
+  "b2b discount options -20": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Afterwards 20 PLN discount on every session"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " If you use up the first "
+    },
+    {
+      "type": 1,
+      "value": "freeVisits"
+    },
+    {
+      "type": 0,
+      "value": " visits and you would like to continue the treatment, we are happy to offer you a 20 PLN discount for every further visit. If the discount wasn’t applied automatically use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+    }
+  ],
+  "b2b discount options -30": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Afterwards 30 PLN discount on every session"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " If you use up the first "
+    },
+    {
+      "type": 1,
+      "value": "freeVisits"
+    },
+    {
+      "type": 0,
+      "value": " visits and you would like to continue the treatment, we are happy to offer you a 30 PLN discount for every further visit. If the discount wasn’t applied automatically use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+    }
+  ],
+  "b2b discount options 10%": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Afterwards 10% discount on every session"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " If you use up the first "
+    },
+    {
+      "type": 1,
+      "value": "freeVisits"
+    },
+    {
+      "type": 0,
+      "value": " visits and you would like to continue the treatment, we are happy to offer you a 10% discount for every further visit. If the discount wasn’t applied automatically use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+    }
+  ],
+  "b2b discount options ailleron canon": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Afterwards 10 PLN discount on every session"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " If you use up the first "
+    },
+    {
+      "type": 1,
+      "value": "freeVisits"
+    },
+    {
+      "type": 0,
+      "value": " visits and you would like to continue the treatment, we are happy to offer you a 10 PLN discount for every further visit. If the discount wasn’t applied automatically use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+    }
+  ],
+  "b2b discount options jobimpulse": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Afterwards 10 PLN discount on every session"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " If you use up the first "
+    },
+    {
+      "type": 1,
+      "value": "freeVisits"
+    },
+    {
+      "type": 0,
+      "value": " visits and you would like to continue the treatment, we are happy to offer you a 10 PLN discount for every further visit. If the discount wasn’t applied automatically use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+    }
+  ],
+  "b2b discout divante": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Afterwards 10 PLN discount on every session"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " If you use up the first "
+    },
+    {
+      "type": 1,
+      "value": "freeVisits"
+    },
+    {
+      "type": 0,
+      "value": " visits and you would like to continue the treatment, we are happy to offer you a 10 PLN discount for every further visit. If the discount wasn’t applied automatically use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+    }
+  ],
+  "b2b first text": [
+    {
+      "type": 0,
+      "value": "In response to the current situation and to address your needs, as part of their wellbeing program,  "
+    },
+    {
+      "type": 1,
+      "value": "company"
+    },
+    {
+      "type": 0,
+      "value": " has asked us to provide a solution that can support you in the area of mental health, emotional development and in building healthy relationships with other people."
+    }
+  ],
+  "b2b free visits": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "2 appointments per quarter"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "You are entitled to schedule 2 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+    }
+  ],
+  "b2b free visits 100x": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "100 appointments per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "You are entitled to schedule 100 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+    }
+  ],
+  "b2b free visits 15x": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "15 appointments per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "You are entitled to schedule 15 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+    }
+  ],
+  "b2b free visits 2x": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "2 appointments per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "You are entitled to schedule 2 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+    }
+  ],
+  "b2b free visits 3x": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "3 appointments per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "You are entitled to schedule 3 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+    }
+  ],
+  "b2b free visits 5x": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "5 appointments per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "You are entitled to schedule 5 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+    }
+  ],
+  "b2b free visits 6x": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "6 appointments per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "You are entitled to schedule 6 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+    }
+  ],
+  "b2b free visits 8x": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "8 appointments per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "You are entitled to schedule 8 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+    }
+  ],
+  "b2b free visits ing": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "6 free appointments"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "You are entitled to schedule 6 appointments free of charge provided by ING- when scheduling your appointment simply use the company code provided by the HR department."
+    }
+  ],
+  "b2b free visits techland": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "4 appointments per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "You are entitled to schedule 4 appointments online per year free of charge provided by Techland when scheduling your appointment simply use the company code provided by the HR department - "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "@TECHLAND1!"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Use until 3.03.2023"
+        }
+      ],
+      "type": 8,
+      "value": "div"
+    }
+  ],
+  "b2b free visits urw": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "6 free appointments"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "You are entitled to schedule 6 appointments free of charge provided by Unibail‑Rodamco‑Westfield- when scheduling your appointment simply use the company code provided by the HR department."
+    }
+  ],
+  "b2b how it works 1 aviva": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Anonymous and secure "
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " the entire scheduling process takes place via the Wellbee platform. All consultations between you and your specialist are completely confidential."
+    }
+  ],
+  "b2b how it works 2 (urw)": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Quick and easy"
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " you can consult on any device, whenever it suits you and wherever you are. Find a space where you feel comfortable - just make sure you have good access to the Internet in case of online consultation."
+    }
+  ],
+  "b2b mirumee": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "4 appointments per month"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "Up to four times a month, you are entitled to schedule unlimited appointments online free of charge - when scheduling your appointment simply use the company code provided by the HR department."
+    }
+  ],
+  "b2b options customfirsttext solwit": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "3 free visits per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "Your employer has a pool of free consultations (offline / online) provided by the code: @SOLWIT1!. Each employee can receive up to 3 free visits per year."
+    }
+  ],
+  "b2b options customsecondtext solwit": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Afterwards 40 PLN discount on every session"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "When you run out of free visits, you will receive -40 PLN discount for next meetings. The use is anonymous."
+    }
+  ],
+  "b2b page description": [
+    {
+      "type": 0,
+      "value": "Online psychotherapy for business. Take care of mental health of your employees.Take advantage of the subscription offer B2B #mentalhealth in Wellbee."
+    }
+  ],
+  "b2b page title": [
+    {
+      "type": 0,
+      "value": "Online psychotherapy for business. Take care of mental health of your employees."
+    }
+  ],
+  "b2b saleor": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "4 appointments per month"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "Up to four times a month, you are entitled to schedule unlimited appointments online free of charge - when scheduling your appointment simply use the company code provided by the HR department."
+    }
+  ],
+  "b2b why invest": [
+    {
+      "type": 0,
+      "value": "Why should you invest in the wellbeing and mental health of your employees?"
+    }
+  ],
+  "b2b why invest source": [
+    {
+      "type": 0,
+      "value": "Source: Oracle Mental Health Report; Absencja chorobowa w 2018 roku, ZUS, 2019"
+    }
+  ],
+  "b2b why invest stats 1": [
+    {
+      "type": 0,
+      "value": "employees claimed that the pandemic had a bad influence on their mental health"
+    }
+  ],
+  "b2b why invest stats 1.5": [
+    {
+      "type": 0,
+      "value": "of employees declare a decrease in the quality of life"
+    }
+  ],
+  "b2b why invest stats 2": [
+    {
+      "type": 0,
+      "value": "employees expect mental health support from their company  "
+    }
+  ],
+  "b2b why invest stats 3": [
+    {
+      "type": 0,
+      "value": "could be saved by Polish companies if they provided mental health support to their employees"
+    }
+  ],
+  "b2b why invest stats 3 title": [
+    {
+      "type": 0,
+      "value": "6 billion PLN"
+    }
+  ],
+  "b2b-landings.book-visit": [
+    {
+      "type": 0,
+      "value": "Make an appointment"
+    }
+  ],
+  "b2b-landings.book-visit-wherever": [
+    {
+      "type": 0,
+      "value": "Schedule your appointment with a psychologist or a psychotherapist from Wellbee, whenever you need it and wherever you are - safely and comfortably"
+    }
+  ],
+  "b2b-landings.consultation-amount-1": [
+    {
+      "type": 0,
+      "value": "appointment"
+    }
+  ],
+  "b2b-landings.consultation-amount-2-4": [
+    {
+      "type": 0,
+      "value": "appointments"
+    }
+  ],
+  "b2b-landings.consultation-amount-5-21": [
+    {
+      "type": 0,
+      "value": "appointments"
+    }
+  ],
+  "b2b-landings.first-text-custom-ey": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Five -200 zł discounts per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " You are entitled to schedule 5 visits with -200 zł discount per year - when scheduling your appointment simply use the company code provided by the HR department."
+    }
+  ],
+  "b2b-landings.first-text-custom-keywordsstudios": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Three -200 zł discounts per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " You are entitled to schedule 3 visits with -200 zł discount per year - when scheduling your appointment simply use the company code provided by the HR department."
+    }
+  ],
+  "b2b-landings.first-text-custom-sente": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "One -50% discount per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " You are entitled to schedule 1 visits with -50% discount per year - when scheduling your appointment simply use the company code provided by the HR department."
+    }
+  ],
+  "b2b-landings.first-text-custom-stx": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "16x -50% discount per year"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " You are entitled to schedule 16 visits with -50% discount per year - when scheduling your appointment simply use the company code provided by the HR department."
+    }
+  ],
+  "b2b-landings.how-it-works": [
+    {
+      "type": 0,
+      "value": "How does it work?"
+    }
+  ],
+  "b2b-landings.how-it-works-1": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Anonymous and secure "
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " the entire scheduling process takes place via the Wellbee platform. The visits are fully anonymous. Your employer does not know who and when uses the services. All consultations between you and your specialist are completely confidential."
+    }
+  ],
+  "b2b-landings.how-it-works-2": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Quick and easy"
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " you can consult on any device, whenever it suits you and wherever you are. Find a space where you feel comfortable - just make sure you have good access to the Internet."
+    }
+  ],
+  "b2b-landings.how-it-works-3": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Personalization"
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " you are able to choose the specialists yourself or use free support of our team of therapy guides who will help you choose the appropriate specialist "
+    }
+  ],
+  "b2b-landings.limited-options-discount": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Afterwards "
+        },
+        {
+          "type": 1,
+          "value": "discount"
+        },
+        {
+          "type": 0,
+          "value": " PLN discount on every session"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "If you use up your free visits and you would like to continue the treatment, we are happy to offer you a "
+    },
+    {
+      "type": 1,
+      "value": "discount"
+    },
+    {
+      "type": 0,
+      "value": " PLN discount for every further visit. If the discount wasn’t applied automatically, use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+    }
+  ],
+  "b2b-landings.limited-options-free-visits": [
+    {
+      "children": [
+        {
+          "type": 1,
+          "value": "freeVisits"
+        },
+        {
+          "type": 0,
+          "value": " "
+        },
+        {
+          "type": 1,
+          "value": "consultation"
+        },
+        {
+          "type": 0,
+          "value": " per "
+        },
+        {
+          "type": 1,
+          "value": "period"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "You are entitled to schedule "
+    },
+    {
+      "type": 1,
+      "value": "freeVisits"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "consultation"
+    },
+    {
+      "type": 0,
+      "value": " per "
+    },
+    {
+      "type": 1,
+      "value": "period"
+    },
+    {
+      "type": 0,
+      "value": " free of charge - when scheduling your appointment simply use the company code provided by the HR department."
+    }
+  ],
+  "b2b-landings.logo-text-alternative": [
+    {
+      "type": 0,
+      "value": "To address the current situation and your needs, "
+    },
+    {
+      "type": 1,
+      "value": "company"
+    },
+    {
+      "type": 0,
+      "value": " decided to team up with Wellbee - online mental health platform which offers access to a range of qualified specialists. When should you try a consultation? Whenever you want to take care of your wellbeing, you are looking for mental health support, therapy or simply you wish to understand yourself better and build more satisfying relations with others."
+    }
+  ],
+  "b2b-landings.logo-text-common": [
+    {
+      "type": 0,
+      "value": "To address the current situation and your needs, your organization decided to team up with Wellbee - online mental health platform which offers access to a range of qualified specialists. When should you try a consultation? Whenever you want to take care of your wellbeing, you are looking for mental health support, therapy or simply you wish to understand yourself better and build more satisfying relations with others."
+    }
+  ],
+  "b2b-landings.logo-text-custom-keywordsstudios": [
+    {
+      "type": 0,
+      "value": "To address the current situation and your needs, your organization decided to team up with Wellbee - online mental health platform which offers access to a range of qualified specialists. When should you try a consultation? Whenever you want to take care of your wellbeing, you are looking for mental health support, or simply you wish to understand yourself better and build more satisfying relations with others."
+    }
+  ],
+  "b2b-landings.logo-text-custom-savangard": [
+    {
+      "type": 0,
+      "value": "To address the current situation and your needs, the Savagard company decided to team up with Wellbee - online mental health platform which offers access to a range of qualified specialists. When should you try a consultation? Whenever you want to take care of your wellbeing, you are looking for mental health support, therapy or simply you wish to understand yourself better and build more satisfying relations with others."
+    }
+  ],
+  "b2b-landings.period-month": [
+    {
+      "type": 0,
+      "value": "month"
+    }
+  ],
+  "b2b-landings.period-quarter": [
+    {
+      "type": 0,
+      "value": "quarter"
+    }
+  ],
+  "b2b-landings.period-year": [
+    {
+      "type": 0,
+      "value": "year"
+    }
+  ],
+  "b2b-landings.psychological-help": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Take care"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": " of your wellbeing and mental health"
+    }
+  ],
+  "b2b-landings.second-text-custom-sente": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Afterwards 10 PLN discount on every session"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "If you use up your discount and you would like to continue the treatment, we are happy to offer you a 10 PLN discount for every further visit. If the discount wasn’t applied automatically, use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+    }
+  ],
+  "b2b-landings.therapist-lead-experienced": [
+    {
+      "type": 0,
+      "value": "Experienced"
+    }
+  ],
+  "b2b-landings.therapist-lead-experienced-info": [
+    {
+      "type": 0,
+      "value": "They have broad experience in solving diverse range of problems"
+    }
+  ],
+  "b2b-landings.therapist-lead-improvement": [
+    {
+      "type": 0,
+      "value": "They never stop learning"
+    }
+  ],
+  "b2b-landings.therapist-lead-improvement-info": [
+    {
+      "type": 0,
+      "value": "All of our specialists have necessary qualificationsa and are constantly improving their skills"
+    }
+  ],
+  "b2b-landings.therapist-lead-text": [
+    {
+      "type": 0,
+      "value": "Your employees have access to high quality specialists"
+    }
+  ],
+  "b2b-landings.therapist-lead-title": [
+    {
+      "type": 0,
+      "value": "Specialists that you can trust"
+    }
+  ],
+  "b2b-landings.therapist-lead-verified": [
+    {
+      "type": 0,
+      "value": "Verified"
+    }
+  ],
+  "b2b-landings.therapist-lead-verified-info": [
+    {
+      "type": 0,
+      "value": "Our specialists go through a multi-stage recruitment process"
+    }
+  ],
+  "b2b-landings.therapy-steps": [
+    {
+      "type": 0,
+      "value": "Schedule your appointment in a few simple steps"
+    }
+  ],
+  "b2b-landings.therapy-steps-1": [
+    {
+      "type": 0,
+      "value": "Choose your specialist and the date of your appointment. You can use any email address you want."
+    }
+  ],
+  "b2b-landings.therapy-steps-2": [
+    {
+      "type": 0,
+      "value": "If you are not sure which therapist to choose, call us at: "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "+48 732 489 003"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": " or make an appointment with "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Therapy Guide"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " "
+    }
+  ],
+  "b2b-landings.therapy-steps-3": [
+    {
+      "type": 0,
+      "value": "When we ask you for the payment, simply use the company code that you got from the HR department."
+    }
+  ],
+  "b2b-landings.therapy-steps-4": [
+    {
+      "type": 0,
+      "value": "You will receive an email with a link to your online appointment through Google Meet."
+    }
+  ],
+  "b2b-landings.unlimited-options": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Unlimited appointments"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "You are entitled to schedule unlimited appointments online free of charge - when scheduling your appointment simply use the company code provided by the HR department."
+    }
+  ],
+  "b2b-landings.unlimited-text-custom-savangard": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Unlimited discount"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "You are entitled to schedule unlimited appointments online with 179 PLN discount - when scheduling your appointment simply use the company code provided by the HR department."
+    }
+  ],
+  "b2b-landings.unlimited-text-custom-tokai": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Unlimited discount"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": "You are entitled to schedule unlimited appointments online with 179 PLN discount - when scheduling your appointment simply use the company code provided by the HR department."
+    }
+  ],
+  "back to settings": [
+    {
+      "type": 0,
+      "value": "Back to settings"
+    }
+  ],
+  "back to wellbee": [
+    {
+      "type": 0,
+      "value": "Go back to wellbee.pl"
+    }
+  ],
+  "bank account number": [
+    {
+      "type": 0,
+      "value": "Bank account number"
+    }
+  ],
+  "benefits": [
+    {
+      "type": 0,
+      "value": "Desired benefit"
+    }
+  ],
+  "benefits info": [
+    {
+      "type": 0,
+      "value": "Take care of your employees’ mental health and offer one of the most desired benefits"
+    }
+  ],
+  "bio en": [
+    {
+      "type": 0,
+      "value": "Bio (description) EN"
+    }
+  ],
+  "bio pl": [
+    {
+      "type": 0,
+      "value": "Bio (description) PL"
+    }
+  ],
+  "bio ru": [
+    {
+      "type": 0,
+      "value": "Bio (description) RU"
+    }
+  ],
+  "bio ua": [
+    {
+      "type": 0,
+      "value": "Bio (description) UA"
+    }
+  ],
+  "bonus": [
+    {
+      "type": 0,
+      "value": "bonus"
+    }
+  ],
+  "book a visit": [
+    {
+      "type": 0,
+      "value": "BOOK A VISIT"
+    }
+  ],
+  "book left side text": [
+    {
+      "type": 0,
+      "value": "Book a 50 minute consultation"
+    }
+  ],
+  "book session with therapy guide (no break)": [
+    {
+      "type": 0,
+      "value": "Book therapy guide consultation"
+    }
+  ],
+  "book session with therapy guide lowercase": [
+    {
+      "type": 0,
+      "value": "book therapy guide consultation"
+    }
+  ],
+  "book therapist guide": [
+    {
+      "type": 0,
+      "value": "Book an appointment with our consultant today!"
+    }
+  ],
+  "book therapy guide": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Book a free"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": " consultation with Therapy Guide"
+    }
+  ],
+  "book video call": [
+    {
+      "type": 0,
+      "value": "Book a video call"
+    }
+  ],
+  "book video call to choose therapist": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Book"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": " a "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "free"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " video call to get help with choice of specialist"
+    }
+  ],
+  "book video call with therapy guide": [
+    {
+      "type": 0,
+      "value": "Book a video call with Therapy Guide"
+    }
+  ],
+  "book visit step 3 (no count)": [
+    {
+      "type": 0,
+      "value": "When we ask you for the payment, simply use the company code that you got from the HR department."
+    }
+  ],
+  "book visit step 3 (version with 100)": [
+    {
+      "type": 0,
+      "value": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 100 appointments are free of charge."
+    }
+  ],
+  "book visit step 3 (version with 15)": [
+    {
+      "type": 0,
+      "value": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 15 appointments are free of charge."
+    }
+  ],
+  "book visit step 3 (version with 2)": [
+    {
+      "type": 0,
+      "value": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 2 appointments are free of charge."
+    }
+  ],
+  "book visit step 3 (version with 4)": [
+    {
+      "type": 0,
+      "value": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 4 appointments are free of charge."
+    }
+  ],
+  "book visit step 3 (version with 5)": [
+    {
+      "type": 0,
+      "value": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 5 appointments are free of charge"
+    }
+  ],
+  "book visit step 3 (version with 6)": [
+    {
+      "type": 0,
+      "value": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 6 appointments are free of charge"
+    }
+  ],
+  "book visit step 3 ailleron": [
+    {
+      "type": 0,
+      "value": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 3 appointments provided by Ailleron are free of charge"
+    }
+  ],
+  "book visit step 3 ing": [
+    {
+      "type": 0,
+      "value": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 3 appointments provided by ING are free of charge"
+    }
+  ],
+  "book visit step 3 yieldbird": [
+    {
+      "type": 0,
+      "value": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 2 appointments provided by Yieldbird are free of charge ."
+    }
+  ],
+  "book visit steps 1 (urw)": [
+    {
+      "type": 0,
+      "value": "Choose your specialist and the date of your appointment. You can use business email address."
+    }
+  ],
+  "book visit steps 3 jobimpulse": [
+    {
+      "type": 0,
+      "value": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 3 appointments provided by Job Impulse are free of charge."
+    }
+  ],
+  "book visit wherever": [
+    {
+      "type": 0,
+      "value": "Schedule your appointment online with a psychologist or a psychotherapist from Wellbee, whenever you need it and wherever you are - safely and comfortably"
+    }
+  ],
+  "bookedAt": [
+    {
+      "type": 0,
+      "value": "Utworzono"
+    }
+  ],
+  "booking complete info": [
+    {
+      "type": 0,
+      "value": "We sent all the details regarding your consultation, including the link to your through which you will be to connect with your specialist, to"
+    }
+  ],
+  "bookings week": [
+    {
+      "type": 0,
+      "value": "Bookings week"
+    }
+  ],
+  "bookings week score": [
+    {
+      "type": 0,
+      "value": "Bookings week score"
+    }
+  ],
+  "browser recommendation": [
+    {
+      "type": 0,
+      "value": "We recommend using a browser that is suitable "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Chrome. Firefox and Safari"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " or even "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Microsof Edge"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " are all good!"
+    }
+  ],
+  "by availability (sort)": [
+    {
+      "type": 0,
+      "value": "By availability"
+    }
+  ],
+  "calendar authorization": [
+    {
+      "type": 0,
+      "value": "Calendar authorization"
+    }
+  ],
+  "calendar connection active": [
+    {
+      "type": 0,
+      "value": "Connection with calendar active"
+    }
+  ],
+  "calendar connection not active": [
+    {
+      "type": 0,
+      "value": "Connection with calendar inactive"
+    }
+  ],
+  "call now": [
+    {
+      "type": 0,
+      "value": "Call now"
+    }
+  ],
+  "call to action know more": [
+    {
+      "type": 0,
+      "value": "Find out more about therapy online"
+    }
+  ],
+  "call with therapy guide": [
+    {
+      "type": 0,
+      "value": "Consultation with Therapy Guide"
+    }
+  ],
+  "call with therapy guide (with name)": [
+    {
+      "type": 0,
+      "value": "Consultation with: "
+    },
+    {
+      "type": 1,
+      "value": "userName"
+    }
+  ],
+  "calls are accepted": [
+    {
+      "type": 0,
+      "value": "Calls are accepted in hours:"
+    }
+  ],
+  "can i resign": [
+    {
+      "type": 0,
+      "value": "Can I resign at any time?"
+    }
+  ],
+  "can't restore": [
+    {
+      "type": 0,
+      "value": "You can’t restore it"
+    }
+  ],
+  "cancel": [
+    {
+      "type": 0,
+      "value": "Cancel"
+    }
+  ],
+  "cancel event are you sure": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to cancel event?"
+    }
+  ],
+  "cancel session": [
+    {
+      "type": 0,
+      "value": "Cancel session"
+    }
+  ],
+  "certificates i want to show": [
+    {
+      "type": 0,
+      "value": "Certificates you want to show"
+    }
+  ],
+  "change events to online if no address": [
+    {
+      "type": 0,
+      "value": "Change events to online if no address"
+    }
+  ],
+  "change password": [
+    {
+      "type": 0,
+      "value": "Change password"
+    }
+  ],
+  "change product variant": [
+    {
+      "type": 0,
+      "value": "Change product variant"
+    }
+  ],
+  "changelog": [
+    {
+      "type": 0,
+      "value": "Changelog"
+    }
+  ],
+  "check choosen specialist": [
+    {
+      "type": 0,
+      "value": "Check out chosen specialist"
+    }
+  ],
+  "check therapists": [
+    {
+      "type": 0,
+      "value": "No problem! Check out all ours specialists and book an appointment"
+    }
+  ],
+  "choose best date": [
+    {
+      "type": 0,
+      "value": "Choose a suitable time and book a 20’ consultation with Therapy Guide, who will help you choose the best specialist for you"
+    }
+  ],
+  "choose best date but with Agnieszka": [
+    {
+      "type": 0,
+      "value": "Choose a suitable time and book a 20’ consultation with Therapy Guide, who will help you choose the best specialist for you"
+    }
+  ],
+  "choose therapist by yourself": [
+    {
+      "type": 0,
+      "value": "I want to choose the therapist myself"
+    }
+  ],
+  "choose video call": [
+    {
+      "type": 0,
+      "value": "Choose/. Pick a video call"
+    }
+  ],
+  "city": [
+    {
+      "type": 0,
+      "value": "City"
+    }
+  ],
+  "clear": [
+    {
+      "type": 0,
+      "value": "Clear"
+    }
+  ],
+  "clear all": [
+    {
+      "type": 0,
+      "value": "Clear all"
+    }
+  ],
+  "click this link": [
+    {
+      "type": 0,
+      "value": "Click on this link"
+    }
+  ],
+  "closest date": [
+    {
+      "type": 0,
+      "value": "By availability"
+    }
+  ],
+  "closest date:": [
+    {
+      "type": 0,
+      "value": "Next free slot"
+    }
+  ],
+  "closestSession": [
+    {
+      "type": 0,
+      "value": "Closest session"
+    }
+  ],
+  "code": [
+    {
+      "type": 0,
+      "value": "Code"
+    }
+  ],
+  "codes": [
+    {
+      "type": 0,
+      "value": "Codes"
+    }
+  ],
+  "common.close": [
+    {
+      "type": 0,
+      "value": "Close"
+    }
+  ],
+  "common.currency": [
+    {
+      "type": 0,
+      "value": "PLN"
+    }
+  ],
+  "common.delete": [
+    {
+      "type": 0,
+      "value": "Delete"
+    }
+  ],
+  "common.edit": [
+    {
+      "type": 0,
+      "value": "Edit"
+    }
+  ],
+  "common.email": [
+    {
+      "type": 0,
+      "value": "E-mail"
+    }
+  ],
+  "common.email-address": [
+    {
+      "type": 0,
+      "value": "E-mail address"
+    }
+  ],
+  "common.name-and-surname": [
+    {
+      "type": 0,
+      "value": "Name and Surname"
+    }
+  ],
+  "common.phone-number": [
+    {
+      "type": 0,
+      "value": "Phone number"
+    }
+  ],
+  "common.server-error": [
+    {
+      "type": 0,
+      "value": "Server error"
+    }
+  ],
+  "companies section header": [
+    {
+      "type": 0,
+      "value": "Trusted by leading employers"
+    }
+  ],
+  "company name": [
+    {
+      "type": 0,
+      "value": "Company name"
+    }
+  ],
+  "company stats patients": [
+    {
+      "type": 0,
+      "value": "patients"
+    }
+  ],
+  "company stats visits": [
+    {
+      "type": 0,
+      "value": "visits"
+    }
+  ],
+  "completed sessions": [
+    {
+      "type": 0,
+      "value": "completed sessions"
+    }
+  ],
+  "completed sessions tooltip": [
+    {
+      "type": 0,
+      "value": "Sessions were done as planned. You will receive the payment for them."
+    }
+  ],
+  "complex support": [
+    {
+      "type": 0,
+      "value": "Comprehensive support"
+    }
+  ],
+  "complex support info": [
+    {
+      "type": 0,
+      "value": "We are here for you at every step of the way, including support in implementation and internal communication - we become your trusted partner."
+    }
+  ],
+  "configured calendar": [
+    {
+      "type": 0,
+      "value": "Calendar configured"
+    }
+  ],
+  "confirm payment": [
+    {
+      "type": 0,
+      "value": "I confirm that salary is correct"
+    }
+  ],
+  "confirm step info": [
+    {
+      "type": 0,
+      "value": "During the consultation "
+    },
+    {
+      "type": 1,
+      "value": "methodText"
+    },
+    {
+      "type": 0,
+      "value": " we’ll discuss your needs and address them the best way we can. You’ll receive an email with confirmation and details of the appointment."
+    }
+  ],
+  "congratulation!": [
+    {
+      "type": 0,
+      "value": "Congratulations!"
+    }
+  ],
+  "connected": [
+    {
+      "type": 0,
+      "value": "Connected"
+    }
+  ],
+  "consider list 1": [
+    {
+      "type": 0,
+      "value": "Social distancing caused by pandemic or quarantine. "
+    }
+  ],
+  "consider list 2": [
+    {
+      "type": 0,
+      "value": "place of residence, which unables you having psychotherapy in the office (especially in small towns with no access to psychotherapeutic help) "
+    }
+  ],
+  "consider list 3": [
+    {
+      "type": 0,
+      "value": "Expats who have difficulty in finding therapists with whom they share native language and culture"
+    }
+  ],
+  "consider list 4": [
+    {
+      "type": 0,
+      "value": "Disability that makes commuting difficult"
+    }
+  ],
+  "consider list 5": [
+    {
+      "type": 0,
+      "value": "Relocation and wishing to continue therapy with current therapist"
+    }
+  ],
+  "contact marketing email agreement": [
+    {
+      "type": 0,
+      "value": "I agree to receive on the aforementioned e-mail address, further commercial and marketing materials about Wellbee’s services and products, including those sent via an automated system."
+    }
+  ],
+  "contact us": [
+    {
+      "type": 0,
+      "value": "Contact us"
+    }
+  ],
+  "contact us info": [
+    {
+      "type": 0,
+      "value": "Please kindly fill in the form below and we will reach out you shortly"
+    }
+  ],
+  "continuation": [
+    {
+      "type": 0,
+      "value": "Continuation"
+    }
+  ],
+  "contract type": [
+    {
+      "type": 0,
+      "value": "Contract type"
+    }
+  ],
+  "copy link": [
+    {
+      "type": 0,
+      "value": "Copy link"
+    }
+  ],
+  "copy to clipboard": [
+    {
+      "type": 0,
+      "value": "Copy to clipboard"
+    }
+  ],
+  "country": [
+    {
+      "type": 0,
+      "value": "Country"
+    }
+  ],
+  "coupon count": [
+    {
+      "type": 0,
+      "value": "Coupon count"
+    }
+  ],
+  "coupon status ready": [
+    {
+      "type": 0,
+      "value": "Ready"
+    }
+  ],
+  "coupon status used": [
+    {
+      "type": 0,
+      "value": "Used"
+    }
+  ],
+  "create": [
+    {
+      "type": 0,
+      "value": "Create"
+    }
+  ],
+  "create admin": [
+    {
+      "type": 0,
+      "value": "Create new Admin"
+    }
+  ],
+  "create admin label": [
+    {
+      "type": 0,
+      "value": "Create Admin"
+    }
+  ],
+  "create modality": [
+    {
+      "type": 0,
+      "value": "Create modality"
+    }
+  ],
+  "create new account": [
+    {
+      "type": 0,
+      "value": "Create new account"
+    }
+  ],
+  "create password": [
+    {
+      "type": 0,
+      "value": "Create password"
+    }
+  ],
+  "create patient": [
+    {
+      "type": 0,
+      "value": "Create Patient"
+    }
+  ],
+  "create product": [
+    {
+      "type": 0,
+      "value": "Add product"
+    }
+  ],
+  "create product variant": [
+    {
+      "type": 0,
+      "value": "Add product variant"
+    }
+  ],
+  "create specialization": [
+    {
+      "type": 0,
+      "value": "Create specialization"
+    }
+  ],
+  "create therapist": [
+    {
+      "type": 0,
+      "value": "Create new Therapist"
+    }
+  ],
+  "create therapist label": [
+    {
+      "type": 0,
+      "value": "Create Therapist"
+    }
+  ],
+  "create therapy guide": [
+    {
+      "type": 0,
+      "value": "Create new Therapy Guide"
+    }
+  ],
+  "create therapy guide label": [
+    {
+      "type": 0,
+      "value": "Create new Therapy Guide"
+    }
+  ],
+  "created at": [
+    {
+      "type": 0,
+      "value": "Created at"
+    }
+  ],
+  "created user": [
+    {
+      "type": 0,
+      "value": "User created"
+    }
+  ],
+  "date": [
+    {
+      "type": 0,
+      "value": "Date"
+    }
+  ],
+  "date filter": [
+    {
+      "type": 0,
+      "value": "Date/time filters"
+    }
+  ],
+  "default": [
+    {
+      "type": 0,
+      "value": "Default"
+    }
+  ],
+  "default product variant": [
+    {
+      "type": 0,
+      "value": "Default product variant"
+    }
+  ],
+  "delete": [
+    {
+      "type": 0,
+      "value": "Delete"
+    }
+  ],
+  "delete account info": [
+    {
+      "type": 0,
+      "value": "In order to delete the account, contact our Support Team, by sending a message to:"
+    }
+  ],
+  "delete entry question": [
+    {
+      "type": 0,
+      "value": "Delete this entry?"
+    }
+  ],
+  "delete link with google calendar": [
+    {
+      "type": 0,
+      "value": "Delete link with google calendar"
+    }
+  ],
+  "delete?": [
+    {
+      "type": 0,
+      "value": "Delete?"
+    }
+  ],
+  "detail": [
+    {
+      "type": 0,
+      "value": "Details"
+    }
+  ],
+  "did not take place because of patient": [
+    {
+      "type": 0,
+      "value": "Session didn't happen because of the patient (therapist gets the money)"
+    }
+  ],
+  "discard changes": [
+    {
+      "type": 0,
+      "value": "Discard changes"
+    }
+  ],
+  "discount": [
+    {
+      "type": 0,
+      "value": "Discount"
+    }
+  ],
+  "do you have account": [
+    {
+      "type": 0,
+      "value": "Do you have an account?"
+    }
+  ],
+  "do you not remember password": [
+    {
+      "type": 0,
+      "value": "You don't remember password?"
+    }
+  ],
+  "do you want to choose therapist": [
+    {
+      "type": 0,
+      "value": "Do you want to choose/pick a therapist?"
+    }
+  ],
+  "don't know wo to choose?": [
+    {
+      "type": 0,
+      "value": "You do not know who to choose? Contact us!"
+    }
+  ],
+  "e-mail is not correct": [
+    {
+      "type": 0,
+      "value": "E-mail address is not correct"
+    }
+  ],
+  "edit": [
+    {
+      "type": 0,
+      "value": "Edit"
+    }
+  ],
+  "edit admin": [
+    {
+      "type": 0,
+      "value": "Edit Admin"
+    }
+  ],
+  "edit modality": [
+    {
+      "type": 0,
+      "value": "Edit modality"
+    }
+  ],
+  "edit product variant": [
+    {
+      "type": 0,
+      "value": "Edit product variant"
+    }
+  ],
+  "edit specialization": [
+    {
+      "type": 0,
+      "value": "Edit specialization"
+    }
+  ],
+  "edit therapist": [
+    {
+      "type": 0,
+      "value": "Edit Therapist"
+    }
+  ],
+  "edit therapy guide": [
+    {
+      "type": 0,
+      "value": "Edit Therapy guide"
+    }
+  ],
+  "email change info": [
+    {
+      "type": 0,
+      "value": "In order to change the email address, contact our Support Team, by sending a message to:"
+    }
+  ],
+  "email not found": [
+    {
+      "type": 0,
+      "value": "There is no user with this e-mail address"
+    }
+  ],
+  "email placeholder": [
+    {
+      "type": 0,
+      "value": "example@email.com"
+    }
+  ],
+  "employees": [
+    {
+      "type": 0,
+      "value": "How many people do you employ?"
+    }
+  ],
+  "end": [
+    {
+      "type": 0,
+      "value": "End"
+    }
+  ],
+  "end before begining": [
+    {
+      "type": 0,
+      "value": "The end of shift is before the beginning"
+    }
+  ],
+  "entry deleted": [
+    {
+      "type": 0,
+      "value": "Entry deleted"
+    }
+  ],
+  "error adding session": [
+    {
+      "type": 0,
+      "value": "Error while adding the session"
+    }
+  ],
+  "error after deadline": [
+    {
+      "type": 0,
+      "value": "Payment after deadline. Contact us: "
+    },
+    {
+      "type": 1,
+      "value": "therapyGuideEmail"
+    }
+  ],
+  "error already paid": [
+    {
+      "type": 0,
+      "value": "This session is already paid for"
+    }
+  ],
+  "error already used code": [
+    {
+      "type": 0,
+      "value": "The code has already been used. Contact us: "
+    },
+    {
+      "type": 1,
+      "value": "therapyGuideEmail"
+    }
+  ],
+  "error calendar limit pwc": [
+    {
+      "type": 0,
+      "value": "You already used 3 free visits from PWC.\nYou are entitled to 10% discount from now on."
+    }
+  ],
+  "error invalid code": [
+    {
+      "type": 0,
+      "value": "The code has already been used. Contact us: "
+    },
+    {
+      "type": 1,
+      "value": "therapyGuideEmail"
+    }
+  ],
+  "error submit error": [
+    {
+      "type": 0,
+      "value": "Please go back to the email message and try again"
+    }
+  ],
+  "error.calendar-limit": [
+    {
+      "type": 0,
+      "value": "Your 3 free visits were already completed"
+    }
+  ],
+  "error.date-not-available": [
+    {
+      "type": 0,
+      "value": "Sorry, the selected date was just taken. Please select another date or find different specialist."
+    }
+  ],
+  "error.server-error-appointment": [
+    {
+      "type": 0,
+      "value": "A server error has occurred. Please try again, and in case of further errors please contact us at opiekun@wellbee.pl"
+    }
+  ],
+  "error.unknown-error-appointment": [
+    {
+      "type": 0,
+      "value": "An unknown error has occurred. Please try again, and in case of further errors please contact us at opiekun@wellbee.pl"
+    }
+  ],
+  "event information": [
+    {
+      "type": 0,
+      "value": "Event information"
+    }
+  ],
+  "event paid": [
+    {
+      "type": 0,
+      "value": "Event paid"
+    }
+  ],
+  "event price": [
+    {
+      "type": 0,
+      "value": "Event price"
+    }
+  ],
+  "event status canceled": [
+    {
+      "type": 0,
+      "value": "Canceled"
+    }
+  ],
+  "event status finished": [
+    {
+      "type": 0,
+      "value": "Finished"
+    }
+  ],
+  "event status payment failed": [
+    {
+      "type": 0,
+      "value": "Unpaid"
+    }
+  ],
+  "event status pending": [
+    {
+      "type": 0,
+      "value": "Pending"
+    }
+  ],
+  "every": [
+    {
+      "type": 0,
+      "value": "Every"
+    }
+  ],
+  "example-therapist-1-title": [
+    {
+      "type": 0,
+      "value": "Humanistic-existential Therapist"
+    }
+  ],
+  "example-therapist-2-title": [
+    {
+      "type": 0,
+      "value": "Psychoanalyst"
+    }
+  ],
+  "execute": [
+    {
+      "type": 0,
+      "value": "Execute"
+    }
+  ],
+  "executed": [
+    {
+      "type": 0,
+      "value": "Executed"
+    }
+  ],
+  "feature list 1": [
+    {
+      "type": 0,
+      "value": "Take care of the formalities related to the course of psychotherapy without leaving your home - all you need is access to our platform"
+    }
+  ],
+  "feature list 2": [
+    {
+      "type": 0,
+      "value": "He/She will assist you while choosing the therapist and make sure you know all you need about your upcoming therapy. Therapy guard is there to make you feel good with us"
+    }
+  ],
+  "feature list 3": [
+    {
+      "type": 0,
+      "value": "We work with respected professionals who have proven experience in therapeutic work"
+    }
+  ],
+  "feature list label 1": [
+    {
+      "type": 0,
+      "value": "Holistic support of the therapeutic process"
+    }
+  ],
+  "feature list label 2": [
+    {
+      "type": 0,
+      "value": "Therapy Guide always at your disposal"
+    }
+  ],
+  "feature list label 3": [
+    {
+      "type": 0,
+      "value": "Exclusively qualified and verified therapists"
+    }
+  ],
+  "feel danger": [
+    {
+      "type": 0,
+      "value": "If you feel that your life or health is at risk, use the free, 24/7 helpline by dialing the number: +48 815 346 060"
+    }
+  ],
+  "few questions": [
+    {
+      "type": 0,
+      "value": "few questions"
+    }
+  ],
+  "fill email": [
+    {
+      "type": 0,
+      "value": "Fill this with your e-mail"
+    }
+  ],
+  "fill name": [
+    {
+      "type": 0,
+      "value": "Fill this with your name our pseudonim"
+    }
+  ],
+  "fill phone": [
+    {
+      "type": 0,
+      "value": "Fill this with your phone number"
+    }
+  ],
+  "filter": [
+    {
+      "type": 0,
+      "value": "Filter"
+    }
+  ],
+  "find help": [
+    {
+      "type": 0,
+      "value": "Find help"
+    }
+  ],
+  "first session": [
+    {
+      "type": 0,
+      "value": "First session"
+    }
+  ],
+  "first session info": [
+    {
+      "type": 0,
+      "value": "The price of our consultations starts at 159 pln/ 50’. "
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "Therapy Guides will advise on optimal preparation for the sessions and make sure you are taken care of!"
+    }
+  ],
+  "first step completed": [
+    {
+      "type": 0,
+      "value": "A first important step to work on yourself is done :)"
+    }
+  ],
+  "first step to better life": [
+    {
+      "type": 0,
+      "value": "You made your first step towards a better life - congrats! If you need help our Therapy Guides are always available. Keep it up!"
+    }
+  ],
+  "first text (common bold)": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "To address the current situation and your needs, your organization decided to team up with Wellbee"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " - online mental health platform which offers access to a range of qualified specialists. When should you try a consultation? Whenever you want to take care of your wellbeing, you are looking for mental health support, therapy or simply you wish to understand yourself better and build more satisfying relations with others."
+    }
+  ],
+  "first text ailleron": [
+    {
+      "type": 0,
+      "value": "Tutaj wpisz tłumaczenie"
+    }
+  ],
+  "first text aviva": [
+    {
+      "type": 0,
+      "value": "MojaAviva (MyAviva) is giving you a preferential access to Wellbee, online platform offering an access to qualified specialists, who will help you take care of your wellbeing and mental health. Book an appointment if you are looking for a psychologist, therapist, psychodietician or simply want to take care of your emotional development or building healthy relationships with other people."
+    }
+  ],
+  "for companies": [
+    {
+      "type": 0,
+      "value": "For business"
+    }
+  ],
+  "for them": [
+    {
+      "type": 0,
+      "value": "For them"
+    }
+  ],
+  "for you": [
+    {
+      "type": 0,
+      "value": "For You"
+    }
+  ],
+  "form send": [
+    {
+      "type": 0,
+      "value": "Form sent"
+    }
+  ],
+  "free guide call": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Free video consultation"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "guideSessionTime"
+    },
+    {
+      "type": 0,
+      "value": "'"
+    }
+  ],
+  "from": [
+    {
+      "type": 0,
+      "value": "from"
+    }
+  ],
+  "generate link": [
+    {
+      "type": 0,
+      "value": "Generate link"
+    }
+  ],
+  "generate payment link question": [
+    {
+      "type": 0,
+      "value": "Generate payment link?"
+    }
+  ],
+  "generated link": [
+    {
+      "type": 0,
+      "value": "Generated link"
+    }
+  ],
+  "give neccesary information": [
+    {
+      "type": 0,
+      "value": "Please provide us with "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "essential contact details "
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " "
+    }
+  ],
+  "good hours": [
+    {
+      "type": 0,
+      "value": "Good hours"
+    }
+  ],
+  "good hours score": [
+    {
+      "type": 0,
+      "value": "Good hours score"
+    }
+  ],
+  "google calendar connection status": [
+    {
+      "type": 0,
+      "value": "Google Calendar connection status"
+    }
+  ],
+  "google calendar login success": [
+    {
+      "type": 0,
+      "value": "Login to Google Calendar was successful."
+    }
+  ],
+  "google meet info": [
+    {
+      "type": 0,
+      "value": "Wellbee is using "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Google Meet"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": ", which doesn’t require anything to work on your computer. All you need to do is accept your browser request to access microphone and camera, when you are using Google Meet for the first time in that browser."
+    }
+  ],
+  "have licence": [
+    {
+      "type": 0,
+      "value": "Can our specialist boast an certificate?"
+    }
+  ],
+  "help that works": [
+    {
+      "type": 0,
+      "value": "Support that works/gives effects"
+    }
+  ],
+  "help that works info": [
+    {
+      "type": 0,
+      "value": "Number of companies observes that implementing mental health programs leads to some very concrete effects"
+    }
+  ],
+  "help to help": [
+    {
+      "type": 0,
+      "value": "Help me help you better and answer"
+    }
+  ],
+  "helpline": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Helpline"
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " You can implement a helpline which provides instant support for your employees, especially for employees with less digital acumen."
+    }
+  ],
+  "hide": [
+    {
+      "type": 0,
+      "value": "Hide"
+    }
+  ],
+  "home - call to action know more": [
+    {
+      "type": 0,
+      "value": "Find out more"
+    }
+  ],
+  "home - therapy for you": [
+    {
+      "type": 0,
+      "value": "Psychotherapy"
+    },
+    {
+      "children": [
+      ],
+      "type": 8,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": " tailor made "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "for you"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    }
+  ],
+  "home - therapy guide will answer": [
+    {
+      "type": 0,
+      "value": "Therapy Guide from our team will answer all of your questions and help you choose the best specialist for your needs."
+    }
+  ],
+  "home.availability-timerange": [
+    {
+      "type": 0,
+      "value": "Weekdays 8:30 - 20:30 Weekends 10-14"
+    }
+  ],
+  "home.blog": [
+    {
+      "type": 0,
+      "value": "Blog"
+    }
+  ],
+  "home.book-online-visit": [
+    {
+      "type": 0,
+      "value": "Book an online visit"
+    }
+  ],
+  "home.or-call": [
+    {
+      "type": 0,
+      "value": "or call us"
+    }
+  ],
+  "home.privacy-policy": [
+    {
+      "type": 0,
+      "value": "Privacy policy"
+    }
+  ],
+  "home.support-email": [
+    {
+      "type": 0,
+      "value": "kontakt@wellbee.pl"
+    }
+  ],
+  "home.terms-and-conditions": [
+    {
+      "type": 0,
+      "value": "T&Cs"
+    }
+  ],
+  "how to call you": [
+    {
+      "type": 0,
+      "value": "How should I address you?"
+    }
+  ],
+  "how to prepare": [
+    {
+      "type": 0,
+      "value": "How should I prepare for the meeting?"
+    }
+  ],
+  "how to start": [
+    {
+      "type": 0,
+      "value": "How to start the therapy at Wellbee?"
+    }
+  ],
+  "how we can help": [
+    {
+      "type": 0,
+      "value": "How can we help you?"
+    }
+  ],
+  "i'm therapist": [
+    {
+      "type": 0,
+      "value": "For therapists"
+    }
+  ],
+  "id": [
+    {
+      "type": 0,
+      "value": "ID"
+    }
+  ],
+  "in packet": [
+    {
+      "type": 0,
+      "value": "In packet"
+    }
+  ],
+  "interventions": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Crisis intervention"
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " Quick support during crisis (e.g. accidents)"
+    }
+  ],
+  "invalid event date": [
+    {
+      "type": 0,
+      "value": "Invalid event date"
+    }
+  ],
+  "invalid google password": [
+    {
+      "type": 0,
+      "value": "The password is invalid or the user does not have a password."
+    }
+  ],
+  "invalid password": [
+    {
+      "type": 0,
+      "value": "Invalid password"
+    }
+  ],
+  "invitation sent": [
+    {
+      "type": 0,
+      "value": "Invitation sent"
+    }
+  ],
+  "job": [
+    {
+      "type": 0,
+      "value": "Title (optional)"
+    }
+  ],
+  "job example": [
+    {
+      "type": 0,
+      "value": "eg. HR Director"
+    }
+  ],
+  "know more": [
+    {
+      "type": 0,
+      "value": "Find out more"
+    }
+  ],
+  "language": [
+    {
+      "type": 0,
+      "value": "Language"
+    }
+  ],
+  "languages": [
+    {
+      "type": 0,
+      "value": "Languages:"
+    }
+  ],
+  "lead time": [
+    {
+      "type": 0,
+      "value": "Lead time"
+    }
+  ],
+  "lead time score": [
+    {
+      "type": 0,
+      "value": "Lead time score"
+    }
+  ],
+  "less absence": [
+    {
+      "type": 0,
+      "value": "lowering absence rate"
+    }
+  ],
+  "less absence 2": [
+    {
+      "type": 0,
+      "value": "Decreased absence rates"
+    }
+  ],
+  "less absence info": [
+    {
+      "type": 0,
+      "value": "Provide your employees with our support and reduce the absence rate by 20-50%"
+    }
+  ],
+  "less rotation": [
+    {
+      "type": 0,
+      "value": "Reduction of employee turnover rates"
+    }
+  ],
+  "less rotation 2": [
+    {
+      "type": 0,
+      "value": "Decrease of turnover rate"
+    }
+  ],
+  "less rotation info": [
+    {
+      "type": 0,
+      "value": "By supporting your employees you reduce your turnover rate and recruitment costs."
+    }
+  ],
+  "licence info": [
+    {
+      "type": 0,
+      "value": "Specialists working at Wellbee have finished at least the second year of a 4-year specialised postgraduate programme and have expertise in different fields (eg. crisis intervention, couples therapy, mood disorders, anxiety disorders). Consultations are carried out only by qualified and verified specialists."
+    }
+  ],
+  "location details": [
+    {
+      "type": 0,
+      "value": "Detailed description how to get to the office"
+    }
+  ],
+  "log in": [
+    {
+      "type": 0,
+      "value": "Log in"
+    }
+  ],
+  "login google calendar": [
+    {
+      "type": 0,
+      "value": "Log in to Google Calendar"
+    }
+  ],
+  "login here": [
+    {
+      "type": 0,
+      "value": "Log in here"
+    }
+  ],
+  "man": [
+    {
+      "type": 0,
+      "value": "Man"
+    }
+  ],
+  "mark as finished": [
+    {
+      "type": 0,
+      "value": "Mark as finished"
+    }
+  ],
+  "mark as offline": [
+    {
+      "type": 0,
+      "value": "Mark as offline"
+    }
+  ],
+  "mark as online": [
+    {
+      "type": 0,
+      "value": "Mark as online"
+    }
+  ],
+  "mark as paid": [
+    {
+      "type": 0,
+      "value": "Mark as paid"
+    }
+  ],
+  "mark event as finished are you sure": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to mark this session as finished?"
+    }
+  ],
+  "mark event as offline are you sure": [
+    {
+      "type": 0,
+      "value": "Are you sure that you want to mark this session as offline?"
+    }
+  ],
+  "mark event as online are you sure": [
+    {
+      "type": 0,
+      "value": "Are you sure that you want to mark this session as online?"
+    }
+  ],
+  "mark event as paid are you sure": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to mark this session as paid?"
+    }
+  ],
+  "marked event as paid": [
+    {
+      "type": 0,
+      "value": "Session marked as paid"
+    }
+  ],
+  "marketing email agreement": [
+    {
+      "type": 0,
+      "value": "I agree that by providing Wellbee with my phone number/email address Wellbee may send me e-mail about any account-related issues or for marketing purposes according to "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "T&Cs"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "max-pay-time-new-user-description": [
+    {
+      "type": 0,
+      "value": "When having first Wellbee session, patient has set time to pay for the session (3h is recommended). After this time, event is automatically cancelled."
+    }
+  ],
+  "max-pay-time-new-user-title": [
+    {
+      "type": 0,
+      "value": "Maximum payment time for new patient"
+    }
+  ],
+  "max-pay-time-returning-user-description": [
+    {
+      "type": 0,
+      "value": "When having Wellbee session, returning patient has set time to pay for the session (3h is recommended). After this time, event is automatically cancelled."
+    }
+  ],
+  "max-pay-time-returning-user-title": [
+    {
+      "type": 0,
+      "value": "Maximum payment time for returning patient"
+    }
+  ],
+  "media about us": [
+    {
+      "type": 0,
+      "value": "What do the media say about us?"
+    }
+  ],
+  "meet our therapists": [
+    {
+      "type": 0,
+      "value": "Meet our therapists"
+    }
+  ],
+  "meet out therapists header receptomat": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "receptomat.pl"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": " clients receive discount of 50 PLN"
+    }
+  ],
+  "meet out therapists long": [
+    {
+      "type": 0,
+      "value": "Our therapists are thoroughly verified and well-qualified. Find a specialist that will help you make a first step towards growth."
+    }
+  ],
+  "meeting will happen on": [
+    {
+      "type": 0,
+      "value": "Meeting will happen on:"
+    }
+  ],
+  "message content": [
+    {
+      "type": 0,
+      "value": "Message content"
+    }
+  ],
+  "method text online": [
+    {
+      "type": 0,
+      "value": "Online"
+    }
+  ],
+  "method text phone": [
+    {
+      "type": 0,
+      "value": "phone"
+    }
+  ],
+  "min time lead": [
+    {
+      "type": 0,
+      "value": "Minimal time, in hours, between booking of the session and the session itself"
+    }
+  ],
+  "minutes": [
+    {
+      "type": 0,
+      "value": "minutes"
+    }
+  ],
+  "missed": [
+    {
+      "type": 0,
+      "value": "Not completed/missed"
+    }
+  ],
+  "missed sessions tooltip": [
+    {
+      "type": 0,
+      "value": "Tutaj wpisz tłumaczenie"
+    }
+  ],
+  "missing company name": [
+    {
+      "type": 0,
+      "value": "Company name is missing"
+    }
+  ],
+  "missing email": [
+    {
+      "type": 0,
+      "value": "Email is missing"
+    }
+  ],
+  "missing name surname": [
+    {
+      "type": 0,
+      "value": "Name and surname is missing"
+    }
+  ],
+  "missing privacy policy": [
+    {
+      "type": 0,
+      "value": "Accepting privacy policy is required"
+    }
+  ],
+  "missing terms conditions": [
+    {
+      "type": 0,
+      "value": "Accepting terms and conditions is required"
+    }
+  ],
+  "month": [
+    {
+      "type": 0,
+      "value": "Month"
+    }
+  ],
+  "more dates": [
+    {
+      "type": 0,
+      "value": "More slots"
+    }
+  ],
+  "more effective": [
+    {
+      "type": 0,
+      "value": "enhancing productivity"
+    }
+  ],
+  "more involved": [
+    {
+      "type": 0,
+      "value": "Improved well-being and greater involvement"
+    }
+  ],
+  "more involved info": [
+    {
+      "type": 0,
+      "value": "Employees who received support notice long-lasting positive improvements in their quality of life."
+    }
+  ],
+  "my patients": [
+    {
+      "type": 0,
+      "value": "My Patients"
+    }
+  ],
+  "my profile": [
+    {
+      "type": 0,
+      "value": "My Profile"
+    }
+  ],
+  "my wallet": [
+    {
+      "type": 0,
+      "value": "My Wallet"
+    }
+  ],
+  "name": [
+    {
+      "type": 0,
+      "value": "Name"
+    }
+  ],
+  "name and surname of bank account": [
+    {
+      "type": 0,
+      "value": "Account holder’s Name and Surname "
+    }
+  ],
+  "name en": [
+    {
+      "type": 0,
+      "value": "Name (EN)"
+    }
+  ],
+  "name or pseudonym": [
+    {
+      "type": 0,
+      "value": "Name or pseudonym"
+    }
+  ],
+  "name pl": [
+    {
+      "type": 0,
+      "value": "Name (PL)"
+    }
+  ],
+  "name ru": [
+    {
+      "type": 0,
+      "value": "Name (RU)"
+    }
+  ],
+  "name ua": [
+    {
+      "type": 0,
+      "value": "Name (UA)"
+    }
+  ],
+  "new account": [
+    {
+      "type": 0,
+      "value": "New account"
+    }
+  ],
+  "new session": [
+    {
+      "type": 0,
+      "value": "New session"
+    }
+  ],
+  "new session added": [
+    {
+      "type": 0,
+      "value": "Successfully created a session"
+    }
+  ],
+  "news-bar-ua-title-2": [
+    {
+      "type": 0,
+      "value": "We've launched affordable support for people impacted by the war in Ukraine."
+    }
+  ],
+  "next therapist": [
+    {
+      "type": 0,
+      "value": "Next therapist:"
+    }
+  ],
+  "no": [
+    {
+      "type": 0,
+      "value": "No"
+    }
+  ],
+  "no changes": [
+    {
+      "type": 0,
+      "value": "No changes"
+    }
+  ],
+  "no longer shame": [
+    {
+      "type": 0,
+      "value": "We have good news - therapy is no longer stigmatising according to "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "our report"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": "🙂"
+    }
+  ],
+  "no patient selected": [
+    {
+      "type": 0,
+      "value": "No patient selected"
+    }
+  ],
+  "no patients": [
+    {
+      "type": 0,
+      "value": "No patients yet"
+    }
+  ],
+  "no sessions": [
+    {
+      "type": 0,
+      "value": "No sessions yet"
+    }
+  ],
+  "no sessions for patient": [
+    {
+      "type": 0,
+      "value": "This patient doesn’t have any sessions yet"
+    }
+  ],
+  "no sms messages": [
+    {
+      "type": 0,
+      "value": "No SMS Messages"
+    }
+  ],
+  "no time lead": [
+    {
+      "type": 0,
+      "value": "No payment blockade until minimal time to session"
+    }
+  ],
+  "no transactions": [
+    {
+      "type": 0,
+      "value": "No Transactions"
+    }
+  ],
+  "no work": [
+    {
+      "type": 0,
+      "value": "I do not work"
+    }
+  ],
+  "none": [
+    {
+      "type": 0,
+      "value": "None"
+    }
+  ],
+  "not completed": [
+    {
+      "type": 0,
+      "value": "Not completed:"
+    }
+  ],
+  "not connected": [
+    {
+      "type": 0,
+      "value": "Not connected"
+    }
+  ],
+  "not for statistics": [
+    {
+      "type": 0,
+      "value": "Note (for statistics)"
+    }
+  ],
+  "note": [
+    {
+      "type": 0,
+      "value": "Note"
+    }
+  ],
+  "offline": [
+    {
+      "type": 0,
+      "value": "Offline"
+    }
+  ],
+  "offline session": [
+    {
+      "type": 0,
+      "value": "Offline session"
+    }
+  ],
+  "offline-header": [
+    {
+      "type": 0,
+      "value": "Gabinet"
+    }
+  ],
+  "ok": [
+    {
+      "type": 0,
+      "value": "Ok"
+    }
+  ],
+  "online consultation": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Online consultations"
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " Your employees will gain access to a personalised specialist - a wide range of payment models: subscription, pay-as-you-go, packaged visits or co-financing."
+    }
+  ],
+  "open": [
+    {
+      "type": 0,
+      "value": "Open"
+    }
+  ],
+  "optimal interaction": [
+    {
+      "type": 0,
+      "value": "For the optimal interaction with the specialist we recommend that you "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "set up your camera directly in front of your eyes"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " at a distance, allowing to capture at least "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "your body from torso up"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": ". After the camera is set we recommend to turn off self-view, because it makes interaction less natural. IT is possible to "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "turn off self-view"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " clicking on three dots in the bottom of the screen and choosing the option \"layout\"."
+    }
+  ],
+  "options 1 aviva": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " 40 PLN off each"
+        },
+        {
+          "type": 1,
+          "value": "br"
+        },
+        {
+          "type": 0,
+          "value": "of your first 3 visits "
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " As a client of Aviva you can book your first 3 consultations with 40 PLN of discount each. The prices are shown for each therapist on their profile."
+    }
+  ],
+  "options 2 aviva": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "10 PLN discount"
+        },
+        {
+          "type": 1,
+          "value": "br"
+        },
+        {
+          "type": 0,
+          "value": "forever after that"
+        }
+      ],
+      "type": 8,
+      "value": "h2"
+    },
+    {
+      "type": 0,
+      "value": " After you use up the visits discounted by 40 PLN and you want to continue the therapy you will receive an additional 10 PLN discount for every future visit."
+    }
+  ],
+  "options aviva header": [
+    {
+      "type": 0,
+      "value": "Special offer for Aviva clients"
+    }
+  ],
+  "or": [
+    {
+      "type": 0,
+      "value": "or"
+    }
+  ],
+  "or call": [
+    {
+      "type": 0,
+      "value": "or call"
+    }
+  ],
+  "other": [
+    {
+      "type": 0,
+      "value": "Other"
+    }
+  ],
+  "our call data": [
+    {
+      "type": 0,
+      "value": "Our meeting will take place"
+    }
+  ],
+  "our psychotherapy team": [
+    {
+      "type": 0,
+      "value": "Only verified and qualified"
+    },
+    {
+      "children": [
+      ],
+      "type": 8,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "specialists are part of our team."
+    }
+  ],
+  "our specialists": [
+    {
+      "type": 0,
+      "value": "Our specialists"
+    }
+  ],
+  "our team description": [
+    {
+      "type": 0,
+      "value": "Wellbee employees verified and qualified specialists. Find the person who will allow you to make the first step towards improving the quality of your life."
+    }
+  ],
+  "page id": [
+    {
+      "type": 0,
+      "value": "Page ID"
+    }
+  ],
+  "paid visits": [
+    {
+      "type": 0,
+      "value": "Paid visits"
+    }
+  ],
+  "panel.assigned-therapist": [
+    {
+      "type": 0,
+      "value": "Assigned Therapist"
+    }
+  ],
+  "panel.note-to-patient": [
+    {
+      "type": 0,
+      "value": "Patient note"
+    }
+  ],
+  "panel.patient-prefers-phone-contact": [
+    {
+      "type": 0,
+      "value": "Patient prefers phone contact"
+    }
+  ],
+  "panel.price-for-session": [
+    {
+      "type": 0,
+      "value": "Session price"
+    }
+  ],
+  "panel.refresh": [
+    {
+      "type": 0,
+      "value": "Refresh"
+    }
+  ],
+  "panel.save-changes": [
+    {
+      "type": 0,
+      "value": "Save changes"
+    }
+  ],
+  "panel.therapist-none": [
+    {
+      "type": 0,
+      "value": "None"
+    }
+  ],
+  "panel.updated-data": [
+    {
+      "type": 0,
+      "value": "Successfully updated data"
+    }
+  ],
+  "password": [
+    {
+      "type": 0,
+      "value": "Password"
+    }
+  ],
+  "patient": [
+    {
+      "type": 0,
+      "value": "Pacjent"
+    }
+  ],
+  "patient active": [
+    {
+      "type": 0,
+      "value": "Long-term patient"
+    }
+  ],
+  "patient active description": [
+    {
+      "type": 0,
+      "value": "Patient had at least one session and hasn’t resigned"
+    }
+  ],
+  "patient email to reassign": [
+    {
+      "type": 0,
+      "value": "Input address of the patient, into which events and transactions will be inserted"
+    }
+  ],
+  "patient events": [
+    {
+      "type": 0,
+      "value": "Patient Events"
+    }
+  ],
+  "patient events count for year": [
+    {
+      "type": 0,
+      "value": "Number of patient events for year"
+    }
+  ],
+  "patient finished": [
+    {
+      "type": 0,
+      "value": "Therapy finished"
+    }
+  ],
+  "patient finished description": [
+    {
+      "type": 0,
+      "value": "Patient resigned from consultation after at least five meetings with therapist"
+    }
+  ],
+  "patient first visit": [
+    {
+      "type": 0,
+      "value": "First consultation"
+    }
+  ],
+  "patient first visit description": [
+    {
+      "type": 0,
+      "value": "Patient is before his or her first consultation with therapist"
+    }
+  ],
+  "patient information": [
+    {
+      "type": 0,
+      "value": "Give a bit of "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "necessary information"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": ", so that the therapist will be able to contact you."
+    }
+  ],
+  "patient new": [
+    {
+      "type": 0,
+      "value": "New patient"
+    }
+  ],
+  "patient new description": [
+    {
+      "type": 0,
+      "value": "Patient awaits Therapy Guide"
+    }
+  ],
+  "patient no contact": [
+    {
+      "type": 0,
+      "value": "No contact"
+    }
+  ],
+  "patient no contact description": [
+    {
+      "type": 0,
+      "value": "No contact"
+    }
+  ],
+  "patient no sessions": [
+    {
+      "type": 0,
+      "value": "No sessions yet"
+    }
+  ],
+  "patient not found": [
+    {
+      "type": 0,
+      "value": "Patient not found"
+    }
+  ],
+  "patient panel data": [
+    {
+      "type": 0,
+      "value": "Patient Panel"
+    }
+  ],
+  "patient panel description": [
+    {
+      "type": 0,
+      "value": "Wellbee patient panel"
+    }
+  ],
+  "patient panel title": [
+    {
+      "type": 0,
+      "value": "Patient panel - Wellbee"
+    }
+  ],
+  "patient quick churn": [
+    {
+      "type": 0,
+      "value": "Patient resigned"
+    }
+  ],
+  "patient quick churn description": [
+    {
+      "type": 0,
+      "value": "Patient resigned from therapy after first sessions"
+    }
+  ],
+  "patient sms messages": [
+    {
+      "type": 0,
+      "value": "Patient SMS Messages"
+    }
+  ],
+  "patient transactions": [
+    {
+      "type": 0,
+      "value": "Patient transactions"
+    }
+  ],
+  "patient-panel-account-deletion-success": [
+    {
+      "type": 0,
+      "value": "Account successfully deleted"
+    }
+  ],
+  "patient-panel-account-search-timezone": [
+    {
+      "type": 0,
+      "value": "Search timezone..."
+    }
+  ],
+  "patient-panel-account-update-default-language": [
+    {
+      "type": 0,
+      "value": "Default language"
+    }
+  ],
+  "patient-panel-account-update-default-timezone": [
+    {
+      "type": 0,
+      "value": "Timezone"
+    }
+  ],
+  "patient-panel-account-update-error": [
+    {
+      "type": 0,
+      "value": "Account update error"
+    }
+  ],
+  "patient-panel-account-update-name-how-to-call": [
+    {
+      "type": 0,
+      "value": "How should we call you?"
+    }
+  ],
+  "patient-panel-account-update-name-nickname": [
+    {
+      "type": 0,
+      "value": "Name/nickname"
+    }
+  ],
+  "patient-panel-account-update-phone": [
+    {
+      "type": 0,
+      "value": "Phone"
+    }
+  ],
+  "patient-panel-account-update-success": [
+    {
+      "type": 0,
+      "value": "Update successful"
+    }
+  ],
+  "patient-panel-account-update-title-settings": [
+    {
+      "type": 0,
+      "value": "Settings"
+    }
+  ],
+  "patient-panel-any-questions": [
+    {
+      "type": 0,
+      "value": "Any questions?"
+    }
+  ],
+  "patient-panel-btn-cancel": [
+    {
+      "type": 0,
+      "value": "Cancel"
+    }
+  ],
+  "patient-panel-btn-ok": [
+    {
+      "type": 0,
+      "value": "OK"
+    }
+  ],
+  "patient-panel-card-data": [
+    {
+      "type": 0,
+      "value": "Card details"
+    }
+  ],
+  "patient-panel-card-owner-name": [
+    {
+      "type": 0,
+      "value": "Owner name"
+    }
+  ],
+  "patient-panel-closest-session": [
+    {
+      "type": 0,
+      "value": "Next session:"
+    }
+  ],
+  "patient-panel-confirm-new-password": [
+    {
+      "type": 0,
+      "value": "Confirm new password"
+    }
+  ],
+  "patient-panel-delete-account-btn-back": [
+    {
+      "type": 0,
+      "value": "Go back"
+    }
+  ],
+  "patient-panel-delete-account-btn-confirm": [
+    {
+      "type": 0,
+      "value": "Yes, delete"
+    }
+  ],
+  "patient-panel-delete-account-confirm": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to delete the account?"
+    }
+  ],
+  "patient-panel-delete-account-info-continue": [
+    {
+      "type": 0,
+      "value": "You can continue therapy without the account"
+    }
+  ],
+  "patient-panel-enter-coupon-code": [
+    {
+      "type": 0,
+      "value": "Enter coupon code"
+    }
+  ],
+  "patient-panel-login-password": [
+    {
+      "type": 0,
+      "value": "Password"
+    }
+  ],
+  "patient-panel-my-sessions": [
+    {
+      "type": 0,
+      "value": "My Sessions"
+    }
+  ],
+  "patient-panel-new-password": [
+    {
+      "type": 0,
+      "value": "New password"
+    }
+  ],
+  "patient-panel-or-with-email": [
+    {
+      "type": 0,
+      "value": "or log in using mail"
+    }
+  ],
+  "patient-panel-paid": [
+    {
+      "type": 0,
+      "value": "paid"
+    }
+  ],
+  "patient-panel-password-change-error": [
+    {
+      "type": 0,
+      "value": "Password change error"
+    }
+  ],
+  "patient-panel-password-change-success": [
+    {
+      "type": 0,
+      "value": "Password changed successfully"
+    }
+  ],
+  "patient-panel-password-reset": [
+    {
+      "type": 0,
+      "value": "Reset password for "
+    },
+    {
+      "type": 1,
+      "value": "email"
+    },
+    {
+      "type": 0,
+      "value": "?"
+    }
+  ],
+  "patient-panel-password-validation-confirm": [
+    {
+      "type": 0,
+      "value": "New passwords are not the same"
+    }
+  ],
+  "patient-panel-password-validation-missing-fields": [
+    {
+      "type": 0,
+      "value": "Please fill all fields"
+    }
+  ],
+  "patient-panel-password-validation-old-identical": [
+    {
+      "type": 0,
+      "value": "New and old passwords are the same"
+    }
+  ],
+  "patient-panel-pay-now": [
+    {
+      "type": 0,
+      "value": "Pay now"
+    }
+  ],
+  "patient-panel-pay-now-cta": [
+    {
+      "type": 0,
+      "value": "Pay now"
+    }
+  ],
+  "patient-panel-payments": [
+    {
+      "type": 0,
+      "value": "Payments"
+    }
+  ],
+  "patient-panel-payments-add-coupon": [
+    {
+      "type": 0,
+      "value": "Add Coupon"
+    }
+  ],
+  "patient-panel-payments-add-credit-card": [
+    {
+      "type": 0,
+      "value": "Add Credit Card"
+    }
+  ],
+  "patient-panel-payments-added-manually": [
+    {
+      "type": 0,
+      "value": "Payment has been added manually in exchange for a different payment or payment outside PayU system."
+    }
+  ],
+  "patient-panel-payments-code-success": [
+    {
+      "type": 0,
+      "value": "Using code was a success"
+    }
+  ],
+  "patient-panel-payments-copy-ref-code": [
+    {
+      "type": 0,
+      "value": "Copy code"
+    }
+  ],
+  "patient-panel-payments-offline": [
+    {
+      "type": 0,
+      "value": "Offline session"
+    }
+  ],
+  "patient-panel-payments-online": [
+    {
+      "type": 0,
+      "value": "Online session"
+    }
+  ],
+  "patient-panel-payments-paid-with-coupons": [
+    {
+      "type": 0,
+      "value": "Session paid using discount coupons"
+    }
+  ],
+  "patient-panel-payments-recovered": [
+    {
+      "type": 0,
+      "value": "Payment has been refunded or recovered manually to pay for next visit."
+    }
+  ],
+  "patient-panel-payments-ref-code-1": [
+    {
+      "type": 0,
+      "value": "If you feel comfortable wit it, recommend us to your friends using personal code:"
+    }
+  ],
+  "patient-panel-payments-ref-code-2": [
+    {
+      "type": 0,
+      "value": "Will receive person who you recommend Wellbee to, for each of 3 first therapy sessions"
+    }
+  ],
+  "patient-panel-payments-ref-code-3": [
+    {
+      "type": 0,
+      "value": "Receive 40PLN discount for each for 3 next sessions if recommended person used 3 sessions"
+    }
+  ],
+  "patient-panel-payments-save": [
+    {
+      "type": 0,
+      "value": "Save"
+    }
+  ],
+  "patient-panel-payments-usage-info": [
+    {
+      "type": 0,
+      "value": "Coupons will be used in order by the most profitable"
+    }
+  ],
+  "patient-panel-payments-with": [
+    {
+      "type": 0,
+      "value": "with"
+    }
+  ],
+  "patient-panel-post-code": [
+    {
+      "type": 0,
+      "value": "Postcode"
+    }
+  ],
+  "patient-panel-previous-password": [
+    {
+      "type": 0,
+      "value": "Previous password"
+    }
+  ],
+  "patient-panel-recurring-payments": [
+    {
+      "type": 0,
+      "value": "Recurring payments"
+    }
+  ],
+  "patient-panel-recurring-payments-modal-agree": [
+    {
+      "type": 0,
+      "value": "Agree to changes"
+    }
+  ],
+  "patient-panel-recurring-payments-modal-content-1": [
+    {
+      "type": 0,
+      "value": "I agree to use my card to pay services in the Wellbee service, such as: payment for psychotherapy or subscription of development platform. Resignation from recurring payments can happen at any time, upon customer request"
+    }
+  ],
+  "patient-panel-recurring-payments-modal-content-2": [
+    {
+      "type": 0,
+      "value": "Monthly subscription is being turned on for unspecified time with ability to resign at any moment of subscription duration. When user resigns during duration of paid packet, access to the service is granted up until the end of the billing period."
+    }
+  ],
+  "patient-panel-recurring-payments-modal-content-3": [
+    {
+      "type": 0,
+      "value": "In case of lack of service cancellation, subscription is automatically renewed at the end of it."
+    }
+  ],
+  "patient-panel-recurring-payments-modal-title": [
+    {
+      "type": 0,
+      "value": "Recurring payments"
+    }
+  ],
+  "patient-panel-session-switch-completed": [
+    {
+      "type": 0,
+      "value": "Finished"
+    }
+  ],
+  "patient-panel-sessions-modal-event-after-cancellation-deadline": [
+    {
+      "type": 0,
+      "value": "Please contact Therapy Guide to cancel this session"
+    }
+  ],
+  "patient-panel-sessions-move-to-next-week": [
+    {
+      "type": 0,
+      "value": "Postpone to the next week"
+    }
+  ],
+  "patient-panel-sessions-therapist-with": [
+    {
+      "type": 0,
+      "value": "Online meeting with"
+    }
+  ],
+  "patient-panel-sessions-title": [
+    {
+      "type": 0,
+      "value": "My Sessions"
+    }
+  ],
+  "patient-panel-sessions-your-therapist": [
+    {
+      "type": 0,
+      "value": "Your therapist:"
+    }
+  ],
+  "patient-panel-settings": [
+    {
+      "type": 0,
+      "value": "Settings"
+    }
+  ],
+  "patient-panel-title-change-password": [
+    {
+      "type": 0,
+      "value": "Password change"
+    }
+  ],
+  "patient-panel-title-delete-account": [
+    {
+      "type": 0,
+      "value": "Delete account"
+    }
+  ],
+  "patient-panel-town": [
+    {
+      "type": 0,
+      "value": "Town"
+    }
+  ],
+  "patient-panel-unpaid": [
+    {
+      "type": 0,
+      "value": "unpaid"
+    }
+  ],
+  "patient-panel.already-have-account": [
+    {
+      "type": 0,
+      "value": "Already have an account?"
+    }
+  ],
+  "patient-panel.btn-login": [
+    {
+      "type": 0,
+      "value": "Log in"
+    }
+  ],
+  "patient-panel.btn-register": [
+    {
+      "type": 0,
+      "value": "Register"
+    }
+  ],
+  "patient-panel.btn-remind-password": [
+    {
+      "type": 0,
+      "value": "Reset password"
+    }
+  ],
+  "patient-panel.cta-register": [
+    {
+      "type": 0,
+      "value": "Register"
+    }
+  ],
+  "patient-panel.email-already-in-use": [
+    {
+      "type": 0,
+      "value": "This email is already registered"
+    }
+  ],
+  "patient-panel.email-empty-email": [
+    {
+      "type": 0,
+      "value": "Provide your e-mail to reset the password"
+    }
+  ],
+  "patient-panel.invalid-email": [
+    {
+      "type": 0,
+      "value": "This email is invalid"
+    }
+  ],
+  "patient-panel.invalid-google-password": [
+    {
+      "type": 0,
+      "value": "The password is invalid or the user does not have a password."
+    }
+  ],
+  "patient-panel.invalid-password-or-email": [
+    {
+      "type": 0,
+      "value": "Username or password is invalid. Please contact "
+    },
+    {
+      "type": 1,
+      "value": "therapyGuideEmail"
+    }
+  ],
+  "patient-panel.masked-login-error": [
+    {
+      "type": 0,
+      "value": "Provided e-mail or password is invalid, please double-check your e-mail address or reset password"
+    }
+  ],
+  "patient-panel.no-account": [
+    {
+      "type": 0,
+      "value": "You don't have account?"
+    }
+  ],
+  "patient-panel.password-reset-sent": [
+    {
+      "type": 0,
+      "value": "If the account exists, password reset mail has been sent"
+    }
+  ],
+  "patient-panel.password-validation-accepted": [
+    {
+      "type": 0,
+      "value": "Excellent password!"
+    }
+  ],
+  "patient-panel.password-validation-min-chars": [
+    {
+      "type": 0,
+      "value": "9+ characters, minium 1 capital letter and minimum 1 special character"
+    }
+  ],
+  "patient-panel.register-accept": [
+    {
+      "type": 0,
+      "value": "By creating an account, I agree with"
+    }
+  ],
+  "patient-panel.register-accept-cookie": [
+    {
+      "type": 0,
+      "value": "Cookie Policy"
+    }
+  ],
+  "patient-panel.register-accept-label-and": [
+    {
+      "type": 0,
+      "value": "|"
+    }
+  ],
+  "patient-panel.register-accept-privacy": [
+    {
+      "type": 0,
+      "value": "Privacy"
+    }
+  ],
+  "patient-panel.register-accept-toc": [
+    {
+      "type": 0,
+      "value": "Terms and Conditions"
+    }
+  ],
+  "patient-panel.title-login": [
+    {
+      "type": 0,
+      "value": "Log in"
+    }
+  ],
+  "patient-panel.title-register": [
+    {
+      "type": 0,
+      "value": "Register"
+    }
+  ],
+  "patient-panel.user-does-not-exist": [
+    {
+      "type": 0,
+      "value": "User not found"
+    }
+  ],
+  "patient-panel.user-is-not-admin": [
+    {
+      "type": 0,
+      "value": "User is not admin"
+    }
+  ],
+  "patient-panel.user-is-not-therapist": [
+    {
+      "type": 0,
+      "value": "User is not therapist"
+    }
+  ],
+  "patient-panel.user-is-not-therapy-guide": [
+    {
+      "type": 0,
+      "value": "User is not therapy guide"
+    }
+  ],
+  "patient-panel.user-not-found": [
+    {
+      "type": 0,
+      "value": "There's no account registered with that email"
+    }
+  ],
+  "patient-panel.wrong-password": [
+    {
+      "type": 0,
+      "value": "Wrong password"
+    }
+  ],
+  "patients": [
+    {
+      "type": 0,
+      "value": "Patients"
+    }
+  ],
+  "patients count": [
+    {
+      "type": 0,
+      "value": "Patients count"
+    }
+  ],
+  "patients-price-pln": [
+    {
+      "type": 0,
+      "value": "Patients price PLN"
+    }
+  ],
+  "pay for first visit": [
+    {
+      "type": 0,
+      "value": "Pay for your first online session"
+    }
+  ],
+  "paying": [
+    {
+      "type": 0,
+      "value": "Payout"
+    }
+  ],
+  "payment": [
+    {
+      "type": 0,
+      "value": "Payment"
+    }
+  ],
+  "payment don't match": [
+    {
+      "type": 0,
+      "value": "Salary isn’t correct?"
+    }
+  ],
+  "payment done at end of month": [
+    {
+      "type": 0,
+      "value": "You can ask to receive your payment at the end of the month"
+    }
+  ],
+  "payment failed tooltip": [
+    {
+      "type": 0,
+      "value": "Sessions booked, but not paid for. You won't be paid for them."
+    }
+  ],
+  "payment link sent to client": [
+    {
+      "type": 0,
+      "value": "Payment link will be automatically sent to the patient."
+    }
+  ],
+  "payment method": [
+    {
+      "type": 0,
+      "value": "Payment method"
+    }
+  ],
+  "payment method coupon": [
+    {
+      "type": 0,
+      "value": "Coupon payment"
+    }
+  ],
+  "payment method manual": [
+    {
+      "type": 0,
+      "value": "Manual"
+    }
+  ],
+  "payment.book-free-session": [
+    {
+      "type": 0,
+      "value": "Reserve free session"
+    }
+  ],
+  "payment.booking-complete": [
+    {
+      "type": 0,
+      "value": "Booking completed"
+    }
+  ],
+  "payment.confirm": [
+    {
+      "type": 0,
+      "value": "Book"
+    }
+  ],
+  "payment.congratulation-coupon": [
+    {
+      "type": 0,
+      "value": "Congratulations! You are rewarded with "
+    },
+    {
+      "type": 1,
+      "value": "couponValue"
+    },
+    {
+      "type": 0,
+      "value": " PLN discount"
+    }
+  ],
+  "payment.congratulation-session-paid": [
+    {
+      "type": 0,
+      "value": "Congratulations! Now you may reserve a session for free!"
+    }
+  ],
+  "payment.contact-us": [
+    {
+      "type": 0,
+      "value": "Contact us "
+    }
+  ],
+  "payment.failed": [
+    {
+      "type": 0,
+      "value": "Payment failed"
+    }
+  ],
+  "payment.keep-calm": [
+    {
+      "type": 0,
+      "value": "Keep calm. It happens"
+    }
+  ],
+  "payment.payu-info": [
+    {
+      "type": 0,
+      "value": "powers quick, secure and comfortable online payments at wellbee. Please follow the instructions to pay for the session."
+    }
+  ],
+  "payment.percent-discount-text": [
+    {
+      "type": 0,
+      "value": "It is easier and you save"
+    }
+  ],
+  "payment.percent-discount-text-short": [
+    {
+      "type": 0,
+      "value": "It is easier and you save"
+    }
+  ],
+  "payment.recommend-benefits": [
+    {
+      "type": 0,
+      "value": "Thanks to you, the person you recommend Wellbee will receive 40 PLN discount on each of the first visits"
+    }
+  ],
+  "payment.recommend-benefits-for-you": [
+    {
+      "type": 0,
+      "value": "We believe that what goes around comes around! That is why when a person to whom you recommended Wellbee finishes their 3 sessions we will also give you: "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "40pln discount for the next 3 sessions"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "payment.recommend-wellbee": [
+    {
+      "type": 0,
+      "value": "If you feel comfortable with it, recommend Wellbee to your friends using your personal code"
+    }
+  ],
+  "payment.thank-you-for-trust": [
+    {
+      "type": 0,
+      "value": "Thank you for your trust"
+    }
+  ],
+  "payment.to-enter-before-paying": [
+    {
+      "type": 0,
+      "value": "enter just before payment"
+    }
+  ],
+  "payment.try-pay-again": [
+    {
+      "type": 0,
+      "value": "Try paying again by clicking again the link in the email"
+    }
+  ],
+  "payment.use-code": [
+    {
+      "type": 0,
+      "value": "Use code"
+    }
+  ],
+  "payment.use-other-payment-method": [
+    {
+      "type": 0,
+      "value": "Use another payment method"
+    }
+  ],
+  "payment.what-can-you-do": [
+    {
+      "type": 0,
+      "value": "What can You do?"
+    }
+  ],
+  "payout": [
+    {
+      "type": 0,
+      "value": "Payout completed"
+    }
+  ],
+  "payout-pln": [
+    {
+      "type": 0,
+      "value": "Payout PLN"
+    }
+  ],
+  "per session": [
+    {
+      "type": 0,
+      "value": "/ 50’ session"
+    }
+  ],
+  "percent discount text": [
+    {
+      "type": 0,
+      "value": "It is easier and you save"
+    }
+  ],
+  "percent discount text short": [
+    {
+      "type": 0,
+      "value": "It is easier and you save"
+    }
+  ],
+  "phone number optional": [
+    {
+      "type": 0,
+      "value": "Phone number (optional)"
+    }
+  ],
+  "photo in background": [
+    {
+      "type": 0,
+      "value": "Photo in the background"
+    }
+  ],
+  "prepare glass of water": [
+    {
+      "type": 0,
+      "value": "Prepare a glass of water, notebook, tissues if you feel that you need them. The less time you will spend on getting ahold of those items during the session the more value you will get from the session."
+    }
+  ],
+  "prepare headphones": [
+    {
+      "type": 0,
+      "value": "For your comfort we suggest that you use "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "headphones with microphone"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " in this way you will not only improve the quality of connection but also make sure your privacy isn’t impeded – no third person will be able to capture your conversation."
+    }
+  ],
+  "prepare headphones and glass of water": [
+    {
+      "type": 0,
+      "value": "Prepare headphones with a microphone and a glass of water"
+    }
+  ],
+  "prepare internet access": [
+    {
+      "type": 0,
+      "value": "Make sure you have internet access"
+    }
+  ],
+  "prepare private space": [
+    {
+      "type": 0,
+      "value": "Make sure you have a quiet, private space."
+    }
+  ],
+  "press enter to search": [
+    {
+      "type": 0,
+      "value": "Press Enter to search"
+    }
+  ],
+  "price": [
+    {
+      "type": 0,
+      "value": "Cena"
+    }
+  ],
+  "price in lowest denomination": [
+    {
+      "type": 0,
+      "value": "Price (gr)"
+    }
+  ],
+  "price section": [
+    {
+      "children": [
+        {
+          "type": 1,
+          "value": "price"
+        },
+        {
+          "type": 0,
+          "value": "PLN"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": " / 50' session"
+    }
+  ],
+  "pro tip": [
+    {
+      "type": 0,
+      "value": "PRP TIP"
+    }
+  ],
+  "product": [
+    {
+      "type": 0,
+      "value": "Product"
+    }
+  ],
+  "product delete are you sure": [
+    {
+      "type": 0,
+      "value": "Na pewno chcesz usunąć wybrany produkt?"
+    }
+  ],
+  "product deleted": [
+    {
+      "type": 0,
+      "value": "Product deleted"
+    }
+  ],
+  "products": [
+    {
+      "type": 0,
+      "value": "Products"
+    }
+  ],
+  "professional title": [
+    {
+      "type": 0,
+      "value": "Modality"
+    }
+  ],
+  "profile pictures": [
+    {
+      "type": 0,
+      "value": "Zdjęcia w profilu"
+    }
+  ],
+  "profile video url": [
+    {
+      "type": 0,
+      "value": "Profile video URL (YT)"
+    }
+  ],
+  "provision": [
+    {
+      "type": 0,
+      "value": "Provision"
+    }
+  ],
+  "provision percent": [
+    {
+      "type": 0,
+      "value": "Provision percent"
+    }
+  ],
+  "provision percent in office": [
+    {
+      "type": 0,
+      "value": "Provision percent (in office)"
+    }
+  ],
+  "psychic health checked": [
+    {
+      "type": 0,
+      "value": "Our report on the state of Mental Health in Poland"
+    }
+  ],
+  "psychic health imprtant": [
+    {
+      "type": 0,
+      "value": "Mental health is the most important issue"
+    }
+  ],
+  "psychoterapy revelation": [
+    {
+      "type": 0,
+      "value": "Therapy is no longer stigmatising😊"
+    }
+  ],
+  "psychotherapist": [
+    {
+      "type": 0,
+      "value": "Psychotherapist"
+    }
+  ],
+  "pwc therapist": [
+    {
+      "type": 0,
+      "value": "PWC Therapist"
+    }
+  ],
+  "pwc therapist description": [
+    {
+      "type": 0,
+      "value": "PWC therapist is stored as a separate entry in the database, it can have identical name and surname as the standard one, but it needs to have different email."
+    }
+  ],
+  "quality": [
+    {
+      "type": 0,
+      "value": "Quality, speed and convenience"
+    }
+  ],
+  "quality info": [
+    {
+      "type": 0,
+      "value": "Access to qualified psychotherapists and other specialists anywhere and on any device."
+    }
+  ],
+  "question for payment sent": [
+    {
+      "type": 0,
+      "value": "Salary request sent!"
+    }
+  ],
+  "questionnaire date": [
+    {
+      "type": 0,
+      "value": "Year of birth"
+    }
+  ],
+  "questionnaire first visit": [
+    {
+      "type": 0,
+      "value": "Is it your first therapy?"
+    }
+  ],
+  "questionnaire gender": [
+    {
+      "type": 0,
+      "value": "Gender"
+    }
+  ],
+  "questionnaire is after": [
+    {
+      "type": 0,
+      "value": "Did you consult your case with a psychiatrist?"
+    }
+  ],
+  "questionnaire motivation": [
+    {
+      "type": 0,
+      "value": "Why do you want to start therapy?"
+    }
+  ],
+  "questionnaire motivation 1": [
+    {
+      "type": 0,
+      "value": "I need help with choosing a therapist"
+    }
+  ],
+  "questionnaire motivation 2": [
+    {
+      "type": 0,
+      "value": "I want to know if therapy can help me"
+    }
+  ],
+  "questionnaire motivation 3": [
+    {
+      "type": 0,
+      "value": "I am feeling quite bad"
+    }
+  ],
+  "questionnaire other": [
+    {
+      "type": 0,
+      "value": "Other / No response"
+    }
+  ],
+  "read more": [
+    {
+      "type": 0,
+      "value": "Read more"
+    }
+  ],
+  "receive specialist info on email": [
+    {
+      "type": 0,
+      "value": "You will receive information about the selected specialist as well as the date and time of the first session by e-mail. If you have any questions, please ask your Therapy Guide"
+    }
+  ],
+  "recommend video call": [
+    {
+      "type": 0,
+      "value": "We recommend connecting via video-conference platform.Thanks to this you can see your therapist and feel almost like in the psychotherapist's office! We understand that sometimes, for various reasons, even this is impossible - that's why we always give you the option of a phone call."
+    }
+  ],
+  "recommended": [
+    {
+      "type": 0,
+      "value": "Recommended"
+    }
+  ],
+  "recommended (sort)": [
+    {
+      "type": 0,
+      "value": "Recommended"
+    }
+  ],
+  "refund": [
+    {
+      "type": 0,
+      "value": "Refund"
+    }
+  ],
+  "remember me": [
+    {
+      "type": 0,
+      "value": "Remember me"
+    }
+  ],
+  "repeat meeting in week": [
+    {
+      "type": 0,
+      "value": "Repeat in a week"
+    }
+  ],
+  "repeat next week": [
+    {
+      "type": 0,
+      "value": "Repeat again next week"
+    }
+  ],
+  "reservation soon": [
+    {
+      "type": 0,
+      "value": "Booking available soon"
+    }
+  ],
+  "reset password": [
+    {
+      "type": 0,
+      "value": "Reset password"
+    }
+  ],
+  "reset password success": [
+    {
+      "type": 0,
+      "value": "Password reset done"
+    }
+  ],
+  "resign of course": [
+    {
+      "type": 0,
+      "value": "Of course, but if you do this later than 24 hours before the visit starts, we will not be able to refund you"
+    }
+  ],
+  "return investition": [
+    {
+      "type": 0,
+      "value": "Return on investment"
+    }
+  ],
+  "return rate": [
+    {
+      "type": 0,
+      "value": "Return rate"
+    }
+  ],
+  "return rate score": [
+    {
+      "type": 0,
+      "value": "Return rate score"
+    }
+  ],
+  "saved": [
+    {
+      "type": 0,
+      "value": "Zapisano"
+    }
+  ],
+  "score": [
+    {
+      "type": 0,
+      "value": "score"
+    }
+  ],
+  "search month": [
+    {
+      "type": 0,
+      "value": "Search month"
+    }
+  ],
+  "search therapist": [
+    {
+      "type": 0,
+      "value": "Find therapist"
+    }
+  ],
+  "search therapist by city": [
+    {
+      "type": 0,
+      "value": "Enter city"
+    }
+  ],
+  "search therapist...": [
+    {
+      "type": 0,
+      "value": "Search..."
+    }
+  ],
+  "search year": [
+    {
+      "type": 0,
+      "value": "Search year"
+    }
+  ],
+  "see": [
+    {
+      "type": 0,
+      "value": "See"
+    }
+  ],
+  "see all": [
+    {
+      "type": 0,
+      "value": "See all"
+    }
+  ],
+  "see our report": [
+    {
+      "type": 0,
+      "value": "Check our report"
+    }
+  ],
+  "see transaction": [
+    {
+      "type": 0,
+      "value": "See transaction"
+    }
+  ],
+  "select": [
+    {
+      "type": 0,
+      "value": "Select"
+    }
+  ],
+  "select all": [
+    {
+      "type": 0,
+      "value": "Select all"
+    }
+  ],
+  "select guide": [
+    {
+      "type": 0,
+      "value": "Select your therapy guide"
+    }
+  ],
+  "select your therapist": [
+    {
+      "type": 0,
+      "value": "Select your therapist"
+    }
+  ],
+  "send and ask for contact": [
+    {
+      "type": 0,
+      "value": "Send form"
+    }
+  ],
+  "send invitation": [
+    {
+      "type": 0,
+      "value": "Send invitation"
+    }
+  ],
+  "session completed": [
+    {
+      "type": 0,
+      "value": "finished"
+    }
+  ],
+  "session created using aviva website": [
+    {
+      "type": 0,
+      "value": "Session created using Aviva website"
+    }
+  ],
+  "session created using pwc website": [
+    {
+      "type": 0,
+      "value": "Session created using PWC website"
+    }
+  ],
+  "session failed": [
+    {
+      "type": 0,
+      "value": "patient absent"
+    }
+  ],
+  "session payment failed": [
+    {
+      "type": 0,
+      "value": "Not canceled"
+    }
+  ],
+  "session time": [
+    {
+      "type": 0,
+      "value": "Session time"
+    }
+  ],
+  "set availability data": [
+    {
+      "type": 0,
+      "value": "Set up a work schedule that is convenient for you and your patients"
+    }
+  ],
+  "set call image": [
+    {
+      "type": 0,
+      "value": "Set the connection picture"
+    }
+  ],
+  "set work hours": [
+    {
+      "type": 0,
+      "value": "Set up work hours"
+    }
+  ],
+  "set work time": [
+    {
+      "type": 0,
+      "value": "Ustaw czas pracy"
+    }
+  ],
+  "shortcut": [
+    {
+      "type": 0,
+      "value": "Briefly"
+    }
+  ],
+  "shortened details": [
+    {
+      "type": 0,
+      "value": "Shortened description (optional)"
+    }
+  ],
+  "show all": [
+    {
+      "type": 0,
+      "value": "Show me all"
+    }
+  ],
+  "show events with guide": [
+    {
+      "type": 0,
+      "value": "Show therapy guide events too"
+    }
+  ],
+  "show only events without gcal": [
+    {
+      "type": 0,
+      "value": "Show only events without google calendar"
+    }
+  ],
+  "show our therapists": [
+    {
+      "type": 0,
+      "value": "Show all therapists"
+    }
+  ],
+  "show results": [
+    {
+      "type": 0,
+      "value": "Show results"
+    }
+  ],
+  "show therapist": [
+    {
+      "type": 0,
+      "value": "Show therapist"
+    }
+  ],
+  "sid": [
+    {
+      "type": 0,
+      "value": "SID"
+    }
+  ],
+  "siy-agenda-day1-1": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Practice:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Attention Training"
+    }
+  ],
+  "siy-agenda-day1-10": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Practice:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Reframe and respond to challenges in the moment"
+    }
+  ],
+  "siy-agenda-day1-2": [
+    {
+      "type": 0,
+      "value": "How do you develop "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "emotional intelligence?"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    }
+  ],
+  "siy-agenda-day1-3": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Mindfulness:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " moving from autopilot to aware"
+    }
+  ],
+  "siy-agenda-day1-4": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Practice:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Open Awareness"
+    }
+  ],
+  "siy-agenda-day1-5": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Practice:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Body Scan"
+    }
+  ],
+  "siy-agenda-day1-6": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Self-awareness:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Knowing one's internal states"
+    }
+  ],
+  "siy-agenda-day1-7": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Self-management:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Skillfully manage your impulses and reactions"
+    }
+  ],
+  "siy-agenda-day1-8": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Practice:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Mindful listening"
+    }
+  ],
+  "siy-agenda-day1-9": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Practice:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Self-Compassion"
+    }
+  ],
+  "siy-agenda-day2-1": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Motivation:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Align your values and work"
+    }
+  ],
+  "siy-agenda-day2-10": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Leadership:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Lead with compassion"
+    }
+  ],
+  "siy-agenda-day2-11": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Practice:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Compassion practice"
+    }
+  ],
+  "siy-agenda-day2-12": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Exercise:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Leadership Commitment"
+    }
+  ],
+  "siy-agenda-day2-13": [
+    {
+      "type": 0,
+      "value": "Application "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Brainstorm"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    }
+  ],
+  "siy-agenda-day2-2": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Exercise:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Alignment with values"
+    }
+  ],
+  "siy-agenda-day2-3": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Envisioning Practice:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Visualize you goals"
+    }
+  ],
+  "siy-agenda-day2-4": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Practice:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Resilience, recover from setbacks"
+    }
+  ],
+  "siy-agenda-day2-5": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Exercise:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " \"Just like me\""
+    }
+  ],
+  "siy-agenda-day2-6": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Empathy:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Understand others' feelings and experiences"
+    }
+  ],
+  "siy-agenda-day2-7": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Practice:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Mindful Walking"
+    }
+  ],
+  "siy-agenda-day2-8": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Exercise:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Empathetic Listening"
+    }
+  ],
+  "siy-agenda-day2-9": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Exercise:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " Difficult Conversations"
+    }
+  ],
+  "siy-agenda-info": [
+    {
+      "type": 0,
+      "value": "Taught on-site by two SIY Certified Teachers, the 2-day program "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "is a deep-dive into mindfulness-based emotional intelligence skills and practical applications."
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    }
+  ],
+  "siy-agenda-sign-up": [
+    {
+      "type": 0,
+      "value": "Sign up"
+    }
+  ],
+  "siy-agenda-title": [
+    {
+      "type": 0,
+      "value": "2-day "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Program Agenda"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    }
+  ],
+  "siy-agenda-title-day": [
+    {
+      "type": 0,
+      "value": "Day"
+    }
+  ],
+  "siy-agenda-title-day1-end": [
+    {
+      "type": 0,
+      "value": "17:00 - End of Day 1"
+    }
+  ],
+  "siy-agenda-title-day1-start": [
+    {
+      "type": 0,
+      "value": "9:00 - Start"
+    }
+  ],
+  "siy-agenda-title-day2-end": [
+    {
+      "type": 0,
+      "value": "17:00 - End of Day 2"
+    }
+  ],
+  "siy-agenda-title-day2-start": [
+    {
+      "type": 0,
+      "value": "9:00 - Introduction"
+    }
+  ],
+  "siy-expect-lead-text": [
+    {
+      "type": 0,
+      "value": "The SIY program kicks off with a highly interactive "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "two-day in-person session"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": ". It continues with a "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "4-week practice integration period"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " delivered online, and concludes with a "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "webinar"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "siy-expect-text-1": [
+    {
+      "type": 0,
+      "value": "Experiential training in mindfulness, neuroscience and the five emotional intelligence capacities."
+    }
+  ],
+  "siy-expect-text-2": [
+    {
+      "type": 0,
+      "value": "Daily exercises and resources delivered by email to help build new habits."
+    }
+  ],
+  "siy-expect-text-3": [
+    {
+      "type": 0,
+      "value": "Reconnect with your teachers and group to review and set a plan for continuation."
+    }
+  ],
+  "siy-expect-time-1": [
+    {
+      "type": 0,
+      "value": "2 days"
+    }
+  ],
+  "siy-expect-time-2": [
+    {
+      "type": 0,
+      "value": "4 weeks"
+    }
+  ],
+  "siy-expect-time-3": [
+    {
+      "type": 0,
+      "value": "1 hour"
+    }
+  ],
+  "siy-expect-title": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "How"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": " the program works:"
+    }
+  ],
+  "siy-expect-title-1": [
+    {
+      "type": 0,
+      "value": "Live Training"
+    }
+  ],
+  "siy-expect-title-2": [
+    {
+      "type": 0,
+      "value": "Virtual Practice"
+    }
+  ],
+  "siy-expect-title-3": [
+    {
+      "type": 0,
+      "value": "Webinar"
+    }
+  ],
+  "siy-form-company": [
+    {
+      "type": 0,
+      "value": "Company"
+    }
+  ],
+  "siy-form-motivation": [
+    {
+      "type": 0,
+      "value": "Motivation / what I want to accomplish"
+    }
+  ],
+  "siy-form-name": [
+    {
+      "type": 0,
+      "value": "Name"
+    }
+  ],
+  "siy-form-position": [
+    {
+      "type": 0,
+      "value": "Position"
+    }
+  ],
+  "siy-form-send": [
+    {
+      "type": 0,
+      "value": "Send"
+    }
+  ],
+  "siy-form-title": [
+    {
+      "type": 0,
+      "value": "Application form"
+    }
+  ],
+  "siy-lead-date": [
+    {
+      "type": 0,
+      "value": "May 11–12 2022 Warsaw"
+    }
+  ],
+  "siy-lead-date-early": [
+    {
+      "type": 0,
+      "value": "until April 12"
+    }
+  ],
+  "siy-lead-date-late": [
+    {
+      "type": 0,
+      "value": "after April 12"
+    }
+  ],
+  "siy-lead-regular-price": [
+    {
+      "type": 0,
+      "value": "Regular price"
+    }
+  ],
+  "siy-lead-text": [
+    {
+      "type": 0,
+      "value": "2-Day Program for leaders and managements"
+    }
+  ],
+  "siy-longer-lead-text": [
+    {
+      "type": 0,
+      "value": "The original "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "2-day mindfulness-based emotional intelligence training program developed at Google"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": ". Improve focus, empathy and resilience to harness your team’s full potential."
+    }
+  ],
+  "siy-nav-agenda": [
+    {
+      "type": 0,
+      "value": "Agenda"
+    }
+  ],
+  "siy-nav-partners": [
+    {
+      "type": 0,
+      "value": "Partners"
+    }
+  ],
+  "siy-nav-programme": [
+    {
+      "type": 0,
+      "value": "Program"
+    }
+  ],
+  "siy-nav-what-to-expect": [
+    {
+      "type": 0,
+      "value": "How it works"
+    }
+  ],
+  "siy-partners-title": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Join the organizations"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": " that have participated in our training"
+    }
+  ],
+  "siy-programme-header-1": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "We teach leaders tools for focus, self-awareness and resilience."
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    }
+  ],
+  "siy-programme-header-2": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "The 2-day interactive program"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " includes:"
+    }
+  ],
+  "siy-programme-header-3": [
+    {
+      "type": 0,
+      "value": "Participants will experience "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "lasting improvements"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": ", including:"
+    }
+  ],
+  "siy-programme-results-1": [
+    {
+      "type": 0,
+      "value": "Noticed improved ability to handle stress after attending the program"
+    }
+  ],
+  "siy-programme-results-2": [
+    {
+      "type": 0,
+      "value": "Admitted faster \nrecovery after \nexperiencing hardship"
+    }
+  ],
+  "siy-programme-results-3": [
+    {
+      "type": 0,
+      "value": "Noticed increased concentration and ability to be fully present"
+    }
+  ],
+  "siy-programme-results-note": [
+    {
+      "type": 0,
+      "value": "* based on 6,000 SIY program participants"
+    }
+  ],
+  "siy-programme-text-1": [
+    {
+      "type": 0,
+      "value": "Designed and tested at Google, the SIY program teaches mindfulness and emotional intelligence skills that lead to sustained peak performance, strong collaboration and effective leadership."
+    }
+  ],
+  "siy-programme-text-2": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "An overview of the neuroscience supporting mindfulness and emotional intelligence."
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "A deep-dive into the emotional intelligence capacities: self-awareness, self-regulation, motivation, empathy and leadership."
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Practical exercises to focus attention and develop self-awareness and empathy, the foundation for self-mastery and leadership."
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Specific workplace applications to help participants achieve greater focus, emotional balance, empathy and motivation."
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "A highly interactive experience, with 1/3 presentation and 2/3 hands-on exercises."
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "A 28-day challenge following the 2-day program. Daily resources and exercises are provided to help people build new habits after the training."
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    }
+  ],
+  "siy-programme-text-3": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Increased self-awareness and self-regulation, the first two core emotional intelligence competencies."
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Practical take-away skills: a range of mindfulness practices, journaling, and techniques for self-awareness, empathetic listening, and preparing for difficult conversations."
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Tools to communicate with insight and awareness of others' emotions and perspectives."
+        }
+      ],
+      "type": 8,
+      "value": "li"
+    }
+  ],
+  "siy-teacher-john-puts-text-1": [
+    {
+      "type": 0,
+      "value": "Amsterdam born and Berlin based, John is a certified facilitator of the Search Inside Yourself Leadership Institute ("
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "siyli.org"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": "), a certified Integral Coach ("
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "newventureswest.com"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": ") and an accredited Enneagram practitioner ("
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "integrative9.com"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": "). He has lived, studied and worked in 5 countries across 3 continents. He is on a mission to help establish more human centered, purpose driven leaders, teams and organizations."
+    }
+  ],
+  "siy-teacher-john-puts-text-2": [
+    {
+      "type": 0,
+      "value": "He facilitates transformational programs to bring a greater sense of belonging, increase motivation, productivity, employee wellbeing and (self)leadership. In his workshops he brings together mindfulness, emotional intelligence, neuroscience, leadership, resilience, empathy, psychological safety and more."
+    }
+  ],
+  "siy-teacher-john-puts-text-3": [
+    {
+      "type": 0,
+      "value": "Besides that, he accompanies leaders, entrepreneurs & those in transition in transformative coaching processes to enable an authentic way of living & working. He brings in his prior experience as an product leader and entrepreneur and has spent a number of years working at the European HQ of Google and GetYourGuide."
+    }
+  ],
+  "siy-teacher-john-puts-text-4": [
+    {
+      "type": 0,
+      "value": "More info: "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "johnputs.com"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "linkedin.com/in/johnputs/"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    }
+  ],
+  "siy-teacher-john-puts-title": [
+    {
+      "type": 0,
+      "value": "About John Puts"
+    }
+  ],
+  "siy-teacher-kamil-barbarski-text-1": [
+    {
+      "type": 0,
+      "value": "Hi, I'm Kamil. I'm an entrepreneur, innovation facilitator and certified teacher for Search Inside Yourself – a Google-born leadership program for emotional intelligence, resilience and mindfulness. I consider myself as a bridge builder between “creating impact / new business” and “being human / people & culture”."
+    }
+  ],
+  "siy-teacher-kamil-barbarski-text-2": [
+    {
+      "type": 0,
+      "value": "For that I'm creating innovative experiences that meaningfully transform people, organisations and markets. My core topic right now is combining emotional intelligence, neuroscience and mindfulness with agile methods and entrepreneurship.."
+    }
+  ],
+  "siy-teacher-kamil-barbarski-text-3": [
+    {
+      "type": 0,
+      "value": "More info: "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "kamilbarbarski.com/en/home/"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "linkedin.com/in/kamilbarbarski/"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    }
+  ],
+  "siy-teacher-kamil-barbarski-title": [
+    {
+      "type": 0,
+      "value": "About Kamil Barbarski"
+    }
+  ],
+  "siy-teachers-title": [
+    {
+      "type": 0,
+      "value": "Our "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "teachers"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    }
+  ],
+  "siy-testimonial-1": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "I highly recommend SIY"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " to anyone looking to improve the way their team works together, enhance their innovative thinking and clarity, reduce stress, improve general wellbeing, manage difficult conversations, and be generally more at peace."
+    }
+  ],
+  "siy-testimonial-2": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "I was enjoying every minute of it"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": ", and shared the experience with some of my team members already. Thank you!"
+    }
+  ],
+  "siy-testimonial-3": [
+    {
+      "type": 0,
+      "value": "The methods taught in SIY are simple to follow, yet "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "the outcome is amazing and powerful."
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    }
+  ],
+  "siy-testimonial-4": [
+    {
+      "type": 0,
+      "value": "We found it so useful that "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "my entire leadership team is now participating"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "siy-testimonial-5": [
+    {
+      "type": 0,
+      "value": "I just finished the second day of the Google-developed 'Search Inside Yourself' Mindfulness course, by the grace and generosity of my employers at bol.com. Wrapping up these first two days, I can say that the "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Search Inside Yourself course is bringing me insight into my own ideas and preferences, how to care for myself when these needs are not met and what surprises these circumstances may bring when I am open to the experiment."
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    }
+  ],
+  "siy-testimonial-6": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Invaluable"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " investment"
+    }
+  ],
+  "siy-testimonial-function-1": [
+    {
+      "type": 0,
+      "value": "Chief Strategy Officer Plantronics"
+    }
+  ],
+  "siy-testimonial-function-2": [
+    {
+      "type": 0,
+      "value": "VP GetYourGuide"
+    }
+  ],
+  "siy-testimonial-function-3a": [
+    {
+      "type": 0,
+      "value": "Global Program Manager"
+    }
+  ],
+  "siy-testimonial-function-3b": [
+    {
+      "type": 0,
+      "value": "Business Transformation Office, Dell"
+    }
+  ],
+  "siy-testimonial-function-4": [
+    {
+      "type": 0,
+      "value": "VP Global Marketing Content & Campaigns Equinix"
+    }
+  ],
+  "siy-testimonial-function-5": [
+    {
+      "type": 0,
+      "value": "Partner Specialist @ Bol.com"
+    }
+  ],
+  "siy-testimonial-function-6": [
+    {
+      "type": 0,
+      "value": "Rodger Spiller & Associates"
+    }
+  ],
+  "sms messages": [
+    {
+      "type": 0,
+      "value": "SMS Messages"
+    }
+  ],
+  "solution for your company": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Let’s talk about a solution tailored to your company"
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Take advantage of support from wellbee experts and set the strategic goals of your organisation in terms of mental health of your workforce "
+        }
+      ],
+      "type": 8,
+      "value": "p"
+    }
+  ],
+  "solved": [
+    {
+      "type": 0,
+      "value": "Solved"
+    }
+  ],
+  "sort": [
+    {
+      "type": 0,
+      "value": "Sort"
+    }
+  ],
+  "sort (menu)": [
+    {
+      "type": 0,
+      "value": "Sort"
+    }
+  ],
+  "sort and filter": [
+    {
+      "type": 0,
+      "value": "Sort and filter"
+    }
+  ],
+  "sort and filter therapist": [
+    {
+      "type": 0,
+      "value": "Sort and filter"
+    }
+  ],
+  "sort by": [
+    {
+      "type": 0,
+      "value": "Sort by"
+    }
+  ],
+  "source": [
+    {
+      "type": 0,
+      "value": "How did you hear about us?"
+    }
+  ],
+  "specialization": [
+    {
+      "type": 0,
+      "value": "Specialisation"
+    }
+  ],
+  "speed check": [
+    {
+      "type": 0,
+      "value": "You can check the speed of your Internet connection on the website. Already 500kb should be sufficient, but optimally it should be at least 1.5 Mb / s"
+    }
+  ],
+  "start": [
+    {
+      "type": 0,
+      "value": "Start"
+    }
+  ],
+  "start therapy": [
+    {
+      "type": 0,
+      "value": "Let’s start psychotherapy"
+    }
+  ],
+  "status": [
+    {
+      "type": 0,
+      "value": "Status"
+    }
+  ],
+  "status canceled": [
+    {
+      "type": 0,
+      "value": "Canceled"
+    }
+  ],
+  "status cash returned": [
+    {
+      "type": 0,
+      "value": "refunded"
+    }
+  ],
+  "status complete": [
+    {
+      "type": 0,
+      "value": "Complete"
+    }
+  ],
+  "status paid": [
+    {
+      "type": 0,
+      "value": "paid for"
+    }
+  ],
+  "status payment_failed": [
+    {
+      "type": 0,
+      "value": "payment failed"
+    }
+  ],
+  "status pending": [
+    {
+      "type": 0,
+      "value": "Pending"
+    }
+  ],
+  "status waiting": [
+    {
+      "type": 0,
+      "value": "booked"
+    }
+  ],
+  "status.active": [
+    {
+      "type": 0,
+      "value": "Stały pacjent"
+    }
+  ],
+  "status.active-description": [
+    {
+      "type": 0,
+      "value": "Pacjent odbył pierwszą rozmowę z terapeutą i nie zrezygnował z kontynuacji terapii"
+    }
+  ],
+  "status.finished": [
+    {
+      "type": 0,
+      "value": "Terapia zakończona"
+    }
+  ],
+  "status.finished-description": [
+    {
+      "type": 0,
+      "value": "Pacjent zrezygnował z kontynuacji terapii po co najmniej pięciu rozmowach z terapeutą"
+    }
+  ],
+  "status.first-visit": [
+    {
+      "type": 0,
+      "value": "Pierwsze konsultacje"
+    }
+  ],
+  "status.first-visit-description": [
+    {
+      "type": 0,
+      "value": "Pacjent jest przed swoją pierwszą rozmową z terapeutą"
+    }
+  ],
+  "status.no-contact": [
+    {
+      "type": 0,
+      "value": "Brak kontaktu"
+    }
+  ],
+  "status.no-contact-description": [
+    {
+      "type": 0,
+      "value": "Brak kontaktu z pacjentem"
+    }
+  ],
+  "status.pending": [
+    {
+      "type": 0,
+      "value": "Nowy"
+    }
+  ],
+  "status.pending-description": [
+    {
+      "type": 0,
+      "value": "Pacjent oczekuje na rozmowę z Opiekunem terapii"
+    }
+  ],
+  "status.quick-churn": [
+    {
+      "type": 0,
+      "value": "Terapia przerwana"
+    }
+  ],
+  "status.quick-churn-description": [
+    {
+      "type": 0,
+      "value": "Pacjent zrezygnował z kontynuacji terapii po pierwszej rozmowie z terapeutą"
+    }
+  ],
+  "status.single-visit": [
+    {
+      "type": 0,
+      "value": "Jednorazowa konsultacja"
+    }
+  ],
+  "status.single-visit-description": [
+    {
+      "type": 0,
+      "value": "Jednorazowa konsultacja"
+    }
+  ],
+  "street address": [
+    {
+      "type": 0,
+      "value": "Street"
+    }
+  ],
+  "surname": [
+    {
+      "type": 0,
+      "value": "Surname"
+    }
+  ],
+  "system": [
+    {
+      "type": 0,
+      "value": "System"
+    }
+  ],
+  "system id": [
+    {
+      "type": 0,
+      "value": "ID systemowe"
+    }
+  ],
+  "telephone tips": [
+    {
+      "type": 0,
+      "value": "You can easily join Google Meet call on mobile phone if you are having issues with your computer (eg. broken camera). All you need to do is install "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Google Meet App from Apple App Store (iOS) or Google Play (Android)"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": ". Remember that holding your phone for an hour won’t be comfortable so try to find a way of setting it up in front of you :)"
+    }
+  ],
+  "terms conditions label": [
+    {
+      "type": 0,
+      "value": "I declare that I have read the "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "T&Cs"
+        }
+      ],
+      "type": 8,
+      "value": "a"
+    },
+    {
+      "type": 0,
+      "value": " and that I accept the Terms & Conditions"
+    }
+  ],
+  "test hidden": [
+    {
+      "type": 0,
+      "value": "Test/hidden"
+    }
+  ],
+  "therapist": [
+    {
+      "type": 0,
+      "value": "Terapeuta"
+    }
+  ],
+  "therapist choosing help question": [
+    {
+      "type": 0,
+      "value": "Need help with"
+    },
+    {
+      "children": [
+      ],
+      "type": 8,
+      "value": "br"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "choosing a therapist?"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    }
+  ],
+  "therapist doesnt get money for session": [
+    {
+      "type": 0,
+      "value": "Therapist won't get money for session"
+    }
+  ],
+  "therapist email": [
+    {
+      "type": 0,
+      "value": "Therapist (email)"
+    }
+  ],
+  "therapist find person": [
+    {
+      "type": 0,
+      "value": "Have a look below to find someone who will help you make the first step in improving the quality of your life"
+    }
+  ],
+  "therapist guide": [
+    {
+      "type": 0,
+      "value": "Get help in choosing the therapist that is right for you!"
+    }
+  ],
+  "therapist guide box lower text": [
+    {
+      "type": 0,
+      "value": "Talk to us to help us better understand your needs and choose the best therapy for you"
+    }
+  ],
+  "therapist list info 1": [
+    {
+      "type": 0,
+      "value": "I will listen carefully to you and help you to choose the best type of therapy"
+    }
+  ],
+  "therapist list info 2": [
+    {
+      "type": 0,
+      "value": "I will help you to find the best therapist tailored to your needs"
+    }
+  ],
+  "therapist list info 3": [
+    {
+      "type": 0,
+      "value": "I will explain exactly how to prepare for the first online session"
+    }
+  ],
+  "therapist list info 4": [
+    {
+      "type": 0,
+      "value": "I will answer all doubts and questions regarding psychotherapy"
+    }
+  ],
+  "therapist panel description": [
+    {
+      "type": 0,
+      "value": "Wellbee therapist panel"
+    }
+  ],
+  "therapist panel title": [
+    {
+      "type": 0,
+      "value": "Therapist panel - Wellbee"
+    }
+  ],
+  "therapist utilisation": [
+    {
+      "type": 0,
+      "value": "Therapist utilisation"
+    }
+  ],
+  "therapist-panel-sessions-move-to-next-week": [
+    {
+      "type": 0,
+      "value": "Move to the next week"
+    }
+  ],
+  "therapists": [
+    {
+      "type": 0,
+      "value": "Therapists"
+    }
+  ],
+  "therapy for you": [
+    {
+      "type": 0,
+      "value": "Psychotherapy tailor made for you"
+    }
+  ],
+  "therapy guide": [
+    {
+      "type": 0,
+      "value": "Therapy Guide"
+    }
+  ],
+  "therapy guide answer questions": [
+    {
+      "type": 0,
+      "value": "... and in addition we will answer to all Your questions related to the course of psychotherapy."
+    }
+  ],
+  "therapy guide description plural": [
+    {
+      "type": 0,
+      "value": "We are here to help You find psychotherapist tailored to difficulties reported by You. Check what we can do for You."
+    }
+  ],
+  "therapy guide first step": [
+    {
+      "type": 0,
+      "value": "First step"
+    }
+  ],
+  "therapy guide help": [
+    {
+      "type": 0,
+      "value": "In order to support you during this journey, "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " Wellbee introduced Therapy Guides- people who will be here for you every step of the way"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": ". They will help you find specialists with appropriate expertise suited for your needs. From doldrums or panic attacks, to self-development. Therapy Guide will address all of them- reason you contacted, time preferences and many other."
+    }
+  ],
+  "therapy guide how works": [
+    {
+      "type": 0,
+      "value": "Therapy Guide - how does it work?"
+    }
+  ],
+  "therapy guide how works answer": [
+    {
+      "type": 0,
+      "value": "Choice of the right mental health specialist is a big challenge. We are able to aid You in making the right choice, thanks to the thousands of conversations with those who seek help and the perfect knowledge about the work specifics of Wellbee specialists. We will assure the fitting specialist for Your needs respecting Your privacy. We will support You in the first step towards change:"
+    }
+  ],
+  "therapy guide in wellbee": [
+    {
+      "type": 0,
+      "value": "Therapy Guides at Wellbee - who are they and how can they help?"
+    }
+  ],
+  "therapy guide info section": [
+    {
+      "type": 0,
+      "value": "My name is "
+    },
+    {
+      "type": 1,
+      "value": "opiekunTerapiiLink"
+    },
+    {
+      "type": 0,
+      "value": " and I am a Therapy Guide at Wellbee. Find out how can I help:"
+    }
+  ],
+  "therapy guide info section tasks 1": [
+    {
+      "type": 0,
+      "value": "I will listen and help choosing the best type of therapy"
+    }
+  ],
+  "therapy guide info section tasks 2": [
+    {
+      "type": 0,
+      "value": "I will help you find the therapist that best suits your needs"
+    }
+  ],
+  "therapy guide info section tasks 3": [
+    {
+      "type": 0,
+      "value": "I will explain how to prepare to the first session"
+    }
+  ],
+  "therapy guide info section tasks 4": [
+    {
+      "type": 0,
+      "value": "I will address all of your doubts and questions about the therapy process"
+    }
+  ],
+  "therapy guide list - advice": [
+    {
+      "type": 0,
+      "value": "We will advise you on the most appropriate form of support and recommend specialists"
+    }
+  ],
+  "therapy guide list - checks": [
+    {
+      "type": 0,
+      "value": "We will check available time slots and allow You a quick start of the therapy"
+    }
+  ],
+  "therapy guide list - confidential": [
+    {
+      "type": 0,
+      "value": "We are bound by confidentiality and we will not cross your comfort barriers"
+    }
+  ],
+  "therapy guide our help": [
+    {
+      "type": 0,
+      "value": "Our support"
+    }
+  ],
+  "therapy guide plan": [
+    {
+      "type": 0,
+      "value": "Planning of therapy is the therapist's job, however "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "whether it is successful is dependent on both patient and the specialist"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": ". Therapy is a process during which you aim towards "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "achieving your personal goals and improving your wellbeing"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": ". To simply put it - you are the expert in the subject of your life - you know what are the problems that bother you and make your life more difficult than it needs to be. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Noticing your problems and allowing yourself to receive help is the first and a very important first step"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "therapy guide qualifications": [
+    {
+      "type": 0,
+      "value": "Therapy guide qualifications"
+    }
+  ],
+  "therapy guide qualifications answer": [
+    {
+      "type": 0,
+      "value": "Our guides had thousands of conversations with people seeking help with choosing the right therapy, specialist or psychoeducating. The guides know perfectly the work specifics of each of our therapists, by being with them in constant contact and use the tools helping with support of the patient. Our guides are absolvents and students of psychology working under the supervision of experienced therapists, constantly developing their competences and participating in dedicated supervisions organized by the Intra center."
+    }
+  ],
+  "therapy guide second lowercase": [
+    {
+      "type": 0,
+      "value": "Therapy guide"
+    }
+  ],
+  "therapy guide support box header": [
+    {
+      "type": 0,
+      "value": "If you need support or you have additional questions"
+    }
+  ],
+  "therapy guide tasks": [
+    {
+      "type": 0,
+      "value": "Therapy Guide Responsibilities"
+    }
+  ],
+  "therapy guide tasks 1": [
+    {
+      "type": 0,
+      "value": "You don't know what is happening, but you feel that something is off?"
+    }
+  ],
+  "therapy guide tasks 2 merged": [
+    {
+      "type": 0,
+      "value": "Sometimes it happens that we can't understand what is happening with us, but we still can feel our well-being worsen. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Therapy Guide will help You specify the area of difficulty, find the right specialist and help with preparations for the first visit"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": ". Don't worry, for us there is no stupid or wrong questions, just like there is no stupid or wrong answers - that's the reason for creating Therapy Guide."
+    }
+  ],
+  "therapy guide title": [
+    {
+      "type": 0,
+      "value": "Therapy Guide - aids your choice of the right therapist"
+    }
+  ],
+  "therapy guide title description": [
+    {
+      "type": 0,
+      "value": "Get help from Therapy Guide and find the therapist that is best suited for your needs."
+    }
+  ],
+  "therapy guide will answer": [
+    {
+      "type": 0,
+      "value": "Therapy Guide from our team will answer all of your questions and help you choose the best specialist for your needs."
+    }
+  ],
+  "therapy guides": [
+    {
+      "type": 0,
+      "value": "Therapy guides"
+    }
+  ],
+  "therapy no diff": [
+    {
+      "type": 0,
+      "value": "Research and meta-analyses indicate no difference in efficacy of online vs offline therapy"
+    }
+  ],
+  "therapy science": [
+    {
+      "type": 0,
+      "value": "There is plenty of scientific research confirming that "
+    }
+  ],
+  "therapy science link": [
+    {
+      "type": 0,
+      "value": "online therapy is at least as effective as the traditional one"
+    }
+  ],
+  "therapy science returns": [
+    {
+      "type": 0,
+      "value": "Research shows, that therapy online is effective for number of problems (eg. depression, fobias, OCD, PTSD)."
+    }
+  ],
+  "therapy session price": [
+    {
+      "children": [
+        {
+          "type": 1,
+          "value": "sessionPrice"
+        },
+        {
+          "type": 0,
+          "value": " PLN"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " /"
+    },
+    {
+      "type": 1,
+      "value": "sessionTime"
+    },
+    {
+      "type": 0,
+      "value": " minutes"
+    }
+  ],
+  "therapy succesfull": [
+    {
+      "type": 0,
+      "value": "How effective is online therapy?"
+    }
+  ],
+  "therapy type": [
+    {
+      "type": 0,
+      "value": "Modality"
+    }
+  ],
+  "therapy type en": [
+    {
+      "type": 0,
+      "value": "Therapy type (EN)"
+    }
+  ],
+  "therapy type pl": [
+    {
+      "type": 0,
+      "value": "Therapy type (PL)"
+    }
+  ],
+  "therapy type ru": [
+    {
+      "type": 0,
+      "value": "Therapy type (RU)"
+    }
+  ],
+  "therapy type search": [
+    {
+      "type": 0,
+      "value": "Therapy type"
+    }
+  ],
+  "therapy type ua": [
+    {
+      "type": 0,
+      "value": "Therapy type (UA)"
+    }
+  ],
+  "therpy guide list - explain": [
+    {
+      "type": 0,
+      "value": "We explain how to prepare for a visit"
+    }
+  ],
+  "this field is required": [
+    {
+      "type": 0,
+      "value": "This field is required"
+    }
+  ],
+  "time": [
+    {
+      "type": 0,
+      "value": "Time"
+    }
+  ],
+  "timerange overlap": [
+    {
+      "type": 0,
+      "value": "Work schedule shouldn’t overlap"
+    }
+  ],
+  "tips": [
+    {
+      "type": 0,
+      "value": "Tips"
+    }
+  ],
+  "tips intro": [
+    {
+      "type": 0,
+      "value": "At wellbee we know that the start of therapy might be a big and difficult step. In order to make it a bit easier for you we would like to offer you cou"
+    }
+  ],
+  "tips title": [
+    {
+      "type": 0,
+      "value": "Psychotherapy Online - Tips and Tricks"
+    }
+  ],
+  "tips title description": [
+    {
+      "type": 0,
+      "value": "Online therapy: how to use it? What are the differences between online sessions and traditional therapy?"
+    }
+  ],
+  "title": [
+    {
+      "type": 0,
+      "value": "Name"
+    }
+  ],
+  "to": [
+    {
+      "type": 0,
+      "value": "to"
+    }
+  ],
+  "to get more tips": [
+    {
+      "type": 0,
+      "value": "To get more tips"
+    }
+  ],
+  "total": [
+    {
+      "type": 0,
+      "value": "Total"
+    }
+  ],
+  "total hours": [
+    {
+      "type": 0,
+      "value": "Total hours"
+    }
+  ],
+  "transaction events list": [
+    {
+      "type": 0,
+      "value": "Events related to transaction"
+    }
+  ],
+  "turn off sounds": [
+    {
+      "type": 0,
+      "value": "Try to "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "eliminate the background noise"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " – turn off TV, radio, and close the window if that is possible. It is important that both you and the therapist feel comfortable in the setting."
+    }
+  ],
+  "ua-therapists-header": [
+    {
+      "type": 0,
+      "value": "#HelpUkraine"
+    }
+  ],
+  "ua-therapists-header-support": [
+    {
+      "type": 0,
+      "value": "Partner:"
+    }
+  ],
+  "ua-therapists-lead-download": [
+    {
+      "type": 0,
+      "value": "Inform others about the initiative - download the "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "color"
+        }
+      ],
+      "type": 8,
+      "value": "color"
+    },
+    {
+      "type": 0,
+      "value": " or the "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "black and white"
+        }
+      ],
+      "type": 8,
+      "value": "bw"
+    },
+    {
+      "type": 0,
+      "value": " poster for self-print"
+    }
+  ],
+  "ua-therapists-lead-hours": [
+    {
+      "type": 0,
+      "value": "Monday - Friday: 8:00 – 16:00"
+    },
+    {
+      "children": [
+      ],
+      "type": 8,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "Tuesday: od 11:30 – 16:00"
+    },
+    {
+      "children": [
+      ],
+      "type": 8,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "Weekend: 10:00 – 14:00"
+    }
+  ],
+  "ua-therapists-lead-hours-pl": [
+    {
+      "type": 0,
+      "value": "Monday - Friday: 8:30 – 20:30"
+    },
+    {
+      "children": [
+      ],
+      "type": 8,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "Weekend: 10:00 – 14:00"
+    }
+  ],
+  "ua-therapists-lead-larger-2": [
+    {
+      "type": 0,
+      "value": "Do you need psychological support?"
+    },
+    {
+      "children": [
+      ],
+      "type": 8,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "We've launched "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "affordable"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": " support for people impacted by the war in Ukraine. Our qualified specialists are there to support you."
+    }
+  ],
+  "ua-therapists-lead-smaller": [
+    {
+      "type": 0,
+      "value": "Book the visits with a selected specialist yourself or contact our therapy guide:"
+    }
+  ],
+  "understand your needs": [
+    {
+      "type": 0,
+      "value": "The goal of our meeting is to understand Your needs and to choose the best Therapist for You"
+    }
+  ],
+  "unknown error": [
+    {
+      "type": 0,
+      "value": "Unknown error"
+    }
+  ],
+  "unroll": [
+    {
+      "type": 0,
+      "value": "Show more"
+    }
+  ],
+  "upcoming": [
+    {
+      "type": 0,
+      "value": "Upcoming"
+    }
+  ],
+  "upcoming sessions tooltip": [
+    {
+      "type": 0,
+      "value": "Upcoming sessions, including sessions not paid for yet."
+    }
+  ],
+  "updated": [
+    {
+      "type": 0,
+      "value": "Updated"
+    }
+  ],
+  "updated at": [
+    {
+      "type": 0,
+      "value": "Updated at"
+    }
+  ],
+  "updated availability data": [
+    {
+      "type": 0,
+      "value": "Successfully updated work schedule"
+    }
+  ],
+  "updated data": [
+    {
+      "type": 0,
+      "value": "Successfully updated profile data"
+    }
+  ],
+  "use headphones": [
+    {
+      "type": 0,
+      "value": "Use headphones"
+    }
+  ],
+  "user delete are you sure": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to delete this user?"
+    }
+  ],
+  "user deleted": [
+    {
+      "type": 0,
+      "value": "User deleted"
+    }
+  ],
+  "user is not admin": [
+    {
+      "type": 0,
+      "value": "User is not admin"
+    }
+  ],
+  "user is not therapist": [
+    {
+      "type": 0,
+      "value": "User is not therapist"
+    }
+  ],
+  "user is not therapy guide": [
+    {
+      "type": 0,
+      "value": "User is not therapy guide"
+    }
+  ],
+  "user not found": [
+    {
+      "type": 0,
+      "value": "User not found"
+    }
+  ],
+  "users": [
+    {
+      "type": 0,
+      "value": "Admins"
+    }
+  ],
+  "verified specialist": [
+    {
+      "type": 0,
+      "value": "Verified specialists"
+    }
+  ],
+  "version female en": [
+    {
+      "type": 0,
+      "value": "Female version (EN)"
+    }
+  ],
+  "version female pl": [
+    {
+      "type": 0,
+      "value": "Female version (PL)"
+    }
+  ],
+  "version female ru": [
+    {
+      "type": 0,
+      "value": "Female version (RU)"
+    }
+  ],
+  "version female ua": [
+    {
+      "type": 0,
+      "value": "Female version (UA)"
+    }
+  ],
+  "version male en": [
+    {
+      "type": 0,
+      "value": "Male version (EN)"
+    }
+  ],
+  "version male pl": [
+    {
+      "type": 0,
+      "value": "Male version (PL)"
+    }
+  ],
+  "version male ru": [
+    {
+      "type": 0,
+      "value": "Male version (RU)"
+    }
+  ],
+  "version male ua": [
+    {
+      "type": 0,
+      "value": "Male version (UA)"
+    }
+  ],
+  "video call requirements": [
+    {
+      "type": 0,
+      "value": "For video-calls, you need relatively stable and fast internet connection. Good news is, that even 3G is enough."
+    }
+  ],
+  "view transaction": [
+    {
+      "type": 0,
+      "value": "View transaction"
+    }
+  ],
+  "visit count": [
+    {
+      "type": 0,
+      "value": "Visit count"
+    }
+  ],
+  "visit day": [
+    {
+      "type": 0,
+      "value": "Visit day"
+    }
+  ],
+  "visits": [
+    {
+      "type": 0,
+      "value": "Visits"
+    }
+  ],
+  "visits count": [
+    {
+      "type": 0,
+      "value": "Visits count"
+    }
+  ],
+  "warm welcome": [
+    {
+      "type": 0,
+      "value": "Warm welcome!"
+    }
+  ],
+  "week of first visit": [
+    {
+      "type": 0,
+      "value": "Week of first visit"
+    }
+  ],
+  "week of first visit score": [
+    {
+      "type": 0,
+      "value": "Week of first visit score"
+    }
+  ],
+  "week-ago-length-message": [
+    {
+      "type": 0,
+      "value": "week ago"
+    }
+  ],
+  "weeks-ago-length-message": [
+    {
+      "type": 0,
+      "value": "weeks ago"
+    }
+  ],
+  "when not": [
+    {
+      "type": 0,
+      "value": "When is online therapy not recommended?"
+    }
+  ],
+  "when not comparison": [
+    {
+      "type": 0,
+      "value": "Online therapy has a similar effectiveness to \"traditional\" therapy offline. It is proven to be effective in treating problems such as, fobias, mood disorders, interpersonal issues or for people looking for personal growth. There are however situations when online therapy"
+    }
+  ],
+  "when not list 1": [
+    {
+      "type": 0,
+      "value": "Repeating suicidal thoughts"
+    }
+  ],
+  "when not list 2": [
+    {
+      "type": 0,
+      "value": "Experiencing psychosis"
+    }
+  ],
+  "when not list 3": [
+    {
+      "type": 0,
+      "value": "Difficulty in controlling aggression, which could put people life or health at risk"
+    }
+  ],
+  "when not list 4": [
+    {
+      "type": 0,
+      "value": "Anorexia diagnosis and/or BMI (Body Mass Index) lower than 18"
+    }
+  ],
+  "when not list 5": [
+    {
+      "type": 0,
+      "value": "Psychotherapy of children under the age of 13"
+    }
+  ],
+  "when not unrolled": [
+    {
+      "type": 0,
+      "value": "is not recommended. It is advised that you learn about those cases and look for other forms of help such as psychiatric evaluation or therapy centre within the hospital:"
+    }
+  ],
+  "when to consider": [
+    {
+      "type": 0,
+      "value": "When it’s worth to consider psychotherapy online"
+    }
+  ],
+  "when to consider description": [
+    {
+      "type": 0,
+      "value": "When you need help in terms of mental health and traditional therapy is unavailable due to different reasons. Online therapy was practiced for years and is particularly effective in:"
+    }
+  ],
+  "woman": [
+    {
+      "type": 0,
+      "value": "Woman"
+    }
+  ],
+  "work email": [
+    {
+      "type": 0,
+      "value": "Email address"
+    }
+  ],
+  "worker help wherever": [
+    {
+      "type": 0,
+      "value": "Provide high quality wellbeing and mental health support to your employees - whenever they need it and wherever they are."
+    }
+  ],
+  "worker psychological help": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Take care"
+        }
+      ],
+      "type": 8,
+      "value": "span"
+    },
+    {
+      "type": 0,
+      "value": " of the mental health of your employees"
+    }
+  ],
+  "workshop": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Workshops and webinars"
+        }
+      ],
+      "type": 8,
+      "value": "h3"
+    },
+    {
+      "type": 0,
+      "value": " How to cope with the pandemic? How to rest effectively? How to build healthy relationships? We will tailor the topics specifically for the needs of your organisation."
+    }
+  ],
+  "write code": [
+    {
+      "type": 0,
+      "value": "Enter coupon"
+    }
+  ],
+  "write email": [
+    {
+      "type": 0,
+      "value": "Enter your email address"
+    }
+  ],
+  "write expected money": [
+    {
+      "type": 0,
+      "value": "Tutaj wpisz tłumaczenie"
+    }
+  ],
+  "write name and surname": [
+    {
+      "type": 0,
+      "value": "Enter your name and surname"
+    }
+  ],
+  "write password": [
+    {
+      "type": 0,
+      "value": "Enter your password"
+    }
+  ],
+  "year": [
+    {
+      "type": 0,
+      "value": "Year"
+    }
+  ],
+  "yes": [
+    {
+      "type": 0,
+      "value": "Yes"
+    }
+  ],
+  "yes, delete": [
+    {
+      "type": 0,
+      "value": "Yes, delete"
+    }
+  ],
+  "your nearest meeting": [
+    {
+      "type": 0,
+      "value": "Your next meeting"
+    }
+  ]
+}

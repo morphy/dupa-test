@@ -1,0 +1,2942 @@
+{
+  "#let's talk": {
+    "defaultMessage": "#давайтепоговоримо"
+  },
+  "1 session": {
+    "defaultMessage": "1 зустріч"
+  },
+  "1000 more": {
+    "defaultMessage": "1000 і більше"
+  },
+  "4 sessions": {
+    "defaultMessage": "4 зустрічі"
+  },
+  "8 sessions": {
+    "defaultMessage": "8 зустрічей"
+  },
+  "appointment.back-to-calendar": {
+    "defaultMessage": "повернутися до календаря"
+  },
+  "appointment.we-have-a-problem": {
+    "defaultMessage": "у нас проблема"
+  },
+  "about me": {
+    "defaultMessage": "Про мене"
+  },
+  "actions": {
+    "defaultMessage": "Дії"
+  },
+  "active filters": {
+    "defaultMessage": "Активні фільтри"
+  },
+  "add": {
+    "defaultMessage": "Додати"
+  },
+  "add certificate": {
+    "defaultMessage": "Додати сертифікат"
+  },
+  "add range": {
+    "defaultMessage": "Додати діапазон"
+  },
+  "add session": {
+    "defaultMessage": "Додати сеанси"
+  },
+  "additional sorting points": {
+    "defaultMessage": "Додаткові пункти сортування"
+  },
+  "adjusted to needs": {
+    "defaultMessage": "Пристосованя до ваших потреб"
+  },
+  "adjusted to needs info": {
+    "defaultMessage": "Співробітники часто кажуть, що надання послуг психічної підтримки було однією з найкращих ідей, реалізованих фірмою в якій вони працюють."
+  },
+  "Admin panel title": {
+    "defaultMessage": "Назва адміністративної панелі "
+  },
+  "admin panel welcome": {
+    "defaultMessage": "Ласкаво просимо до панелі адміністрування wellbee."
+  },
+  "Admins": {
+    "defaultMessage": "Адміністратори"
+  },
+  "aggree with therms": {
+    "defaultMessage": "Я погоджуюсь з правилами Wellbee.pl"
+  },
+  "aggrement to health data processing": {
+    "defaultMessage": "Я погоджуюсь на обробку конфіденційних даних (включаючи стан здоров’я) з метою покращення процесу безкоштовної консультації, вибору терапевта та виконання договору відповідно до <a>регламенту </a>."
+  },
+  "agreement to contact data processing 1": {
+    "defaultMessage": "Надсилаючи запит на контакт, я даю згоду Wellbee на обробку персональних даних відповідно до <a> регламенту</a>, щоб проаналізувати заявку та представити пропозицію Wellbee."
+  },
+  "All spots booked offline": {
+    "defaultMessage": "Усі дати заброньовані"
+  },
+  "All spots booked online": {
+    "defaultMessage": "Усі дати заброньовані"
+  },
+  "already paid for": {
+    "defaultMessage": "Оплачено"
+  },
+  "anonimity": {
+    "defaultMessage": "Безпечно та анонімово"
+  },
+  "anonimity info": {
+    "defaultMessage": "Ви надаєте своїм співробітникам простір, в якому вони отримають підтримку - безпечно і без відома роботодавця."
+  },
+  "any therapy guide": {
+    "defaultMessage": "Будь-який опікун"
+  },
+  "appointment title": {
+    "defaultMessage": "Сеанс психотерапії з (ім'я терапевта)"
+  },
+  "are you sure you want to delete?": {
+    "defaultMessage": "Ви впевнені, що хочете видалити цей файл?"
+  },
+  "arranging calls": {
+    "defaultMessage": "Організування бесіди з терапевтом"
+  },
+  "authorization state": {
+    "defaultMessage": "Стан авторизації"
+  },
+  "Available hours": {
+    "defaultMessage": "Доступі години"
+  },
+  "B2B all stats": {
+    "defaultMessage": " В2В Вся статистика"
+  },
+  "B2B balance stats": {
+    "defaultMessage": "B2B розрахунки"
+  },
+  "b2b care": {
+    "defaultMessage": "Піклуючись про своїх співробітників - ви піклуєтеся про фірму"
+  },
+  "b2b discount": {
+    "defaultMessage": "<h2> Знижка 10 злотих на наступну зустріч </h2> Якщо ви використаєте свої безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, для продовження психотерапії), Wellbee надасть вам знижку в розмірі 10 злотих на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають чинному прайс-листу на сайті wellbee.pl."
+  },
+  "b2b discount options -20": {
+    "defaultMessage": "<h2> Знижка 20 злотих на наступну зустріч </h2> Якщо ви використаєте безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, продовжити сеанси з вибраним спеціалістом), Wellbee надасть вам знижку 20 злотих на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають діючому прайс-листу на профілю даного спеціаліста."
+  },
+  "b2b discount options -30": {
+    "defaultMessage": "<h2> Знижка 30 злотих на наступну зустріч </h2> Якщо ви використаєте безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, продовжити сеанси з вибраним спеціалістом), Wellbee надасть вам знижку 30 злотих на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають діючому прайс-листу на профілю даного спеціаліста."
+  },
+  "b2b discount options 10%": {
+    "defaultMessage": "<h2>Знижка 10% на наступну зустріч</h2> Якщо Ви використаєте безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, продовжити сеанси з вибраним спеціалістом), Wellbee надасть вам знижку 10% на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають діючому прайс-листу на профілю даного спеціаліста."
+  },
+  "b2b discount options ailleron canon": {
+    "defaultMessage": "<h2>Знижка 10 злотих на наступну зустріч</h2> Якщо ви використаєте безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, продовжити сеанси з вибраним спеціалістом), Wellbee надасть вам знижку 10 злотих на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають діючому прайс-листу на профілю даного спеціаліста."
+  },
+  "b2b discount options jobimpulse": {
+    "defaultMessage": "<h2>Знижка 10 злотих на наступну зустріч</h2> Якщо ви використаєте безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, продовжити сеанси з вибраним спеціалістом), Wellbee надасть вам знижку 10 злотих на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають діючому прайс-листу на профілю даного спеціаліста."
+  },
+  "b2b discout divante": {
+    "defaultMessage": "<h2> Знижка 10 злотих на наступну зустріч </h2> Якщо ви використаєте безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, продовжити сеанси з вибраним спеціалістом), Wellbee надасть вам знижку 10 злотих на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають діючому прайс-листу на профілю даного спеціаліста."
+  },
+  "b2b first text": {
+    "defaultMessage": "У відповідь на поточну ситуацію та задовольнивши ваші потреби, у рамках програми співпраці wellbeing (добробуту) {company} разом із Wellbee підготували для вас рішення, яке підтримає вас у сфері психічного здоров’я, емоційного розвитку та побудови здорових стосунків з іншими людьми."
+  },
+  "b2b free visits": {
+    "defaultMessage": "<h2> 2 безкоштовні зустрічі на квартал </h2> У рамках онлайн-відеоконсультації Yieldbird ви можете мати 2 безкоштовні консультації/зустрічі на квартал, використовуючи код компанії. Якщо ви не використаєте сесії під час одного кварталу, їх можна використати в наступному кварталі, сумарно усі сеанси необхідно використати протягом 1 року."
+  },
+  "b2b free visits 100x": {
+    "defaultMessage": "<h2> 100 безкоштовні зустрічі на рік </h2> У рамках онлайн-консультації, яку надає Brenntag, Ви можете отримати 100 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+  },
+  "b2b free visits 10clouds": {
+    "defaultMessage": "<h2> 3 безкоштовні зустрічі на рік </h2> У рамках онлайн-консультації, яку надає 10cloud, Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+  },
+  "b2b free visits ailleron jobimpulse": {
+    "defaultMessage": "<h2> 3 безкоштовні зустрічі на рік </h2> У рамках онлайн-консультації, яку надає (компанія), Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+  },
+  "b2b free visits aludesign": {
+    "defaultMessage": "<h2> 3 безкоштовні зустрічі на рік </h2> У рамках онлайн-консультації, яку надає Aludesign, Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+  },
+  "b2b free visits axpo": {
+    "defaultMessage": "<h2> 5 безкоштовних зустрічей </h2> У рамках консультації, яку надає Axpo, Ви можете отримати 5 безкоштовних консультацій/зустрічей, використовуючи код компанії."
+  },
+  "b2b free visits barry": {
+    "defaultMessage": "<h2> 3 безкоштовні зустрічі на рік </h2> У рамках онлайн-консультації, яку надає Barry Callebaut, Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+  },
+  "b2b free visits canon": {
+    "defaultMessage": "<h2> 3 безкоштовні зустрічі на рік </h2> У рамках онлайн-консультації, яку надає Canon, Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+  },
+  "b2b free visits caps": {
+    "defaultMessage": "<h2> 2 безкоштовні зустрічі на рік </h2> У рамках онлайн-консультації, яку надає CAPS, Ви можете отримати 2 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+  },
+  "b2b free visits currenda": {
+    "defaultMessage": "<h2> 3 безкоштовні зустрічі на рік </h2> У рамках онлайн-консультації, яку надає Currenda, Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+  },
+  "b2b free visits divante": {
+    "defaultMessage": "<h2> 3 безкоштовні зустрічі на рік </h2> У рамках онлайн-консультації, яку надає Divante, Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+  },
+  "b2b free visits grape up": {
+    "defaultMessage": "<h2> 5 безкоштовних зустрічей на рік </h2> У рамках онлайн-консультації, яку надає Grape Up, Ви можете отримати 5 безкоштовних консультацій/зустрічей на рік, використовуючи код компанії."
+  },
+  "b2b free visits ing": {
+    "defaultMessage": "<h2> 6 безкоштовних зустрічей</h2> У рамках онлайн-консультації, яку надає ING, Ви можете отримати 6 безкоштовних консультацій/зустрічей, використовуючи код компанії."
+  },
+  "b2b free visits kerris": {
+    "defaultMessage": "<h2> 6 безкоштовних зустрічей на рік </h2> У рамках онлайн-консультації, яку надає Kerris Group, Ви можете отримати 6 безкоштовних консультацій/зустрічей на рік, використовуючи код компанії."
+  },
+  "b2b free visits KWS": {
+    "defaultMessage": "<h2> Необмежена кількість безкоштовних сеансів </h2> У рамках онлайн-консультації, наданої Keywords Studios, Ви можете здійснити будь-яку кількість безкоштовних відвідувань, використовуючи код компанії"
+  },
+  "b2b free visits maxima": {
+    "defaultMessage": "<h2> 3 безкоштовні зустрічі на рік </h2> У рамках онлайн-консультації, яку надає Maxima Europe, Ви можете отримати 3 безкоштовні консультації/зустрічі на рік, використовуючи код компанії."
+  },
+  "b2b free visits orsted": {
+    "defaultMessage": "<h2> 15 безкоштовних зустрічей</h2> У рамках онлайн-консультації, яку надає Ørsted Polska, Ви можете отримати 15 безкоштовних консультацій/зустрічей, використовуючи код компанії."
+  },
+  "b2b free visits techland": {
+    "defaultMessage": "<h2> 4 безкоштовні зустрічі</h2> У рамках онлайн-консультації, яку надає Techland, Ви можете отримати 4 безкоштовні консультації/зустрічі, використовуючи код компанії."
+  },
+  "b2b free visits urw": {
+    "defaultMessage": "<h2> 6 безкоштовних зустрічей</h2> У рамках онлайн-консультації, яку надає Unibail‑Rodamco‑Westfield, Ви можете отримати 6 безкоштовних консультацій/зустрічей, використовуючи код компанії."
+  },
+  "b2b how it works 1 aviva": {
+    "defaultMessage": "<h3> Анонімно та безпечно </h3> процес призначення відбувається через платформу Wellbee, і відвідування є повністю анонімними. Усі ваші консультації з фахівцем повністю конфіденційні."
+  },
+  "b2b mirumee": {
+    "defaultMessage": "<h2>4 безкоштовні зустрічі на місяць</h2>У рамах онлайн-консультацій, які надає Mirumee, ви можете брати участь у безкоштовних сесіях чотири рази на місяць, використовуючи код компанії."
+  },
+  "b2b options customfirsttext solwit": {
+    "defaultMessage": "<h2>3 free visits per year</h2>Your employer has a pool of free consultations (offline / online) provided by the code: @SOLWIT1!. Each employee can receive up to 3 free visits per year."
+  },
+  "b2b options customsecondtext solwit": {
+    "defaultMessage": "<h2>Afterwards 40 PLN discount on every session</h2>When you run out of free visits, you will receive -40 PLN discount for next meetings. The use is anonymous."
+  },
+  "b2b saleor": {
+    "defaultMessage": "<h2>4 безкоштовні зустрічі на місяць</h2>У рамах онлайн-консультацій, які надає Saleor, ви можете брати участь у безкоштовних сесіях чотири рази на місяць, використовуючи код компанії."
+  },
+  "b2b why invest": {
+    "defaultMessage": "Навіщо інвестувати в психічне здоров’я співробітників"
+  },
+  "b2b why invest source": {
+    "defaultMessage": "Джерела: Oracle Mental Health Report; Absencja chorobowa w 2018 roku, ZUS, 2019;"
+  },
+  "b2b why invest stats 1": {
+    "defaultMessage": "працівників кажуть, що пандемія негативно впливає на їхнє психічне здоров’я"
+  },
+  "b2b why invest stats 1.5": {
+    "defaultMessage": "працівників заявляють про погіршення якості життя"
+  },
+  "b2b why invest stats 2": {
+    "defaultMessage": "співробітники очікують підтримки у сфері психічного здоров’я від своєї компанії"
+  },
+  "b2b why invest stats 3": {
+    "defaultMessage": "щороку польські компанії могли б заощадити, якби надавали психологічну підтримку своїм працівникам"
+  },
+  "b2b why invest stats 3 title": {
+    "defaultMessage": "6 млрд злотих"
+  },
+  "Back": {
+    "defaultMessage": "Назад"
+  },
+  "back to settings": {
+    "defaultMessage": "Поверніться до налаштувань"
+  },
+  "Back to therapist list": {
+    "defaultMessage": "Повернутися до списку терапевтів"
+  },
+  "back to wellbee": {
+    "defaultMessage": "Повернутись на wellbee.pl"
+  },
+  "bank account number": {
+    "defaultMessage": "номер банківського рахунку"
+  },
+  "benefits": {
+    "defaultMessage": "Бажана вигода"
+  },
+  "benefits info": {
+    "defaultMessage": "Розширте свою програму благополуччя та запропонуйте одну з найбажаніших вигід сьогодні"
+  },
+  "bio en": {
+    "defaultMessage": "Опис англійською (EN)"
+  },
+  "bio pl": {
+    "defaultMessage": "Опис польською (PL)"
+  },
+  "bio ru": {
+    "defaultMessage": "Опис російською (RU)"
+  },
+  "book a visit": {
+    "defaultMessage": "Призначати зустріч"
+  },
+  "book left side text": {
+    "defaultMessage": "<span> Запишіться </span> на 50-хвилинний сеанс психотерапії"
+  },
+  "book session with therapy guide (no break)": {
+    "defaultMessage": "Запишіться на прийом до Опікуна Терапевта"
+  },
+  "book therapist guide": {
+    "defaultMessage": "Записатись на консультацію "
+  },
+  "book therapy guide": {
+    "defaultMessage": "<span> Запишіться</span> на безкоштовну співбесіду з Опікуном Терапії"
+  },
+  "book video call": {
+    "defaultMessage": "Призначити відеорозмову"
+  },
+  "book video call to choose therapist": {
+    "defaultMessage": "<span> Запишіться </span>  на <strong>безкоштовний </strong> відеодзвінок, щоб <strong> підібрати терапевта </strong>"
+  },
+  "book video call with therapy guide": {
+    "defaultMessage": "запланувати відеодзвінок зі своїм опікуном"
+  },
+  "Book visit": {
+    "defaultMessage": "Далі"
+  },
+  "book visit step 3 (no count)": {
+    "defaultMessage": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. "
+  },
+  "book visit step 3 (version with 100)": {
+    "defaultMessage": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. Перші 100 сеансів оплачує {company}."
+  },
+  "book visit step 3 (version with 15)": {
+    "defaultMessage": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. Перші 15 сеансів оплачує {company}."
+  },
+  "book visit step 3 (version with 2)": {
+    "defaultMessage": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. Перші 2 сеанси оплачує {company}."
+  },
+  "book visit step 3 (version with 4)": {
+    "defaultMessage": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. Перші 4 сеанси оплачує {company}."
+  },
+  "book visit step 3 (version with 5)": {
+    "defaultMessage": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. Перші 5 сеанси оплачує {company}."
+  },
+  "book visit step 3 (version with 6)": {
+    "defaultMessage": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. Перші 6 сеанси оплачує {company}."
+  },
+  "book visit step 3 ailleron": {
+    "defaultMessage": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою. Перші 3 сеанси оплачує Ailleron."
+  },
+  "book visit step 3 yieldbird": {
+    "defaultMessage": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам відділом кадрів. Перші 2 відвідування будуть оплачені через компанію Yieldbird."
+  },
+  "book visit steps 3 jobimpulse": {
+    "defaultMessage": "Коли ми просимо Вас зробити оплату, використовуйте код компанії, наданий Вам фірмою. Перші 3 відвідування будуть оплачені через Job Impulse."
+  },
+  "book visit wherever": {
+    "defaultMessage": "Заплануйте відеоконсультацію з фахівцями Wellbee, коли Вам це потрібно і де б Ви не були – безпечно та зручно."
+  },
+  "bookedAt": {
+    "defaultMessage": "Створено"
+  },
+  "booking complete info": {
+    "defaultMessage": "Ви щойно заплатили за прийом до терапевта. Усі деталі зустрічі Ви знайдете на електронній пошті"
+  },
+  "browser recommendation": {
+    "defaultMessage": "Ми рекомендуємо використовувати <b> Chrome. Firefox і Safari </b> і <b> Microsof Edge теж є </b> хорошим браузером."
+  },
+  "by availability (sort)": {
+    "defaultMessage": "Найближча дата"
+  },
+  "calendar authorization": {
+    "defaultMessage": "Авторизація з календарем"
+  },
+  "calendar connection active": {
+    "defaultMessage": "Авторизація з календарем активована"
+  },
+  "calendar connection not active": {
+    "defaultMessage": "Не пов'язано з календарем."
+  },
+  "call now": {
+    "defaultMessage": "Подзвонити зараз"
+  },
+  "call to action know more": {
+    "defaultMessage": "Дізнайтеся більше про онлайн-психотерапію"
+  },
+  "call with therapy guide": {
+    "defaultMessage": "Відеорозмова з Опікуном Терапії"
+  },
+  "call with therapy guide (with name)": {
+    "defaultMessage": "Відеорозмова з: {userName}"
+  },
+  "calls are accepted": {
+    "defaultMessage": "Дзвінки приймаються в такі години:"
+  },
+  "can i resign": {
+    "defaultMessage": "Чи можу я припинити терапію в будь-який час?"
+  },
+  "can't restore": {
+    "defaultMessage": "Ви не відновите цю дію"
+  },
+  "cancel event are you sure": {
+    "defaultMessage": "Ви впевнені, що хочете скасувати сеанс?"
+  },
+  "cancel session": {
+    "defaultMessage": "Анулювати зустріч"
+  },
+  "Certificates": {
+    "defaultMessage": "Сертифікати"
+  },
+  "certificates i want to show": {
+    "defaultMessage": "Сертифікати, які Ви хочете показати"
+  },
+  "change events to online if no address": {
+    "defaultMessage": "Змініть стаціонарні зустрічі на онлайн, якщо не вистачає адреса"
+  },
+  "check choosen specialist": {
+    "defaultMessage": "Перевірте обраного для Вас спеціаліста."
+  },
+  "check therapists": {
+    "defaultMessage": "Без проблем! Перевірте всіх наших спеціалістів та забронюйте дату сеансу."
+  },
+  "Choose another day": {
+    "defaultMessage": "Виберіть інший день"
+  },
+  "choose best date": {
+    "defaultMessage": "Виберіть зручну дату і зарезервуйте близько 20 хвилин для бесіди з Опікуном Терапії, який поставить Вам кілька запитань, щоб допомогти Вам підібрати терапевта для Ваших труднощів."
+  },
+  "choose best date but with Agnieszka": {
+    "defaultMessage": "Опікун Терапії з нашої команди відповість на всі Ваші запитання і допоможе підібрати найкращого спеціаліста для Ваших потреб."
+  },
+  "choose therapist by yourself": {
+    "defaultMessage": "Хочеш самостійно вибрати терапевта?"
+  },
+  "choose video call": {
+    "defaultMessage": "Вибери місто для відеодзвінка"
+  },
+  "city": {
+    "defaultMessage": "Місто"
+  },
+  "clear": {
+    "defaultMessage": "Видалити"
+  },
+  "clear all": {
+    "defaultMessage": "Видалити все"
+  },
+  "click this link": {
+    "defaultMessage": "Натисни посилання"
+  },
+  "closest date": {
+    "defaultMessage": "Найближча дата"
+  },
+  "closest date:": {
+    "defaultMessage": "Найближча дата"
+  },
+  "code": {
+    "defaultMessage": "Код"
+  },
+  "Come back": {
+    "defaultMessage": "Повернутися"
+  },
+  "companies section header": {
+    "defaultMessage": "Нам довіряють, зокрема"
+  },
+  "company name": {
+    "defaultMessage": "Назва твоєї компанії"
+  },
+  "completed sessions": {
+    "defaultMessage": "Пройдено"
+  },
+  "completed sessions tooltip": {
+    "defaultMessage": "Прийоми, які відбулися за планом. За них отримуєш оплату."
+  },
+  "complex support": {
+    "defaultMessage": "Комплексна підтримка"
+  },
+  "complex support info": {
+    "defaultMessage": "Ми підтримуємо вас на кожному кроці – у виборі послуг, у їх реалізації, у спілкуванні – ми стаємо вашим надійним партнером."
+  },
+  "configured calendar": {
+    "defaultMessage": "Календар налаштовано"
+  },
+  "confirm payment": {
+    "defaultMessage": "Я підтверджую, що ця сума відповідає моїм розрахункам"
+  },
+  "confirm step info": {
+    "defaultMessage": "Під час співбесіди {methodText} ми обговоримо твої потреби та підберемо найкращого терапевта для тебе. Підтвердження зустрічі та додаткову інформацію отримаєш на електронну адресу {emailText}."
+  },
+  "congratulation!": {
+    "defaultMessage": "Вітаємо!"
+  },
+  "Connect with calendar": {
+    "defaultMessage": "Зв'язати з календарем"
+  },
+  "Connected with calendar": {
+    "defaultMessage": "Зв'язано з календарем"
+  },
+  "consider list 1": {
+    "defaultMessage": "необхідність дотримання санітарного режиму в умовах епідемії COVID-19 (карантин, люди з груп підвищеного ризику, які проживають у червоній зоні)"
+  },
+  "consider list 2": {
+    "defaultMessage": "місце проживання, що унеможливлює використання терапії в офісі (наприклад, невеликі міста, де немає доступу до психотерапевтичної допомоги)"
+  },
+  "consider list 3": {
+    "defaultMessage": "ситуація еміграції та відсутність доступу до психотерапії рідною мовою"
+  },
+  "consider list 4": {
+    "defaultMessage": "інвалідність, що перешкоджає застосуванню стаціонарної терапії"
+  },
+  "consider list 5": {
+    "defaultMessage": "зміна місця проживання з одночасним бажанням продовжити терапію у поточного терапевта"
+  },
+  "Consultation": {
+    "defaultMessage": "Психотерапевтичний сеанс з (ім'я терапевта)"
+  },
+  "contact marketing email agreement": {
+    "defaultMessage": "Я погоджуюсь отримувати комерційну та маркетингову інформацію щодо послуг і продуктів, які пропонує Wellbee, на адресу електронної пошти, зазначену у заявці, включаючи повідомлення, надіслані системою автоматично."
+  },
+  "contact us": {
+    "defaultMessage": "Зв'яжись з нами"
+  },
+  "contact us info": {
+    "defaultMessage": "Заповни та надішли заявку, і ми зв’яжемося з вами найближчим часом"
+  },
+  "contract type": {
+    "defaultMessage": "Тип договору"
+  },
+  "copy link": {
+    "defaultMessage": "Копіювати посилання"
+  },
+  "copy to clipboard": {
+    "defaultMessage": "Копіювати до буфера"
+  },
+  "country": {
+    "defaultMessage": "Країна"
+  },
+  "create new account": {
+    "defaultMessage": "Створюю новий обліковий запис"
+  },
+  "created at": {
+    "defaultMessage": "Створено"
+  },
+  "Dashboard": {
+    "defaultMessage": "Панель приладів (дешборд)"
+  },
+  "date filter": {
+    "defaultMessage": "Бажаний час прийому"
+  },
+  "delete": {
+    "defaultMessage": "Видалити"
+  },
+  "delete account info": {
+    "defaultMessage": "Щоб видалити обліковий запис, зверніться до Служби веб-сайту, надіславши повідомлення на таку адресу:"
+  },
+  "delete link with google calendar": {
+    "defaultMessage": "Видалити посилання на календар"
+  },
+  "delete?": {
+    "defaultMessage": "Видалити запис?"
+  },
+  "did not take place because of patient": {
+    "defaultMessage": "Зустріч не відбулась з вини пацієнта (терапевт отримує гроші)"
+  },
+  "discard changes": {
+    "defaultMessage": "Відхилити зміни"
+  },
+  "discount": {
+    "defaultMessage": "Знижка"
+  },
+  "do you have account": {
+    "defaultMessage": "Вже маєш свій обліковий запис?"
+  },
+  "do you want to choose therapist": {
+    "defaultMessage": "Хочеш самостійно вибрати терапевта?"
+  },
+  "don't know wo to choose?": {
+    "defaultMessage": "Не знаєш кого вибрати? Зателефонуй"
+  },
+  "edit admin": {
+    "defaultMessage": "Редагування Адміністратора"
+  },
+  "edit therapist": {
+    "defaultMessage": "Редагування Терапевта"
+  },
+  "edit therapy guide": {
+    "defaultMessage": "Редагування Опікуна"
+  },
+  "email change info": {
+    "defaultMessage": "Щоб змінити адресу електронної пошти, зверніться до Служби веб-сайту, надіславши повідомлення на таку адресу:"
+  },
+  "email placeholder": {
+    "defaultMessage": "наприклад@email.com"
+  },
+  "employees": {
+    "defaultMessage": "Кількість співробітників у твоїй компанії"
+  },
+  "end": {
+    "defaultMessage": "Кінець"
+  },
+  "end before begining": {
+    "defaultMessage": "Кінець епізоду перед початком епізоду"
+  },
+  "error adding session": {
+    "defaultMessage": "Помилка при додаванні зустрічі"
+  },
+  "error after deadline": {
+    "defaultMessage": "Спроба несвоєчасного платежу. Зв’яжись з {therapyGuideEmail}"
+  },
+  "error already paid": {
+    "defaultMessage": "Зустріч вже оплачена"
+  },
+  "error already used code": {
+    "defaultMessage": "Код вже використано, будь ласка, зв’яжись з {therapyGuideEmail}"
+  },
+  "error.calendar-limit": {
+    "defaultMessage": "Твої 3 безкоштовні прийоми вичерпано"
+  },
+  "error.date-not-available": {
+    "defaultMessage": "Sorry, the selected date was just taken. Please select another date or find different specialist."
+  },
+  "error.server-error-appointment": {
+    "defaultMessage": "A server error has occurred. Please try again, and in case of further errors please contact us at opiekun@wellbee.pl"
+  },
+  "error.unknown-error-appointment": {
+    "defaultMessage": "An unknown error has occurred. Please try again, and in case of further errors please contact us at opiekun@wellbee.pl"
+  },
+  "error calendar limit pwc": {
+    "defaultMessage": "Твої 3 безкоштовні прийоми вичерпано"
+  },
+  "error date not available": {
+    "defaultMessage": "Дата вже заброньована"
+  },
+  "error invalid code": {
+    "defaultMessage": "На жаль, код неправильний, виправ його або зв’яжись з {therapyGuideEmail}"
+  },
+  "error submit error": {
+    "defaultMessage": "Щось пішло не так. Повернись до електронного повідомлення та знову перейди до оплати."
+  },
+  "event information": {
+    "defaultMessage": "Інформація про зустріч"
+  },
+  "event price": {
+    "defaultMessage": "Ціна зустрічі"
+  },
+  "event status canceled": {
+    "defaultMessage": "Скасоване"
+  },
+  "event status finished": {
+    "defaultMessage": "Завершене"
+  },
+  "event status payment failed": {
+    "defaultMessage": "Неоплачене"
+  },
+  "event status pending": {
+    "defaultMessage": "Майбутні зустрічі"
+  },
+  "Events": {
+    "defaultMessage": "Зустрічі"
+  },
+  "every": {
+    "defaultMessage": "Що"
+  },
+  "example-therapist-1-title": {
+    "defaultMessage": "Екзистенційно-гуманістична психотерапевтка"
+  },
+  "example-therapist-2-title": {
+    "defaultMessage": "Психоаналітичний психотерапевт"
+  },
+  "executed": {
+    "defaultMessage": "Виконано"
+  },
+  "feature list 1": {
+    "defaultMessage": "Подбай про формальності, пов’язані з курсом психотерапії, не виходячи з дому – тобі потрібен лише доступ до нашої платформи."
+  },
+  "feature list 2": {
+    "defaultMessage": "Допоможе вибрати фахівця і розвіє будь-які сумніви щодо твоєї терапії. Подбає про те, щоб тобі було добре з нами :)"
+  },
+  "feature list 3": {
+    "defaultMessage": "Ми співпрацюємо з шанованими професіоналами, які мають підтверджений досвід терапевтичної роботи."
+  },
+  "feature list label 1": {
+    "defaultMessage": "Комплексна онлайн-психотерапія"
+  },
+  "feature list label 2": {
+    "defaultMessage": "У вашому розпорядженні Опікун Терапії"
+  },
+  "feature list label 3": {
+    "defaultMessage": "Тільки кваліфіковані та перевірені психотерапевти"
+  },
+  "feel danger": {
+    "defaultMessage": "Якщо ти відчуваєш, що твоє життя чи здоров’я загрожує тобі чи твоїм близьким, скористайся безкоштовною цілодобовою довідковою лінією: +48 815 346 060"
+  },
+  "few questions": {
+    "defaultMessage": "Декілька запитань"
+  },
+  "fill email": {
+    "defaultMessage": "Заповни поле своєю електронною адресою"
+  },
+  "fill name": {
+    "defaultMessage": "Заповни поле своїм іменем або псевдонімом"
+  },
+  "fill phone": {
+    "defaultMessage": "Заповни поле своїм номером телефону"
+  },
+  "filter": {
+    "defaultMessage": "Фільтрувати"
+  },
+  "find help": {
+    "defaultMessage": "Отримати допомогу"
+  },
+  "first session": {
+    "defaultMessage": "Перша сесія"
+  },
+  "first session info": {
+    "defaultMessage": "Вартість сеансу від 159 злотих / 50 хвилин. {br} Наш Опікун Терапії розповість тобі, як підготуватися до цього. Опікун весь час слідкує, щоб тобі було комфортно!"
+  },
+  "first step completed": {
+    "defaultMessage": "Перший важливий крок у роботі над собою зроблено :)"
+  },
+  "first step to better life": {
+    "defaultMessage": "Це перший крок до хорошого життя, вітаємо! Якщо тобі потрібна допомога, Опікун Терапії завжди у твоєму розпорядженні. Тримаємо за тебе кулачки!"
+  },
+  "first text (common bold)": {
+    "defaultMessage": "​<strong>​У відповідь на поточну ситуацію для заспокоєння ваших потреб, ваша організація вирішила співпрацювати з Wellbee​</strong>​ - онлайн-платформа, що пропонує доступ до кваліфікованих спеціалістів. Коли варто скористатися їхніми порадами? Коли ви хочете подбати про своє самопочуття, ви шукаєте психологічну підтримку чи психотерапевта, ви хочете краще зрозуміти себе та подбати про задовільні стосунки з іншими."
+  },
+  "first text ailleron": {
+    "defaultMessage": "У відповідь на поточну ситуацію та задовольняючи ваші потреби, в рамках #WELLBEING CHALLENGE, ваша організація вирішила співпрацювати з Wellbee, платформою, яка пропонує вам доступ до фахівців, які вам доступні, якщо ви хочете подбати про своє здоров’я, стан, якщо ви шукаєте психологічну підтримку, психотерапевта або просто хочете подбати про свій емоційний розвиток чи побудувати здорові стосунки з іншими людьми."
+  },
+  "first text aviva": {
+    "defaultMessage": "Як частина MojaAviva, ми надаємо тобі доступ до Wellbee, платформи, яка пропонує доступ до кваліфікованих спеціалістів, які допоможуть тобі подбати про твоє самопочуття та психічний стан. Запишись на прийом, якщо шукаєш психологічну підтримку, психотерапевта, психодієтолога або просто хочеш подбати про свій емоційний розвиток чи побудувати здорові стосунки з іншими людьми."
+  },
+  "for companies": {
+    "defaultMessage": "Для компаній"
+  },
+  "for them": {
+    "defaultMessage": "Для них"
+  },
+  "for you": {
+    "defaultMessage": "Для тебе"
+  },
+  "form send": {
+    "defaultMessage": "Заявку надіслано!"
+  },
+  "free guide call": {
+    "defaultMessage": "<strong>​Безкоштовна відеорозмова ​</strong>​ {guideSessionTime} хв"
+  },
+  "Friday": {
+    "defaultMessage": "П'ятниця"
+  },
+  "Fridays": {
+    "defaultMessage": "П'ятниці"
+  },
+  "from": {
+    "defaultMessage": "від"
+  },
+  "generate link": {
+    "defaultMessage": "Створи посилання"
+  },
+  "generate payment link question": {
+    "defaultMessage": "Створити платіжне посилання?"
+  },
+  "generated link": {
+    "defaultMessage": "Створене посилання"
+  },
+  "give neccesary information": {
+    "defaultMessage": "Залиш мені кілька ​<strong>​необхідних інформацій​</strong>​щоб зв'язатися з тобою"
+  },
+  "google calendar login success": {
+    "defaultMessage": "Вхід в Календар Google відбувся успішно"
+  },
+  "google meet info": {
+    "defaultMessage": "Платформа wellbee використовує технології ​<b>​Google Meet​</b>​який працює на комп’ютері у веб-браузері без необхідності нічого встановлювати. Все, що тобі потрібно зробити, це прийняти запит браузера на доступ до мікрофона та камери, якщо ти вперше використовуєш Google Meet у цьому веб-переглядачі. "
+  },
+  "have licence": {
+    "defaultMessage": "Чи терапевти Wellbee мають ліцензію?"
+  },
+  "help that works": {
+    "defaultMessage": "Підтримка, котра дає ефекти"
+  },
+  "help that works info": {
+    "defaultMessage": "Ряд компаній заявляють, що впроваджені рішення у сфері покращення психічного здоров'я дають вимірні результати."
+  },
+  "help to help": {
+    "defaultMessage": "Допоможи мені краще допомогти собі і дай відповідь "
+  },
+  "helpline": {
+    "defaultMessage": "​<h3>​Гаряча лінія​</h3> Ми знаємо, що бувають ситуації, коли твої співробітники очікують негайної підтримки і хотіли б швидко отримати допомогу. Саме для таких ситуацій ми створили Гарячу лінію."
+  },
+  "Hi!": {
+    "defaultMessage": "Привіт!"
+  },
+  "hide": {
+    "defaultMessage": "Згорнути"
+  },
+  "home - call to action know more": {
+    "defaultMessage": "Дізнайтеся більше"
+  },
+  "home - therapy for you": {
+    "defaultMessage": "Психотерапія<br></br> саме для <span>тебе</span>"
+  },
+  "home - therapy guide will answer": {
+    "defaultMessage": "Опікун Терапії з нашої команди відповість на всі твої запитання та дозволить вибрати найкращого спеціаліста для твоїх потреб."
+  },
+  "how to call you": {
+    "defaultMessage": "Як я можу до тебе звертатися?"
+  },
+  "how to prepare": {
+    "defaultMessage": "Як підготуватися до зустрічі?"
+  },
+  "how to start": {
+    "defaultMessage": "Як почати онлайн-психотерапію в Wellbee?"
+  },
+  "how we can help": {
+    "defaultMessage": "Як ми можемо допомогти тобі?"
+  },
+  "I'm": {
+    "defaultMessage": "Я "
+  },
+  "i'm therapist": {
+    "defaultMessage": "Я психотерапевт."
+  },
+  "id": {
+    "defaultMessage": "ID"
+  },
+  "interventions": {
+    "defaultMessage": "​<h3>​Кризова допомога​</h3> Швидка підтримка спеціалістів у кризових ситуаціях у компанії (наприклад, аварії, випадкові події тощо)"
+  },
+  "invalid event date": {
+    "defaultMessage": "Неправильна дата зустрічі"
+  },
+  "invalid google password": {
+    "defaultMessage": "Пароль недійсний або користувач не має пароля."
+  },
+  "invalid password": {
+    "defaultMessage": "Неправильний пароль"
+  },
+  "jestem_terapeuta brand - bullet community": {
+    "defaultMessage": "ніяких табу – ми соціально заангажовані люди і не боїмося складних тем. Багато з нас давно працюють у сфері психоосвіти, і, головне, ми не уявляємо свого життя без цього."
+  },
+  "jestem_terapeuta brand - bullet helpful": {
+    "defaultMessage": "ми не відводимо погляду - ми говоримо, коли люди, які страждають на психічні розлади, потребують нашої підтримки"
+  },
+  "jestem_terapeuta brand - bullet new things": {
+    "defaultMessage": "стежимо за тим, що відбувається у світі психічного здоров’я. Жодна наукова чи технологічна новинка не омине нашої уваги!"
+  },
+  "jestem_terapeuta brand - we live and know": {
+    "defaultMessage": "Ми живемо тим, що робимо. Ми знаємо, що означає стати жертвою упереджень щодо проблем із психічним здоров’ям. Ми знаємо частинку реальності, де слабкість і вразливість не вітаються – і не миримося з цим."
+  },
+  "jestem_terapeuta brand - we want to": {
+    "defaultMessage": "Ми хочемо вплинути на імідж польської психотерапії, психоосвітити та протидіяти всім проявам стигматизації. Наша мета – донести до наших жінок та чоловіків, що варто дбати про своє психічне здоров’я. І що відчуття дуже класні."
+  },
+  "jestem_terapeuta bullet beehive": {
+    "defaultMessage": "У нас шумно, як у вулику"
+  },
+  "jestem_terapeuta bullet brand": {
+    "defaultMessage": "Бренд, який (справді) піклується"
+  },
+  "jestem_terapeuta bullet community - content": {
+    "defaultMessage": "кваліфіковані спеціалісти, які вірять у сучасні рішення та високу якість обслуговування пацієнтів онлайн"
+  },
+  "jestem_terapeuta bullet community - header": {
+    "defaultMessage": "спільнота"
+  },
+  "jestem_terapeuta bullet mission - content": {
+    "defaultMessage": "популяризація догляду за психічним здоров’ям та використання технологій для підвищення доступності професійної психотерапевтичної допомоги"
+  },
+  "jestem_terapeuta bullet mission - header": {
+    "defaultMessage": "місія"
+  },
+  "jestem_terapeuta bullet partnership": {
+    "defaultMessage": "Партнерство та прозорість"
+  },
+  "jestem_terapeuta bullet system - content": {
+    "defaultMessage": "сприяння онлайн-психотерапії та управління віртуальним офісом"
+  },
+  "jestem_terapeuta bullet system - header": {
+    "defaultMessage": "система"
+  },
+  "jestem_terapeuta bullet therapy guide for patients": {
+    "defaultMessage": "Опікун Терапії для пацієнтів"
+  },
+  "jestem_terapeuta bullet work tool": {
+    "defaultMessage": "Сучасний робочий інструмент"
+  },
+  "jestem_terapeuta how do we work": {
+    "defaultMessage": "Як ми співпрацюємо з психотерапевтами?"
+  },
+  "jestem_terapeuta how do we work - bullet marketing": {
+    "defaultMessage": "​<b>​ми орієнтуємося на довіру​</b>​ – Маркетингова стратегія Wellbee буде публічною та відкритою для твоїх пропозицій"
+  },
+  "jestem_terapeuta how do we work - community": {
+    "defaultMessage": "​<b>​ми віримо в силу спільноти​</b>​ - ти отримаєш доступ до закритої групи для психотерапевтів Wellbee, де ми ділимося своїми коментарями та надихаємо один одного"
+  },
+  "jestem_terapeuta how do we work - matching patients": {
+    "defaultMessage": "​<b>​ми любимо розвиток і виклики​</b>​ - ми підберемо пацієнтів, які стикаються з проблемами, які відповідають твоїм професійним інтересам"
+  },
+  "jestem_terapeuta how do we work - we understand trust": {
+    "defaultMessage": "Ми розуміємо важливість соціальної довіри та репутації у твоїй професії. Тому ми надаємо тобі віртуальний простір, у якому твої пацієнти почуватимуться так само безпечно, як і в кабінеті."
+  },
+  "jestem_terapeuta how do we work - we will provide you": {
+    "defaultMessage": "​<b>​ми просто піклуємося про вас​</b>​ - тому ми також забезпечимо тобі професійний нагляд"
+  },
+  "jestem_terapeuta how do we work - you are a part": {
+    "defaultMessage": "Ти є частиною команди Wellbee для нас, і ми враховуємо твою думку. Ми хочемо будувати та вдосконалювати нашу платформу не лише на основі наукових досліджень, а й на основі твоїх відгуків. Приєднавшись до Wellbee, Ти маєш можливість спільно з нами створити цей проект – ми цінуємо твій професійний досвід і хочемо знати, як допомагати та навчати більш ефективно."
+  },
+  "jestem_terapeuta how Wellbee works": {
+    "defaultMessage": "Як працює wellbee?"
+  },
+  "jestem_terapeuta how Wellbee works - bullet benefits": {
+    "defaultMessage": "Переваги для #teamWellbee – очікуй від нас додаткового контенту, тренінгів, вебінарів та заходів, призначених для спільноти пацієнтів та психотерапевтів."
+  },
+  "jestem_terapeuta how Wellbee works - bullet community": {
+    "defaultMessage": "Wellbee – це насамперед спільнота відкритих, цікавих та підтримуючих людей у сфері знань про психічне здоров’я. Нам подобається думати про себе як про вулик, де кожен знайде безпечний притулок і натхнення діяти."
+  },
+  "jestem_terapeuta how Wellbee works - bullet social media group": {
+    "defaultMessage": "У нас є група в соціальних мережах, де ми ділимося досвідом. Ми також будемо раді випити з тобою каву в нашому офісі та розповісти про те, як ти з нами працюєш і як ми можемо допомогти тобі розвинути твої професійні компетенції. Що ми можемо зробити для тебе, щоб тобі стало ще краще?"
+  },
+  "jestem_terapeuta therapy guide - bullet first contact": {
+    "defaultMessage": "це перший контакт пацієнта з Wellbee – ми хочемо, щоб він відчував себе комфортно з нами з першого кліку"
+  },
+  "jestem_terapeuta therapy guide - bullet has knowledge": {
+    "defaultMessage": "має знання та компетенцію, щоб запропонувати пацієнту найкраще рішення"
+  },
+  "jestem_terapeuta therapy guide - bullet proposing": {
+    "defaultMessage": "пропонує тип терапії та спеціаліста з урахуванням потреб пацієнта."
+  },
+  "jestem_terapeuta therapy guide - why necessary": {
+    "defaultMessage": "Початок психотерапії може викликати у пацієнтів різні занепокоєння, у тому числі пов’язані з пошуком спеціаліста чи вибором психотерапевтичного підходу. Ми хочемо відразу розвіяти всі сумніви і супроводжувати вас у тому, щоб зробити перший крок до здоров’я. Ми вважаємо, що розмова з Опікуном Терапії є унікальною відповіддю на ці потреби в національному масштабі."
+  },
+  "jestem_terapeuta therapy guide description": {
+    "defaultMessage": "вона психотерапевт в процесі 4-річного комплексного навчання в Психоосвітній лабораторії за напрямом індивідуальної психотерапії в психодинамічному напрямі."
+  },
+  "jestem_terapeuta what is Wellbee": {
+    "defaultMessage": "Що таке Wellbee?"
+  },
+  "jestem_terapeuta work tool - bullet easy to use": {
+    "defaultMessage": "Знаєш, куди клікнути - адже ця технологія призначена для обслуговування людей, а наші дизайнери подбають, щоб інтерфейс Wellbee був інтуїтивно зрозумілим та простим у використанні"
+  },
+  "jestem_terapeuta work tool - bullet one place": {
+    "defaultMessage": "все знаходиться в одному місці, і тобі не потрібні додаткові інструменти для нагадування, створення нотаток, керування відвідуваннями, обробки платежів або проведення онлайн-сесій"
+  },
+  "jestem_terapeuta work tool - bullet persnonalize": {
+    "defaultMessage": "Персоналізуєш свій простір - вмикаєш і вимикаєш різні параметри, як тобі подобаються. Ти найкраще знаєш, що потрібно тобі і твоїм пацієнтам."
+  },
+  "jestem_terapeuta work tool - we built platform": {
+    "defaultMessage": "Ми побудували платформу Wellbee з урахуванням реалій польської психотерапевтичної індустрії. Ми хочемо надати тобі сучасний інструмент онлайн-психотерапії та уможливити збудування віртуального кабінету. Ми надаємо тобі простір та різноманітні функціональні можливості на вибір, ти займаєшся внутрішнім облаштуванням. "
+  },
+  "jestem_terapeuta work tool - we understand": {
+    "defaultMessage": "Ми надаємо тобі простір та різноманітні функціональні можливості на вибір, ти займаєшся внутрішнім облаштуванням. Ми розуміємо, наскільки важливий плавний хід терапевтичного сеансу для комфорту пацієнта. Тому ми гарантуємо тобі негайну допомогу у разі технічних проблем. Тому що відчуття безпеки твоїх пацієнтів для нас так само важливе, як і твоя довіра."
+  },
+  "job": {
+    "defaultMessage": "Посада (необов'язково)"
+  },
+  "job example": {
+    "defaultMessage": "наприклад HR Директор"
+  },
+  "know more": {
+    "defaultMessage": "Дізнайся більше"
+  },
+  "language": {
+    "defaultMessage": "Мова"
+  },
+  "languages": {
+    "defaultMessage": "Мови"
+  },
+  "less absence": {
+    "defaultMessage": "зменшення прогулів"
+  },
+  "less absence 2": {
+    "defaultMessage": "Менше прогулів"
+  },
+  "less absence info": {
+    "defaultMessage": "Надай своїм співробітникам підтримку та скороти прогули до 20-50%"
+  },
+  "less rotation": {
+    "defaultMessage": "зменшення ротації"
+  },
+  "less rotation 2": {
+    "defaultMessage": "Менша ротація"
+  },
+  "less rotation info": {
+    "defaultMessage": "Надаючи підтримку, ти зменшуєш ротацію (навіть на 10-30%) і мінімалізуєш витрати, пов’язані з наймом нових людей"
+  },
+  "licence info": {
+    "defaultMessage": "У Wellbee ми наймаємо терапевтів лише після закінчення другого курсу 4-річної терапевтичної школи та спеціалістів, які спеціалізуються на певних сферах (кризове втручання, психодієтологія). Їхня кваліфікація гарантує вміле використання психотерапевтичних знань та засобів."
+  },
+  "location details": {
+    "defaultMessage": "Детальний опис під’їзду до офісу"
+  },
+  "Log out": {
+    "defaultMessage": "Вийти"
+  },
+  "login google calendar": {
+    "defaultMessage": "Увійди у свій Календар Google"
+  },
+  "login here": {
+    "defaultMessage": "Увійди тут"
+  },
+  "man": {
+    "defaultMessage": "Чоловік"
+  },
+  "Mandatory": {
+    "defaultMessage": "Обов'язкове"
+  },
+  "mark as finished": {
+    "defaultMessage": "Познач як виконане"
+  },
+  "mark as offline": {
+    "defaultMessage": "Змінити на офлайн"
+  },
+  "mark as online": {
+    "defaultMessage": "Змінити на онлайн"
+  },
+  "mark as paid": {
+    "defaultMessage": "Позначити як оплачене"
+  },
+  "mark event as finished are you sure": {
+    "defaultMessage": "Чи напевно хочеш позначити сеанс як закінчений?"
+  },
+  "mark event as offline are you sure": {
+    "defaultMessage": "Чи напевно хочеш позначити сеанс як офлайн?"
+  },
+  "mark event as online are you sure": {
+    "defaultMessage": "Чи напевно хочеш позначити сесію онлайн?"
+  },
+  "mark event as paid are you sure": {
+    "defaultMessage": "Чи напевно хочеш позначити сеанс як оплачений?"
+  },
+  "marked event as paid": {
+    "defaultMessage": "Сеанс позначений як оплачений"
+  },
+  "marketing email agreement": {
+    "defaultMessage": "Я погоджуюся отримувати інформацію про безкоштовний контент та пропозиції на електронну пошту / номер телефону, наданий мною відповідно до ​<a>​правилами​</a>​."
+  },
+  "media about us": {
+    "defaultMessage": "ЗМІ про нас"
+  },
+  "meet our therapists": {
+    "defaultMessage": "Познайомся з нашими терапевтами"
+  },
+  "meet out therapists long": {
+    "defaultMessage": "Наша команда складається тільки з перевірених та кваліфікованих спеціалістів. Знайдіть людину, яка допоможе вам зробити перший крок до змін."
+  },
+  "method text online": {
+    "defaultMessage": "онлайн"
+  },
+  "method text phone": {
+    "defaultMessage": "телефон"
+  },
+  "min time lead": {
+    "defaultMessage": "Мінімальний час, у годинах, між моментом реєстрації на терапію та часом самої терапії"
+  },
+  "minutes": {
+    "defaultMessage": "хвилин"
+  },
+  "missed": {
+    "defaultMessage": "Не відбулись"
+  },
+  "missed sessions tooltip": {
+    "defaultMessage": "Прийоми, на які пацієнт не з’явився або скасований занадто пізно. За них отримуєш оплату."
+  },
+  "missing company name": {
+    "defaultMessage": "Відсутня назва компанії"
+  },
+  "missing email": {
+    "defaultMessage": "Відсутня електронна адреса"
+  },
+  "missing name surname": {
+    "defaultMessage": "Відсутнє ім’я та прізвище"
+  },
+  "missing privacy policy": {
+    "defaultMessage": "Необхідна згода на обробку конфіденційних даних"
+  },
+  "missing terms conditions": {
+    "defaultMessage": "Ознайомлення зі змістом нормативних актів є обов’язковим"
+  },
+  "Monday": {
+    "defaultMessage": "Понеділок"
+  },
+  "Mondays": {
+    "defaultMessage": "Понеділки"
+  },
+  "month": {
+    "defaultMessage": "Місяць "
+  },
+  "More availability": {
+    "defaultMessage": "Більше термінів"
+  },
+  "more dates": {
+    "defaultMessage": "Більше термінів"
+  },
+  "more effective": {
+    "defaultMessage": "збільшення продуктивності"
+  },
+  "more involved": {
+    "defaultMessage": "Поліпшення самопочуття та більша відданість"
+  },
+  "more involved info": {
+    "defaultMessage": "Співробітники, які отримали підтримку, свідомо говорять про постійні зміни, які підвищують якість життя"
+  },
+  "my patients": {
+    "defaultMessage": "Мої Пацієнти"
+  },
+  "my profile": {
+    "defaultMessage": "Мій Профіль"
+  },
+  "my wallet": {
+    "defaultMessage": "Мій Гаманець"
+  },
+  "name": {
+    "defaultMessage": "Ім'я"
+  },
+  "name and surname of bank account": {
+    "defaultMessage": "Ім'я та прізвище власника банківського рахунку"
+  },
+  "name or pseudonym": {
+    "defaultMessage": "Ім'я або псевдонім"
+  },
+  "new account": {
+    "defaultMessage": "Новий обліковий запис"
+  },
+  "new session added": {
+    "defaultMessage": "Додано нову зустріч"
+  },
+  "news-bar-ua-title-2": {
+    "defaultMessage": "Ми пропонуємо недорогу психологичну підтримку для людей постраждалих від війни в Україні."
+  },
+  "Next available spot": {
+    "defaultMessage": "Найближчий термін"
+  },
+  "next therapist": {
+    "defaultMessage": "Наступний терапевт:"
+  },
+  "no": {
+    "defaultMessage": "Ні "
+  },
+  "no longer shame": {
+    "defaultMessage": "Маємо для вас дуже гарну новину – психотерапія більше не привід соромитися ​<a>​наш звіт​</a>"
+  },
+  "no patients": {
+    "defaultMessage": "У тебе ще немає пацієнтів"
+  },
+  "no sessions": {
+    "defaultMessage": "У тебе ще немає сеансу"
+  },
+  "no sessions for patient": {
+    "defaultMessage": "У цього пацієнта ще немає сеансу"
+  },
+  "no work": {
+    "defaultMessage": "Не працюю"
+  },
+  "not completed": {
+    "defaultMessage": "Не відбулись"
+  },
+  "not for statistics": {
+    "defaultMessage": "Примітка (для статистики)"
+  },
+  "offline": {
+    "defaultMessage": "У кабінеті"
+  },
+  "offline session": {
+    "defaultMessage": "Зустріч офлайн"
+  },
+  "offline-header": {
+    "defaultMessage": "Кабінет"
+  },
+  "ok": {
+    "defaultMessage": "Ок"
+  },
+  "online consultation": {
+    "defaultMessage": "​<h3>​Онлайн консультація​</h3> Надай своїм співробітникам можливість домовитися про відвідування спеціального фахівця - придбай пакет відвідувань, оплачуй тільки використані відвідування (pay-as-you-go) або оплати частину вартості прийому."
+  },
+  "optimal interaction": {
+    "defaultMessage": "Для оптимальної взаємодії з терапевтом ми рекомендуємо ​<b>​розташувати камеру на рівні очей​</b>​ і розташувати себе на відстані, яка принаймні дозволить вам захопити ​<b>​тулуб до рівня грудної клітки​</b>​. Після позиціонування рекомендуємо перестати дивитися на себе, оскільки це знижує природність взаємодії. Можеш​<b>​вимкнути попередній перегляд​</b>​ натиснувши три крапки в правому нижньому кутку Google Meet і вибравши функцію «макет»."
+  },
+  "options 1 aviva": {
+    "defaultMessage": "<h2>Знижка 40 злотих {br} за перші 3 відвідування ​</h2> Як клієнт MojaAviva, ти можеш отримати 3 консультації зі знижкою 40 злотих. Ціни на консультації відповідають діючому прайс-листу на профіль даного спеціаліста."
+  },
+  "options 2 aviva": {
+    "defaultMessage": "​<h2>​Знижка 10 злотих {br} на наступні відвідування​</h2> Якщо прийоми, на які маєш знижку 40 злотих вичерпані і хочеш записатися на іншу зустріч (наприклад, продовжити сеанси з вибраним спеціалістом), отримаєш додаткову знижку в розмірі 10 злотих за кожен наступний прийом."
+  },
+  "or": {
+    "defaultMessage": "або"
+  },
+  "or call": {
+    "defaultMessage": "або зателефонуй"
+  },
+  "or call:": {
+    "defaultMessage": "або зателефонуй"
+  },
+  "other": {
+    "defaultMessage": "Inne"
+  },
+  "Other": {
+    "defaultMessage": "Інше"
+  },
+  "our call data": {
+    "defaultMessage": "Наша розмова відбудеться:"
+  },
+  "our psychotherapy team": {
+    "defaultMessage": "Нашу команду творять тільки перевірені<br></br>та висококваліфіковані спеціалісти"
+  },
+  "our specialists": {
+    "defaultMessage": "Наші спеціалісти"
+  },
+  "our team description": {
+    "defaultMessage": "Наша команда складається тільки з перевірених та кваліфікованих спеціалістів. Знайди людину, яка допоможе вам зробити перший крок до покращення якості вашого життя."
+  },
+  "password": {
+    "defaultMessage": "Пароль "
+  },
+  "patient": {
+    "defaultMessage": "Пацієнт"
+  },
+  "patient active": {
+    "defaultMessage": "Постійний пацієнт"
+  },
+  "patient active description": {
+    "defaultMessage": "Пацієнт провів першу бесіду з терапевтом і не відмовився від продовження терапії"
+  },
+  "patient finished": {
+    "defaultMessage": "Терапія закінчена"
+  },
+  "patient finished description": {
+    "defaultMessage": "Пацієнт відмовився від продовження терапії після щонайменше п’яти розмов з терапевтом Перша консультація"
+  },
+  "patient first visit": {
+    "defaultMessage": "Перші консультації"
+  },
+  "patient first visit description": {
+    "defaultMessage": "Пацієнт знаходиться перед першою розмовою з терапевтом"
+  },
+  "patient information": {
+    "defaultMessage": "Залиш мені кілька ​<strong>​необхідних інформацій​</strong>​щоб зв'язатися з тобою"
+  },
+  "patient new": {
+    "defaultMessage": "Новий"
+  },
+  "patient new description": {
+    "defaultMessage": "Пацієнт чекає на розмову з опікуном. "
+  },
+  "patient no contact": {
+    "defaultMessage": "Немає контакту"
+  },
+  "patient no contact description": {
+    "defaultMessage": "Немає контакту з пацієнтом"
+  },
+  "patient no sessions": {
+    "defaultMessage": "Жодних сеанс"
+  },
+  "patient not found": {
+    "defaultMessage": "Пацієнта не знайдено"
+  },
+  "patient quick churn": {
+    "defaultMessage": "Перервана терапія"
+  },
+  "patient quick churn description": {
+    "defaultMessage": "Пацієнт відмовився від продовження терапії після першої бесіди з терапевтом."
+  },
+  "patient-panel-account-deletion-success": {
+    "defaultMessage": "Accound successfully deleted"
+  },
+  "patient-panel-account-update-error": {
+    "defaultMessage": "Помилка оновлення облікового запису"
+  },
+  "patient-panel-account-update-name-how-to-call": {
+    "defaultMessage": "Як нам до Вас звертатися?"
+  },
+  "patient-panel-account-update-name-nickname": {
+    "defaultMessage": "Ім'я / Псевдонім"
+  },
+  "patient-panel-account-update-phone": {
+    "defaultMessage": "Номер телефону"
+  },
+  "patient-panel-account-update-success": {
+    "defaultMessage": "Дані пацієнта успішно оновлено"
+  },
+  "patient-panel-account-update-title-settings": {
+    "defaultMessage": "Налаштування"
+  },
+  "patient-panel-any-questions": {
+    "defaultMessage": "У вас є які-небудь питання?"
+  },
+  "patient-panel-btn-cancel": {
+    "defaultMessage": "Скасувати"
+  },
+  "patient-panel-btn-ok": {
+    "defaultMessage": "Гаразд"
+  },
+  "patient-panel-closest-session": {
+    "defaultMessage": "Наступний сеанс:"
+  },
+  "patient-panel-confirm-new-password": {
+    "defaultMessage": "Підтвердіть новий пароль"
+  },
+  "patient-panel-delete-account-btn-back": {
+    "defaultMessage": "Повернутися"
+  },
+  "patient-panel-delete-account-btn-confirm": {
+    "defaultMessage": "Так, видалити"
+  },
+  "patient-panel-delete-account-confirm": {
+    "defaultMessage": "Ви впевнені, що хочете видалити обліковий запис?"
+  },
+  "patient-panel-delete-account-info-continue": {
+    "defaultMessage": "Ви можете продовжувати терапію без облікового запису"
+  },
+  "patient-panel-login-password": {
+    "defaultMessage": "Пароль"
+  },
+  "patient-panel-my-sessions": {
+    "defaultMessage": "Мої сеанси"
+  },
+  "patient-panel-new-password": {
+    "defaultMessage": "Новий пароль"
+  },
+  "patient-panel-or-with-email": {
+    "defaultMessage": "Або електронною поштою"
+  },
+  "patient-panel-paid": {
+    "defaultMessage": "оплачено"
+  },
+  "patient-panel-password-change-error": {
+    "defaultMessage": "Не вдалося змінити пароль"
+  },
+  "patient-panel-password-change-success": {
+    "defaultMessage": "Пароль успішно змінено"
+  },
+  "patient-panel-password-reset": {
+    "defaultMessage": "Оновити пароль для {email}?"
+  },
+  "patient-panel-password-validation-confirm": {
+    "defaultMessage": "Нові паролі не співпадають"
+  },
+  "patient-panel-password-validation-missing-fields": {
+    "defaultMessage": "Усі поля необхідно заповнити"
+  },
+  "patient-panel-password-validation-old-identical": {
+    "defaultMessage": "Новий і старий паролі ідентичні"
+  },
+  "patient-panel-pay-now": {
+    "defaultMessage": "Оплатити зараз"
+  },
+  "patient-panel-previous-password": {
+    "defaultMessage": "Попередній пароль"
+  },
+  "patient-panel-session-switch-completed": {
+    "defaultMessage": "Завершено"
+  },
+  "patient-panel-sessions-move-to-next-week": {
+    "defaultMessage": "Перенести на наступний тиждень"
+  },
+  "patient-panel-sessions-therapist-with": {
+    "defaultMessage": "Онлайн зустріч з"
+  },
+  "patient-panel-sessions-title": {
+    "defaultMessage": "Мої сеанси"
+  },
+  "patient-panel-sessions-your-therapist": {
+    "defaultMessage": "Ваш терапевт:"
+  },
+  "patient-panel-settings": {
+    "defaultMessage": "Налаштування"
+  },
+  "patient-panel-title-change-password": {
+    "defaultMessage": "Зміна паролю"
+  },
+  "patient-panel-title-delete-account": {
+    "defaultMessage": "Видалити обліковий запис"
+  },
+  "patient-panel-unpaid": {
+    "defaultMessage": "неоплачена"
+  },
+  "patient-panel.invalid-password-or-email": {
+    "defaultMessage": "Неправильне ім'я користувача або пароль. Будь ласка, зв'яжіться з {therapyGuideEmail}."
+  },
+  "patients": {
+    "defaultMessage": "Пацієнти"
+  },
+  "Patients": {
+    "defaultMessage": "Пацієнти"
+  },
+  "pay for first visit": {
+    "defaultMessage": "Оплати перший онлайн-сеанс"
+  },
+  "paying": {
+    "defaultMessage": "Оплата"
+  },
+  "payment": {
+    "defaultMessage": "Оплата"
+  },
+  "payment don't match": {
+    "defaultMessage": "Сума не відповідає?"
+  },
+  "payment done at end of month": {
+    "defaultMessage": "Можеш зняти гроші після закінчення місяця"
+  },
+  "payment failed tooltip": {
+    "defaultMessage": "Прийоми, які були заброньовані, але не оплачені. За них не отримуєш оплату."
+  },
+  "payment link sent to client": {
+    "defaultMessage": "Посилання на оплату буде автоматично надіслано пацієнту."
+  },
+  "payment method": {
+    "defaultMessage": "Спосіб оплати"
+  },
+  "payment method coupon": {
+    "defaultMessage": "Оплата за купоном"
+  },
+  "payment method manual": {
+    "defaultMessage": "Оплата вручну"
+  },
+  "payout": {
+    "defaultMessage": "Виплачено"
+  },
+  "Payout": {
+    "defaultMessage": "Виплата"
+  },
+  "per session": {
+    "defaultMessage": "сеанс 50 хв"
+  },
+  "percent discount text": {
+    "defaultMessage": "Зручність і економія"
+  },
+  "percent discount text short": {
+    "defaultMessage": "Економія"
+  },
+  "phone": {
+    "defaultMessage": "номер телефону"
+  },
+  "phone number": {
+    "defaultMessage": "номер телефону"
+  },
+  "phone number optional": {
+    "defaultMessage": "Номер телефону (необов'язково)"
+  },
+  "photo in background": {
+    "defaultMessage": "Фонова фотографія"
+  },
+  "prepare glass of water": {
+    "defaultMessage": "Приготуй склянку води, щось для нотаток, серветки, якщо вони знадобляться. Чим менше часу ти витрачаєш на організацію цих предметів під час сеансів, тим краще будеш використовувати час з терапевтом."
+  },
+  "prepare headphones": {
+    "defaultMessage": "Для твого комфорту рекомендуємо підготуватися ​<b>​навушники з мікрофоном​</b>​ - таким чином ви посилите не тільки свою чутність і якість прийому дзвінка, але й подбаєте про свою конфіденційність - ніхто небажаний не буде учасником твого сеансу з терапевтом або консультації з Опікуном Терапії ."
+  },
+  "prepare headphones and glass of water": {
+    "defaultMessage": "Приготуй навушники з мікрофоном і склянку води."
+  },
+  "prepare internet access": {
+    "defaultMessage": "Переконайся, що у тебе є доступ до Інтернету."
+  },
+  "prepare private space": {
+    "defaultMessage": "Переконайся, що у тебе є тихий приватний простір."
+  },
+  "press enter to search": {
+    "defaultMessage": "Натисни Enter для пошуку"
+  },
+  "price": {
+    "defaultMessage": "Ціна"
+  },
+  "price section": {
+    "defaultMessage": "​<span>​{price} зл​</span>​ / сеанс 50 хв"
+  },
+  "pro tip": {
+    "defaultMessage": "Порада"
+  },
+  "product": {
+    "defaultMessage": "Продукт"
+  },
+  "Profil": {
+    "defaultMessage": "Профіль"
+  },
+  "profile pictures": {
+    "defaultMessage": "Фото у профілі"
+  },
+  "profile video url": {
+    "defaultMessage": "URL-адреса відео профілю (YT)"
+  },
+  "provision percent": {
+    "defaultMessage": "Відсоток комісії"
+  },
+  "provision percent in office": {
+    "defaultMessage": "Відсоток комісії (в кабінеті)"
+  },
+  "psychic health checked": {
+    "defaultMessage": "Ми перевірили психічне здоров’я поляків "
+  },
+  "psychic health imprtant": {
+    "defaultMessage": "Психічне здоров’я – найважливіше"
+  },
+  "psychoterapy revelation": {
+    "defaultMessage": "Психотерапія вже ​<span>​не є​</span>​ приводом соромитися"
+  },
+  "psychotherapist": {
+    "defaultMessage": "психотерапевт"
+  },
+  "psychotherapy existential": {
+    "defaultMessage": "Гуманістична та екзистенційна психотерапія"
+  },
+  "psychotherapy existential 1": {
+    "defaultMessage": "У Wellbee кожен із зацікавлених може скористатися онлайн-психотерапією, яка проводиться в гуманістичній та екзистенційній тенденції. Цей вид терапії дуже популярний, що може бути пов’язано з кількома основними факторами, які описані нижче."
+  },
+  "psychotherapy existential 10": {
+    "defaultMessage": "Перевір доступні дати у онлайн-психотерапевтів Wellbee, які працюють у гуманістичній та екзистенційній тенденції"
+  },
+  "psychotherapy existential 11": {
+    "defaultMessage": "Що характеризує онлайн-психотерапію в гуманістичному та екзистенційному напрямі?"
+  },
+  "psychotherapy existential 12": {
+    "defaultMessage": "У гуманістичній та екзистенційній психотерапії клієнт у своєму житті розглядається як спеціаліст, а психотерапевт не є експертом. Звичайно, він володіє знаннями в області психопатології, діагностики або терапевтичних методик, але розуміння людини лише з точки зору психологічних знань не дозволить їй зрозуміти, що насправді переживає його клієнт.Тому психотерапевт вільний від припущень, теорій, він переживає проблеми клієнта і водночас зберігає позицію об’єктивного спостерігача."
+  },
+  "psychotherapy existential 13": {
+    "defaultMessage": "У цьому психотерапевтичному напрямі часто використовуються елементи психодрами, екзистенційного діалогу або техніки роботи з тілом."
+  },
+  "psychotherapy existential 14": {
+    "defaultMessage": "Скільки може тривати онлайн-терапія в гуманістичній та екзистенційній тенденції?"
+  },
+  "psychotherapy existential 15": {
+    "defaultMessage": "Тривалість гуманістичної та екзистенційної психотерапії – справа індивідуальна. Він встановлюється між психотерапевтом і клієнтом і залежить від типу повідомлених труднощів і залучення клієнта до психотерапевтичного процесу."
+  },
+  "psychotherapy existential 16": {
+    "defaultMessage": "Зазвичай гуманістично-екзистенційна психотерапія є досить довготривалою психотерапією - при необхідності вона може тривати до кількох років з періодичністю одна зустріч на тиждень. Час однієї зустрічі заздалегідь визначений і зазвичай займає близько 50 хвилин. Вартість 1 онлайн візиту до гуманістичного та екзистенційного психотерапевта становить 139 злотих."
+  },
+  "psychotherapy existential 17": {
+    "defaultMessage": "Кому особливо адресована психотерапія в гуманістичному та екзистенційному напрямі"
+  },
+  "psychotherapy existential 18": {
+    "defaultMessage": "Гуманістична та екзистенційна психотерапія є хорошою пропозицією для людей, які:"
+  },
+  "psychotherapy existential 19": {
+    "defaultMessage": "Хто в Польщі надає офіційні права психотерапевтам та гуманістичним та екзистенційним психотерапевтам?"
+  },
+  "psychotherapy existential 2": {
+    "defaultMessage": "Що характеризує гуманістичний та екзистенційний напрям у психотерапії?"
+  },
+  "psychotherapy existential 2 arrowlist 1": {
+    "defaultMessage": "Вони переживають кризу в особистому чи професійному житті, страждають від низької самооцінки, розладів настрою, депресії, тривожних розладів."
+  },
+  "psychotherapy existential 2 arrowlist 2": {
+    "defaultMessage": "Вони відчувають труднощі у відносинах з важливими людьми, особливо. у близьких стосунках."
+  },
+  "psychotherapy existential 2 arrowlist 3": {
+    "defaultMessage": "Вони хочуть придивитися зблизька на своє життя, знайти сенс або поставити мету в житті."
+  },
+  "psychotherapy existential 2 arrowlist 4": {
+    "defaultMessage": "Вони шукають психотерапію, яка дасть їм можливість розвитку особистості"
+  },
+  "psychotherapy existential 20": {
+    "defaultMessage": "Отримання сертифікату гуманістичного та екзистенційного психотерапевта пов’язане із проходженням зазвичай 4-річної психотерапевтичної підготовки, проходженням клінічної інтернатури, роботою під постійним наглядом та участю у власній психотерапії. Сертифікат для терапевтів, які пройшли навчання з гештальт-підходу, видається Польським товариством гештальт-психотерапії."
+  },
+  "psychotherapy existential 3": {
+    "defaultMessage": "​<strong>​Гуманістичний та екзистенційний напрям​</strong>​ це психотерапевтичний підхід, який черпає з багатьох джерел, як з філософських досягнень, так і з багатьох психотерапевтичних напрямків. Нині вже говорять про групу методів лікування, похідних від гуманістичного та екзистенційного напряму. Ця тенденція поєднує різною мірою особистісно-центрований підхід, психоаналіз, екзистенційну філософію та феноменологію. На розвиток цього напряму вплинув Карл Роджерс - засновник гуманістичної терапії - і Віктор Франкл - попередник екзистенційної терапії. Гештальт-психотерапія (психологія характеру) також належить до цього широкого напряму і в даний час є однією з форм гуманістичної та екзистенційної терапії котрі розвиваються найбільш динамічно. "
+  },
+  "psychotherapy existential 4": {
+    "defaultMessage": "З календарем вільних термінів у кожного з психотерапевтів Wellbee можна ознайомитися за посиланням: ​<a>​https://wellbee.pl/psychoterapia_online​</a>​​1"
+  },
+  "psychotherapy existential 5": {
+    "defaultMessage": "Як по-справжньому прийняти себе?"
+  },
+  "psychotherapy existential 6": {
+    "defaultMessage": "Це фундаментальне припущення всіх підходів у рамках гуманістичного та екзистенційного напряму ​<strong>​ допомогти людині прийняти себе таким, яким він є насправді ​</strong>​ і помічаючи та усуваючи протиріччя між його почуттями та тим, що вважається соціально прийнятним або очікуваним. Клієнт повинен цінувати свою ідентичність, а також керуватися власними цінностями та уподобаннями."
+  },
+  "psychotherapy existential 7": {
+    "defaultMessage": "У гуманістично-екзистенційній психотерапії психотерапевт забезпечує клієнту безумовне прийняття, емпатичне розуміння, повагу та власну автентичність у стосунках. Таким чином, він створює умови, що сприяють настанню конструктивних змін, відкриттю нових горизонтів і перебудові особистості. Інакше кажучи, психотерапевт – це провідник на шляху самопізнання."
+  },
+  "psychotherapy existential 8": {
+    "defaultMessage": "Основні положення гуманістичної та екзистенційної психотерапії"
+  },
+  "psychotherapy existential 9": {
+    "defaultMessage": "У гуманістичному та екзистенційному підході психотерапія — це зустріч, внутрішній досвід контакту двох людей. Другою важливою складовою цієї течії психотерапії є екзистенційна психодинаміка, тобто підкреслення свободи людини, сфери цінностей і сенсу життя."
+  },
+  "psychotherapy existential arrowlist 1": {
+    "defaultMessage": "Психотерапевт не пропонує клієнту тлумачення чи поради. Його робота — створити безпечну атмосферу для пізнання власних почуттів, потреб і бажань. Відповідно до цього підходу, кожен з нас має вроджену здатність до самолікування, але нам потрібна підтримка, щоб побачити їх."
+  },
+  "psychotherapy existential arrowlist 2": {
+    "defaultMessage": "У кожному з нас існує (часто неусвідомлений) конфлікт між нашими бажаннями: жити, бути у стосунках з іншими, бути прийнятими, осмислювати своє життя та т. зв. найголовніші турботи - смерть, свобода, ізоляція і безглуздість у світі. "
+  },
+  "psychotherapy existential arrowlist 3": {
+    "defaultMessage": "Ці конфлікти є джерелом наших страхів і проблем, які заважають нам нормально функціонувати. Психотерапевт намагається зрозуміти світ значень клієнта, стежить за ним, підлаштовує втручання під індивідуальні потреби, адже кожна людина унікальна. У безпечних умовах психотерапії це допомагає клієнту зіткнутися з власними екзистенційними страхами."
+  },
+  "psychotherapy existential Gestalt": {
+    "defaultMessage": "Гештальт-психотерапія в гуманістичному та екзистенційному напрямі"
+  },
+  "psychotherapy existential Gestalt 1": {
+    "defaultMessage": "Фредерік і Лора Перлз, Ральф Хефферлайн і Пол Гудман є основними авторами підходу ​<strong>​гештальт​</strong>​. У цьому підході велика роль відводиться розширенню самосвідомості, особливо в досвіді «тут і зараз». Без розширення та поглиблення усвідомлення себе важко відчути себе краще. Чому? Тому що більша самосвідомість веде до вибору, а відчуття вибору веде до свободи."
+  },
+  "psychotherapy existential Gestalt 2": {
+    "defaultMessage": "Самосвідомість, над якою працює гештальт-терапія, включає як емоції, відчуття тіла, думки, бажання, так і конфлікти, що виникають між ними."
+  },
+  "psychotherapy existential Gestalt 3": {
+    "defaultMessage": "Важливість усвідомлення в гештальт-підході"
+  },
+  "psychotherapy existential Gestalt 4": {
+    "defaultMessage": "Свідомість за гештальт-підходом - це не інтелектуальне знання, а досвід контакту з собою. Клієнт може отримати більшу самосвідомість у стосунках з іншою людиною (наприклад, терапевтом) на основі довіри, безпеки та автентичності. Терапевтична ситуація має бути гнучкою, адаптованою до потреб клієнта, а сам клієнт піддається цілісному лікуванню (тіло і психіка). Метою гештальт-терапії є досягнення зрілості, збільшення людського потенціалу через інтеграцію відчужених частин особистості (бажання, судження, фантазії) та посилення справжніх бажань."
+  },
+  "psychotherapy young 1": {
+    "defaultMessage": "Wellbee | Інтернет-психотерапія для підлітків до 18 років | Десяток терапевтів доступні в Інтернеті | 1 сеанс онлайн терапії від 139 злотих."
+  },
+  "psychotherapy young 10": {
+    "defaultMessage": "В ​<strong>​психотерапії підлітків​</strong>​ ми повинні враховувати так званий контекст розвитку. Багато поведінки дитини-підлітка, які сприймаються дорослими як проблематичні та потребують втручання, можуть мати тимчасовий характер, пов’язаний з розвитком, тому при діагностиці та підборі терапевтичних засобів вкрай важливо звертатися до знань про закономірності та механізми розвитку дитини."
+  },
+  "psychotherapy young 11": {
+    "defaultMessage": "Роль сімейного контексту в онлайн-терапії підлітків"
+  },
+  "psychotherapy young 12": {
+    "defaultMessage": "Необхідність врахування т. зв ​<strong>​сімейного контексту​</strong>​ є ще однією особливістю, яка відрізняє терапію дітей та підлітків. ​<strong>​ Принцип урахування сімейного контексту виражається через участь одного або обох батьків у психотерапії неповнолітнього. ​</strong>​ . Це важливо, оскільки дає змогу зрозуміти труднощі дитини, беручи до уваги стосунки між нею та її оточенням, і в цьому середовищі родина відіграє ключову роль."
+  },
+  "psychotherapy young 13": {
+    "defaultMessage": "Молодіжні психотерапевти онлайн на Wellbee"
+  },
+  "psychotherapy young 14": {
+    "defaultMessage": "​<strong>​ Вплив терапевта на дитину може посилюватися або гальмуватися ставленням батьків ​</strong>​ які таким чином можуть впливати на успіх самої терапії. ​<strong>​ Дорослі можуть прийти на терапію самі, натомість дітей відправляють або привозять. Це ще одна важлива відмінність ​</strong>​ оскільки це може вплинути на мотивацію початку терапевтичної роботи і, як наслідок, на ефективність терапії."
+  },
+  "psychotherapy young 15": {
+    "defaultMessage": "Які проблеми психічного здоров’я у підлітків допомагає вирішити онлайн-психотерапія?"
+  },
+  "psychotherapy young 16": {
+    "defaultMessage": "Захворювання дітей та підлітків можна розділити на дві категорії:"
+  },
+  "psychotherapy young 17": {
+    "defaultMessage": "<elem>​ розлади з симптомами, спрямованими всередину, т. зв інтеріоризуючи ​</elem>​ ​<elem>​ розлади з зовнішніми симптомами, т. зв екстерналізації. ​</elem>​"
+  },
+  "psychotherapy young 18": {
+    "defaultMessage": "Інтерналізаційні розлади підлітків"
+  },
+  "psychotherapy young 19": {
+    "defaultMessage": "Симптоми внутрішніх проблем включають:"
+  },
+  "psychotherapy young 2": {
+    "defaultMessage": "Чим є зростання?"
+  },
+  "psychotherapy young 20": {
+    "defaultMessage": "​<elem>​страх,​</elem>​ ​<elem>​депресія,​</elem>​ ​<elem>​ соціальне відсторонення, ​</elem>​ ​<elem>​ізоляція,​</elem>​ ​<elem>​ розлади харчування. ​</elem>"
+  },
+  "psychotherapy young 21": {
+    "defaultMessage": "Розлади екстерналізації у осіб до 18 років"
+  },
+  "psychotherapy young 22": {
+    "defaultMessage": "Розлади з зовнішньою спрямованістю симптомів – це дезадаптивні моделі поведінки, які викликають проблеми для інших людей і викликають конфлікти між дитиною та її соціальним середовищем, наприклад, асоціальна поведінка або вживання психоактивних речовин."
+  },
+  "psychotherapy young 23": {
+    "defaultMessage": "Спроби суїциду та самогубства, вчинені дітьми та підлітками, є особливо великою проблемою здоров’я та соціальної сфери Польщі. Вважається, що у віковій групі 10-19 років самогубства є другою причиною смерті в Польщі після дорожньо-транспортних травм та аварій."
+  },
+  "psychotherapy young 24": {
+    "defaultMessage": "Що таке онлайн-психотерапія в Wellbee для людей до 18 років?"
+  },
+  "psychotherapy young 25": {
+    "defaultMessage": "У ​<a>​Wellbee​</a>​ за допомогою молодіжної онлайн-психотерапії ми надаємо консультації та допомогу у сфері, зокрема"
+  },
+  "psychotherapy young 26": {
+    "defaultMessage": "​<elem>​емоційні розлади,​</elem>​ ​<elem>​порушення соціального функціонування - труднощі адаптації, сором'язливість, відсторонення від стосунків,​</elem>​ ​<elem>​тривожні розлади,​</elem>​ ​<elem>​розлади поведінки,​</elem>​ ​<elem>​розлади в соматичній формі, які часто супроводжуються вегетативними симптомами, наприклад, болем у животі, нудотою та блювотою, головним болем.​</elem>"
+  },
+  "psychotherapy young 27": {
+    "defaultMessage": "​<p> Індивідуальна психотерапія підлітків складається з індивідуальних, регулярних зустрічей з психотерапевтом. Перші або перші кілька сеансів індивідуальної психотерапії використовуються для точного розпізнавання труднощів, а також для пізнання поточної та минулої життєвої ситуації. Ці заняття носять діагностичний характер і завершуються формулюванням мети подальшої роботи. Подальші зустрічі, залежно від прийнятої мети, можуть бути короткостроковими, середньостроковими та довгостроковими. ​</p><p> У випадку осіб віком до 18 років індивідуальна терапія має бути письмовою згодою з батьків або законного опікуна, який має повні батьківські повноваження. </p>"
+  },
+  "psychotherapy young 28": {
+    "defaultMessage": "​ У разі онлайн-психотерапії для підлітків - прайс-лист 2021"
+  },
+  "psychotherapy young 29": {
+    "defaultMessage": "У Wellbee один 50-хвилинний онлайн-сеанс психотерапії для особи віком до 18 років пропонується за 139 злотих. Записи доступні в різний час. Також у вихідні дні. Wellbee додатково дає можливість використовувати основну та організаційну підтримку кваліфікованих осіб ​<linkGuide>​Опікунів Терапії​</linkGuide>​. ​<strong>​ Ви можете зв'язатися з ними на постійній основі за телефоном: +48 732 489 003 або домовитися про конкретну дату </strong>. Більше інформації з детальними даними можна знайти за посиланням: <linkHelp> wellbee - найкраща онлайн-психотерапія </linkHelp>"
+  },
+  "psychotherapy young 3": {
+    "defaultMessage": "​<strong>​Зростання​</strong>​ інакше відомий як ​<strong>​підлітковий вік​</strong>​ є надзвичайно важливим етапом розвитку, тому що ​<strong>​це міст між дитинством і дорослістю​</strong>​. Молода людина відчуває різкі зміни, які ми називаємо статевим дозріванням. Потім змінюється наше тіло, відбуваються психічні зміни, пов’язані, в тому числі, з афективно-мотиваційною та когнітивною сферою, змінюється наш спосіб функціонування в суспільстві. Це період формування індивідуальної та соціальної ідентичності."
+  },
+  "psychotherapy young 30": {
+    "defaultMessage": "Це онлайн-психотерапія – обирай фахівця"
+  },
+  "psychotherapy young 31": {
+    "defaultMessage": "Можеш знайти детальний список онлайн-терапевтів у Wellbee, які спеціалізуються на проблемах психічного здоров’я для людей віком до 18 років, натиснувши на посилання нижче:"
+  },
+  "psychotherapy young 32": {
+    "defaultMessage": "Дивись профілі психотерапевтів, які проводять психотерапію для неповнолітніх в Інтернеті>"
+  },
+  "psychotherapy young 33": {
+    "defaultMessage": "У яких терапевтичних напрямках проводиться онлайн-терапія для людей до 18 років?"
+  },
+  "psychotherapy young 34": {
+    "defaultMessage": "Основний поділ терапевтичних напрямків включає 4 групи:"
+  },
+  "psychotherapy young 35": {
+    "defaultMessage": "​<elem>​психоаналітична та психодинамічна терапія,​</elem>​ ​<elem>​когнітивно-поведінкова терапія,​</elem>​ ​<elem>​гуманістична і екзистенційна,​</elem>​ ​<elem>​системна.​</elem>"
+  },
+  "psychotherapy young 36": {
+    "defaultMessage": "Кожна терапевтична тенденція базується на специфічних теоретичних засадах, що тягнуть за собою різні способи розуміння розладів і методів їх лікування. Психотерапія підліткових розладів проводиться в усіх перерахованих вище способах."
+  },
+  "psychotherapy young 37": {
+    "defaultMessage": "​<h2> Чи інформує психотерапевт батьків підлітка про хід їх терапії? </h2>​ <p>Той факт, що рішення про терапію найчастіше приймається батьками, може викликати проблему довіри підлітка до терапевта. Тут може виникнути конфлікт інтересів. Підліток може бути стурбований тим, що терапевт передає його/її батькам конфіденційну інформацію, якою вони поділилися з терапевтом. Батьки, навпаки, бажаючи бути впевненими, що з їхньою дитиною нічого серйозного не відбувається, можуть розраховувати на отримання інформації про свою дитину, до якої вони досі не мали доступу. Це може бути складною ситуацією для психотерапевта, однак основою психотерапевтичної роботи є довіра між терапевтом і пацієнтом. </p> <p> У разі загрози життю або здоров'ю дитини психотерапевт обов'язково зобов'язаний повідомити батьків про небезпеку, що настає, але це виняток з правила, що сказане в кабінеті залишається секрет, яким ділиться терапевт і пацієнт. </p> <p> В інших ситуаціях можна попрацювати з дитиною так, щоб вона сама чи за підтримки терапевта могла розповісти батькам про важливі речі. </p>"
+  },
+  "psychotherapy young 4": {
+    "defaultMessage": "<strong>Психічне здоров’я молодої людини має принципове значення для її функціонування в дорослому віці, і якщо не лікувати розлади у дітей та підлітків, вони не виростуть з них самі по собі. ​</strong>​ Однак у майбутньому вони можуть стати дорослими з психічними розладами."
+  },
+  "psychotherapy young 5": {
+    "defaultMessage": "Молоді люди не дорослі"
+  },
+  "psychotherapy young 5.1": {
+    "defaultMessage": "У минулому дітей і підлітків вважали «маленькими дорослими». Сьогодні, на щастя, ми це усвідомлюємо ​<strong>​ молода людина принципово відрізняється від дорослих. ​</strong>"
+  },
+  "psychotherapy young 6": {
+    "defaultMessage": "Молодь і дорослі: рівень розвитку пізнавальних функцій"
+  },
+  "psychotherapy young 7": {
+    "defaultMessage": "<strong>​ Одним з таких напрямків є рівень розвитку когнітивних функцій, ​</strong>​ від чого залежить спосіб участі дитини в психотерапії."
+  },
+  "psychotherapy young 8": {
+    "defaultMessage": "Ключовим тут є вміння рефлексувати над своїми вчинками, почуттями та думками, дистанціюватися від переживань, на яких орієнтована психотерапія. Тому ​<strong>​ Психотерапія дітей та підлітків вимагає врахування рівня когнітивного розвитку та адаптації до нього адекватних терапевтичних засобів. ​</strong>​ ."
+  },
+  "psychotherapy young 9": {
+    "defaultMessage": "Значення розвивального контексту в психотерапії підлітків"
+  },
+  "psychotherapy young photobox alt 1": {
+    "defaultMessage": "онлайн-психотерапія для підлітків"
+  },
+  "psychotherapy young photobox alt 2": {
+    "defaultMessage": "Психотерапія дітей та підлітків вимагає врахування рівня когнітивного розвитку та адаптації до нього адекватних терапевтичних засобів."
+  },
+  "psychotherapy young photobox alt 3": {
+    "defaultMessage": "Підлітки страждають від різноманітних проблем психічного здоров’я, пов’язаних із використанням технологій"
+  },
+  "psychotherapy young photobox title 1": {
+    "defaultMessage": "молодіжна онлайн-психотерапія"
+  },
+  "psychotherapy young photobox title 2": {
+    "defaultMessage": "Детермінанти молодіжної психотерапії"
+  },
+  "psychotherapy young photobox title 3": {
+    "defaultMessage": "Психічні проблеми у підлітків"
+  },
+  "psychotherapy young title 1": {
+    "defaultMessage": "Онлайн-психотерапія для підлітків"
+  },
+  "psychotherapy young title 2": {
+    "defaultMessage": "Онлайн-психотерапія підлітків до 18 років"
+  },
+  "PVH2we": {
+    "defaultMessage": "Приєднайся до нас"
+  },
+  "pwc therapist": {
+    "defaultMessage": "PWC терапевт"
+  },
+  "pwc therapist description": {
+    "defaultMessage": "PWC терапевт зберігається як окремий запис у базі даних, може мати те саме ім’я та прізвище, що й стандартний, але повинен мати іншу адресу електронної пошти."
+  },
+  "quality": {
+    "defaultMessage": "Якість, швидкість та зручність"
+  },
+  "quality info": {
+    "defaultMessage": "Доступ до кваліфікованих психотерапевтів та інших спеціалістів у будь-якому місці та на будь-якому пристрої"
+  },
+  "question for payment sent": {
+    "defaultMessage": "Запит на зняття коштів надіслано!"
+  },
+  "questionnaire date": {
+    "defaultMessage": "Вибери свій рік народження"
+  },
+  "questionnaire first visit": {
+    "defaultMessage": "Це ваша перша психотерапія?"
+  },
+  "questionnaire gender": {
+    "defaultMessage": "Вибери свою стать"
+  },
+  "questionnaire is after": {
+    "defaultMessage": "Чи відбулась твоя консультація з психіатром?"
+  },
+  "questionnaire motivation": {
+    "defaultMessage": "Яка твоя основна мотивація розмовляти зі мною?"
+  },
+  "questionnaire motivation 1": {
+    "defaultMessage": "Мені потрібна допомога у виборі терапевта"
+  },
+  "questionnaire motivation 2": {
+    "defaultMessage": "Цікаво, чи може психотерапія мені допомогти"
+  },
+  "questionnaire motivation 3": {
+    "defaultMessage": "Мені дуже важко / мені погано"
+  },
+  "questionnaire other": {
+    "defaultMessage": "Інше / Відмова відповідати"
+  },
+  "read more": {
+    "defaultMessage": "Більше"
+  },
+  "receive specialist info on email": {
+    "defaultMessage": "Інформацію про обраного спеціаліста, а також дату та час першого сеансу ти отримаєш на електронну пошту. Якщо у тебе виникли запитання, не соромся запитати свого Опікуна Терапії."
+  },
+  "recommend video call": {
+    "defaultMessage": "Рекомендуємо форму відеоконференції - завдяки цьому ти зможеш побачити свого терапевта і почувати себе майже як в кабінеті! Ми розуміємо, що іноді з різних причин навіть це неможливо – тому ми завжди даємо вам можливість телефонного дзвінка."
+  },
+  "recommended": {
+    "defaultMessage": "Рекомендовані"
+  },
+  "recommended (sort)": {
+    "defaultMessage": "Рекомендовані"
+  },
+  "repeat next week": {
+    "defaultMessage": "Повторити автоматично протягом наступного тижня"
+  },
+  "reservation soon": {
+    "defaultMessage": "Незабаром доступне бронювання"
+  },
+  "reset password": {
+    "defaultMessage": "Скинути пароль"
+  },
+  "reset password success": {
+    "defaultMessage": "Скинуто пароль"
+  },
+  "resign of course": {
+    "defaultMessage": "Звичайно, але якщо ти зробиш це пізніше ніж за 24 години до початку вашого візиту, ми не зможемо повернути тобі гроші."
+  },
+  "return investition": {
+    "defaultMessage": "повернення з інвестиції"
+  },
+  "Sandra Pasek quote": {
+    "defaultMessage": "На основі наукових досліджень можу сказати, що без психічного здоров’я немає фізичного здоров’я. Психічне здоров’я необхідне для того, щоб людина могла добре функціонувати у професійній та приватній сферах. Коли компанії інвестують у психічне здоров’я своїх співробітників, вони отримують віддачу від цих інвестицій, оскільки психічне благополуччя сприяє творчості, еластичності, відданості та позитивному ставленню до роботи."
+  },
+  "Saturday": {
+    "defaultMessage": "Субота"
+  },
+  "Saturdays": {
+    "defaultMessage": "Суботи"
+  },
+  "Save": {
+    "defaultMessage": "Зберегти"
+  },
+  "Schedule": {
+    "defaultMessage": "Графік"
+  },
+  "search therapist": {
+    "defaultMessage": "Знайди терапевта"
+  },
+  "search therapist by city": {
+    "defaultMessage": "Введи місто"
+  },
+  "search therapist...": {
+    "defaultMessage": "Шукати терапевта..."
+  },
+  "see": {
+    "defaultMessage": "Подивитись"
+  },
+  "see all": {
+    "defaultMessage": "Побачити всіх"
+  },
+  "see our report": {
+    "defaultMessage": "Ознайомся з нашим звітом"
+  },
+  "see transaction": {
+    "defaultMessage": "Переглянути транзакцію"
+  },
+  "select": {
+    "defaultMessage": "Вибери"
+  },
+  "Select a date": {
+    "defaultMessage": "Виберіть дату"
+  },
+  "select all": {
+    "defaultMessage": "Вибрати всіх"
+  },
+  "select guide": {
+    "defaultMessage": "Вибери опікуна"
+  },
+  "select your therapist": {
+    "defaultMessage": "Наші спеціалісти"
+  },
+  "send and ask for contact": {
+    "defaultMessage": "Надішли та попроси про зворотній контакт"
+  },
+  "session completed": {
+    "defaultMessage": "Відбулась"
+  },
+  "session created using aviva website": {
+    "defaultMessage": "Зустріч організована сайтом Aviva"
+  },
+  "session created using pwc website": {
+    "defaultMessage": "Зустріч, організована стороною PWC"
+  },
+  "session details": {
+    "defaultMessage": "Деталі сесії"
+  },
+  "session failed": {
+    "defaultMessage": "не відбулась"
+  },
+  "session payment failed": {
+    "defaultMessage": "Не скасовано"
+  },
+  "Sessions": {
+    "defaultMessage": "Сеанси"
+  },
+  "set availability data": {
+    "defaultMessage": "Вибери зручний для тебе і твоїх пацієнтів графік роботи"
+  },
+  "set call image": {
+    "defaultMessage": "Встанови картинку підключення"
+  },
+  "set work hours": {
+    "defaultMessage": "Встанови свій робочий час"
+  },
+  "set work time": {
+    "defaultMessage": "Встанови робочий час"
+  },
+  "Settings": {
+    "defaultMessage": "Налаштування"
+  },
+  "Sex": {
+    "defaultMessage": "Стать"
+  },
+  "shortcut": {
+    "defaultMessage": "Скорочено"
+  },
+  "shortened details": {
+    "defaultMessage": "Короткий опис (необов'язково)"
+  },
+  "show all": {
+    "defaultMessage": "Показати всім"
+  },
+  "show our therapists": {
+    "defaultMessage": "Показати наших терапевтів"
+  },
+  "show results": {
+    "defaultMessage": "Показати результати"
+  },
+  "show therapist": {
+    "defaultMessage": "Показати терапевта"
+  },
+  "siy-agenda-day1-1": {
+    "defaultMessage": "​<strong>​Навчання:​</strong>​ тренування уваги"
+  },
+  "siy-agenda-day1-10": {
+    "defaultMessage": "​<strong>​Навчання:​</strong>​ трансформуй поточні виклики та реагуй на них"
+  },
+  "siy-agenda-day1-2": {
+    "defaultMessage": "<strong>Як ти розвиваєшся ​</strong>​емоційний інтелект?"
+  },
+  "siy-agenda-day1-3": {
+    "defaultMessage": "​<strong>​Уважність:​</strong>​ перехід від автопілота до усвідомлення"
+  },
+  "siy-agenda-day1-4": {
+    "defaultMessage": "​<strong>​Навчання:​</strong>​ звільни свідомість"
+  },
+  "siy-agenda-day1-5": {
+    "defaultMessage": "​<strong>​Навчання:​</strong>​ звільни свідомість"
+  },
+  "siy-agenda-day1-6": {
+    "defaultMessage": "​<strong>​Самосвідомість:​</strong>​ усвідомлення свого внутрішнього стану"
+  },
+  "siy-agenda-day1-7": {
+    "defaultMessage": "​<strong>​Самоуправління:​</strong>​ вміло керуй своїми імпульсами та реакціями"
+  },
+  "siy-agenda-day1-8": {
+    "defaultMessage": "​<strong>​Навчання:​</strong>​ свідоме слухання"
+  },
+  "siy-agenda-day1-9": {
+    "defaultMessage": "​<strong>​Навчання:​</strong>​ співчуття до себе"
+  },
+  "siy-agenda-day2-1": {
+    "defaultMessage": "​<strong>​Мотивація:​</strong>​ налаштуй свої цінності під роботу"
+  },
+  "siy-agenda-day2-10": {
+    "defaultMessage": "​<strong>​Лідерство:​</strong>​ керуй зі співчуттям"
+  },
+  "siy-agenda-day2-11": {
+    "defaultMessage": "​<strong>​Навчання:​</strong>​ навчання співчуття"
+  },
+  "siy-agenda-day2-12": {
+    "defaultMessage": "​<strong>​Вправа:​</strong>​ відданість керівника"
+  },
+  "siy-agenda-day2-13": {
+    "defaultMessage": "​<strong>​Мозковий штурм​</strong>"
+  },
+  "siy-agenda-day2-2": {
+    "defaultMessage": "​<strong>​Вправа:​</strong>​ вирівнювання цінностей"
+  },
+  "siy-agenda-day2-3": {
+    "defaultMessage": "​<strong>​Тренування уяви:​</strong>​ візуалізуй свої цілі"
+  },
+  "siy-agenda-day2-4": {
+    "defaultMessage": "​<strong>​Навчання:​</strong>​ опір, вихід із невдачі"
+  },
+  "siy-agenda-day2-5": {
+    "defaultMessage": "​<strong>​Вправа:​</strong>​ \"Зовсім як я\""
+  },
+  "siy-agenda-day2-6": {
+    "defaultMessage": "​<strong>​Емпатія:​</strong>​ розуміння почуттів і переживань інших людей"
+  },
+  "siy-agenda-day2-7": {
+    "defaultMessage": "​<strong>​Навчання:​</strong>​ свідома ходьба"
+  },
+  "siy-agenda-day2-8": {
+    "defaultMessage": "​<strong>​Вправа:​</strong>​ емпатійне слухання"
+  },
+  "siy-agenda-day2-9": {
+    "defaultMessage": "​<strong>​Вправа:​</strong>​ важкі розмови"
+  },
+  "siy-agenda-info": {
+    "defaultMessage": "Ця дводенна програма, яку викладають два сертифіковані вчителі SIY, ​<strong>​полягає в дослідженні теми навичок емоційного інтелекту та практичних застосувань на основі усвідомленості.​</strong>​"
+  },
+  "siy-agenda-sign-up": {
+    "defaultMessage": "Підписатись"
+  },
+  "siy-agenda-title": {
+    "defaultMessage": "​<span>​Дводенна програма​</span>​ Шукай всередині себе"
+  },
+  "siy-agenda-title-day": {
+    "defaultMessage": "День"
+  },
+  "siy-agenda-title-day1-end": {
+    "defaultMessage": "17:00 – Кінець першого дня"
+  },
+  "siy-agenda-title-day1-start": {
+    "defaultMessage": "9:00 – початок"
+  },
+  "siy-agenda-title-day2-end": {
+    "defaultMessage": "17:00 – Кінець другого дня"
+  },
+  "siy-agenda-title-day2-start": {
+    "defaultMessage": "9:00 – початок"
+  },
+  "siy-expect-lead-text": {
+    "defaultMessage": "Програма SIY починається з надзвичайно інтерактивного досвіду ​<strong>​дводенна сесія​</strong>​. Пізніше в формі онлайн відбудеться ​<strong>​чотиритижнева інтеграція навичок​</strong>​і в кінці програми організовується ​<strong>​вебінар​</strong>​."
+  },
+  "siy-expect-text-1": {
+    "defaultMessage": "Емпіричний тренінг усвідомленості, нейронауки та п’яти навичок емоційного інтелекту."
+  },
+  "siy-expect-text-2": {
+    "defaultMessage": "Щоденні вправи та матеріали, надіслані електронною поштою, допоможуть у виробленні нових звичок."
+  },
+  "siy-expect-text-3": {
+    "defaultMessage": "Повторно зв’яжись зі своїми вчителями та групою для аналізу та подальшого плану дій."
+  },
+  "siy-expect-time-1": {
+    "defaultMessage": "2 дні"
+  },
+  "siy-expect-time-2": {
+    "defaultMessage": "4 тижні"
+  },
+  "siy-expect-time-3": {
+    "defaultMessage": "1 година"
+  },
+  "siy-expect-title": {
+    "defaultMessage": "​<span>​перебіг</span>курсу"
+  },
+  "siy-expect-title-1": {
+    "defaultMessage": "тренуваня в прямому ефірі"
+  },
+  "siy-expect-title-2": {
+    "defaultMessage": "Віртуальний вебінар-тренінг"
+  },
+  "siy-expect-title-3": {
+    "defaultMessage": "Вебінар"
+  },
+  "siy-form-company": {
+    "defaultMessage": "Компанія"
+  },
+  "siy-form-motivation": {
+    "defaultMessage": "Мотивація / чого я хочу досягти"
+  },
+  "siy-form-name": {
+    "defaultMessage": "Ім'я та прізвище"
+  },
+  "siy-form-position": {
+    "defaultMessage": "Посада"
+  },
+  "siy-form-send": {
+    "defaultMessage": "Надіслати"
+  },
+  "siy-form-title": {
+    "defaultMessage": "Форма заявки"
+  },
+  "siy-lead-date": {
+    "defaultMessage": "11–12 травня 2022 р. Варшава"
+  },
+  "siy-lead-date-early": {
+    "defaultMessage": "до 15 березня"
+  },
+  "siy-lead-date-late": {
+    "defaultMessage": "після 15 березня"
+  },
+  "siy-lead-text": {
+    "defaultMessage": "Дводенна програма для керівників та менеджерів"
+  },
+  "siy-longer-lead-text": {
+    "defaultMessage": "Оригінальна ​<strong>​дводенна програма навчання емоційного інтелекту на основі усвідомленості, розроблена Google​</strong>​. Покращуй концентрацію, стійкість і посилюй емпатію, щоб використовувати весь потенціал своєї команди."
+  },
+  "siy-nav-agenda": {
+    "defaultMessage": "План навчання"
+  },
+  "siy-nav-partners": {
+    "defaultMessage": "Партнери"
+  },
+  "siy-nav-programme": {
+    "defaultMessage": "Програма "
+  },
+  "siy-nav-what-to-expect": {
+    "defaultMessage": "Перебіг"
+  },
+  "siy-partners-title": {
+    "defaultMessage": "​<span>​Приєднуйся до групи організацій​</span>​які брали участь у нашому тренінгу"
+  },
+  "siy-programme-header-1": {
+    "defaultMessage": "​<strong>​Ми даємо лідерам інструменти для підвищення концентрації, самосвідомості та стійкості.​</strong>​"
+  },
+  "siy-programme-header-2": {
+    "defaultMessage": " ​<strong>​Дводенна інтерактивна програма​</strong>​ містить:"
+  },
+  "siy-programme-header-3": {
+    "defaultMessage": "Учасники ​<strong>​буде постійно покращуватися: ​</strong>​ "
+  },
+  "siy-programme-results-1": {
+    "defaultMessage": "Заявлено, що після програми краще почали справлялася зі стресом"
+  },
+  "siy-programme-results-2": {
+    "defaultMessage": "Сказали, що швидше відновились після труднощів після програми."
+  },
+  "siy-programme-results-3": {
+    "defaultMessage": "Помітили збільшення концентрації та здатність бути повністю присутнім"
+  },
+  "siy-programme-results-note": {
+    "defaultMessage": "* на основі 6000 учасників курсу SIY"
+  },
+  "siy-programme-text-1": {
+    "defaultMessage": "Програма SIY, розроблена й перевірена компанією Google, навчає технік уважності й емоційного інтелекту, які ведуть до підтримки максимальної продуктивності та міцної співпраці та ефективного лідерства."
+  },
+  "siy-programme-text-2": {
+    "defaultMessage": "​<li>​Огляд нейронаукової підтримки усвідомленості та емоційного інтелекту​</li> ​<li>​Досліджуй навички емоційного інтелекту: самосвідомість, саморегуляція, мотивація, емпатія та лідерство​</li> ​<li>​Практичні вправи для концентрації уваги та розвитку усвідомлення та емпатії, які є основою самоконтролю та лідерства​</li> ​<li>Спеціальні програми на робочому місці, які допомагають учасникам досягти більшої концентрації, емоційної рівноваги, емпатії та мотивації </li> <li> Дуже інтерактивний 1/ 3 досвіду з презентації та 2/3 від практичних вправ </li> <li> 28-денне завдання після 2-денної програми. Після тренування щоденно надаються матеріали та вправи, які допоможуть учасникам виробити нові звички </li>"
+  },
+  "siy-programme-text-3": {
+    "defaultMessage": "<li>​Самосвідомість і саморегуляція, які є першими двома ключовими компетенціями емоційного інтелекту​</li> ​<li>​Практичні навички, які потрібно взяти додому: низка технік усвідомленості, самосвідомість, ведення щоденника, чуйне слухання та підготовка до важких розмов​</li> ​<li>​Інструменти для спілкування з проникливістю та усвідомленням емоцій та точок зору інших​</li>"
+  },
+  "siy-testimonial-1": {
+    "defaultMessage": "​<strong>​Я дуже рекомендую SIY​</strong>​ будь-хто, хто хоче покращити співпрацю в команді, покращити інноваційне мислення та ясність, зменшити стрес, покращити загальне самопочуття, краще справлятися зі складними розмовами та мати можливість залишатися спокійним загалом."
+  },
+  "siy-testimonial-2": {
+    "defaultMessage": "​<strong>​Я був у захваті від кожної хвилини програми​</strong>​ і відразу поділився своїм досвідом з деякими членами моєї команди. "
+  },
+  "siy-testimonial-3": {
+    "defaultMessage": "Методи, які навчаються в програмі SIY, легко дотримуватися, але ​<strong>​дають дивовижні результати​</strong>"
+  },
+  "siy-testimonial-4": {
+    "defaultMessage": "Ми визнали тренінг настільки корисним, що зараз ​<strong>​в ньому бере участь весь управлінський персонал​</strong>"
+  },
+  "siy-testimonial-5": {
+    "defaultMessage": "Завдяки щедрості моїх роботодавців на bol.com я щойно завершив другий день програми усвідомлення від Google «Пошук всередині себе». Підсумовуючи ці два дні, можу сказати, що ​<strong>​Курс «Пошук всередині себе» дає мені уявлення про мої ідеї та вподобання, показує, як я маю піклуватися про себе, коли мої потреби не задовольняються, і на які сюрпризи я можу зіткнутися, коли відкриваю новий досвід.​</strong>​​"
+  },
+  "siy-testimonial-6": {
+    "defaultMessage": "​​<strong>​Безцінна</strong>​ інвестиція"
+  },
+  "siy-testimonial-function-1": {
+    "defaultMessage": "Директор зі стратегії Plantronics"
+  },
+  "siy-testimonial-function-2": {
+    "defaultMessage": "Віце-президент GetYourGuide"
+  },
+  "siy-testimonial-function-3a": {
+    "defaultMessage": "Глобальний Менеджер Програми"
+  },
+  "siy-testimonial-function-3b": {
+    "defaultMessage": "Офіс Трансформації Бізнесу, Dell"
+  },
+  "siy-testimonial-function-4": {
+    "defaultMessage": "Віце-президент з глобального маркетингового контенту та кампаній Equinix"
+  },
+  "siy-testimonial-function-5": {
+    "defaultMessage": "Партнерський спеціаліст Bol.com​1"
+  },
+  "siy-testimonial-function-6": {
+    "defaultMessage": "Роджер Спіллер і партнери"
+  },
+  "solution for your company": {
+    "defaultMessage": "​Давай поговоримо про рішення, пристосоване до твоєї компанії​. ​<p>​ Скористайся підтримкою досвідчених експертів wellbee і визнач стратегічні потреби твоєї організації у сфері турботи про психічне здоров'я твоїх співробітників ​</p>"
+  },
+  "sort": {
+    "defaultMessage": "Сортувати"
+  },
+  "sort (menu)": {
+    "defaultMessage": "Сортувати"
+  },
+  "sort and filter": {
+    "defaultMessage": "Сортувати і фільтрувати"
+  },
+  "sort and filter therapist": {
+    "defaultMessage": "Сортувати і фільтрувати терапевтів"
+  },
+  "source": {
+    "defaultMessage": "How did you hear about us?"
+  },
+  "specialization": {
+    "defaultMessage": "Спеціалізація"
+  },
+  "Specialties modalities": {
+    "defaultMessage": "Спеціальності, модальності"
+  },
+  "speed check": {
+    "defaultMessage": "Ти можеш перевірити швидкість з’єднання ​<a>​на сторінці​</a>​ - вже ​<b>​500 Кб/с​</b>​ його має бути достатньо, хоча оптимально буде не менше 1,5 Мб / с."
+  },
+  "start": {
+    "defaultMessage": "Початок"
+  },
+  "start therapy": {
+    "defaultMessage": "Почни психотерапію"
+  },
+  "status.active": {
+    "defaultMessage": "Stały pacjent"
+  },
+  "status.active-description": {
+    "defaultMessage": "Pacjent odbył pierwszą rozmowę z terapeutą i nie zrezygnował z kontynuacji terapii"
+  },
+  "status.finished": {
+    "defaultMessage": "Terapia zakończona"
+  },
+  "status.finished-description": {
+    "defaultMessage": "Pacjent zrezygnował z kontynuacji terapii po co najmniej pięciu rozmowach z terapeutą"
+  },
+  "status.first-visit": {
+    "defaultMessage": "Pierwsze konsultacje"
+  },
+  "status.first-visit-description": {
+    "defaultMessage": "Pacjent jest przed swoją pierwszą rozmową z terapeutą"
+  },
+  "status.no-contact": {
+    "defaultMessage": "Brak kontaktu"
+  },
+  "status.no-contact-description": {
+    "defaultMessage": "Brak kontaktu z pacjentem"
+  },
+  "status.pending": {
+    "defaultMessage": "Nowy"
+  },
+  "status.pending-description": {
+    "defaultMessage": "Pacjent oczekuje na rozmowę z Opiekunem terapii"
+  },
+  "status.quick-churn": {
+    "defaultMessage": "Terapia przerwana"
+  },
+  "status.quick-churn-description": {
+    "defaultMessage": "Pacjent zrezygnował z kontynuacji terapii po pierwszej rozmowie z terapeutą"
+  },
+  "status.single-visit": {
+    "defaultMessage": "Jednorazowa konsultacja"
+  },
+  "status.single-visit-description": {
+    "defaultMessage": "Jednorazowa konsultacja"
+  },
+  "status": {
+    "defaultMessage": "Статус"
+  },
+  "status canceled": {
+    "defaultMessage": "Скасовано"
+  },
+  "status cancelled": {
+    "defaultMessage": "Скасовано"
+  },
+  "status cash returned": {
+    "defaultMessage": "Повернення коштів"
+  },
+  "status complete": {
+    "defaultMessage": "Виконано"
+  },
+  "status paid": {
+    "defaultMessage": "Оплачено"
+  },
+  "status payment_failed": {
+    "defaultMessage": "Не скасовано"
+  },
+  "status pending": {
+    "defaultMessage": "Очікує"
+  },
+  "status waiting": {
+    "defaultMessage": "Заброньована"
+  },
+  "Step": {
+    "defaultMessage": "крок"
+  },
+  "street address": {
+    "defaultMessage": "Вулиця"
+  },
+  "Submit": {
+    "defaultMessage": "Вислати"
+  },
+  "Sunday": {
+    "defaultMessage": "Неділя"
+  },
+  "Sundays": {
+    "defaultMessage": "Неділі"
+  },
+  "surname": {
+    "defaultMessage": "Прізвище"
+  },
+  "system": {
+    "defaultMessage": "Система"
+  },
+  "system id": {
+    "defaultMessage": "Ідентифікатор системи"
+  },
+  "telephone tips": {
+    "defaultMessage": "Ти можеш легко приєднатися до зустрічі через Google Meet на своєму мобільному телефоні, якщо у тебе є проблеми з комп’ютером (наприклад, зламана камера). Просто встанови додаток ​<b>​Google Meet з Apple App Store (для iOS) або Google Play (для Android)​</b>​. Пам’ятай, що тримати телефон у руці годину буде не зручно, тому знайди стійкий спосіб розташувати його перед собою :)"
+  },
+  "terms conditions label": {
+    "defaultMessage": "Я підтверджую, що прочитав зміст ​<a>​регламенту​</a>​ і я згоден з його положеннями"
+  },
+  "test hidden": {
+    "defaultMessage": "Тест / прихований"
+  },
+  "therapist": {
+    "defaultMessage": "Терапевт"
+  },
+  "therapist choosing help question": {
+    "defaultMessage": "Потрібна допомога в<br></br><span>виборі психотерапевта?</span>"
+  },
+  "therapist doesnt get money for session": {
+    "defaultMessage": "Терапевт не отримує оплату за сеанс"
+  },
+  "therapist guide": {
+    "defaultMessage": "Відповім на Ваші запитання щодо вибору терапевта"
+  },
+  "therapist find person": {
+    "defaultMessage": "Нижче вибери особу, яка допоможе тобі зробити перший крок до поліпшення якості твого життя"
+  },
+  "therapist guide box lower text": {
+    "defaultMessage": "Наша розмова допоможе нам краще зрозуміти твої потреби і добрати ідеальну терапію"
+  },
+  "therapist list info 1": {
+    "defaultMessage": "Я уважно вислухаю тебе і допоможу підібрати найкращий вид терапії"
+  },
+  "therapist list info 2": {
+    "defaultMessage": "Я допоможу тобі знайти найкращого терапевта з урахуванням твоїх потреб"
+  },
+  "therapist list info 3": {
+    "defaultMessage": "Я поясню, як саме підготуватися до твого першого прийому онлайн"
+  },
+  "therapist list info 4": {
+    "defaultMessage": "Відповім на всі сумніви та запитання щодо курсу терапії"
+  },
+  "Therapist stats": {
+    "defaultMessage": "Статистика психотерапевта"
+  },
+  "therapists": {
+    "defaultMessage": "Терапевти"
+  },
+  "Therapists": {
+    "defaultMessage": "Психотерапевти"
+  },
+  "therapy for you": {
+    "defaultMessage": "Психотерапія саме для тебе"
+  },
+  "therapy guide": {
+    "defaultMessage": "Опікун Терапії"
+  },
+  "therapy guide answer questions": {
+    "defaultMessage": "... і більше того, ми відповімо на всі твої запитання щодо курсу психотерапії."
+  },
+  "therapy guide description plural": {
+    "defaultMessage": "Ми тут, щоб допомогти тобі знайти психотерапевта, який підходить для тих труднощів, про які ти повідомиш. Перевір, що ми можемо зробити для тебе."
+  },
+  "therapy guide first step": {
+    "defaultMessage": "Перший крок"
+  },
+  "therapy guide help": {
+    "defaultMessage": "Тому ми хочемо підтримати тебе на твоєму шляху ​<b>​ми пропонуємо тобі підтримку терапевта - людини, яка допоможе тобі добре підготуватися до цієї подорожі​</b>​. Завдання терапевта – допомагати ​<b>​знайти психотерапевта, який відповідає твоїм уподобанням і який є найкращим спеціалістом у тій сфері, де ти бачиш труднощі​</b>​.Чи це хронічно пригнічений настрій, тривожні стани, панічні атаки - Опікун Терапії візьме до уваги всі проблеми про які повідомиш, добере години і інші важливі для тебе деталі."
+  },
+  "therapy guide how works": {
+    "defaultMessage": "Опікун Терапії - як це працює?"
+  },
+  "therapy guide how works answer": {
+    "defaultMessage": "Вибір правильного фахівця з психічного здоров’я – велика проблема. Ми можемо підтримати тебе у правильному виборі, завдяки тисячам розмов з людьми, які шукають допомоги, та відмінному знанням особливостей роботи фахівців Wellbee. Ми гарантуємо, що спеціаліст буде відповідати твоїм потребам, поважаючи твою конфіденційність. Ми підтримаємо тебе на першому кроці до змін:"
+  },
+  "therapy guide in wellbee": {
+    "defaultMessage": "Опікун Терапії у Wellbee - хто він і чим він може вам допомогти?"
+  },
+  "therapy guide info section": {
+    "defaultMessage": "Мене звати {tutorLink}, і я опікун у Wellbee. Дізнайся, як я можу тобі допомогти:"
+  },
+  "therapy guide info section tasks 1": {
+    "defaultMessage": "Я уважно вислухаю тебе і допоможу підібрати найкращий вид терапії"
+  },
+  "therapy guide info section tasks 2": {
+    "defaultMessage": "Я допоможу тобі знайти найкращого терапевта з урахуванням твоїх потреб"
+  },
+  "therapy guide info section tasks 3": {
+    "defaultMessage": "Поясню, як підготуватися до першого візиту"
+  },
+  "therapy guide info section tasks 4": {
+    "defaultMessage": "Відповім на всі сумніви та запитання щодо курсу терапії"
+  },
+  "therapy guide list - advice": {
+    "defaultMessage": "Ми підкажемо тобі найбільш підходящу форму підтримки та порекомендуємо спеціалістів"
+  },
+  "therapy guide list - checks": {
+    "defaultMessage": "Ми перевіримо доступні дати і дозволимо тобі швидко розпочати терапію"
+  },
+  "therapy guide list - confidential": {
+    "defaultMessage": "Нас зобов’язує таємниця конфіденційності, і ми не виходимо за межі твого комфорту"
+  },
+  "therapy guide our help": {
+    "defaultMessage": "Наша підтримка"
+  },
+  "therapy guide plan": {
+    "defaultMessage": "Терапевт відповідає за план терапії, за свій ​<b>​успіх - клієнт разом з терапевтом​</b>​. Терапія – це процес, в якому ти рухаєшся до ​<b>​досягнення особистих цілей та покращення свого самопочуття​</b>​. Простіше кажучи, ти експерт у своєму житті – ти знаєш, що борешся з певними симптомами, які заважають твоєму повсякденному функціонуванню на багатьох рівнях. ​<b>​Помічати свої проблеми та дозволяти собі допомагати – це перша і перший і дуже важливий крок.</b>"
+  },
+  "therapy guide qualifications": {
+    "defaultMessage": "Компетенції Опікунів Терапії"
+  },
+  "therapy guide qualifications answer": {
+    "defaultMessage": "Наші опікуни провели тисячі інтерв’ю з людьми, які шукали допомоги, щоб підібрати найбільш відповідну терапію, спеціаліста та психоосвіту. Опікуни досконало знають особливості роботи кожного з наших терапевтів, перебувають з ними в постійному контакті та використовують інструменти для полегшення підтримки пацієнтів. Наші опікуни – випускники та студенти психологічних факультетів, які працюють під наглядом досвідчених терапевтів, постійно розвивають свої компетенції та беруть участь у спеціалізованих супервізіях, організованих центром Intra."
+  },
+  "therapy guide second lowercase": {
+    "defaultMessage": "Опікун Терапії"
+  },
+  "therapy guide support box header": {
+    "defaultMessage": "Якщо тобі потрібна підтримка або виникли додаткові запитання"
+  },
+  "therapy guide tasks": {
+    "defaultMessage": "Завдання Опікуна Терапії"
+  },
+  "therapy guide tasks 1": {
+    "defaultMessage": "Ти не знаєш, що відбувається, але відчуваєш, що щось не так?"
+  },
+  "therapy guide tasks 2 merged": {
+    "defaultMessage": "Іноді буває так, що ми не можемо зрозуміти, що з нами відбувається, але відчуваємо погіршення самопочуття. ​<b>​Лікар-терапевт допоможе  тобі окреслити зону труднощів, знайти відповідного спеціаліста та допоможе підготуватися до першого відвідування​</b>​. Не хвилюйся, для нас не буває дурних чи поганих запитань, так само, як немає дурних чи неправильних відповідей – саме для цього нам допомагають Опікуни Терапії."
+  },
+  "therapy guide title": {
+    "defaultMessage": "Опікун Терапії- допомога у виборі терапевта"
+  },
+  "therapy guide title description": {
+    "defaultMessage": "Скористайся допомогою Опікуна Терапії у виборі найбільш відповідного психотерапевта з точки зору проблем, про які ти повідомляєш."
+  },
+  "therapy guide will answer": {
+    "defaultMessage": "Опікун Терапії з нашої команди відповість на всі твої запитання та дозволить вибрати найкращого спеціаліста для твоїх потреб."
+  },
+  "therapy guides": {
+    "defaultMessage": "Опікуни"
+  },
+  "therapy languages": {
+    "defaultMessage": "Мови, якими проводиться терапія"
+  },
+  "therapy no diff": {
+    "defaultMessage": "Дослідження та мета-аналізи не показують відмінностей між ефективністю онлайн- та офлайн-терапії."
+  },
+  "therapy science": {
+    "defaultMessage": "Існує ряд наукових досліджень, які підтверджують, що"
+  },
+  "therapy science link": {
+    "defaultMessage": "онлайн-терапія принаймні настільки ж ефективна, як і традиційна терапія"
+  },
+  "therapy science returns": {
+    "defaultMessage": "Дослідження показують, що онлайн-терапія приносить значний ефект у разі низки розладів (включаючи депресію, соціофобію, ОКР, посттравматичний стресовий стрес)."
+  },
+  "therapy session price": {
+    "defaultMessage": "​<strong>​{sessionPrice} зл​</strong>​ / сеанс {sessionTime} хв"
+  },
+  "therapy succesfull": {
+    "defaultMessage": "Чи ефективна онлайн-терапія?"
+  },
+  "therapy type": {
+    "defaultMessage": "Вид терапії"
+  },
+  "therapy type search": {
+    "defaultMessage": "Вид терапії"
+  },
+  "TherapyGuides": {
+    "defaultMessage": "Опікуни"
+  },
+  "therpy guide list - explain": {
+    "defaultMessage": "Ми пояснимо, як підготуватися до твого прийому"
+  },
+  "Thursday": {
+    "defaultMessage": "Четвер"
+  },
+  "Thursdays": {
+    "defaultMessage": "Четверги"
+  },
+  "timerange overlap": {
+    "defaultMessage": "Відрізки часу перекриваються"
+  },
+  "tips": {
+    "defaultMessage": "Вказівки"
+  },
+  "tips intro": {
+    "defaultMessage": "У Wellbee ми знаємо, що зустрітися з терапевтом і почати психотерапію – це складно. Щоб допомогти тобі найкраще підготуватися до нього, ось кілька корисних порад:"
+  },
+  "tips title": {
+    "defaultMessage": "Психотерапія через Інтернет - поради та рекомендації"
+  },
+  "tips title description": {
+    "defaultMessage": "Онлайн-психотерапія: як користуватися? Чим відрізняється онлайн-сесія з психотерапевтом від стаціонарного відвідування?"
+  },
+  "to": {
+    "defaultMessage": "до"
+  },
+  "to get more tips": {
+    "defaultMessage": "Щоб отримати додаткові поради"
+  },
+  "Today": {
+    "defaultMessage": "Сьогодні"
+  },
+  "Transactions": {
+    "defaultMessage": "Транзакція"
+  },
+  "Tuesday": {
+    "defaultMessage": "Вівторок"
+  },
+  "Tuesdays": {
+    "defaultMessage": "Вівторки"
+  },
+  "turn off sounds": {
+    "defaultMessage": "Намагайся з усіх сил ​<b>​вимкнути будь-який фоновий шум​</b>​ - вимкнути телевізор, радіо, закрити вікно, якщо є можливість. Важливо, щоб ти разом із терапевтом відчували себе комфортно в цьому віртуальному просторі."
+  },
+  "ua-therapists-header": {
+    "defaultMessage": "#Допомога Україні"
+  },
+  "ua-therapists-header-support": {
+    "defaultMessage": "Partner:"
+  },
+  "ua-therapists-lead-download": {
+    "defaultMessage": "Повідомте про акцію інших - завантажте <color>кольоровий</color> або <bw>чорно-білий</bw> плакат для друку"
+  },
+  "ua-therapists-lead-hours": {
+    "defaultMessage": "Понеділок - п'ятниця: 8:00 - 16:00<br></br>Вівторок: 11.30 - 16.00<br></br>Вихідні: 10:00 - 14:00"
+  },
+  "ua-therapists-lead-hours-pl": {
+    "defaultMessage": "Понеділок - п'ятниця: 8:30 - 20:30<br></br>Вихідні: 10:00 - 14:00"
+  },
+  "ua-therapists-lead-larger-2": {
+    "defaultMessage": "Вам потрібна допомога?<br></br>Ми пропонуємо недорогу <span>психологичну</span> підтримку для людей постраждалих від війни в Україні. До Ваших послуг є терапевти, які проводять психотерапию українською мовою."
+  },
+  "ua-therapists-lead-smaller": {
+    "defaultMessage": "Запишись на прийом до вибраного спеціаліста нижче або зв’яжись з нашим терапевтом:"
+  },
+  "understand your needs": {
+    "defaultMessage": "Наша розмова спрямована на те, щоб зрозуміти твої потреби та вибрати найкращого терапевта для тебе."
+  },
+  "unknown error": {
+    "defaultMessage": "Невідома помилка"
+  },
+  "unroll": {
+    "defaultMessage": "Розгорнути"
+  },
+  "upcoming": {
+    "defaultMessage": "Майбутні зустрічі"
+  },
+  "upcoming sessions tooltip": {
+    "defaultMessage": "Відвідування, які були заброньовані на майбутнє. Вони не обов’язково оплачені."
+  },
+  "updated": {
+    "defaultMessage": "Оновлено"
+  },
+  "updated at": {
+    "defaultMessage": "Востаннє змінено:"
+  },
+  "updated availability data": {
+    "defaultMessage": "Дані про наявність оновлено"
+  },
+  "updated data": {
+    "defaultMessage": "Оновлено дані"
+  },
+  "use headphones": {
+    "defaultMessage": "Використовуй навушники"
+  },
+  "user delete are you sure": {
+    "defaultMessage": "Чи напевно хочеш видалити вибраного користувача?"
+  },
+  "user deleted": {
+    "defaultMessage": "Користувача видалено"
+  },
+  "user is not admin": {
+    "defaultMessage": "Користувач не є адміністратором"
+  },
+  "user is not therapist": {
+    "defaultMessage": "Користувач не є терапевтом"
+  },
+  "user is not therapy guide": {
+    "defaultMessage": "Користувач не є опікуном"
+  },
+  "user not found": {
+    "defaultMessage": "Користувача немає серед існуючих користувачів."
+  },
+  "users": {
+    "defaultMessage": "Адміністратори"
+  },
+  "verified specialist": {
+    "defaultMessage": "Перевірені спеціалісти"
+  },
+  "video call requirements": {
+    "defaultMessage": "Для проведення відеоконференцій потрібне відносно стабільне та швидке інтернет-з’єднання. Хороша новина в тому, що навіть ​<b>​3G​</b>​ для цього достатньо."
+  },
+  "view transaction": {
+    "defaultMessage": "Попередній перегляд транзакції"
+  },
+  "visits": {
+    "defaultMessage": "Прийоми"
+  },
+  "Wallet": {
+    "defaultMessage": "Гаманець"
+  },
+  "warm welcome": {
+    "defaultMessage": "Привіт"
+  },
+  "Wednesday": {
+    "defaultMessage": "Середа"
+  },
+  "Wednesdays": {
+    "defaultMessage": "Середи"
+  },
+  "when not": {
+    "defaultMessage": "Які протипоказання до онлайн-психотерапії?"
+  },
+  "when not comparison": {
+    "defaultMessage": "Онлайн-психотерапія настільки ж ефективна, як і «традиційна» терапія в кабінеті. Спрацьовує при лікуванні тривожних розладів, розладів настрою, труднощів у міжособистісних стосунках, а також корисна для людей, які шукають особистісного розвитку. Однак бувають ситуації, коли психотерапія проводиться через Інтернет"
+  },
+  "when not list 1": {
+    "defaultMessage": "Повторювані суїцидальні думки"
+  },
+  "when not list 2": {
+    "defaultMessage": "Переживання психотичних станів"
+  },
+  "when not list 3": {
+    "defaultMessage": "Труднощі в контролі агресії, яка загрожує власному чи чужому життю чи здоров’ю"
+  },
+  "when not list 4": {
+    "defaultMessage": "Діагноз анорексії та/або індекс маси тіла (ІМТ) менше 18"
+  },
+  "when not list 5": {
+    "defaultMessage": "Психотерапія дітей віком до 13 років"
+  },
+  "when not unrolled": {
+    "defaultMessage": "не рекомендується. Варто ознайомитися з наступними протипоказаннями і при виникненні таких труднощів звернутися за іншими видами допомоги (наприклад, консультація психіатра, відвідування поліклініки):"
+  },
+  "when to consider": {
+    "defaultMessage": "Коли варто розглядати онлайн-психотерапію?"
+  },
+  "when to consider description": {
+    "defaultMessage": "У ситуації, коли потрібна психіатрична допомога, а кабінетна психотерапія неможлива з різних причин. Психотерапія через Інтернет (відеосеанси) практикується вже багато років і особливо показана в таких випадках:"
+  },
+  "woman": {
+    "defaultMessage": "Жінка"
+  },
+  "work email": {
+    "defaultMessage": "Робоча адреса електронної пошти"
+  },
+  "worker help wherever": {
+    "defaultMessage": "Надай підтримку своїм співробітникам. Коли їм це потрібно і де б вони не були – безпечно та зручно."
+  },
+  "worker psychological help": {
+    "defaultMessage": "​<span>​Піклуйся​</span>​ про психічне здоров'я своїх співробітників"
+  },
+  "workshop": {
+    "defaultMessage": "​<h3>​Воркшопи та вебінари​</h3> Як впоратися з пандемією? Як навчитися відпочивати? А може, як будувати здорові стосунки? Ми адаптуємо тематику та формат семінарів/вебінарів відповідно до потреб твоїх співробітників та актуальних проблем."
+  },
+  "write code": {
+    "defaultMessage": "Введи знижковий код компанії"
+  },
+  "write email": {
+    "defaultMessage": "Введи адресу твоєї електронної пошти"
+  },
+  "write expected money": {
+    "defaultMessage": "Напиши нам очікувану суму та звідки різниця між нашими розрахунками – додатковий сеанс, незвичайне скасування візиту тощо. Дякуємо!"
+  },
+  "write name and surname": {
+    "defaultMessage": "Введи своє ім’ я та прізвище"
+  },
+  "write password": {
+    "defaultMessage": "Введи свій пароль"
+  },
+  "yes": {
+    "defaultMessage": "Так"
+  },
+  "yes, delete": {
+    "defaultMessage": "Так,видалити"
+  },
+  "Yieldbird psychological help": {
+    "defaultMessage": "Психологічна підтримка для працівників Yieldbird"
+  },
+  "your nearest meeting": {
+    "defaultMessage": "Твоя наступна зустріч:"
+  },
+  "YqV7hx": {
+    "defaultMessage": "Увійти"
+  },
+  "Z9EKCT": {
+    "defaultMessage": "Запрошуємо до співпраці амбітних психотерапевтів. Зв'яжіться з нами та дізнайтеся деталі."
+  },
+  "admin-panel.link-and-delete": {
+    "defaultMessage": "Link with other patient and delete"
+  },
+  "admin-panel.patient-deleted": {
+    "defaultMessage": "Пацієнта видалено"
+  },
+  "b2b-landings.book-visit": {
+    "defaultMessage": "Призначати зустріч"
+  },
+  "b2b-landings.book-visit-wherever": {
+    "defaultMessage": "Запишіться на прийом до спеціалістів Wellbee, коли Вам це потрібно та де б Ви не були – безпечно та зручно."
+  },
+  "b2b-landings.consultation-amount-1": {
+    "defaultMessage": "безкоштовні зустрічі"
+  },
+  "b2b-landings.consultation-amount-2-4": {
+    "defaultMessage": "безкоштовні зустрічі"
+  },
+  "b2b-landings.consultation-amount-5-21": {
+    "defaultMessage": "безкоштовні зустрічі"
+  },
+  "b2b-landings.first-text-custom-ey": {
+    "defaultMessage": "<h2>Five -200 zł discounts per year</h2> You are entitled to schedule 5 visits with -200 zł discount per year - when scheduling your appointment simply use the company code provided by the HR department."
+  },
+  "b2b-landings.first-text-custom-sente": {
+    "defaultMessage": "<h2>Jedna zniżka -50% w roku</h2> W ramach wideokonsultacji online zapewnionych przez Sente, możesz otrzymać jednorazową zniżkę -50% w ciągu roku, wykorzystując do tego kod firmowy."
+  },
+  "b2b-landings.first-text-custom-stx": {
+    "defaultMessage": "<h2>16x -50% discount per year</h2> You are entitled to schedule 16 visits with -50% discount per year - when scheduling your appointment simply use the company code provided by the HR department."
+  },
+  "b2b-landings.how-it-works": {
+    "defaultMessage": "Як це працює?"
+  },
+  "b2b-landings.how-it-works-1": {
+    "defaultMessage": "<h3> Анонімно та безпечно </h3> процес призначення сеансів, а також самі відвідування відбуваються через платформу Wellbee і є повністю анонімними. Ваш роботодавець не знає, хто і коли користується послугами. Усі консультації між вами та даним фахівцем є повністю конфіденційними."
+  },
+  "b2b-landings.how-it-works-2": {
+    "defaultMessage": "<h3> Швидко та зручно </h3> Ви можете брати участь у консультації на будь-якому пристрої, коли Вам зручно і де б Ви не були. Знайдіть місце, де Вам буде комфортно – важливо лише, щоб у вас був хороший доступ до Інтернету."
+  },
+  "b2b-landings.how-it-works-3": {
+    "defaultMessage": "<h3> Персоналізація </h3> ви зможете вибрати фахівця самостійно або скористатися безкоштовною послугою нашої команди опікунів, яка допоможе підібрати спеціаліста відповідно до ваших потреб."
+  },
+  "b2b-landings.limited-options-discount": {
+    "defaultMessage": "<h2>Знижка {discount} злотих на наступну зустріч</h2>Якщо ви використаєте безкоштовні сеанси та захочете організувати подальші зустрічі (наприклад, продовжити сеанси з вибраним спеціалістом), Wellbee надасть вам знижку {discount} злотих на кожний наступний сеанс після введення коду підприємства. Ціни на консультації відповідають діючому прайс-листу на профілю даного спеціаліста."
+  },
+  "b2b-landings.limited-options-free-visits": {
+    "defaultMessage": "<h2> {freeVisits} {consultation} на {period} </h2> У рамках онлайн-відеоконсультації {company} ви можете мати {freeVisits} {consultation} на {period}, використовуючи код компанії."
+  },
+  "b2b-landings.logo-text-common": {
+    "defaultMessage": "У відповідь на поточну ситуацію та задовольнивши ваші потреби, ваша організація вирішила співпрацювати з Wellbee – онлайн-платформою, яка пропонує доступ до кваліфікованих спеціалістів. Коли варто скористатися їхніми порадами? Коли ви хочете подбати про своє самопочуття, ви шукаєте психологічну підтримку чи психотерапевта, ви хочете краще зрозуміти себе та подбати про задовільні стосунки з іншими."
+  },
+  "b2b-landings.logo-text-alternative": {
+    "defaultMessage": "У відповідь на поточну ситуацію та задовольнивши ваші потреби, ваша організація вирішила співпрацювати з Wellbee – онлайн-платформою, яка пропонує доступ до кваліфікованих спеціалістів. Коли варто скористатися їхніми порадами? Коли ви хочете подбати про своє самопочуття, ви шукаєте психологічну підтримку чи психотерапевта, ви хочете краще зрозуміти себе та подбати про задовільні стосунки з іншими."
+  },
+  "b2b-landings.logo-text-custom-savangard": {
+    "defaultMessage": "W odpowiedzi na obecną sytuację i adresując Wasze potrzeby, firma Savangard zdecydowała się na współpracę z Wellbee - platformą online oferującą dostęp do wykwalifikowanych specjalistów. Kiedy warto skorzystać z ich porady? Wtedy, gdy chcecie zadbać o swój wellbeing, szukacie wsparcia psychologicznego lub psychoterapeuty, pragniecie lepiej zrozumieć siebie oraz chcecie zadbać o satysfakcjonujące relacje z innymi."
+  },
+  "b2b-landings.period-month": {
+    "defaultMessage": "місяць"
+  },
+  "b2b-landings.period-quarter": {
+    "defaultMessage": "квартал"
+  },
+  "b2b-landings.period-year": {
+    "defaultMessage": "рік"
+  },
+  "b2b-landings.psychological-help": {
+    "defaultMessage": "<span>Подбай</span> про своє благополуччя та психічне здоров’я"
+  },
+  "b2b-landings.second-text-custom-sente": {
+    "defaultMessage": "<h2>10 zł zniżki na kolejne</h2> Jeśli wykorzystasz przysługującą Ci zniżkę, a chcesz umówić kolejne wizyty (aby np. kontynuować sesje z wybranym specjalistą), otrzymasz od Wellbee zniżkę w wysokości 10 zł na każdą kolejną wizytę po podaniu kodu firmowego. Ceny konsultacji są zgodne z aktualnym cennikiem przy profilu danego specjalisty."
+  },
+  "b2b-landings.therapist-lead-experienced": {
+    "defaultMessage": "Досвідчені"
+  },
+  "b2b-landings.therapist-lead-experienced-info": {
+    "defaultMessage": "Вони мають досвід вирішення ряду проблем"
+  },
+  "b2b-landings.therapist-lead-improvement": {
+    "defaultMessage": "Дбають про безперервний розвиток"
+  },
+  "b2b-landings.therapist-lead-improvement-info": {
+    "defaultMessage": "Усі наші спеціалісти мають відповідну кваліфікацію, проходять навчання та перебувають під постійним наглядом"
+  },
+  "b2b-landings.therapist-lead-text": {
+    "defaultMessage": "Ми дбаємо про те, щоб твої співробітники мали доступ до високоякісних спеціалістів"
+  },
+  "b2b-landings.therapist-lead-title": {
+    "defaultMessage": "Фахівці Wellbee, яким можна довіряти"
+  },
+  "b2b-landings.therapist-lead-verified": {
+    "defaultMessage": "Перевірені"
+  },
+  "b2b-landings.therapist-lead-verified-info": {
+    "defaultMessage": "Наші спеціалісти проходять багатоетапний процес набору"
+  },
+  "b2b-landings.therapy-steps": {
+    "defaultMessage": "Для запису на зустріч виконайте кілька простих кроків"
+  },
+  "b2b-landings.therapy-steps-1": {
+    "defaultMessage": "Виберіть фахівця та дату сеансу. Ви можете використовувати будь-яку адресу електронної пошти, щоб зарезервувати термін."
+  },
+  "b2b-landings.therapy-steps-2": {
+    "defaultMessage": "Якщо ви не знаєте, якого терапевта вибрати, зателефонуйте по номеру <a> +48 732 489 003 </a> або запишіться на прийом до <link> Therapy Carer </link>."
+  },
+  "b2b-landings.therapy-steps-3": {
+    "defaultMessage": "Коли ми попросимо Вас зробити оплату, використовуйте код компанії, наданий вам фірмою."
+  },
+  "b2b-landings.therapy-steps-4": {
+    "defaultMessage": "Ви отримаєте запрошення на консультацію за допомогою Google Meet."
+  },
+  "b2b-landings.unlimited-options": {
+    "defaultMessage": "<h2>Безлімітні безкоштовні консультації</h2>Використовуючи код компанії Ви отримуєте необмежену кількість безкоштовних онлайн-консультацій в рамах послуг від {company}."
+  },
+  "common.close": {
+    "defaultMessage": "Закрити"
+  },
+  "common.currency": {
+    "defaultMessage": "злотих"
+  },
+  "common.delete": {
+    "defaultMessage": "Видалити"
+  },
+  "common.email": {
+    "defaultMessage": "Електронна пошта"
+  },
+  "common.email-address": {
+    "defaultMessage": "Адреса електронної пошти"
+  },
+  "common.name-and-surname": {
+    "defaultMessage": "Ім'я та прізвище"
+  },
+  "common.phone-number": {
+    "defaultMessage": "номер телефону"
+  },
+  "common.server-error": {
+    "defaultMessage": "Помилка сервера"
+  },
+  "home.availability-timerange": {
+    "defaultMessage": "Пн-Пт 8:30 - 20:30 Вихідні 10:00 - 14:00"
+  },
+  "home.blog": {
+    "defaultMessage": "Блог"
+  },
+  "home.book-online-visit": {
+    "defaultMessage": "Призначити зустріч онлайн"
+  },
+  "home.or-call": {
+    "defaultMessage": "Або подзвоніть"
+  },
+  "home.privacy-policy": {
+    "defaultMessage": "Політика приватності"
+  },
+  "home.support-email": {
+    "defaultMessage": "kontakt@wellbee.pl"
+  },
+  "home.terms-and-conditions": {
+    "defaultMessage": "Регламент"
+  },
+  "panel.note-to-patient": {
+    "defaultMessage": "Пам’ятка пацієнту"
+  },
+  "panel.patient-prefers-phone-contact": {
+    "defaultMessage": "Пацієнт воліє зв’язатися з ним по телефону"
+  },
+  "panel.price-for-session": {
+    "defaultMessage": "Ціна сеансу"
+  },
+  "panel.refresh": {
+    "defaultMessage": "Refresh"
+  },
+  "panel.save-changes": {
+    "defaultMessage": "Зберегти зміни"
+  },
+  "panel.therapist-none": {
+    "defaultMessage": "None"
+  },
+  "panel.updated-data": {
+    "defaultMessage": "Оновлено дані"
+  },
+  "patient-panel.invalid-google-password": {
+    "defaultMessage": "Пароль недійсний або користувач не має пароля."
+  },
+  "patient-panel.user-does-not-exist": {
+    "defaultMessage": "Користувача немає серед існуючих користувачів."
+  },
+  "patient-panel.user-is-not-admin": {
+    "defaultMessage": "Користувач не є адміністратором"
+  },
+  "patient-panel.user-is-not-therapist": {
+    "defaultMessage": "Користувач не є терапевтом"
+  },
+  "patient-panel.user-is-not-therapy-guide": {
+    "defaultMessage": "Користувач не є опікуном"
+  },
+  "patient-panel.title-login": {
+    "defaultMessage": "Увійти"
+  },
+  "patient-panel.email-empty-email": {
+    "defaultMessage": "Введіть свій e-mail, щоб змінити пароль"
+  },
+  "patient-panel.btn-remind-password": {
+    "defaultMessage": "Скинути пароль"
+  },
+  "patient-panel.btn-login": {
+    "defaultMessage": "Увійти"
+  },
+  "patient-panel.no-account": {
+    "defaultMessage": "У Вас немає облікового запису?"
+  },
+  "patient-panel.cta-register": {
+    "defaultMessage": "Зареєструватись"
+  },
+  "patient-panel.title-register": {
+    "defaultMessage": "Створити обліковий запис"
+  },
+  "patient-panel.password-validation-min-chars": {
+    "defaultMessage": "9+ символів, мінімум 1 велика літера та мінімум 1 спеціальний символ"
+  },
+  "patient-panel.password-validation-accepted": {
+    "defaultMessage": "Відмінний пароль!"
+  },
+  "patient-panel.btn-register": {
+    "defaultMessage": "Зареєструватись"
+  },
+  "patient-panel.already-have-account": {
+    "defaultMessage": "У вас вже є обліковий запис?"
+  },
+  "patient-panel.register-accept": {
+    "defaultMessage": "Створюючи обліковий запис, я погоджуюся з"
+  },
+  "patient-panel.register-accept-toc": {
+    "defaultMessage": "Правила та умови"
+  },
+  "patient-panel.register-accept-label-and": {
+    "defaultMessage": "|"
+  },
+  "patient-panel.register-accept-privacy": {
+    "defaultMessage": "Конфіденційність"
+  },
+  "patient-panel.register-accept-cookie": {
+    "defaultMessage": "Політика файлів cookie"
+  },
+  "payment.book-free-session": {
+    "defaultMessage": "Забронюй безкоштовний сеанс"
+  },
+  "payment.booking-complete": {
+    "defaultMessage": "Оплата прошла успіно"
+  },
+  "payment.confirm": {
+    "defaultMessage": "Оплати сеанс"
+  },
+  "payment.congratulation-coupon": {
+    "defaultMessage": "Вітаємо! Отримуєш знижку {couponValue} PLN"
+  },
+  "payment.congratulation-session-paid": {
+    "defaultMessage": "Вітаємо! Ваш сеанс вже оплачено"
+  },
+  "payment.contact-us": {
+    "defaultMessage": "Зв'яжись з нами."
+  },
+  "payment.failed": {
+    "defaultMessage": "Оплата не вдалася"
+  },
+  "payment.keep-calm": {
+    "defaultMessage": "Зберігай спокій.Трапляється."
+  },
+  "payment.payu-info": {
+    "defaultMessage": "підтримує швидкі та зручні онлайн-платежі на wellbee.pl. Будь ласка, дотримуйся інструкцій щодо оплати сеансу.​_1​​2​  ​2​/"
+  },
+  "payment.percent-discount-text": {
+    "defaultMessage": "Зручність і економія"
+  },
+  "payment.percent-discount-text-short": {
+    "defaultMessage": "Економія"
+  },
+  "payment.recommend-benefits": {
+    "defaultMessage": "Завдяки тобі людина, яку ти рекомендуєш Wellbee, отримає знижку 40 злотих на кожну з них ​<strong>​Перші 3 відвідування​</strong>"
+  },
+  "payment.recommend-benefits-for-you": {
+    "defaultMessage": "Ми вважаємо, що добро має повертатися, тому якщо рекомендована тобою людина скористається 3 сеансами, ти отримаєте від нас те саме: ​<strong>​Знижка 40 злотих на кожну з наступних 3 сеансів​</strong>​."
+  },
+  "payment.recommend-wellbee": {
+    "defaultMessage": "Якщо комфортно, ​<strong>​порекомендуй Wellbee своїм друзям​</strong>​ використовуючи для цього свій ​<strong>​персональний код​</strong>​:"
+  },
+  "payment.thank-you-for-trust": {
+    "defaultMessage": "Дякуємо за довіру"
+  },
+  "payment.to-enter-before-paying": {
+    "defaultMessage": "(вводиться безпосередньо перед оплатою)"
+  },
+  "payment.try-pay-again": {
+    "defaultMessage": "Спробуй здійснити платіж ще раз, натиснувши посилання з листа електронної пошти"
+  },
+  "payment.use-code": {
+    "defaultMessage": "Зреалізуйте"
+  },
+  "payment.use-other-payment-method": {
+    "defaultMessage": "Будь ласка, використай інший спосіб оплати"
+  },
+  "payment.what-can-you-do": {
+    "defaultMessage": "Що можеш зробити?"
+  }
+}

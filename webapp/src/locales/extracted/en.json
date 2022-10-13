@@ -1,0 +1,3248 @@
+{
+  "(filter line) show": {
+    "defaultMessage": "Show"
+  },
+  "#let's talk": {
+    "defaultMessage": "#letstalk"
+  },
+  "1 session": {
+    "defaultMessage": "1 session"
+  },
+  "1000 more": {
+    "defaultMessage": "1000 and more"
+  },
+  "4 sessions": {
+    "defaultMessage": "4 sessions"
+  },
+  "8 sessions": {
+    "defaultMessage": "8 sessions"
+  },
+  "appointment.back-to-calendar": {
+    "defaultMessage": "Go back to the calendar"
+  },
+  "appointment.we-have-a-problem": {
+    "defaultMessage": "We have a problem"
+  },
+  "about me": {
+    "defaultMessage": "About me"
+  },
+  "account email": {
+    "defaultMessage": "Account e-mail"
+  },
+  "account password": {
+    "defaultMessage": "Account password"
+  },
+  "acquaintance": {
+    "defaultMessage": "A friend"
+  },
+  "actions": {
+    "defaultMessage": "Actions"
+  },
+  "active filters": {
+    "defaultMessage": "Active filters"
+  },
+  "add": {
+    "defaultMessage": "Dodaj"
+  },
+  "add certificate": {
+    "defaultMessage": "Add certificate"
+  },
+  "add range": {
+    "defaultMessage": "Add range"
+  },
+  "add session": {
+    "defaultMessage": "Add session"
+  },
+  "add variant": {
+    "defaultMessage": "Add variant"
+  },
+  "additional patient data": {
+    "defaultMessage": "Additional patient data"
+  },
+  "additional patient data below": {
+    "defaultMessage": "There are additional patient data below."
+  },
+  "additional sorting points": {
+    "defaultMessage": "Additional sorting points"
+  },
+  "adjusted to needs": {
+    "defaultMessage": "Meeting their needs"
+  },
+  "adjusted to needs info": {
+    "defaultMessage": "Employees often say that providing them with mental health support was one of the best initiatives implemented in the company"
+  },
+  "admin panel description": {
+    "defaultMessage": "Wellbee Admin panel"
+  },
+  "admin panel title": {
+    "defaultMessage": "Admin panel - Wellbee"
+  },
+  "Admin panel title": {
+    "defaultMessage": "Wellbee admin panel"
+  },
+  "admin panel welcome": {
+    "defaultMessage": "Welcome to wellbee admin panel."
+  },
+  "admin-panel-cancel-event-no-refund-voucher-are-you-sure": {
+    "defaultMessage": "Are you sure you want to cancel session without creating refund voucher?"
+  },
+  "admin-panel-cancel-session-no-refund-voucher": {
+    "defaultMessage": "Cancel without creating voucher"
+  },
+  "admin-panel-hide-solved-older-than-3-days": {
+    "defaultMessage": "Hide solved older than 3 days"
+  },
+  "admin-panel-show-test-hidden": {
+    "defaultMessage": "Show test/hidden"
+  },
+  "aggree with therms": {
+    "defaultMessage": "I agree to Wellbee.pl’s Terms & Conditions"
+  },
+  "aggrement to health data processing": {
+    "defaultMessage": "I agree to processing my private data (including health) in order to facilitate free consultation, select therapist, as well as conduct contract in accordance with <a>T&Cs</a>."
+  },
+  "agreement to contact data processing 1": {
+    "defaultMessage": "By clicking “Send form”, I agree to data processing by Wellbee and consent to the <a>T&Cs</a> to process my request and be informed about Wellbee’s offer."
+  },
+  "all": {
+    "defaultMessage": "All"
+  },
+  "All spots booked offline": {
+    "defaultMessage": "All time slots reserved"
+  },
+  "All spots booked online": {
+    "defaultMessage": "All time slots reserved"
+  },
+  "all years": {
+    "defaultMessage": "All years"
+  },
+  "already paid for": {
+    "defaultMessage": "Already paid out"
+  },
+  "anonimity": {
+    "defaultMessage": "Safely and anonymously"
+  },
+  "anonimity info": {
+    "defaultMessage": "You provide your employees with safe and anonymous access to mental health care"
+  },
+  "any therapy guide": {
+    "defaultMessage": "Any therapy guide"
+  },
+  "appoint event with therapist": {
+    "defaultMessage": "Appoint event with Therapist"
+  },
+  "appoint event with therapist explanation": {
+    "defaultMessage": "After making an appointment with Therapist, patient will receive an email with payment link. After the payment patient will receive email with meeting invite."
+  },
+  "appointment in past": {
+    "defaultMessage": "Appointment in the past"
+  },
+  "appointment title": {
+    "defaultMessage": "Therapy session with: {therapistName} {therapistSurname}"
+  },
+  "are you sure you want to delete?": {
+    "defaultMessage": "Are you sure you want to delete this file?"
+  },
+  "arranging calls": {
+    "defaultMessage": "Arranging calls with therapy guide"
+  },
+  "authorization state": {
+    "defaultMessage": "Authorization state"
+  },
+  "Available hours": {
+    "defaultMessage": "Available time slots"
+  },
+  "available slots soon": {
+    "defaultMessage": "Available slots soon"
+  },
+  "available slots soon score": {
+    "defaultMessage": "Available slots soon score"
+  },
+  "available slots week": {
+    "defaultMessage": "Available slots week"
+  },
+  "available slots week score": {
+    "defaultMessage": "Available slots week score"
+  },
+  "B2B all stats": {
+    "defaultMessage": "B2B all stats"
+  },
+  "B2B balance stats": {
+    "defaultMessage": "B2B balance stats"
+  },
+  "b2b care": {
+    "defaultMessage": "Taking care of your employees means taking care of your company"
+  },
+  "B2B clients list": {
+    "defaultMessage": "B2B clients list"
+  },
+  "b2b discount": {
+    "defaultMessage": "<h2>10 PLN discount for each next visit</h2> If you use the free visits you are entitled to, and you would like to arrange further appointments, we are happy to offer you a 10 PLN discount for each next visit - when scheduling your appointment simply use your company code provided by the HR department. You can find our pricing on wellbee.pl."
+  },
+  "b2b discount options -20": {
+    "defaultMessage": "<h2>Afterwards 20 PLN discount on every session</h2> If you use up the first {freeVisits} visits and you would like to continue the treatment, we are happy to offer you a 20 PLN discount for every further visit. If the discount wasn’t applied automatically use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+  },
+  "b2b discount options -30": {
+    "defaultMessage": "<h2>Afterwards 30 PLN discount on every session</h2> If you use up the first {freeVisits} visits and you would like to continue the treatment, we are happy to offer you a 30 PLN discount for every further visit. If the discount wasn’t applied automatically use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+  },
+  "b2b discount options 10%": {
+    "defaultMessage": "<h2>Afterwards 10% discount on every session</h2> If you use up the first {freeVisits} visits and you would like to continue the treatment, we are happy to offer you a 10% discount for every further visit. If the discount wasn’t applied automatically use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+  },
+  "b2b discount options ailleron canon": {
+    "defaultMessage": "<h2>Afterwards 10 PLN discount on every session</h2> If you use up the first {freeVisits} visits and you would like to continue the treatment, we are happy to offer you a 10 PLN discount for every further visit. If the discount wasn’t applied automatically use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+  },
+  "b2b discount options jobimpulse": {
+    "defaultMessage": "<h2>Afterwards 10 PLN discount on every session</h2> If you use up the first {freeVisits} visits and you would like to continue the treatment, we are happy to offer you a 10 PLN discount for every further visit. If the discount wasn’t applied automatically use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+  },
+  "b2b discout divante": {
+    "defaultMessage": "<h2>Afterwards 10 PLN discount on every session</h2> If you use up the first {freeVisits} visits and you would like to continue the treatment, we are happy to offer you a 10 PLN discount for every further visit. If the discount wasn’t applied automatically use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+  },
+  "b2b first text": {
+    "defaultMessage": "In response to the current situation and to address your needs, as part of their wellbeing program,  {company} has asked us to provide a solution that can support you in the area of mental health, emotional development and in building healthy relationships with other people."
+  },
+  "b2b free visits": {
+    "defaultMessage": "<h2>2 appointments per quarter</h2>You are entitled to schedule 2 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+  },
+  "b2b free visits 100x": {
+    "defaultMessage": "<h2>100 appointments per year</h2>You are entitled to schedule 100 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+  },
+  "b2b free visits 15x": {
+    "defaultMessage": "<h2>15 appointments per year</h2>You are entitled to schedule 15 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+  },
+  "b2b free visits 2x": {
+    "defaultMessage": "<h2>2 appointments per year</h2>You are entitled to schedule 2 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+  },
+  "b2b free visits 3x": {
+    "defaultMessage": "<h2>3 appointments per year</h2>You are entitled to schedule 3 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+  },
+  "b2b free visits 5x": {
+    "defaultMessage": "<h2>5 appointments per year</h2>You are entitled to schedule 5 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+  },
+  "b2b free visits 6x": {
+    "defaultMessage": "<h2>6 appointments per year</h2>You are entitled to schedule 6 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+  },
+  "b2b free visits 8x": {
+    "defaultMessage": "<h2>8 appointments per year</h2>You are entitled to schedule 8 appointments online per year free of charge - when scheduling your appointment simply use the company code provided by the HR department. All appointments provided by the company must be used within one year."
+  },
+  "b2b free visits ing": {
+    "defaultMessage": "<h2>6 free appointments</h2>You are entitled to schedule 6 appointments free of charge provided by ING- when scheduling your appointment simply use the company code provided by the HR department."
+  },
+  "b2b free visits techland": {
+    "defaultMessage": "<h2>4 appointments per year</h2>You are entitled to schedule 4 appointments online per year free of charge provided by Techland when scheduling your appointment simply use the company code provided by the HR department - <strong>@TECHLAND1!</strong><div>Use until 3.03.2023</div>"
+  },
+  "b2b free visits urw": {
+    "defaultMessage": "<h2>6 free appointments</h2>You are entitled to schedule 6 appointments free of charge provided by Unibail‑Rodamco‑Westfield- when scheduling your appointment simply use the company code provided by the HR department."
+  },
+  "b2b how it works 1 aviva": {
+    "defaultMessage": "<h3> Anonymous and secure </h3> the entire scheduling process takes place via the Wellbee platform. All consultations between you and your specialist are completely confidential."
+  },
+  "b2b how it works 2 (urw)": {
+    "defaultMessage": "<h3> Quick and easy</h3> you can consult on any device, whenever it suits you and wherever you are. Find a space where you feel comfortable - just make sure you have good access to the Internet in case of online consultation."
+  },
+  "b2b mirumee": {
+    "defaultMessage": "<h2>4 appointments per month</h2>Up to four times a month, you are entitled to schedule unlimited appointments online free of charge - when scheduling your appointment simply use the company code provided by the HR department."
+  },
+  "b2b options customfirsttext solwit": {
+    "defaultMessage": "<h2>3 free visits per year</h2>Your employer has a pool of free consultations (offline / online) provided by the code: @SOLWIT1!. Each employee can receive up to 3 free visits per year."
+  },
+  "b2b options customsecondtext solwit": {
+    "defaultMessage": "<h2>Afterwards 40 PLN discount on every session</h2>When you run out of free visits, you will receive -40 PLN discount for next meetings. The use is anonymous."
+  },
+  "b2b page description": {
+    "defaultMessage": "Online psychotherapy for business. Take care of mental health of your employees.Take advantage of the subscription offer B2B #mentalhealth in Wellbee."
+  },
+  "b2b page title": {
+    "defaultMessage": "Online psychotherapy for business. Take care of mental health of your employees."
+  },
+  "b2b saleor": {
+    "defaultMessage": "<h2>4 appointments per month</h2>Up to four times a month, you are entitled to schedule unlimited appointments online free of charge - when scheduling your appointment simply use the company code provided by the HR department."
+  },
+  "b2b why invest": {
+    "defaultMessage": "Why should you invest in the wellbeing and mental health of your employees?"
+  },
+  "b2b why invest source": {
+    "defaultMessage": "Source: Oracle Mental Health Report; Absencja chorobowa w 2018 roku, ZUS, 2019"
+  },
+  "b2b why invest stats 1": {
+    "defaultMessage": "employees claimed that the pandemic had a bad influence on their mental health"
+  },
+  "b2b why invest stats 1.5": {
+    "defaultMessage": "of employees declare a decrease in the quality of life"
+  },
+  "b2b why invest stats 2": {
+    "defaultMessage": "employees expect mental health support from their company  "
+  },
+  "b2b why invest stats 3": {
+    "defaultMessage": "could be saved by Polish companies if they provided mental health support to their employees"
+  },
+  "b2b why invest stats 3 title": {
+    "defaultMessage": "6 billion PLN"
+  },
+  "Back": {
+    "defaultMessage": "Back"
+  },
+  "back to settings": {
+    "defaultMessage": "Back to settings"
+  },
+  "Back to therapist list": {
+    "defaultMessage": "Show all therapists"
+  },
+  "back to wellbee": {
+    "defaultMessage": "Go back to wellbee.pl"
+  },
+  "bank account number": {
+    "defaultMessage": "Bank account number"
+  },
+  "benefits": {
+    "defaultMessage": "Desired benefit"
+  },
+  "benefits info": {
+    "defaultMessage": "Take care of your employees’ mental health and offer one of the most desired benefits"
+  },
+  "bio en": {
+    "defaultMessage": "Bio (description) EN"
+  },
+  "bio pl": {
+    "defaultMessage": "Bio (description) PL"
+  },
+  "bio ru": {
+    "defaultMessage": "Bio (description) RU"
+  },
+  "bio ua": {
+    "defaultMessage": "Bio (description) UA"
+  },
+  "Blog": {
+    "defaultMessage": "Blog"
+  },
+  "bonus": {
+    "defaultMessage": "bonus"
+  },
+  "book a visit": {
+    "defaultMessage": "BOOK A VISIT"
+  },
+  "book left side text": {
+    "defaultMessage": "Book a 50 minute consultation"
+  },
+  "book session with therapy guide (no break)": {
+    "defaultMessage": "Book therapy guide consultation"
+  },
+  "book session with therapy guide lowercase": {
+    "defaultMessage": "book therapy guide consultation"
+  },
+  "book therapist guide": {
+    "defaultMessage": "Book an appointment with our consultant today!"
+  },
+  "book therapy guide": {
+    "defaultMessage": "<span>Book a free</span> consultation with Therapy Guide"
+  },
+  "book video call": {
+    "defaultMessage": "Book a video call"
+  },
+  "book video call to choose therapist": {
+    "defaultMessage": "<span>Book</span> a <strong>free</strong> video call to get help with choice of specialist"
+  },
+  "book video call with therapy guide": {
+    "defaultMessage": "Book a video call with Therapy Guide"
+  },
+  "Book visit": {
+    "defaultMessage": "Next"
+  },
+  "book visit step 3 (no count)": {
+    "defaultMessage": "When we ask you for the payment, simply use the company code that you got from the HR department."
+  },
+  "book visit step 3 (version with 100)": {
+    "defaultMessage": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 100 appointments are free of charge."
+  },
+  "book visit step 3 (version with 15)": {
+    "defaultMessage": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 15 appointments are free of charge."
+  },
+  "book visit step 3 (version with 2)": {
+    "defaultMessage": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 2 appointments are free of charge."
+  },
+  "book visit step 3 (version with 4)": {
+    "defaultMessage": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 4 appointments are free of charge."
+  },
+  "book visit step 3 (version with 5)": {
+    "defaultMessage": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 5 appointments are free of charge"
+  },
+  "book visit step 3 (version with 6)": {
+    "defaultMessage": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 6 appointments are free of charge"
+  },
+  "book visit step 3 ailleron": {
+    "defaultMessage": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 3 appointments provided by Ailleron are free of charge"
+  },
+  "book visit step 3 ing": {
+    "defaultMessage": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 3 appointments provided by ING are free of charge"
+  },
+  "book visit step 3 yieldbird": {
+    "defaultMessage": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 2 appointments provided by Yieldbird are free of charge ."
+  },
+  "book visit steps 1 (urw)": {
+    "defaultMessage": "Choose your specialist and the date of your appointment. You can use business email address."
+  },
+  "book visit steps 3 jobimpulse": {
+    "defaultMessage": "When we ask you for the payment, simply use the company code that you got from the HR department. The first 3 appointments provided by Job Impulse are free of charge."
+  },
+  "book visit wherever": {
+    "defaultMessage": "Schedule your appointment online with a psychologist or a psychotherapist from Wellbee, whenever you need it and wherever you are - safely and comfortably"
+  },
+  "bookedAt": {
+    "defaultMessage": "Utworzono"
+  },
+  "booking complete info": {
+    "defaultMessage": "We sent all the details regarding your consultation, including the link to your through which you will be to connect with your specialist, to"
+  },
+  "bookings week": {
+    "defaultMessage": "Bookings week"
+  },
+  "bookings week score": {
+    "defaultMessage": "Bookings week score"
+  },
+  "browser recommendation": {
+    "defaultMessage": "We recommend using a browser that is suitable <b>Chrome. Firefox and Safari</b> or even <b>Microsof Edge</b> are all good!"
+  },
+  "by availability (sort)": {
+    "defaultMessage": "By availability"
+  },
+  "calendar authorization": {
+    "defaultMessage": "Calendar authorization"
+  },
+  "calendar connection active": {
+    "defaultMessage": "Connection with calendar active"
+  },
+  "calendar connection not active": {
+    "defaultMessage": "Connection with calendar inactive"
+  },
+  "call now": {
+    "defaultMessage": "Call now"
+  },
+  "call to action know more": {
+    "defaultMessage": "Find out more about therapy online"
+  },
+  "call with therapy guide": {
+    "defaultMessage": "Consultation with Therapy Guide"
+  },
+  "call with therapy guide (with name)": {
+    "defaultMessage": "Consultation with: {userName}"
+  },
+  "calls are accepted": {
+    "defaultMessage": "Calls are accepted in hours:"
+  },
+  "can i resign": {
+    "defaultMessage": "Can I resign at any time?"
+  },
+  "can't restore": {
+    "defaultMessage": "You can’t restore it"
+  },
+  "cancel": {
+    "defaultMessage": "Cancel"
+  },
+  "cancel event are you sure": {
+    "defaultMessage": "Are you sure you want to cancel event?"
+  },
+  "cancel session": {
+    "defaultMessage": "Cancel session"
+  },
+  "Certificates": {
+    "defaultMessage": "Certifications"
+  },
+  "certificates i want to show": {
+    "defaultMessage": "Certificates you want to show"
+  },
+  "change events to online if no address": {
+    "defaultMessage": "Change events to online if no address"
+  },
+  "change password": {
+    "defaultMessage": "Change password"
+  },
+  "change product variant": {
+    "defaultMessage": "Change product variant"
+  },
+  "changelog": {
+    "defaultMessage": "Changelog"
+  },
+  "check choosen specialist": {
+    "defaultMessage": "Check out chosen specialist"
+  },
+  "check therapists": {
+    "defaultMessage": "No problem! Check out all ours specialists and book an appointment"
+  },
+  "Choose another day": {
+    "defaultMessage": "Pick another day"
+  },
+  "choose best date": {
+    "defaultMessage": "Choose a suitable time and book a 20’ consultation with Therapy Guide, who will help you choose the best specialist for you"
+  },
+  "choose best date but with Agnieszka": {
+    "defaultMessage": "Choose a suitable time and book a 20’ consultation with Therapy Guide, who will help you choose the best specialist for you"
+  },
+  "choose therapist by yourself": {
+    "defaultMessage": "I want to choose the therapist myself"
+  },
+  "choose video call": {
+    "defaultMessage": "Choose/. Pick a video call"
+  },
+  "city": {
+    "defaultMessage": "City"
+  },
+  "clear": {
+    "defaultMessage": "Clear"
+  },
+  "clear all": {
+    "defaultMessage": "Clear all"
+  },
+  "click this link": {
+    "defaultMessage": "Click on this link"
+  },
+  "closest date": {
+    "defaultMessage": "By availability"
+  },
+  "closest date:": {
+    "defaultMessage": "Next free slot"
+  },
+  "closestSession": {
+    "defaultMessage": "Closest session"
+  },
+  "code": {
+    "defaultMessage": "Code"
+  },
+  "codes": {
+    "defaultMessage": "Codes"
+  },
+  "Come back": {
+    "defaultMessage": "Back/ return/ come back"
+  },
+  "companies section header": {
+    "defaultMessage": "Trusted by leading employers"
+  },
+  "company name": {
+    "defaultMessage": "Company name"
+  },
+  "company stats patients": {
+    "defaultMessage": "patients"
+  },
+  "company stats visits": {
+    "defaultMessage": "visits"
+  },
+  "completed sessions": {
+    "defaultMessage": "completed sessions"
+  },
+  "completed sessions tooltip": {
+    "defaultMessage": "Sessions were done as planned. You will receive the payment for them."
+  },
+  "complex support": {
+    "defaultMessage": "Comprehensive support"
+  },
+  "complex support info": {
+    "defaultMessage": "We are here for you at every step of the way, including support in implementation and internal communication - we become your trusted partner."
+  },
+  "configured calendar": {
+    "defaultMessage": "Calendar configured"
+  },
+  "confirm payment": {
+    "defaultMessage": "I confirm that salary is correct"
+  },
+  "confirm step info": {
+    "defaultMessage": "During the consultation {methodText} we’ll discuss your needs and address them the best way we can. You’ll receive an email with confirmation and details of the appointment."
+  },
+  "congratulation!": {
+    "defaultMessage": "Congratulations!"
+  },
+  "Connect with calendar": {
+    "defaultMessage": "Connect with the calendar"
+  },
+  "connected": {
+    "defaultMessage": "Connected"
+  },
+  "Connected with calendar": {
+    "defaultMessage": "Calendar connected"
+  },
+  "consider list 1": {
+    "defaultMessage": "Social distancing caused by pandemic or quarantine. "
+  },
+  "consider list 2": {
+    "defaultMessage": "place of residence, which unables you having psychotherapy in the office (especially in small towns with no access to psychotherapeutic help) "
+  },
+  "consider list 3": {
+    "defaultMessage": "Expats who have difficulty in finding therapists with whom they share native language and culture"
+  },
+  "consider list 4": {
+    "defaultMessage": "Disability that makes commuting difficult"
+  },
+  "consider list 5": {
+    "defaultMessage": "Relocation and wishing to continue therapy with current therapist"
+  },
+  "Consultation": {
+    "defaultMessage": "Therapy session with {therapistName}"
+  },
+  "contact marketing email agreement": {
+    "defaultMessage": "I agree to receive on the aforementioned e-mail address, further commercial and marketing materials about Wellbee’s services and products, including those sent via an automated system."
+  },
+  "contact us": {
+    "defaultMessage": "Contact us"
+  },
+  "contact us info": {
+    "defaultMessage": "Please kindly fill in the form below and we will reach out you shortly"
+  },
+  "continuation": {
+    "defaultMessage": "Continuation"
+  },
+  "contract type": {
+    "defaultMessage": "Contract type"
+  },
+  "copy link": {
+    "defaultMessage": "Copy link"
+  },
+  "copy to clipboard": {
+    "defaultMessage": "Copy to clipboard"
+  },
+  "country": {
+    "defaultMessage": "Country"
+  },
+  "coupon count": {
+    "defaultMessage": "Coupon count"
+  },
+  "coupon status ready": {
+    "defaultMessage": "Ready"
+  },
+  "coupon status used": {
+    "defaultMessage": "Used"
+  },
+  "create": {
+    "defaultMessage": "Create"
+  },
+  "create admin": {
+    "defaultMessage": "Create new Admin"
+  },
+  "create admin label": {
+    "defaultMessage": "Create Admin"
+  },
+  "create modality": {
+    "defaultMessage": "Create modality"
+  },
+  "create new account": {
+    "defaultMessage": "Create new account"
+  },
+  "create password": {
+    "defaultMessage": "Create password"
+  },
+  "create patient": {
+    "defaultMessage": "Create Patient"
+  },
+  "create product": {
+    "defaultMessage": "Add product"
+  },
+  "create product variant": {
+    "defaultMessage": "Add product variant"
+  },
+  "create specialization": {
+    "defaultMessage": "Create specialization"
+  },
+  "create therapist": {
+    "defaultMessage": "Create new Therapist"
+  },
+  "create therapist label": {
+    "defaultMessage": "Create Therapist"
+  },
+  "create therapy guide": {
+    "defaultMessage": "Create new Therapy Guide"
+  },
+  "create therapy guide label": {
+    "defaultMessage": "Create new Therapy Guide"
+  },
+  "created at": {
+    "defaultMessage": "Created at"
+  },
+  "created user": {
+    "defaultMessage": "User created"
+  },
+  "Dashboard": {
+    "defaultMessage": "Dashboard"
+  },
+  "date": {
+    "defaultMessage": "Date"
+  },
+  "date filter": {
+    "defaultMessage": "Date/time filters"
+  },
+  "default": {
+    "defaultMessage": "Default"
+  },
+  "default product variant": {
+    "defaultMessage": "Default product variant"
+  },
+  "delete": {
+    "defaultMessage": "Delete"
+  },
+  "delete account info": {
+    "defaultMessage": "In order to delete the account, contact our Support Team, by sending a message to:"
+  },
+  "delete entry question": {
+    "defaultMessage": "Delete this entry?"
+  },
+  "delete link with google calendar": {
+    "defaultMessage": "Delete link with google calendar"
+  },
+  "delete?": {
+    "defaultMessage": "Delete?"
+  },
+  "detail": {
+    "defaultMessage": "Details"
+  },
+  "did not take place because of patient": {
+    "defaultMessage": "Session didn't happen because of the patient (therapist gets the money)"
+  },
+  "discard changes": {
+    "defaultMessage": "Discard changes"
+  },
+  "discount": {
+    "defaultMessage": "Discount"
+  },
+  "do you have account": {
+    "defaultMessage": "Do you have an account?"
+  },
+  "do you not remember password": {
+    "defaultMessage": "You don't remember password?"
+  },
+  "do you want to choose therapist": {
+    "defaultMessage": "Do you want to choose/pick a therapist?"
+  },
+  "don't know wo to choose?": {
+    "defaultMessage": "You do not know who to choose? Contact us!"
+  },
+  "e-mail is not correct": {
+    "defaultMessage": "E-mail address is not correct"
+  },
+  "edit": {
+    "defaultMessage": "Edit"
+  },
+  "edit admin": {
+    "defaultMessage": "Edit Admin"
+  },
+  "edit modality": {
+    "defaultMessage": "Edit modality"
+  },
+  "edit product variant": {
+    "defaultMessage": "Edit product variant"
+  },
+  "edit specialization": {
+    "defaultMessage": "Edit specialization"
+  },
+  "edit therapist": {
+    "defaultMessage": "Edit Therapist"
+  },
+  "edit therapy guide": {
+    "defaultMessage": "Edit Therapy guide"
+  },
+  "email change info": {
+    "defaultMessage": "In order to change the email address, contact our Support Team, by sending a message to:"
+  },
+  "email not found": {
+    "defaultMessage": "There is no user with this e-mail address"
+  },
+  "email placeholder": {
+    "defaultMessage": "example@email.com"
+  },
+  "employees": {
+    "defaultMessage": "How many people do you employ?"
+  },
+  "end": {
+    "defaultMessage": "End"
+  },
+  "end before begining": {
+    "defaultMessage": "The end of shift is before the beginning"
+  },
+  "entry deleted": {
+    "defaultMessage": "Entry deleted"
+  },
+  "error adding session": {
+    "defaultMessage": "Error while adding the session"
+  },
+  "error after deadline": {
+    "defaultMessage": "Payment after deadline. Contact us: {therapyGuideEmail}"
+  },
+  "error already paid": {
+    "defaultMessage": "This session is already paid for"
+  },
+  "error already used code": {
+    "defaultMessage": "The code has already been used. Contact us: {therapyGuideEmail}"
+  },
+  "error.calendar-limit": {
+    "defaultMessage": "Your 3 free visits were already completed"
+  },
+  "error.date-not-available": {
+    "defaultMessage": "Sorry, the selected date was just taken. Please select another date or find different specialist."
+  },
+  "error.server-error-appointment": {
+    "defaultMessage": "A server error has occurred. Please try again, and in case of further errors please contact us at opiekun@wellbee.pl"
+  },
+  "error.unknown-error-appointment": {
+    "defaultMessage": "An unknown error has occurred. Please try again, and in case of further errors please contact us at opiekun@wellbee.pl"
+  },
+  "error calendar limit pwc": {
+    "defaultMessage": "You already used 3 free visits from PWC.\nYou are entitled to 10% discount from now on."
+  },
+  "error invalid code": {
+    "defaultMessage": "The code has already been used. Contact us: {therapyGuideEmail}"
+  },
+  "error submit error": {
+    "defaultMessage": "Please go back to the email message and try again"
+  },
+  "event information": {
+    "defaultMessage": "Event information"
+  },
+  "event paid": {
+    "defaultMessage": "Event paid"
+  },
+  "event price": {
+    "defaultMessage": "Event price"
+  },
+  "event status canceled": {
+    "defaultMessage": "Canceled"
+  },
+  "event status finished": {
+    "defaultMessage": "Finished"
+  },
+  "event status payment failed": {
+    "defaultMessage": "Unpaid"
+  },
+  "event status pending": {
+    "defaultMessage": "Pending"
+  },
+  "Events": {
+    "defaultMessage": "Sessions"
+  },
+  "every": {
+    "defaultMessage": "Every"
+  },
+  "example-therapist-1-title": {
+    "defaultMessage": "Humanistic-existential Therapist"
+  },
+  "example-therapist-2-title": {
+    "defaultMessage": "Psychoanalyst"
+  },
+  "execute": {
+    "defaultMessage": "Execute"
+  },
+  "executed": {
+    "defaultMessage": "Executed"
+  },
+  "feature list 1": {
+    "defaultMessage": "Take care of the formalities related to the course of psychotherapy without leaving your home - all you need is access to our platform"
+  },
+  "feature list 2": {
+    "defaultMessage": "He/She will assist you while choosing the therapist and make sure you know all you need about your upcoming therapy. Therapy guard is there to make you feel good with us"
+  },
+  "feature list 3": {
+    "defaultMessage": "We work with respected professionals who have proven experience in therapeutic work"
+  },
+  "feature list label 1": {
+    "defaultMessage": "Holistic support of the therapeutic process"
+  },
+  "feature list label 2": {
+    "defaultMessage": "Therapy Guide always at your disposal"
+  },
+  "feature list label 3": {
+    "defaultMessage": "Exclusively qualified and verified therapists"
+  },
+  "feel danger": {
+    "defaultMessage": "If you feel that your life or health is at risk, use the free, 24/7 helpline by dialing the number: +48 815 346 060"
+  },
+  "few questions": {
+    "defaultMessage": "few questions"
+  },
+  "fill email": {
+    "defaultMessage": "Fill this with your e-mail"
+  },
+  "fill name": {
+    "defaultMessage": "Fill this with your name our pseudonim"
+  },
+  "fill phone": {
+    "defaultMessage": "Fill this with your phone number"
+  },
+  "filter": {
+    "defaultMessage": "Filter"
+  },
+  "find help": {
+    "defaultMessage": "Find help"
+  },
+  "first session": {
+    "defaultMessage": "First session"
+  },
+  "first session info": {
+    "defaultMessage": "The price of our consultations starts at 159 pln/ 50’. {br}Therapy Guides will advise on optimal preparation for the sessions and make sure you are taken care of!"
+  },
+  "first step completed": {
+    "defaultMessage": "A first important step to work on yourself is done :)"
+  },
+  "first step to better life": {
+    "defaultMessage": "You made your first step towards a better life - congrats! If you need help our Therapy Guides are always available. Keep it up!"
+  },
+  "first text (common bold)": {
+    "defaultMessage": "<strong>To address the current situation and your needs, your organization decided to team up with Wellbee</strong> - online mental health platform which offers access to a range of qualified specialists. When should you try a consultation? Whenever you want to take care of your wellbeing, you are looking for mental health support, therapy or simply you wish to understand yourself better and build more satisfying relations with others."
+  },
+  "first text ailleron": {
+    "defaultMessage": "Tutaj wpisz tłumaczenie"
+  },
+  "first text aviva": {
+    "defaultMessage": "MojaAviva (MyAviva) is giving you a preferential access to Wellbee, online platform offering an access to qualified specialists, who will help you take care of your wellbeing and mental health. Book an appointment if you are looking for a psychologist, therapist, psychodietician or simply want to take care of your emotional development or building healthy relationships with other people."
+  },
+  "for companies": {
+    "defaultMessage": "For business"
+  },
+  "for them": {
+    "defaultMessage": "For them"
+  },
+  "for you": {
+    "defaultMessage": "For You"
+  },
+  "form send": {
+    "defaultMessage": "Form sent"
+  },
+  "free guide call": {
+    "defaultMessage": "<strong>Free video consultation</strong> {guideSessionTime}'"
+  },
+  "Friday": {
+    "defaultMessage": "Friday"
+  },
+  "Fridays": {
+    "defaultMessage": "Fridays"
+  },
+  "from": {
+    "defaultMessage": "from"
+  },
+  "generate link": {
+    "defaultMessage": "Generate link"
+  },
+  "generate payment link question": {
+    "defaultMessage": "Generate payment link?"
+  },
+  "generated link": {
+    "defaultMessage": "Generated link"
+  },
+  "give neccesary information": {
+    "defaultMessage": "Please provide us with <strong>essential contact details </strong> "
+  },
+  "good hours": {
+    "defaultMessage": "Good hours"
+  },
+  "good hours score": {
+    "defaultMessage": "Good hours score"
+  },
+  "google calendar connection status": {
+    "defaultMessage": "Google Calendar connection status"
+  },
+  "google calendar login success": {
+    "defaultMessage": "Login to Google Calendar was successful."
+  },
+  "google meet info": {
+    "defaultMessage": "Wellbee is using <b>Google Meet</b>, which doesn’t require anything to work on your computer. All you need to do is accept your browser request to access microphone and camera, when you are using Google Meet for the first time in that browser."
+  },
+  "have licence": {
+    "defaultMessage": "Can our specialist boast an certificate?"
+  },
+  "help that works": {
+    "defaultMessage": "Support that works/gives effects"
+  },
+  "help that works info": {
+    "defaultMessage": "Number of companies observes that implementing mental health programs leads to some very concrete effects"
+  },
+  "help to help": {
+    "defaultMessage": "Help me help you better and answer"
+  },
+  "helpline": {
+    "defaultMessage": "<h3> Helpline</h3> You can implement a helpline which provides instant support for your employees, especially for employees with less digital acumen."
+  },
+  "Hi!": {
+    "defaultMessage": "Hi!"
+  },
+  "hide": {
+    "defaultMessage": "Hide"
+  },
+  "home - call to action know more": {
+    "defaultMessage": "Find out more"
+  },
+  "home - therapy for you": {
+    "defaultMessage": "Psychotherapy<br></br> tailor made <span>for you</span>"
+  },
+  "home - therapy guide will answer": {
+    "defaultMessage": "Therapy Guide from our team will answer all of your questions and help you choose the best specialist for your needs."
+  },
+  "how to call you": {
+    "defaultMessage": "How should I address you?"
+  },
+  "how to prepare": {
+    "defaultMessage": "How should I prepare for the meeting?"
+  },
+  "how to start": {
+    "defaultMessage": "How to start the therapy at Wellbee?"
+  },
+  "how we can help": {
+    "defaultMessage": "How can we help you?"
+  },
+  "I'm": {
+    "defaultMessage": "I am"
+  },
+  "i'm therapist": {
+    "defaultMessage": "For therapists"
+  },
+  "id": {
+    "defaultMessage": "ID"
+  },
+  "in packet": {
+    "defaultMessage": "In packet"
+  },
+  "interventions": {
+    "defaultMessage": "<h3>Crisis intervention</h3> Quick support during crisis (e.g. accidents)"
+  },
+  "invalid event date": {
+    "defaultMessage": "Invalid event date"
+  },
+  "invalid google password": {
+    "defaultMessage": "The password is invalid or the user does not have a password."
+  },
+  "invalid password": {
+    "defaultMessage": "Invalid password"
+  },
+  "invitation sent": {
+    "defaultMessage": "Invitation sent"
+  },
+  "job": {
+    "defaultMessage": "Title (optional)"
+  },
+  "job example": {
+    "defaultMessage": "eg. HR Director"
+  },
+  "know more": {
+    "defaultMessage": "Find out more"
+  },
+  "language": {
+    "defaultMessage": "Language"
+  },
+  "languages": {
+    "defaultMessage": "Languages:"
+  },
+  "lead time": {
+    "defaultMessage": "Lead time"
+  },
+  "lead time score": {
+    "defaultMessage": "Lead time score"
+  },
+  "less absence": {
+    "defaultMessage": "lowering absence rate"
+  },
+  "less absence 2": {
+    "defaultMessage": "Decreased absence rates"
+  },
+  "less absence info": {
+    "defaultMessage": "Provide your employees with our support and reduce the absence rate by 20-50%"
+  },
+  "less rotation": {
+    "defaultMessage": "Reduction of employee turnover rates"
+  },
+  "less rotation 2": {
+    "defaultMessage": "Decrease of turnover rate"
+  },
+  "less rotation info": {
+    "defaultMessage": "By supporting your employees you reduce your turnover rate and recruitment costs."
+  },
+  "licence info": {
+    "defaultMessage": "Specialists working at Wellbee have finished at least the second year of a 4-year specialised postgraduate programme and have expertise in different fields (eg. crisis intervention, couples therapy, mood disorders, anxiety disorders). Consultations are carried out only by qualified and verified specialists."
+  },
+  "location details": {
+    "defaultMessage": "Detailed description how to get to the office"
+  },
+  "log in": {
+    "defaultMessage": "Log in"
+  },
+  "Log out": {
+    "defaultMessage": "Log out"
+  },
+  "login google calendar": {
+    "defaultMessage": "Log in to Google Calendar"
+  },
+  "login here": {
+    "defaultMessage": "Log in here"
+  },
+  "man": {
+    "defaultMessage": "Man"
+  },
+  "Mandatory": {
+    "defaultMessage": "Mandatory"
+  },
+  "mark as finished": {
+    "defaultMessage": "Mark as finished"
+  },
+  "mark as offline": {
+    "defaultMessage": "Mark as offline"
+  },
+  "mark as online": {
+    "defaultMessage": "Mark as online"
+  },
+  "mark as paid": {
+    "defaultMessage": "Mark as paid"
+  },
+  "mark event as finished are you sure": {
+    "defaultMessage": "Are you sure you want to mark this session as finished?"
+  },
+  "mark event as offline are you sure": {
+    "defaultMessage": "Are you sure that you want to mark this session as offline?"
+  },
+  "mark event as online are you sure": {
+    "defaultMessage": "Are you sure that you want to mark this session as online?"
+  },
+  "mark event as paid are you sure": {
+    "defaultMessage": "Are you sure you want to mark this session as paid?"
+  },
+  "marked event as paid": {
+    "defaultMessage": "Session marked as paid"
+  },
+  "marketing email agreement": {
+    "defaultMessage": "I agree that by providing Wellbee with my phone number/email address Wellbee may send me e-mail about any account-related issues or for marketing purposes according to <a>T&Cs</a>."
+  },
+  "max-pay-time-new-user-description": {
+    "defaultMessage": "When having first Wellbee session, patient has set time to pay for the session (3h is recommended). After this time, event is automatically cancelled."
+  },
+  "max-pay-time-new-user-title": {
+    "defaultMessage": "Maximum payment time for new patient"
+  },
+  "max-pay-time-returning-user-description": {
+    "defaultMessage": "When having Wellbee session, returning patient has set time to pay for the session (3h is recommended). After this time, event is automatically cancelled."
+  },
+  "max-pay-time-returning-user-title": {
+    "defaultMessage": "Maximum payment time for returning patient"
+  },
+  "media about us": {
+    "defaultMessage": "What do the media say about us?"
+  },
+  "meet our therapists": {
+    "defaultMessage": "Meet our therapists"
+  },
+  "meet out therapists header receptomat": {
+    "defaultMessage": "<a>receptomat.pl</a> clients receive discount of 50 PLN"
+  },
+  "meet out therapists long": {
+    "defaultMessage": "Our therapists are thoroughly verified and well-qualified. Find a specialist that will help you make a first step towards growth."
+  },
+  "meeting will happen on": {
+    "defaultMessage": "Meeting will happen on:"
+  },
+  "message content": {
+    "defaultMessage": "Message content"
+  },
+  "method text online": {
+    "defaultMessage": "Online"
+  },
+  "method text phone": {
+    "defaultMessage": "phone"
+  },
+  "min time lead": {
+    "defaultMessage": "Minimal time, in hours, between booking of the session and the session itself"
+  },
+  "minutes": {
+    "defaultMessage": "minutes"
+  },
+  "missed": {
+    "defaultMessage": "Not completed/missed"
+  },
+  "missed sessions tooltip": {
+    "defaultMessage": "Tutaj wpisz tłumaczenie"
+  },
+  "missing company name": {
+    "defaultMessage": "Company name is missing"
+  },
+  "missing email": {
+    "defaultMessage": "Email is missing"
+  },
+  "missing name surname": {
+    "defaultMessage": "Name and surname is missing"
+  },
+  "missing privacy policy": {
+    "defaultMessage": "Accepting privacy policy is required"
+  },
+  "missing terms conditions": {
+    "defaultMessage": "Accepting terms and conditions is required"
+  },
+  "Monday": {
+    "defaultMessage": "Monday"
+  },
+  "Mondays": {
+    "defaultMessage": "Mondays"
+  },
+  "month": {
+    "defaultMessage": "Month"
+  },
+  "More availability": {
+    "defaultMessage": "More slots"
+  },
+  "more dates": {
+    "defaultMessage": "More slots"
+  },
+  "more effective": {
+    "defaultMessage": "enhancing productivity"
+  },
+  "more involved": {
+    "defaultMessage": "Improved well-being and greater involvement"
+  },
+  "more involved info": {
+    "defaultMessage": "Employees who received support notice long-lasting positive improvements in their quality of life."
+  },
+  "my patients": {
+    "defaultMessage": "My Patients"
+  },
+  "my profile": {
+    "defaultMessage": "My Profile"
+  },
+  "my wallet": {
+    "defaultMessage": "My Wallet"
+  },
+  "name": {
+    "defaultMessage": "Name"
+  },
+  "name and surname of bank account": {
+    "defaultMessage": "Account holder’s Name and Surname "
+  },
+  "name en": {
+    "defaultMessage": "Name (EN)"
+  },
+  "name or pseudonym": {
+    "defaultMessage": "Name or pseudonym"
+  },
+  "name pl": {
+    "defaultMessage": "Name (PL)"
+  },
+  "name ru": {
+    "defaultMessage": "Name (RU)"
+  },
+  "name ua": {
+    "defaultMessage": "Name (UA)"
+  },
+  "new account": {
+    "defaultMessage": "New account"
+  },
+  "new session": {
+    "defaultMessage": "New session"
+  },
+  "new session added": {
+    "defaultMessage": "Successfully created a session"
+  },
+  "news-bar-ua-title-2": {
+    "defaultMessage": "We've launched affordable support for people impacted by the war in Ukraine."
+  },
+  "Next available spot": {
+    "defaultMessage": "Next free slot:"
+  },
+  "next therapist": {
+    "defaultMessage": "Next therapist:"
+  },
+  "no": {
+    "defaultMessage": "No"
+  },
+  "no changes": {
+    "defaultMessage": "No changes"
+  },
+  "no longer shame": {
+    "defaultMessage": "We have good news - therapy is no longer stigmatising according to <a>our report</a>🙂"
+  },
+  "no patient selected": {
+    "defaultMessage": "No patient selected"
+  },
+  "no patients": {
+    "defaultMessage": "No patients yet"
+  },
+  "no sessions": {
+    "defaultMessage": "No sessions yet"
+  },
+  "no sessions for patient": {
+    "defaultMessage": "This patient doesn’t have any sessions yet"
+  },
+  "no sms messages": {
+    "defaultMessage": "No SMS Messages"
+  },
+  "no time lead": {
+    "defaultMessage": "No payment blockade until minimal time to session"
+  },
+  "no transactions": {
+    "defaultMessage": "No Transactions"
+  },
+  "no work": {
+    "defaultMessage": "I do not work"
+  },
+  "none": {
+    "defaultMessage": "None"
+  },
+  "not completed": {
+    "defaultMessage": "Not completed:"
+  },
+  "not connected": {
+    "defaultMessage": "Not connected"
+  },
+  "not for statistics": {
+    "defaultMessage": "Note (for statistics)"
+  },
+  "note": {
+    "defaultMessage": "Note"
+  },
+  "offline": {
+    "defaultMessage": "Offline"
+  },
+  "offline session": {
+    "defaultMessage": "Offline session"
+  },
+  "offline-header": {
+    "defaultMessage": "Gabinet"
+  },
+  "ok": {
+    "defaultMessage": "Ok"
+  },
+  "online consultation": {
+    "defaultMessage": "<h3>Online consultations</h3> Your employees will gain access to a personalised specialist - a wide range of payment models: subscription, pay-as-you-go, packaged visits or co-financing."
+  },
+  "open": {
+    "defaultMessage": "Open"
+  },
+  "optimal interaction": {
+    "defaultMessage": "For the optimal interaction with the specialist we recommend that you <b>set up your camera directly in front of your eyes</b> at a distance, allowing to capture at least <b>your body from torso up</b>. After the camera is set we recommend to turn off self-view, because it makes interaction less natural. IT is possible to <b>turn off self-view</b> clicking on three dots in the bottom of the screen and choosing the option \"layout\"."
+  },
+  "options 1 aviva": {
+    "defaultMessage": "<h2> 40 PLN off each{br}of your first 3 visits </h2> As a client of Aviva you can book your first 3 consultations with 40 PLN of discount each. The prices are shown for each therapist on their profile."
+  },
+  "options 2 aviva": {
+    "defaultMessage": "<h2>10 PLN discount{br}forever after that</h2> After you use up the visits discounted by 40 PLN and you want to continue the therapy you will receive an additional 10 PLN discount for every future visit."
+  },
+  "options aviva header": {
+    "defaultMessage": "Special offer for Aviva clients"
+  },
+  "or": {
+    "defaultMessage": "or"
+  },
+  "or call": {
+    "defaultMessage": "or call"
+  },
+  "other": {
+    "defaultMessage": "Other"
+  },
+  "our call data": {
+    "defaultMessage": "Our meeting will take place"
+  },
+  "our psychotherapy team": {
+    "defaultMessage": "Only verified and qualified<br></br>specialists are part of our team."
+  },
+  "our specialists": {
+    "defaultMessage": "Our specialists"
+  },
+  "our team description": {
+    "defaultMessage": "Wellbee employees verified and qualified specialists. Find the person who will allow you to make the first step towards improving the quality of your life."
+  },
+  "page id": {
+    "defaultMessage": "Page ID"
+  },
+  "paid visits": {
+    "defaultMessage": "Paid visits"
+  },
+  "password": {
+    "defaultMessage": "Password"
+  },
+  "patient": {
+    "defaultMessage": "Pacjent"
+  },
+  "patient active": {
+    "defaultMessage": "Long-term patient"
+  },
+  "patient active description": {
+    "defaultMessage": "Patient had at least one session and hasn’t resigned"
+  },
+  "Patient Doubled": {
+    "defaultMessage": "Patient doubled"
+  },
+  "patient email to reassign": {
+    "defaultMessage": "Input address of the patient, into which events and transactions will be inserted"
+  },
+  "patient events": {
+    "defaultMessage": "Patient Events"
+  },
+  "patient events count for year": {
+    "defaultMessage": "Number of patient events for year"
+  },
+  "patient finished": {
+    "defaultMessage": "Therapy finished"
+  },
+  "patient finished description": {
+    "defaultMessage": "Patient resigned from consultation after at least five meetings with therapist"
+  },
+  "patient first visit": {
+    "defaultMessage": "First consultation"
+  },
+  "patient first visit description": {
+    "defaultMessage": "Patient is before his or her first consultation with therapist"
+  },
+  "patient information": {
+    "defaultMessage": "Give a bit of <strong>necessary information</strong>, so that the therapist will be able to contact you."
+  },
+  "patient new": {
+    "defaultMessage": "New patient"
+  },
+  "patient new description": {
+    "defaultMessage": "Patient awaits Therapy Guide"
+  },
+  "patient no contact": {
+    "defaultMessage": "No contact"
+  },
+  "patient no contact description": {
+    "defaultMessage": "No contact"
+  },
+  "patient no sessions": {
+    "defaultMessage": "No sessions yet"
+  },
+  "patient not found": {
+    "defaultMessage": "Patient not found"
+  },
+  "patient panel data": {
+    "defaultMessage": "Patient Panel"
+  },
+  "patient panel description": {
+    "defaultMessage": "Wellbee patient panel"
+  },
+  "patient panel title": {
+    "defaultMessage": "Patient panel - Wellbee"
+  },
+  "patient quick churn": {
+    "defaultMessage": "Patient resigned"
+  },
+  "patient quick churn description": {
+    "defaultMessage": "Patient resigned from therapy after first sessions"
+  },
+  "patient sms messages": {
+    "defaultMessage": "Patient SMS Messages"
+  },
+  "patient transactions": {
+    "defaultMessage": "Patient transactions"
+  },
+  "patient-panel-account-deletion-success": {
+    "defaultMessage": "Account successfully deleted"
+  },
+  "patient-panel-account-search-timezone": {
+    "defaultMessage": "Search timezone..."
+  },
+  "patient-panel-account-update-default-language": {
+    "defaultMessage": "Default language"
+  },
+  "patient-panel-account-update-default-timezone": {
+    "defaultMessage": "Timezone"
+  },
+  "patient-panel-account-update-error": {
+    "defaultMessage": "Account update error"
+  },
+  "patient-panel-account-update-name-how-to-call": {
+    "defaultMessage": "How should we call you?"
+  },
+  "patient-panel-account-update-name-nickname": {
+    "defaultMessage": "Name/nickname"
+  },
+  "patient-panel-account-update-phone": {
+    "defaultMessage": "Phone"
+  },
+  "patient-panel-account-update-success": {
+    "defaultMessage": "Update successful"
+  },
+  "patient-panel-account-update-title-settings": {
+    "defaultMessage": "Settings"
+  },
+  "patient-panel-any-questions": {
+    "defaultMessage": "Any questions?"
+  },
+  "patient-panel-btn-cancel": {
+    "defaultMessage": "Cancel"
+  },
+  "patient-panel-btn-ok": {
+    "defaultMessage": "OK"
+  },
+  "patient-panel-card-data": {
+    "defaultMessage": "Card details"
+  },
+  "patient-panel-card-owner-name": {
+    "defaultMessage": "Owner name"
+  },
+  "patient-panel-closest-session": {
+    "defaultMessage": "Next session:"
+  },
+  "patient-panel-confirm-new-password": {
+    "defaultMessage": "Confirm new password"
+  },
+  "patient-panel-delete-account-btn-back": {
+    "defaultMessage": "Go back"
+  },
+  "patient-panel-delete-account-btn-confirm": {
+    "defaultMessage": "Yes, delete"
+  },
+  "patient-panel-delete-account-confirm": {
+    "defaultMessage": "Are you sure you want to delete the account?"
+  },
+  "patient-panel-delete-account-info-continue": {
+    "defaultMessage": "You can continue therapy without the account"
+  },
+  "patient-panel-enter-coupon-code": {
+    "defaultMessage": "Enter coupon code"
+  },
+  "patient-panel.invalid-password-or-email": {
+    "defaultMessage": "Username or password is invalid. Please contact {therapyGuideEmail}"
+  },
+  "patient-panel-login-password": {
+    "defaultMessage": "Password"
+  },
+  "patient-panel-my-sessions": {
+    "defaultMessage": "My Sessions"
+  },
+  "patient-panel-new-password": {
+    "defaultMessage": "New password"
+  },
+  "patient-panel-or-with-email": {
+    "defaultMessage": "or log in using mail"
+  },
+  "patient-panel-paid": {
+    "defaultMessage": "paid"
+  },
+  "patient-panel-password-change-error": {
+    "defaultMessage": "Password change error"
+  },
+  "patient-panel-password-change-success": {
+    "defaultMessage": "Password changed successfully"
+  },
+  "patient-panel-password-reset": {
+    "defaultMessage": "Reset password for {email}?"
+  },
+  "patient-panel-password-validation-confirm": {
+    "defaultMessage": "New passwords are not the same"
+  },
+  "patient-panel-password-validation-missing-fields": {
+    "defaultMessage": "Please fill all fields"
+  },
+  "patient-panel-password-validation-old-identical": {
+    "defaultMessage": "New and old passwords are the same"
+  },
+  "patient-panel-pay-now": {
+    "defaultMessage": "Pay now"
+  },
+  "patient-panel-pay-now-cta": {
+    "defaultMessage": "Pay now"
+  },
+  "patient-panel-payments": {
+    "defaultMessage": "Payments"
+  },
+  "patient-panel-payments-add-coupon": {
+    "defaultMessage": "Add Coupon"
+  },
+  "patient-panel-payments-add-credit-card": {
+    "defaultMessage": "Add Credit Card"
+  },
+  "patient-panel-payments-added-manually": {
+    "defaultMessage": "Payment has been added manually in exchange for a different payment or payment outside PayU system."
+  },
+  "patient-panel-payments-code-success": {
+    "defaultMessage": "Using code was a success"
+  },
+  "patient-panel-payments-copy-ref-code": {
+    "defaultMessage": "Copy code"
+  },
+  "patient-panel-payments-offline": {
+    "defaultMessage": "Offline session"
+  },
+  "patient-panel-payments-online": {
+    "defaultMessage": "Online session"
+  },
+  "patient-panel-payments-paid-with-coupons": {
+    "defaultMessage": "Session paid using discount coupons"
+  },
+  "patient-panel-payments-recovered": {
+    "defaultMessage": "Payment has been refunded or recovered manually to pay for next visit."
+  },
+  "patient-panel-payments-ref-code-1": {
+    "defaultMessage": "If you feel comfortable wit it, recommend us to your friends using personal code:"
+  },
+  "patient-panel-payments-ref-code-2": {
+    "defaultMessage": "Will receive person who you recommend Wellbee to, for each of 3 first therapy sessions"
+  },
+  "patient-panel-payments-ref-code-3": {
+    "defaultMessage": "Receive 40PLN discount for each for 3 next sessions if recommended person used 3 sessions"
+  },
+  "patient-panel-payments-save": {
+    "defaultMessage": "Save"
+  },
+  "patient-panel-payments-usage-info": {
+    "defaultMessage": "Coupons will be used in order by the most profitable"
+  },
+  "patient-panel-payments-with": {
+    "defaultMessage": "with"
+  },
+  "patient-panel-post-code": {
+    "defaultMessage": "Postcode"
+  },
+  "patient-panel-previous-password": {
+    "defaultMessage": "Previous password"
+  },
+  "patient-panel-recurring-payments": {
+    "defaultMessage": "Recurring payments"
+  },
+  "patient-panel-recurring-payments-modal-agree": {
+    "defaultMessage": "Agree to changes"
+  },
+  "patient-panel-recurring-payments-modal-content-1": {
+    "defaultMessage": "I agree to use my card to pay services in the Wellbee service, such as: payment for psychotherapy or subscription of development platform. Resignation from recurring payments can happen at any time, upon customer request"
+  },
+  "patient-panel-recurring-payments-modal-content-2": {
+    "defaultMessage": "Monthly subscription is being turned on for unspecified time with ability to resign at any moment of subscription duration. When user resigns during duration of paid packet, access to the service is granted up until the end of the billing period."
+  },
+  "patient-panel-recurring-payments-modal-content-3": {
+    "defaultMessage": "In case of lack of service cancellation, subscription is automatically renewed at the end of it."
+  },
+  "patient-panel-recurring-payments-modal-title": {
+    "defaultMessage": "Recurring payments"
+  },
+  "patient-panel-session-switch-completed": {
+    "defaultMessage": "Finished"
+  },
+  "patient-panel-sessions-modal-event-after-cancellation-deadline": {
+    "defaultMessage": "Please contact Therapy Guide to cancel this session"
+  },
+  "patient-panel-sessions-move-to-next-week": {
+    "defaultMessage": "Postpone to the next week"
+  },
+  "patient-panel-sessions-therapist-with": {
+    "defaultMessage": "Online meeting with"
+  },
+  "patient-panel-sessions-title": {
+    "defaultMessage": "My Sessions"
+  },
+  "patient-panel-sessions-your-therapist": {
+    "defaultMessage": "Your therapist:"
+  },
+  "patient-panel-settings": {
+    "defaultMessage": "Settings"
+  },
+  "patient-panel-title-change-password": {
+    "defaultMessage": "Password change"
+  },
+  "patient-panel-title-delete-account": {
+    "defaultMessage": "Delete account"
+  },
+  "patient-panel-town": {
+    "defaultMessage": "Town"
+  },
+  "patient-panel-unpaid": {
+    "defaultMessage": "unpaid"
+  },
+  "patient-panel.patient-panel.invalid-password-or-email": {
+    "defaultMessage": "Username or password is invalid. Please contact {therapyGuideEmail}"
+  },
+  "patient-panel.masked-login-error": {
+    "defaultMessage": "Provided e-mail or password is invalid, please double-check your e-mail address or reset password"
+  },
+  "patients": {
+    "defaultMessage": "Patients"
+  },
+  "Patients": {
+    "defaultMessage": "Patients"
+  },
+  "patients count": {
+    "defaultMessage": "Patients count"
+  },
+  "patients-price-pln": {
+    "defaultMessage": "Patients price PLN"
+  },
+  "pay for first visit": {
+    "defaultMessage": "Pay for your first online session"
+  },
+  "paying": {
+    "defaultMessage": "Payout"
+  },
+  "payment": {
+    "defaultMessage": "Payment"
+  },
+  "payment don't match": {
+    "defaultMessage": "Salary isn’t correct?"
+  },
+  "payment done at end of month": {
+    "defaultMessage": "You can ask to receive your payment at the end of the month"
+  },
+  "payment failed tooltip": {
+    "defaultMessage": "Sessions booked, but not paid for. You won't be paid for them."
+  },
+  "payment link sent to client": {
+    "defaultMessage": "Payment link will be automatically sent to the patient."
+  },
+  "payment method": {
+    "defaultMessage": "Payment method"
+  },
+  "payment method coupon": {
+    "defaultMessage": "Coupon payment"
+  },
+  "payment method manual": {
+    "defaultMessage": "Manual"
+  },
+  "payout": {
+    "defaultMessage": "Payout completed"
+  },
+  "payout-pln": {
+    "defaultMessage": "Payout PLN"
+  },
+  "Payout": {
+    "defaultMessage": "Request Payment"
+  },
+  "per session": {
+    "defaultMessage": "/ 50’ session"
+  },
+  "percent discount text": {
+    "defaultMessage": "It is easier and you save"
+  },
+  "percent discount text short": {
+    "defaultMessage": "It is easier and you save"
+  },
+  "phone number optional": {
+    "defaultMessage": "Phone number (optional)"
+  },
+  "photo in background": {
+    "defaultMessage": "Photo in the background"
+  },
+  "prepare glass of water": {
+    "defaultMessage": "Prepare a glass of water, notebook, tissues if you feel that you need them. The less time you will spend on getting ahold of those items during the session the more value you will get from the session."
+  },
+  "prepare headphones": {
+    "defaultMessage": "For your comfort we suggest that you use <b>headphones with microphone</b> in this way you will not only improve the quality of connection but also make sure your privacy isn’t impeded – no third person will be able to capture your conversation."
+  },
+  "prepare headphones and glass of water": {
+    "defaultMessage": "Prepare headphones with a microphone and a glass of water"
+  },
+  "prepare internet access": {
+    "defaultMessage": "Make sure you have internet access"
+  },
+  "prepare private space": {
+    "defaultMessage": "Make sure you have a quiet, private space."
+  },
+  "press enter to search": {
+    "defaultMessage": "Press Enter to search"
+  },
+  "price": {
+    "defaultMessage": "Cena"
+  },
+  "price in lowest denomination": {
+    "defaultMessage": "Price (gr)"
+  },
+  "price section": {
+    "defaultMessage": "<span>{price}PLN</span> / 50' session"
+  },
+  "Privacy policy": {
+    "defaultMessage": "Privacy policy"
+  },
+  "pro tip": {
+    "defaultMessage": "PRP TIP"
+  },
+  "product": {
+    "defaultMessage": "Product"
+  },
+  "product delete are you sure": {
+    "defaultMessage": "Na pewno chcesz usunąć wybrany produkt?"
+  },
+  "product deleted": {
+    "defaultMessage": "Product deleted"
+  },
+  "products": {
+    "defaultMessage": "Products"
+  },
+  "professional title": {
+    "defaultMessage": "Modality"
+  },
+  "Profil": {
+    "defaultMessage": "Profile"
+  },
+  "profile pictures": {
+    "defaultMessage": "Zdjęcia w profilu"
+  },
+  "profile video url": {
+    "defaultMessage": "Profile video URL (YT)"
+  },
+  "provision": {
+    "defaultMessage": "Provision"
+  },
+  "provision percent": {
+    "defaultMessage": "Provision percent"
+  },
+  "provision percent in office": {
+    "defaultMessage": "Provision percent (in office)"
+  },
+  "psychic health checked": {
+    "defaultMessage": "Our report on the state of Mental Health in Poland"
+  },
+  "psychic health imprtant": {
+    "defaultMessage": "Mental health is the most important issue"
+  },
+  "psychoterapy revelation": {
+    "defaultMessage": "Therapy is no longer stigmatising😊"
+  },
+  "psychotherapist": {
+    "defaultMessage": "Psychotherapist"
+  },
+  "PVH2we": {
+    "defaultMessage": "JOIN US"
+  },
+  "pwc therapist": {
+    "defaultMessage": "PWC Therapist"
+  },
+  "pwc therapist description": {
+    "defaultMessage": "PWC therapist is stored as a separate entry in the database, it can have identical name and surname as the standard one, but it needs to have different email."
+  },
+  "quality": {
+    "defaultMessage": "Quality, speed and convenience"
+  },
+  "quality info": {
+    "defaultMessage": "Access to qualified psychotherapists and other specialists anywhere and on any device."
+  },
+  "question for payment sent": {
+    "defaultMessage": "Salary request sent!"
+  },
+  "questionnaire date": {
+    "defaultMessage": "Year of birth"
+  },
+  "questionnaire first visit": {
+    "defaultMessage": "Is it your first therapy?"
+  },
+  "questionnaire gender": {
+    "defaultMessage": "Gender"
+  },
+  "questionnaire is after": {
+    "defaultMessage": "Did you consult your case with a psychiatrist?"
+  },
+  "questionnaire motivation": {
+    "defaultMessage": "Why do you want to start therapy?"
+  },
+  "questionnaire motivation 1": {
+    "defaultMessage": "I need help with choosing a therapist"
+  },
+  "questionnaire motivation 2": {
+    "defaultMessage": "I want to know if therapy can help me"
+  },
+  "questionnaire motivation 3": {
+    "defaultMessage": "I am feeling quite bad"
+  },
+  "questionnaire other": {
+    "defaultMessage": "Other / No response"
+  },
+  "read more": {
+    "defaultMessage": "Read more"
+  },
+  "receive specialist info on email": {
+    "defaultMessage": "You will receive information about the selected specialist as well as the date and time of the first session by e-mail. If you have any questions, please ask your Therapy Guide"
+  },
+  "recommend video call": {
+    "defaultMessage": "We recommend connecting via video-conference platform.Thanks to this you can see your therapist and feel almost like in the psychotherapist's office! We understand that sometimes, for various reasons, even this is impossible - that's why we always give you the option of a phone call."
+  },
+  "recommended": {
+    "defaultMessage": "Recommended"
+  },
+  "recommended (sort)": {
+    "defaultMessage": "Recommended"
+  },
+  "refund": {
+    "defaultMessage": "Refund"
+  },
+  "remember me": {
+    "defaultMessage": "Remember me"
+  },
+  "repeat meeting in week": {
+    "defaultMessage": "Repeat in a week"
+  },
+  "repeat next week": {
+    "defaultMessage": "Repeat again next week"
+  },
+  "reservation soon": {
+    "defaultMessage": "Booking available soon"
+  },
+  "reset password": {
+    "defaultMessage": "Reset password"
+  },
+  "reset password success": {
+    "defaultMessage": "Password reset done"
+  },
+  "resign of course": {
+    "defaultMessage": "Of course, but if you do this later than 24 hours before the visit starts, we will not be able to refund you"
+  },
+  "return investition": {
+    "defaultMessage": "Return on investment"
+  },
+  "return rate": {
+    "defaultMessage": "Return rate"
+  },
+  "return rate score": {
+    "defaultMessage": "Return rate score"
+  },
+  "Sandra Pasek quote": {
+    "defaultMessage": "Based on several research papers I can confidently say that there is no physical health without mental health. Mental health is an essential part of our success both in our private and professional life. When companies invest in the mental health of their employees, it benefits not only their performance but also their creativity, flexibility, commitment and positive attitude at work."
+  },
+  "Saturday": {
+    "defaultMessage": "Saturday"
+  },
+  "Saturdays": {
+    "defaultMessage": "Saturdays"
+  },
+  "Save": {
+    "defaultMessage": "Save"
+  },
+  "saved": {
+    "defaultMessage": "Zapisano"
+  },
+  "Schedule": {
+    "defaultMessage": "Schedule"
+  },
+  "score": {
+    "defaultMessage": "score"
+  },
+  "search month": {
+    "defaultMessage": "Search month"
+  },
+  "search therapist": {
+    "defaultMessage": "Find therapist"
+  },
+  "search therapist by city": {
+    "defaultMessage": "Enter city"
+  },
+  "search therapist...": {
+    "defaultMessage": "Search..."
+  },
+  "search year": {
+    "defaultMessage": "Search year"
+  },
+  "see": {
+    "defaultMessage": "See"
+  },
+  "see all": {
+    "defaultMessage": "See all"
+  },
+  "see our report": {
+    "defaultMessage": "Check our report"
+  },
+  "see transaction": {
+    "defaultMessage": "See transaction"
+  },
+  "select": {
+    "defaultMessage": "Select"
+  },
+  "Select a date": {
+    "defaultMessage": "Select a date"
+  },
+  "select all": {
+    "defaultMessage": "Select all"
+  },
+  "select guide": {
+    "defaultMessage": "Select your therapy guide"
+  },
+  "select your therapist": {
+    "defaultMessage": "Select your therapist"
+  },
+  "send and ask for contact": {
+    "defaultMessage": "Send form"
+  },
+  "send invitation": {
+    "defaultMessage": "Send invitation"
+  },
+  "session completed": {
+    "defaultMessage": "finished"
+  },
+  "session created using aviva website": {
+    "defaultMessage": "Session created using Aviva website"
+  },
+  "session created using pwc website": {
+    "defaultMessage": "Session created using PWC website"
+  },
+  "session failed": {
+    "defaultMessage": "patient absent"
+  },
+  "session payment failed": {
+    "defaultMessage": "Not canceled"
+  },
+  "session time": {
+    "defaultMessage": "Session time"
+  },
+  "Sessions": {
+    "defaultMessage": "Sessions"
+  },
+  "set availability data": {
+    "defaultMessage": "Set up a work schedule that is convenient for you and your patients"
+  },
+  "set call image": {
+    "defaultMessage": "Set the connection picture"
+  },
+  "set work hours": {
+    "defaultMessage": "Set up work hours"
+  },
+  "set work time": {
+    "defaultMessage": "Ustaw czas pracy"
+  },
+  "Settings": {
+    "defaultMessage": "Settings"
+  },
+  "Sex": {
+    "defaultMessage": "Sex"
+  },
+  "shortcut": {
+    "defaultMessage": "Briefly"
+  },
+  "shortened details": {
+    "defaultMessage": "Shortened description (optional)"
+  },
+  "show all": {
+    "defaultMessage": "Show me all"
+  },
+  "show events with guide": {
+    "defaultMessage": "Show therapy guide events too"
+  },
+  "show only events without gcal": {
+    "defaultMessage": "Show only events without google calendar"
+  },
+  "show our therapists": {
+    "defaultMessage": "Show all therapists"
+  },
+  "show results": {
+    "defaultMessage": "Show results"
+  },
+  "show therapist": {
+    "defaultMessage": "Show therapist"
+  },
+  "sid": {
+    "defaultMessage": "SID"
+  },
+  "siy-agenda-day1-1": {
+    "defaultMessage": "<strong>Practice:</strong> Attention Training"
+  },
+  "siy-agenda-day1-10": {
+    "defaultMessage": "<strong>Practice:</strong> Reframe and respond to challenges in the moment"
+  },
+  "siy-agenda-day1-2": {
+    "defaultMessage": "How do you develop <strong>emotional intelligence?</strong>"
+  },
+  "siy-agenda-day1-3": {
+    "defaultMessage": "<strong>Mindfulness:</strong> moving from autopilot to aware"
+  },
+  "siy-agenda-day1-4": {
+    "defaultMessage": "<strong>Practice:</strong> Open Awareness"
+  },
+  "siy-agenda-day1-5": {
+    "defaultMessage": "<strong>Practice:</strong> Body Scan"
+  },
+  "siy-agenda-day1-6": {
+    "defaultMessage": "<strong>Self-awareness:</strong> Knowing one's internal states"
+  },
+  "siy-agenda-day1-7": {
+    "defaultMessage": "<strong>Self-management:</strong> Skillfully manage your impulses and reactions"
+  },
+  "siy-agenda-day1-8": {
+    "defaultMessage": "<strong>Practice:</strong> Mindful listening"
+  },
+  "siy-agenda-day1-9": {
+    "defaultMessage": "<strong>Practice:</strong> Self-Compassion"
+  },
+  "siy-agenda-day2-1": {
+    "defaultMessage": "<strong>Motivation:</strong> Align your values and work"
+  },
+  "siy-agenda-day2-10": {
+    "defaultMessage": "<strong>Leadership:</strong> Lead with compassion"
+  },
+  "siy-agenda-day2-11": {
+    "defaultMessage": "<strong>Practice:</strong> Compassion practice"
+  },
+  "siy-agenda-day2-12": {
+    "defaultMessage": "<strong>Exercise:</strong> Leadership Commitment"
+  },
+  "siy-agenda-day2-13": {
+    "defaultMessage": "Application <strong>Brainstorm</strong>"
+  },
+  "siy-agenda-day2-2": {
+    "defaultMessage": "<strong>Exercise:</strong> Alignment with values"
+  },
+  "siy-agenda-day2-3": {
+    "defaultMessage": "<strong>Envisioning Practice:</strong> Visualize you goals"
+  },
+  "siy-agenda-day2-4": {
+    "defaultMessage": "<strong>Practice:</strong> Resilience, recover from setbacks"
+  },
+  "siy-agenda-day2-5": {
+    "defaultMessage": "<strong>Exercise:</strong> \"Just like me\""
+  },
+  "siy-agenda-day2-6": {
+    "defaultMessage": "<strong>Empathy:</strong> Understand others' feelings and experiences"
+  },
+  "siy-agenda-day2-7": {
+    "defaultMessage": "<strong>Practice:</strong> Mindful Walking"
+  },
+  "siy-agenda-day2-8": {
+    "defaultMessage": "<strong>Exercise:</strong> Empathetic Listening"
+  },
+  "siy-agenda-day2-9": {
+    "defaultMessage": "<strong>Exercise:</strong> Difficult Conversations"
+  },
+  "siy-agenda-info": {
+    "defaultMessage": "Taught on-site by two SIY Certified Teachers, the 2-day program <strong>is a deep-dive into mindfulness-based emotional intelligence skills and practical applications.</strong>"
+  },
+  "siy-agenda-sign-up": {
+    "defaultMessage": "Sign up"
+  },
+  "siy-agenda-title": {
+    "defaultMessage": "2-day <span>Program Agenda</span>"
+  },
+  "siy-agenda-title-day": {
+    "defaultMessage": "Day"
+  },
+  "siy-agenda-title-day1-end": {
+    "defaultMessage": "17:00 - End of Day 1"
+  },
+  "siy-agenda-title-day1-start": {
+    "defaultMessage": "9:00 - Start"
+  },
+  "siy-agenda-title-day2-end": {
+    "defaultMessage": "17:00 - End of Day 2"
+  },
+  "siy-agenda-title-day2-start": {
+    "defaultMessage": "9:00 - Introduction"
+  },
+  "siy-expect-lead-text": {
+    "defaultMessage": "The SIY program kicks off with a highly interactive <strong>two-day in-person session</strong>. It continues with a <strong>4-week practice integration period</strong> delivered online, and concludes with a <strong>webinar</strong>."
+  },
+  "siy-expect-text-1": {
+    "defaultMessage": "Experiential training in mindfulness, neuroscience and the five emotional intelligence capacities."
+  },
+  "siy-expect-text-2": {
+    "defaultMessage": "Daily exercises and resources delivered by email to help build new habits."
+  },
+  "siy-expect-text-3": {
+    "defaultMessage": "Reconnect with your teachers and group to review and set a plan for continuation."
+  },
+  "siy-expect-time-1": {
+    "defaultMessage": "2 days"
+  },
+  "siy-expect-time-2": {
+    "defaultMessage": "4 weeks"
+  },
+  "siy-expect-time-3": {
+    "defaultMessage": "1 hour"
+  },
+  "siy-expect-title": {
+    "defaultMessage": "<span>How</span> the program works:"
+  },
+  "siy-expect-title-1": {
+    "defaultMessage": "Live Training"
+  },
+  "siy-expect-title-2": {
+    "defaultMessage": "Virtual Practice"
+  },
+  "siy-expect-title-3": {
+    "defaultMessage": "Webinar"
+  },
+  "siy-form-company": {
+    "defaultMessage": "Company"
+  },
+  "siy-form-motivation": {
+    "defaultMessage": "Motivation / what I want to accomplish"
+  },
+  "siy-form-name": {
+    "defaultMessage": "Name"
+  },
+  "siy-form-position": {
+    "defaultMessage": "Position"
+  },
+  "siy-form-send": {
+    "defaultMessage": "Send"
+  },
+  "siy-form-title": {
+    "defaultMessage": "Application form"
+  },
+  "siy-lead-date": {
+    "defaultMessage": "May 11–12 2022 Warsaw"
+  },
+  "siy-lead-date-early": {
+    "defaultMessage": "until April 12"
+  },
+  "siy-lead-date-late": {
+    "defaultMessage": "after April 12"
+  },
+  "siy-lead-regular-price": {
+    "defaultMessage": "Regular price"
+  },
+  "siy-lead-text": {
+    "defaultMessage": "2-Day Program for leaders and managements"
+  },
+  "siy-longer-lead-text": {
+    "defaultMessage": "The original <strong>2-day mindfulness-based emotional intelligence training program developed at Google</strong>. Improve focus, empathy and resilience to harness your team’s full potential."
+  },
+  "siy-nav-agenda": {
+    "defaultMessage": "Agenda"
+  },
+  "siy-nav-partners": {
+    "defaultMessage": "Partners"
+  },
+  "siy-nav-programme": {
+    "defaultMessage": "Program"
+  },
+  "siy-nav-what-to-expect": {
+    "defaultMessage": "How it works"
+  },
+  "siy-partners-title": {
+    "defaultMessage": "<span>Join the organizations</span> that have participated in our training"
+  },
+  "siy-programme-header-1": {
+    "defaultMessage": "<strong>We teach leaders tools for focus, self-awareness and resilience.</strong>"
+  },
+  "siy-programme-header-2": {
+    "defaultMessage": "<strong>The 2-day interactive program</strong> includes:"
+  },
+  "siy-programme-header-3": {
+    "defaultMessage": "Participants will experience <strong>lasting improvements</strong>, including:"
+  },
+  "siy-programme-results-1": {
+    "defaultMessage": "Noticed improved ability to handle stress after attending the program"
+  },
+  "siy-programme-results-2": {
+    "defaultMessage": "Admitted faster \nrecovery after \nexperiencing hardship"
+  },
+  "siy-programme-results-3": {
+    "defaultMessage": "Noticed increased concentration and ability to be fully present"
+  },
+  "siy-programme-results-note": {
+    "defaultMessage": "* based on 6,000 SIY program participants"
+  },
+  "siy-programme-text-1": {
+    "defaultMessage": "Designed and tested at Google, the SIY program teaches mindfulness and emotional intelligence skills that lead to sustained peak performance, strong collaboration and effective leadership."
+  },
+  "siy-programme-text-2": {
+    "defaultMessage": "<li>An overview of the neuroscience supporting mindfulness and emotional intelligence.</li><li>A deep-dive into the emotional intelligence capacities: self-awareness, self-regulation, motivation, empathy and leadership.</li><li>Practical exercises to focus attention and develop self-awareness and empathy, the foundation for self-mastery and leadership.</li><li>Specific workplace applications to help participants achieve greater focus, emotional balance, empathy and motivation.</li><li>A highly interactive experience, with 1/3 presentation and 2/3 hands-on exercises.</li><li>A 28-day challenge following the 2-day program. Daily resources and exercises are provided to help people build new habits after the training.</li>"
+  },
+  "siy-programme-text-3": {
+    "defaultMessage": "<li>Increased self-awareness and self-regulation, the first two core emotional intelligence competencies.</li><li>Practical take-away skills: a range of mindfulness practices, journaling, and techniques for self-awareness, empathetic listening, and preparing for difficult conversations.</li><li>Tools to communicate with insight and awareness of others' emotions and perspectives.</li>"
+  },
+  "siy-teacher-john-puts-text-1": {
+    "defaultMessage": "Amsterdam born and Berlin based, John is a certified facilitator of the Search Inside Yourself Leadership Institute (<a>siyli.org</a>), a certified Integral Coach (<a>newventureswest.com</a>) and an accredited Enneagram practitioner (<a>integrative9.com</a>). He has lived, studied and worked in 5 countries across 3 continents. He is on a mission to help establish more human centered, purpose driven leaders, teams and organizations."
+  },
+  "siy-teacher-john-puts-text-2": {
+    "defaultMessage": "He facilitates transformational programs to bring a greater sense of belonging, increase motivation, productivity, employee wellbeing and (self)leadership. In his workshops he brings together mindfulness, emotional intelligence, neuroscience, leadership, resilience, empathy, psychological safety and more."
+  },
+  "siy-teacher-john-puts-text-3": {
+    "defaultMessage": "Besides that, he accompanies leaders, entrepreneurs & those in transition in transformative coaching processes to enable an authentic way of living & working. He brings in his prior experience as an product leader and entrepreneur and has spent a number of years working at the European HQ of Google and GetYourGuide."
+  },
+  "siy-teacher-john-puts-text-4": {
+    "defaultMessage": "More info: <a>johnputs.com</a>, <a>linkedin.com/in/johnputs/</a>"
+  },
+  "siy-teacher-john-puts-title": {
+    "defaultMessage": "About John Puts"
+  },
+  "siy-teacher-kamil-barbarski-text-1": {
+    "defaultMessage": "Hi, I'm Kamil. I'm an entrepreneur, innovation facilitator and certified teacher for Search Inside Yourself – a Google-born leadership program for emotional intelligence, resilience and mindfulness. I consider myself as a bridge builder between “creating impact / new business” and “being human / people & culture”."
+  },
+  "siy-teacher-kamil-barbarski-text-2": {
+    "defaultMessage": "For that I'm creating innovative experiences that meaningfully transform people, organisations and markets. My core topic right now is combining emotional intelligence, neuroscience and mindfulness with agile methods and entrepreneurship.."
+  },
+  "siy-teacher-kamil-barbarski-text-3": {
+    "defaultMessage": "More info: <a>kamilbarbarski.com/en/home/</a>, <a>linkedin.com/in/kamilbarbarski/</a>"
+  },
+  "siy-teacher-kamil-barbarski-title": {
+    "defaultMessage": "About Kamil Barbarski"
+  },
+  "siy-teachers-title": {
+    "defaultMessage": "Our <span>teachers</span>"
+  },
+  "siy-testimonial-1": {
+    "defaultMessage": "<strong>I highly recommend SIY</strong> to anyone looking to improve the way their team works together, enhance their innovative thinking and clarity, reduce stress, improve general wellbeing, manage difficult conversations, and be generally more at peace."
+  },
+  "siy-testimonial-2": {
+    "defaultMessage": "<strong>I was enjoying every minute of it</strong>, and shared the experience with some of my team members already. Thank you!"
+  },
+  "siy-testimonial-3": {
+    "defaultMessage": "The methods taught in SIY are simple to follow, yet <strong>the outcome is amazing and powerful.</strong>"
+  },
+  "siy-testimonial-4": {
+    "defaultMessage": "We found it so useful that <strong>my entire leadership team is now participating</strong>."
+  },
+  "siy-testimonial-5": {
+    "defaultMessage": "I just finished the second day of the Google-developed 'Search Inside Yourself' Mindfulness course, by the grace and generosity of my employers at bol.com. Wrapping up these first two days, I can say that the <strong>Search Inside Yourself course is bringing me insight into my own ideas and preferences, how to care for myself when these needs are not met and what surprises these circumstances may bring when I am open to the experiment.</strong>"
+  },
+  "siy-testimonial-6": {
+    "defaultMessage": "<strong>Invaluable</strong> investment"
+  },
+  "siy-testimonial-function-1": {
+    "defaultMessage": "Chief Strategy Officer Plantronics"
+  },
+  "siy-testimonial-function-2": {
+    "defaultMessage": "VP GetYourGuide"
+  },
+  "siy-testimonial-function-3a": {
+    "defaultMessage": "Global Program Manager"
+  },
+  "siy-testimonial-function-3b": {
+    "defaultMessage": "Business Transformation Office, Dell"
+  },
+  "siy-testimonial-function-4": {
+    "defaultMessage": "VP Global Marketing Content & Campaigns Equinix"
+  },
+  "siy-testimonial-function-5": {
+    "defaultMessage": "Partner Specialist @ Bol.com"
+  },
+  "siy-testimonial-function-6": {
+    "defaultMessage": "Rodger Spiller & Associates"
+  },
+  "sms messages": {
+    "defaultMessage": "SMS Messages"
+  },
+  "solution for your company": {
+    "defaultMessage": "<h3>Let’s talk about a solution tailored to your company</h3> <p> Take advantage of support from wellbee experts and set the strategic goals of your organisation in terms of mental health of your workforce </p>"
+  },
+  "solved": {
+    "defaultMessage": "Solved"
+  },
+  "sort": {
+    "defaultMessage": "Sort"
+  },
+  "sort (menu)": {
+    "defaultMessage": "Sort"
+  },
+  "sort and filter": {
+    "defaultMessage": "Sort and filter"
+  },
+  "sort and filter therapist": {
+    "defaultMessage": "Sort and filter"
+  },
+  "sort by": {
+    "defaultMessage": "Sort by"
+  },
+  "source": {
+    "defaultMessage": "How did you hear about us?"
+  },
+  "specialization": {
+    "defaultMessage": "Specialisation"
+  },
+  "Specialties": {
+    "defaultMessage": "Specialties"
+  },
+  "speed check": {
+    "defaultMessage": "You can check the speed of your Internet connection on the website. Already 500kb should be sufficient, but optimally it should be at least 1.5 Mb / s"
+  },
+  "start": {
+    "defaultMessage": "Start"
+  },
+  "start therapy": {
+    "defaultMessage": "Let’s start psychotherapy"
+  },
+  "status.active": {
+    "defaultMessage": "Stały pacjent"
+  },
+  "status.active-description": {
+    "defaultMessage": "Pacjent odbył pierwszą rozmowę z terapeutą i nie zrezygnował z kontynuacji terapii"
+  },
+  "status.finished": {
+    "defaultMessage": "Terapia zakończona"
+  },
+  "status.finished-description": {
+    "defaultMessage": "Pacjent zrezygnował z kontynuacji terapii po co najmniej pięciu rozmowach z terapeutą"
+  },
+  "status.first-visit": {
+    "defaultMessage": "Pierwsze konsultacje"
+  },
+  "status.first-visit-description": {
+    "defaultMessage": "Pacjent jest przed swoją pierwszą rozmową z terapeutą"
+  },
+  "status.no-contact": {
+    "defaultMessage": "Brak kontaktu"
+  },
+  "status.no-contact-description": {
+    "defaultMessage": "Brak kontaktu z pacjentem"
+  },
+  "status.pending": {
+    "defaultMessage": "Nowy"
+  },
+  "status.pending-description": {
+    "defaultMessage": "Pacjent oczekuje na rozmowę z Opiekunem terapii"
+  },
+  "status.quick-churn": {
+    "defaultMessage": "Terapia przerwana"
+  },
+  "status.quick-churn-description": {
+    "defaultMessage": "Pacjent zrezygnował z kontynuacji terapii po pierwszej rozmowie z terapeutą"
+  },
+  "status.single-visit": {
+    "defaultMessage": "Jednorazowa konsultacja"
+  },
+  "status.single-visit-description": {
+    "defaultMessage": "Jednorazowa konsultacja"
+  },
+  "status": {
+    "defaultMessage": "Status"
+  },
+  "status canceled": {
+    "defaultMessage": "Canceled"
+  },
+  "status cash returned": {
+    "defaultMessage": "refunded"
+  },
+  "status complete": {
+    "defaultMessage": "Complete"
+  },
+  "status paid": {
+    "defaultMessage": "paid for"
+  },
+  "status payment_failed": {
+    "defaultMessage": "payment failed"
+  },
+  "status pending": {
+    "defaultMessage": "Pending"
+  },
+  "status waiting": {
+    "defaultMessage": "booked"
+  },
+  "Step": {
+    "defaultMessage": "Step"
+  },
+  "street address": {
+    "defaultMessage": "Street"
+  },
+  "Submit": {
+    "defaultMessage": "Submit"
+  },
+  "Sunday": {
+    "defaultMessage": "Sunday"
+  },
+  "Sundays": {
+    "defaultMessage": "Sundays"
+  },
+  "surname": {
+    "defaultMessage": "Surname"
+  },
+  "system": {
+    "defaultMessage": "System"
+  },
+  "system id": {
+    "defaultMessage": "ID systemowe"
+  },
+  "telephone tips": {
+    "defaultMessage": "You can easily join Google Meet call on mobile phone if you are having issues with your computer (eg. broken camera). All you need to do is install <b>Google Meet App from Apple App Store (iOS) or Google Play (Android)</b>. Remember that holding your phone for an hour won’t be comfortable so try to find a way of setting it up in front of you :)"
+  },
+  "Terms & Conditions": {
+    "defaultMessage": "T&Cs"
+  },
+  "terms conditions label": {
+    "defaultMessage": "I declare that I have read the <a>T&Cs</a> and that I accept the Terms & Conditions"
+  },
+  "test hidden": {
+    "defaultMessage": "Test/hidden"
+  },
+  "therapist": {
+    "defaultMessage": "Terapeuta"
+  },
+  "therapist choosing help question": {
+    "defaultMessage": "Need help with<br></br><span>choosing a therapist?</span>"
+  },
+  "therapist doesnt get money for session": {
+    "defaultMessage": "Therapist won't get money for session"
+  },
+  "therapist email": {
+    "defaultMessage": "Therapist (email)"
+  },
+  "therapist find person": {
+    "defaultMessage": "Have a look below to find someone who will help you make the first step in improving the quality of your life"
+  },
+  "therapist guide box lower text": {
+    "defaultMessage": "Talk to us to help us better understand your needs and choose the best therapy for you"
+  },
+  "therapist guide": {
+    "defaultMessage": "Get help in choosing the therapist that is right for you!"
+  },
+  "therapist list info 1": {
+    "defaultMessage": "I will listen carefully to you and help you to choose the best type of therapy"
+  },
+  "therapist list info 2": {
+    "defaultMessage": "I will help you to find the best therapist tailored to your needs"
+  },
+  "therapist list info 3": {
+    "defaultMessage": "I will explain exactly how to prepare for the first online session"
+  },
+  "therapist list info 4": {
+    "defaultMessage": "I will answer all doubts and questions regarding psychotherapy"
+  },
+  "therapist panel description": {
+    "defaultMessage": "Wellbee therapist panel"
+  },
+  "therapist panel title": {
+    "defaultMessage": "Therapist panel - Wellbee"
+  },
+  "Therapist stats": {
+    "defaultMessage": "Therapist stats"
+  },
+  "therapist utilisation": {
+    "defaultMessage": "Therapist utilisation"
+  },
+  "therapist-panel-sessions-move-to-next-week": {
+    "defaultMessage": "Move to the next week"
+  },
+  "therapists": {
+    "defaultMessage": "Therapists"
+  },
+  "Therapists": {
+    "defaultMessage": "Therapists"
+  },
+  "Therapists Wallets": {
+    "defaultMessage": "Therapists Wallets"
+  },
+  "therapy for you": {
+    "defaultMessage": "Psychotherapy tailor made for you"
+  },
+  "therapy guide": {
+    "defaultMessage": "Therapy Guide"
+  },
+  "therapy guide answer questions": {
+    "defaultMessage": "... and in addition we will answer to all Your questions related to the course of psychotherapy."
+  },
+  "therapy guide description plural": {
+    "defaultMessage": "We are here to help You find psychotherapist tailored to difficulties reported by You. Check what we can do for You."
+  },
+  "therapy guide first step": {
+    "defaultMessage": "First step"
+  },
+  "therapy guide help": {
+    "defaultMessage": "In order to support you during this journey, <b> Wellbee introduced Therapy Guides- people who will be here for you every step of the way</b>. They will help you find specialists with appropriate expertise suited for your needs. From doldrums or panic attacks, to self-development. Therapy Guide will address all of them- reason you contacted, time preferences and many other."
+  },
+  "therapy guide how works": {
+    "defaultMessage": "Therapy Guide - how does it work?"
+  },
+  "therapy guide how works answer": {
+    "defaultMessage": "Choice of the right mental health specialist is a big challenge. We are able to aid You in making the right choice, thanks to the thousands of conversations with those who seek help and the perfect knowledge about the work specifics of Wellbee specialists. We will assure the fitting specialist for Your needs respecting Your privacy. We will support You in the first step towards change:"
+  },
+  "therapy guide in wellbee": {
+    "defaultMessage": "Therapy Guides at Wellbee - who are they and how can they help?"
+  },
+  "therapy guide info section": {
+    "defaultMessage": "My name is {opiekunTerapiiLink} and I am a Therapy Guide at Wellbee. Find out how can I help:"
+  },
+  "therapy guide info section tasks 1": {
+    "defaultMessage": "I will listen and help choosing the best type of therapy"
+  },
+  "therapy guide info section tasks 2": {
+    "defaultMessage": "I will help you find the therapist that best suits your needs"
+  },
+  "therapy guide info section tasks 3": {
+    "defaultMessage": "I will explain how to prepare to the first session"
+  },
+  "therapy guide info section tasks 4": {
+    "defaultMessage": "I will address all of your doubts and questions about the therapy process"
+  },
+  "therapy guide list - advice": {
+    "defaultMessage": "We will advise you on the most appropriate form of support and recommend specialists"
+  },
+  "therapy guide list - checks": {
+    "defaultMessage": "We will check available time slots and allow You a quick start of the therapy"
+  },
+  "therapy guide list - confidential": {
+    "defaultMessage": "We are bound by confidentiality and we will not cross your comfort barriers"
+  },
+  "therapy guide our help": {
+    "defaultMessage": "Our support"
+  },
+  "therapy guide plan": {
+    "defaultMessage": "Planning of therapy is the therapist's job, however <b>whether it is successful is dependent on both patient and the specialist</b>. Therapy is a process during which you aim towards <b>achieving your personal goals and improving your wellbeing</b>. To simply put it - you are the expert in the subject of your life - you know what are the problems that bother you and make your life more difficult than it needs to be. <b>Noticing your problems and allowing yourself to receive help is the first and a very important first step</b>."
+  },
+  "therapy guide qualifications": {
+    "defaultMessage": "Therapy guide qualifications"
+  },
+  "therapy guide qualifications answer": {
+    "defaultMessage": "Our guides had thousands of conversations with people seeking help with choosing the right therapy, specialist or psychoeducating. The guides know perfectly the work specifics of each of our therapists, by being with them in constant contact and use the tools helping with support of the patient. Our guides are absolvents and students of psychology working under the supervision of experienced therapists, constantly developing their competences and participating in dedicated supervisions organized by the Intra center."
+  },
+  "therapy guide second lowercase": {
+    "defaultMessage": "Therapy guide"
+  },
+  "therapy guide support box header": {
+    "defaultMessage": "If you need support or you have additional questions"
+  },
+  "therapy guide tasks": {
+    "defaultMessage": "Therapy Guide Responsibilities"
+  },
+  "therapy guide tasks 1": {
+    "defaultMessage": "You don't know what is happening, but you feel that something is off?"
+  },
+  "therapy guide tasks 2 merged": {
+    "defaultMessage": "Sometimes it happens that we can't understand what is happening with us, but we still can feel our well-being worsen. <b>Therapy Guide will help You specify the area of difficulty, find the right specialist and help with preparations for the first visit</b>. Don't worry, for us there is no stupid or wrong questions, just like there is no stupid or wrong answers - that's the reason for creating Therapy Guide."
+  },
+  "therapy guide title": {
+    "defaultMessage": "Therapy Guide - aids your choice of the right therapist"
+  },
+  "therapy guide title description": {
+    "defaultMessage": "Get help from Therapy Guide and find the therapist that is best suited for your needs."
+  },
+  "therapy guide will answer": {
+    "defaultMessage": "Therapy Guide from our team will answer all of your questions and help you choose the best specialist for your needs."
+  },
+  "therapy guides": {
+    "defaultMessage": "Therapy guides"
+  },
+  "therapy no diff": {
+    "defaultMessage": "Research and meta-analyses indicate no difference in efficacy of online vs offline therapy"
+  },
+  "therapy science": {
+    "defaultMessage": "There is plenty of scientific research confirming that "
+  },
+  "therapy science link": {
+    "defaultMessage": "online therapy is at least as effective as the traditional one"
+  },
+  "therapy science returns": {
+    "defaultMessage": "Research shows, that therapy online is effective for number of problems (eg. depression, fobias, OCD, PTSD)."
+  },
+  "therapy session price": {
+    "defaultMessage": "<strong>{sessionPrice} PLN</strong> /{sessionTime} minutes"
+  },
+  "therapy succesfull": {
+    "defaultMessage": "How effective is online therapy?"
+  },
+  "therapy type": {
+    "defaultMessage": "Modality"
+  },
+  "therapy type en": {
+    "defaultMessage": "Therapy type (EN)"
+  },
+  "therapy type pl": {
+    "defaultMessage": "Therapy type (PL)"
+  },
+  "therapy type ru": {
+    "defaultMessage": "Therapy type (RU)"
+  },
+  "therapy type search": {
+    "defaultMessage": "Therapy type"
+  },
+  "therapy type ua": {
+    "defaultMessage": "Therapy type (UA)"
+  },
+  "TherapyGuides": {
+    "defaultMessage": "Therapy Guides"
+  },
+  "therpy guide list - explain": {
+    "defaultMessage": "We explain how to prepare for a visit"
+  },
+  "this field is required": {
+    "defaultMessage": "This field is required"
+  },
+  "time": {
+    "defaultMessage": "Time"
+  },
+  "Thursday": {
+    "defaultMessage": "Thursday"
+  },
+  "Thursdays": {
+    "defaultMessage": "Thursdays"
+  },
+  "Time Doubled Events": {
+    "defaultMessage": "Time doubled"
+  },
+  "timerange overlap": {
+    "defaultMessage": "Work schedule shouldn’t overlap"
+  },
+  "tips": {
+    "defaultMessage": "Tips"
+  },
+  "tips intro": {
+    "defaultMessage": "At wellbee we know that the start of therapy might be a big and difficult step. In order to make it a bit easier for you we would like to offer you cou"
+  },
+  "tips title": {
+    "defaultMessage": "Psychotherapy Online - Tips and Tricks"
+  },
+  "tips title description": {
+    "defaultMessage": "Online therapy: how to use it? What are the differences between online sessions and traditional therapy?"
+  },
+  "title": {
+    "defaultMessage": "Name"
+  },
+  "to": {
+    "defaultMessage": "to"
+  },
+  "to get more tips": {
+    "defaultMessage": "To get more tips"
+  },
+  "Today": {
+    "defaultMessage": "Today"
+  },
+  "total": {
+    "defaultMessage": "Total"
+  },
+  "total hours": {
+    "defaultMessage": "Total hours"
+  },
+  "transaction events list": {
+    "defaultMessage": "Events related to transaction"
+  },
+  "Transactions": {
+    "defaultMessage": "Transactions"
+  },
+  "Tuesday": {
+    "defaultMessage": "Tuesday"
+  },
+  "Tuesdays": {
+    "defaultMessage": "Tuesdays"
+  },
+  "turn off sounds": {
+    "defaultMessage": "Try to <b>eliminate the background noise</b> – turn off TV, radio, and close the window if that is possible. It is important that both you and the therapist feel comfortable in the setting."
+  },
+  "ua-therapists-header": {
+    "defaultMessage": "#HelpUkraine"
+  },
+  "ua-therapists-header-support": {
+    "defaultMessage": "Partner:"
+  },
+  "ua-therapists-lead-download": {
+    "defaultMessage": "Inform others about the initiative - download the <color>color</color> or the <bw>black and white</bw> poster for self-print"
+  },
+  "ua-therapists-lead-hours": {
+    "defaultMessage": "Monday - Friday: 8:00 – 16:00<br></br>Tuesday: od 11:30 – 16:00<br></br>Weekend: 10:00 – 14:00"
+  },
+  "ua-therapists-lead-hours-pl": {
+    "defaultMessage": "Monday - Friday: 8:30 – 20:30<br></br>Weekend: 10:00 – 14:00"
+  },
+  "ua-therapists-lead-larger-2": {
+    "defaultMessage": "Do you need psychological support?<br></br>We've launched <span>affordable</span> support for people impacted by the war in Ukraine. Our qualified specialists are there to support you."
+  },
+  "ua-therapists-lead-smaller": {
+    "defaultMessage": "Book the visits with a selected specialist yourself or contact our therapy guide:"
+  },
+  "understand your needs": {
+    "defaultMessage": "The goal of our meeting is to understand Your needs and to choose the best Therapist for You"
+  },
+  "unknown error": {
+    "defaultMessage": "Unknown error"
+  },
+  "unroll": {
+    "defaultMessage": "Show more"
+  },
+  "upcoming": {
+    "defaultMessage": "Upcoming"
+  },
+  "upcoming sessions tooltip": {
+    "defaultMessage": "Upcoming sessions, including sessions not paid for yet."
+  },
+  "updated": {
+    "defaultMessage": "Updated"
+  },
+  "updated at": {
+    "defaultMessage": "Updated at"
+  },
+  "updated availability data": {
+    "defaultMessage": "Successfully updated work schedule"
+  },
+  "updated data": {
+    "defaultMessage": "Successfully updated profile data"
+  },
+  "use headphones": {
+    "defaultMessage": "Use headphones"
+  },
+  "user delete are you sure": {
+    "defaultMessage": "Are you sure you want to delete this user?"
+  },
+  "user deleted": {
+    "defaultMessage": "User deleted"
+  },
+  "user is not admin": {
+    "defaultMessage": "User is not admin"
+  },
+  "user is not therapist": {
+    "defaultMessage": "User is not therapist"
+  },
+  "user is not therapy guide": {
+    "defaultMessage": "User is not therapy guide"
+  },
+  "user not found": {
+    "defaultMessage": "User not found"
+  },
+  "users": {
+    "defaultMessage": "Admins"
+  },
+  "verified specialist": {
+    "defaultMessage": "Verified specialists"
+  },
+  "version female en": {
+    "defaultMessage": "Female version (EN)"
+  },
+  "version female pl": {
+    "defaultMessage": "Female version (PL)"
+  },
+  "version female ru": {
+    "defaultMessage": "Female version (RU)"
+  },
+  "version female ua": {
+    "defaultMessage": "Female version (UA)"
+  },
+  "version male en": {
+    "defaultMessage": "Male version (EN)"
+  },
+  "version male pl": {
+    "defaultMessage": "Male version (PL)"
+  },
+  "version male ru": {
+    "defaultMessage": "Male version (RU)"
+  },
+  "version male ua": {
+    "defaultMessage": "Male version (UA)"
+  },
+  "video call requirements": {
+    "defaultMessage": "For video-calls, you need relatively stable and fast internet connection. Good news is, that even 3G is enough."
+  },
+  "view transaction": {
+    "defaultMessage": "View transaction"
+  },
+  "visit count": {
+    "defaultMessage": "Visit count"
+  },
+  "visit day": {
+    "defaultMessage": "Visit day"
+  },
+  "visits": {
+    "defaultMessage": "Visits"
+  },
+  "visits count": {
+    "defaultMessage": "Visits count"
+  },
+  "Wallet": {
+    "defaultMessage": "Wallet"
+  },
+  "warm welcome": {
+    "defaultMessage": "Warm welcome!"
+  },
+  "Wednesday": {
+    "defaultMessage": "Wednesday"
+  },
+  "Wednesdays": {
+    "defaultMessage": "Wednesdays"
+  },
+  "week of first visit": {
+    "defaultMessage": "Week of first visit"
+  },
+  "week of first visit score": {
+    "defaultMessage": "Week of first visit score"
+  },
+  "week-ago-length-message": {
+    "defaultMessage": "week ago"
+  },
+  "weeks-ago-length-message": {
+    "defaultMessage": "weeks ago"
+  },
+  "when not": {
+    "defaultMessage": "When is online therapy not recommended?"
+  },
+  "when not comparison": {
+    "defaultMessage": "Online therapy has a similar effectiveness to \"traditional\" therapy offline. It is proven to be effective in treating problems such as, fobias, mood disorders, interpersonal issues or for people looking for personal growth. There are however situations when online therapy"
+  },
+  "when not list 1": {
+    "defaultMessage": "Repeating suicidal thoughts"
+  },
+  "when not list 2": {
+    "defaultMessage": "Experiencing psychosis"
+  },
+  "when not list 3": {
+    "defaultMessage": "Difficulty in controlling aggression, which could put people life or health at risk"
+  },
+  "when not list 4": {
+    "defaultMessage": "Anorexia diagnosis and/or BMI (Body Mass Index) lower than 18"
+  },
+  "when not list 5": {
+    "defaultMessage": "Psychotherapy of children under the age of 13"
+  },
+  "when not unrolled": {
+    "defaultMessage": "is not recommended. It is advised that you learn about those cases and look for other forms of help such as psychiatric evaluation or therapy centre within the hospital:"
+  },
+  "when to consider": {
+    "defaultMessage": "When it’s worth to consider psychotherapy online"
+  },
+  "when to consider description": {
+    "defaultMessage": "When you need help in terms of mental health and traditional therapy is unavailable due to different reasons. Online therapy was practiced for years and is particularly effective in:"
+  },
+  "woman": {
+    "defaultMessage": "Woman"
+  },
+  "work email": {
+    "defaultMessage": "Email address"
+  },
+  "worker help wherever": {
+    "defaultMessage": "Provide high quality wellbeing and mental health support to your employees - whenever they need it and wherever they are."
+  },
+  "worker psychological help": {
+    "defaultMessage": "<span>Take care</span> of the mental health of your employees"
+  },
+  "workshop": {
+    "defaultMessage": "<h3>Workshops and webinars</h3> How to cope with the pandemic? How to rest effectively? How to build healthy relationships? We will tailor the topics specifically for the needs of your organisation."
+  },
+  "write code": {
+    "defaultMessage": "Enter coupon"
+  },
+  "write email": {
+    "defaultMessage": "Enter your email address"
+  },
+  "write expected money": {
+    "defaultMessage": "Tutaj wpisz tłumaczenie"
+  },
+  "write name and surname": {
+    "defaultMessage": "Enter your name and surname"
+  },
+  "write password": {
+    "defaultMessage": "Enter your password"
+  },
+  "year": {
+    "defaultMessage": "Year"
+  },
+  "yes": {
+    "defaultMessage": "Yes"
+  },
+  "yes, delete": {
+    "defaultMessage": "Yes, delete"
+  },
+  "Yieldbird psychological help": {
+    "defaultMessage": "<span> Mental Health support </span> for Yieldbird employees"
+  },
+  "your nearest meeting": {
+    "defaultMessage": "Your next meeting"
+  },
+  "YqV7hx": {
+    "defaultMessage": "LOG IN"
+  },
+  "Z9EKCT": {
+    "defaultMessage": "We invite all ambitious therapists to collaborate with us. Please get in touch and learn about the details."
+  },
+  "admin-panel.link-and-delete": {
+    "defaultMessage": "Link with other patient and delete"
+  },
+  "admin-panel.patient-create": {
+    "defaultMessage": "Create Patient"
+  },
+  "admin-panel.patient-deleted": {
+    "defaultMessage": "Patient deleted"
+  },
+  "admin-panel.patient-edit": {
+    "defaultMessage": "Edit Patient"
+  },
+  "b2b-landings.book-visit": {
+    "defaultMessage": "Make an appointment"
+  },
+  "b2b-landings.book-visit-wherever": {
+    "defaultMessage": "Schedule your appointment with a psychologist or a psychotherapist from Wellbee, whenever you need it and wherever you are - safely and comfortably"
+  },
+  "b2b-landings.consultation-amount-1": {
+    "defaultMessage": "appointment"
+  },
+  "b2b-landings.consultation-amount-2-4": {
+    "defaultMessage": "appointments"
+  },
+  "b2b-landings.consultation-amount-5-21": {
+    "defaultMessage": "appointments"
+  },
+  "b2b-landings.first-text-custom-ey": {
+    "defaultMessage": "<h2>Five -200 zł discounts per year</h2> You are entitled to schedule 5 visits with -200 zł discount per year - when scheduling your appointment simply use the company code provided by the HR department."
+  },
+  "b2b-landings.first-text-custom-keywordsstudios": {
+    "defaultMessage": "<h2>Three -200 zł discounts per year</h2> You are entitled to schedule 3 visits with -200 zł discount per year - when scheduling your appointment simply use the company code provided by the HR department."
+  },
+  "b2b-landings.first-text-custom-sente": {
+    "defaultMessage": "<h2>One -50% discount per year</h2> You are entitled to schedule 1 visits with -50% discount per year - when scheduling your appointment simply use the company code provided by the HR department."
+  },
+  "b2b-landings.first-text-custom-stx": {
+    "defaultMessage": "<h2>16x -50% discount per year</h2> You are entitled to schedule 16 visits with -50% discount per year - when scheduling your appointment simply use the company code provided by the HR department."
+  },
+  "b2b-landings.how-it-works": {
+    "defaultMessage": "How does it work?"
+  },
+  "b2b-landings.how-it-works-1": {
+    "defaultMessage": "<h3> Anonymous and secure </h3> the entire scheduling process takes place via the Wellbee platform. The visits are fully anonymous. Your employer does not know who and when uses the services. All consultations between you and your specialist are completely confidential."
+  },
+  "b2b-landings.how-it-works-2": {
+    "defaultMessage": "<h3> Quick and easy</h3> you can consult on any device, whenever it suits you and wherever you are. Find a space where you feel comfortable - just make sure you have good access to the Internet."
+  },
+  "b2b-landings.how-it-works-3": {
+    "defaultMessage": "<h3>Personalization</h3> you are able to choose the specialists yourself or use free support of our team of therapy guides who will help you choose the appropriate specialist "
+  },
+  "b2b-landings.limited-options-discount": {
+    "defaultMessage": "<h2>Afterwards {discount} PLN discount on every session</h2>If you use up your free visits and you would like to continue the treatment, we are happy to offer you a {discount} PLN discount for every further visit. If the discount wasn’t applied automatically, use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+  },
+  "b2b-landings.limited-options-free-visits": {
+    "defaultMessage": "<h2>{freeVisits} {consultation} per {period}</h2>You are entitled to schedule {freeVisits} {consultation} per {period} free of charge - when scheduling your appointment simply use the company code provided by the HR department."
+  },
+  "b2b-landings.logo-text-alternative": {
+    "defaultMessage": "To address the current situation and your needs, {company} decided to team up with Wellbee - online mental health platform which offers access to a range of qualified specialists. When should you try a consultation? Whenever you want to take care of your wellbeing, you are looking for mental health support, therapy or simply you wish to understand yourself better and build more satisfying relations with others."
+  },
+  "b2b-landings.logo-text-common": {
+    "defaultMessage": "To address the current situation and your needs, your organization decided to team up with Wellbee - online mental health platform which offers access to a range of qualified specialists. When should you try a consultation? Whenever you want to take care of your wellbeing, you are looking for mental health support, therapy or simply you wish to understand yourself better and build more satisfying relations with others."
+  },
+  "b2b-landings.logo-text-custom-keywordsstudios": {
+    "defaultMessage": "To address the current situation and your needs, your organization decided to team up with Wellbee - online mental health platform which offers access to a range of qualified specialists. When should you try a consultation? Whenever you want to take care of your wellbeing, you are looking for mental health support, or simply you wish to understand yourself better and build more satisfying relations with others."
+  },
+  "b2b-landings.logo-text-custom-savangard": {
+    "defaultMessage": "To address the current situation and your needs, the Savagard company decided to team up with Wellbee - online mental health platform which offers access to a range of qualified specialists. When should you try a consultation? Whenever you want to take care of your wellbeing, you are looking for mental health support, therapy or simply you wish to understand yourself better and build more satisfying relations with others."
+  },
+  "b2b-landings.period-month": {
+    "defaultMessage": "month"
+  },
+  "b2b-landings.period-quarter": {
+    "defaultMessage": "quarter"
+  },
+  "b2b-landings.period-year": {
+    "defaultMessage": "year"
+  },
+  "b2b-landings.psychological-help": {
+    "defaultMessage": "<span>Take care</span> of your wellbeing and mental health"
+  },
+  "b2b-landings.second-text-custom-sente": {
+    "defaultMessage": "<h2>Afterwards 10 PLN discount on every session</h2>If you use up your discount and you would like to continue the treatment, we are happy to offer you a 10 PLN discount for every further visit. If the discount wasn’t applied automatically, use the same company code provided by the HR department. You can find the pricing of each specialist on their profile."
+  },
+  "b2b-landings.therapist-lead-experienced": {
+    "defaultMessage": "Experienced"
+  },
+  "b2b-landings.therapist-lead-experienced-info": {
+    "defaultMessage": "They have broad experience in solving diverse range of problems"
+  },
+  "b2b-landings.therapist-lead-improvement": {
+    "defaultMessage": "They never stop learning"
+  },
+  "b2b-landings.therapist-lead-improvement-info": {
+    "defaultMessage": "All of our specialists have necessary qualificationsa and are constantly improving their skills"
+  },
+  "b2b-landings.therapist-lead-text": {
+    "defaultMessage": "Your employees have access to high quality specialists"
+  },
+  "b2b-landings.therapist-lead-title": {
+    "defaultMessage": "Specialists that you can trust"
+  },
+  "b2b-landings.therapist-lead-verified": {
+    "defaultMessage": "Verified"
+  },
+  "b2b-landings.therapist-lead-verified-info": {
+    "defaultMessage": "Our specialists go through a multi-stage recruitment process"
+  },
+  "b2b-landings.therapy-steps": {
+    "defaultMessage": "Schedule your appointment in a few simple steps"
+  },
+  "b2b-landings.therapy-steps-1": {
+    "defaultMessage": "Choose your specialist and the date of your appointment. You can use any email address you want."
+  },
+  "b2b-landings.therapy-steps-2": {
+    "defaultMessage": "If you are not sure which therapist to choose, call us at: <a>+48 732 489 003</a> or make an appointment with <link> Therapy Guide</link> "
+  },
+  "b2b-landings.therapy-steps-3": {
+    "defaultMessage": "When we ask you for the payment, simply use the company code that you got from the HR department."
+  },
+  "b2b-landings.therapy-steps-4": {
+    "defaultMessage": "You will receive an email with a link to your online appointment through Google Meet."
+  },
+  "b2b-landings.unlimited-options": {
+    "defaultMessage": "<h2>Unlimited appointments</h2>You are entitled to schedule unlimited appointments online free of charge - when scheduling your appointment simply use the company code provided by the HR department."
+  },
+  "b2b-landings.unlimited-text-custom-savangard": {
+    "defaultMessage": "<h2>Unlimited discount</h2>You are entitled to schedule unlimited appointments online with 179 PLN discount - when scheduling your appointment simply use the company code provided by the HR department."
+  },
+  "b2b-landings.unlimited-text-custom-tokai": {
+    "defaultMessage": "<h2>Unlimited discount</h2>You are entitled to schedule unlimited appointments online with 179 PLN discount - when scheduling your appointment simply use the company code provided by the HR department."
+  },
+  "common.close": {
+    "defaultMessage": "Close"
+  },
+  "common.currency": {
+    "defaultMessage": "PLN"
+  },
+  "common.delete": {
+    "defaultMessage": "Delete"
+  },
+  "common.edit": {
+    "defaultMessage": "Edit"
+  },
+  "common.email": {
+    "defaultMessage": "E-mail"
+  },
+  "common.email-address": {
+    "defaultMessage": "E-mail address"
+  },
+  "common.name-and-surname": {
+    "defaultMessage": "Name and Surname"
+  },
+  "common.phone-number": {
+    "defaultMessage": "Phone number"
+  },
+  "common.server-error": {
+    "defaultMessage": "Server error"
+  },
+  "home.availability-timerange": {
+    "defaultMessage": "Weekdays 8:30 - 20:30 Weekends 10-14"
+  },
+  "home.blog": {
+    "defaultMessage": "Blog"
+  },
+  "home.book-online-visit": {
+    "defaultMessage": "Book an online visit"
+  },
+  "home.or-call": {
+    "defaultMessage": "or call us"
+  },
+  "home.privacy-policy": {
+    "defaultMessage": "Privacy policy"
+  },
+  "home.support-email": {
+    "defaultMessage": "kontakt@wellbee.pl"
+  },
+  "home.terms-and-conditions": {
+    "defaultMessage": "T&Cs"
+  },
+  "panel.assigned-therapist": {
+    "defaultMessage": "Assigned Therapist"
+  },
+  "panel.note-to-patient": {
+    "defaultMessage": "Patient note"
+  },
+  "panel.patient-prefers-phone-contact": {
+    "defaultMessage": "Patient prefers phone contact"
+  },
+  "panel.price-for-session": {
+    "defaultMessage": "Session price"
+  },
+  "panel.refresh": {
+    "defaultMessage": "Refresh"
+  },
+  "panel.save-changes": {
+    "defaultMessage": "Save changes"
+  },
+  "panel.therapist-none": {
+    "defaultMessage": "None"
+  },
+  "panel.updated-data": {
+    "defaultMessage": "Successfully updated data"
+  },
+  "patient-panel.email-already-in-use": {
+    "defaultMessage": "This email is already registered"
+  },
+  "patient-panel.invalid-email": {
+    "defaultMessage": "This email is invalid"
+  },
+  "patient-panel.invalid-google-password": {
+    "defaultMessage": "The password is invalid or the user does not have a password."
+  },
+  "patient-panel.user-does-not-exist": {
+    "defaultMessage": "User not found"
+  },
+  "patient-panel.user-is-not-admin": {
+    "defaultMessage": "User is not admin"
+  },
+  "patient-panel.user-is-not-therapist": {
+    "defaultMessage": "User is not therapist"
+  },
+  "patient-panel.user-is-not-therapy-guide": {
+    "defaultMessage": "User is not therapy guide"
+  },
+  "patient-panel.user-not-found": {
+    "defaultMessage": "There's no account registered with that email"
+  },
+  "patient-panel.wrong-password": {
+    "defaultMessage": "Wrong password"
+  },
+  "patient-panel.title-login": {
+    "defaultMessage": "Log in"
+  },
+  "patient-panel.email-empty-email": {
+    "defaultMessage": "Provide your e-mail to reset the password"
+  },
+  "patient-panel.btn-remind-password": {
+    "defaultMessage": "Reset password"
+  },
+  "patient-panel.btn-login": {
+    "defaultMessage": "Log in"
+  },
+  "patient-panel.no-account": {
+    "defaultMessage": "You don't have account?"
+  },
+  "patient-panel.password-reset-sent": {
+    "defaultMessage": "If the account exists, password reset mail has been sent"
+  },
+  "patient-panel.cta-register": {
+    "defaultMessage": "Register"
+  },
+  "patient-panel.title-register": {
+    "defaultMessage": "Register"
+  },
+  "patient-panel.password-validation-min-chars": {
+    "defaultMessage": "9+ characters, minium 1 capital letter and minimum 1 special character"
+  },
+  "patient-panel.password-validation-accepted": {
+    "defaultMessage": "Excellent password!"
+  },
+  "patient-panel.btn-register": {
+    "defaultMessage": "Register"
+  },
+  "patient-panel.already-have-account": {
+    "defaultMessage": "Already have an account?"
+  },
+  "patient-panel.register-accept": {
+    "defaultMessage": "By creating an account, I agree with"
+  },
+  "patient-panel.register-accept-toc": {
+    "defaultMessage": "Terms and Conditions"
+  },
+  "patient-panel.register-accept-label-and": {
+    "defaultMessage": "|"
+  },
+  "patient-panel.register-accept-privacy": {
+    "defaultMessage": "Privacy"
+  },
+  "patient-panel.register-accept-cookie": {
+    "defaultMessage": "Cookie Policy"
+  },
+  "payment.book-free-session": {
+    "defaultMessage": "Reserve free session"
+  },
+  "payment.booking-complete": {
+    "defaultMessage": "Booking completed"
+  },
+  "payment.confirm": {
+    "defaultMessage": "Book"
+  },
+  "payment.congratulation-coupon": {
+    "defaultMessage": "Congratulations! You are rewarded with {couponValue} PLN discount"
+  },
+  "payment.congratulation-session-paid": {
+    "defaultMessage": "Congratulations! Now you may reserve a session for free!"
+  },
+  "payment.contact-us": {
+    "defaultMessage": "Contact us "
+  },
+  "payment.failed": {
+    "defaultMessage": "Payment failed"
+  },
+  "payment.keep-calm": {
+    "defaultMessage": "Keep calm. It happens"
+  },
+  "payment.payu-info": {
+    "defaultMessage": "powers quick, secure and comfortable online payments at wellbee. Please follow the instructions to pay for the session."
+  },
+  "payment.percent-discount-text": {
+    "defaultMessage": "It is easier and you save"
+  },
+  "payment.percent-discount-text-short": {
+    "defaultMessage": "It is easier and you save"
+  },
+  "payment.recommend-benefits": {
+    "defaultMessage": "Thanks to you, the person you recommend Wellbee will receive 40 PLN discount on each of the first visits"
+  },
+  "payment.recommend-benefits-for-you": {
+    "defaultMessage": "We believe that what goes around comes around! That is why when a person to whom you recommended Wellbee finishes their 3 sessions we will also give you: <strong>40pln discount for the next 3 sessions</strong>."
+  },
+  "payment.recommend-wellbee": {
+    "defaultMessage": "If you feel comfortable with it, recommend Wellbee to your friends using your personal code"
+  },
+  "payment.thank-you-for-trust": {
+    "defaultMessage": "Thank you for your trust"
+  },
+  "payment.to-enter-before-paying": {
+    "defaultMessage": "enter just before payment"
+  },
+  "payment.try-pay-again": {
+    "defaultMessage": "Try paying again by clicking again the link in the email"
+  },
+  "payment.use-code": {
+    "defaultMessage": "Use code"
+  },
+  "payment.use-other-payment-method": {
+    "defaultMessage": "Use another payment method"
+  },
+  "payment.what-can-you-do": {
+    "defaultMessage": "What can You do?"
+  }
+}
